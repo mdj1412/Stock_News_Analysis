@@ -1,0 +1,207 @@
+/* ner 관련 */
+
+.ner-box {
+    width: calc(92%); /* 속성의 요소 너비를 지정 */
+    height: 500px; /* 속성의 요소의 높이를 지정 */
+
+
+    /* 
+        [ align-items 태그 ]
+        flex-box 요소의 수직 방향 정렬 방식을 설정
+        ex. flex-start, flex-end, center        
+    */
+    align-items: center;
+
+    /* 
+        [ justify-content 태그 ]
+        flex-box 요소의 수평 방향 정렬 방식을 설정
+        ex. flex-start, flex-end, center        
+    */
+    justify-content: center;
+
+    /*
+        [ text-align 태그 ]
+        텍스트의 정렬 방향을 설정
+
+        left: 왼쪽 정렬
+        right: 오른쪽 정렬
+        center: 중앙 정렬
+        justify: 양쪽 정렬 (자동 줄바꿈시 오른쪽 경계선 부분 정리)
+    */
+    text-align: center;
+
+
+    /*
+        [ margin 태그 ]
+        margin-top (상단 여백)
+        margin-right (오른쪽 여백)
+        margin-bottom (아래 여백)
+        margin-left (왼쪽 여백)
+
+        지정값은 px, cm, %로 지정할 수 있다.
+        음수값도 지정 가능(ex. -10px)
+
+        * 4면 한꺼번에 margin 지정하기
+            ex) margin: 5px 7px 3px 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면이 모두 같을 때 margin 지정하기
+            ex) margin: 5px;
+        * 위, 오른쪽&왼쪽, 아래 margin 지정하기
+            ex) margin: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 margin 지정하기
+            ex) margin: 5px 10px;
+        * margin 자동 지정하기
+            ex) margin: auto 0;
+                (위아래 값이 자동, 좌우가 0px)
+            ex) margin-left: auto;
+
+    */
+    margin: 1rem;
+
+
+    min-height: 1.2rem;
+    border: 0.5px solid grey;
+    padding: 0.5rem 1rem;
+}
+
+
+
+/* NER label_ */
+.entities .entity_person {
+    background-color: #aa9cfc;
+}
+
+.entities .entity_org {
+    background-color: #7aecec;
+}
+
+.entities .entity_fac {
+    background-color: #9cc9cc;
+}
+
+.entities .entity_gpe {
+    background-color: #feca74;
+}
+
+.entities .entity_product {
+    background-color: #bfeeb7;
+}
+
+.entities .none {
+    background-color: transparent;
+}
+
+/* 마우스 올렸을 때, 보이게 하는 것 */
+.entities .show-label {
+    display: none;
+}
+
+.entities .entity_person:hover .show-label,
+.entities .entity_org:hover .show-label,
+.entities .entity_fac:hover .show-label,
+.entities .entity_gpe:hover .show-label,
+.entities .entity_product:hover .show-label {
+    display: block;
+}
+
+
+
+
+
+/* Model 관련 */
+
+/* id : "#" */
+#model {
+    text-align: center;
+}
+
+/* id : "#" */
+#text-input {
+    width: calc(100% / 2); /* 속성의 요소 너비 */
+    height: 78px;
+    word-break: break-all;
+}
+
+
+.text-output {
+    width: calc(100% * (2/3)); /* 속성의 요소 너비 */
+    min-height: 10rem;
+
+
+
+    /*
+        [ margin 태그 ]
+        margin-top (상단 여백)
+        margin-right (오른쪽 여백)
+        margin-bottom (아래 여백)
+        margin-left (왼쪽 여백)
+
+        지정값은 px, cm, %로 지정할 수 있다.
+        음수값도 지정 가능(ex. -10px)
+
+        * 4면 한꺼번에 margin 지정하기
+            ex) margin: 5px 7px 3px 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면이 모두 같을 때 margin 지정하기
+            ex) margin: 5px;
+        * 위, 오른쪽&왼쪽, 아래 margin 지정하기
+            ex) margin: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 margin 지정하기
+            ex) margin: 5px 10px;
+        * margin 자동 지정하기
+            ex) margin: auto 0;
+                (위아래 값이 자동, 좌우가 0px)
+            ex) margin-left: auto;
+
+    */
+    margin: 20px auto;
+
+    /* 
+        [ border 태그 ]
+        해당 태그의 테두리를 설정
+        width - style - color
+        border-width - border-style - border-color
+
+        border-width : 테두리의 두께로, 주로 px 단위를 사용
+        border-style : 테두리의 스타일로 실선, 점선, 이중선 등의 옵션이 존재
+        border-color : 테두리의 색상으로, 값은 color 속성의 포맷을 사용
+    */
+    border: 0.5px solid grey;
+
+    /*
+        [ padding 태그 ]
+        지정값은 px, cm, %로 지정할 수 있다.
+        margin은 음수값이 지정 가능하지만 padding은 음수값 지정이 안된다.
+        
+        padding 태그와 비슷한 태그
+        : padding-top, padding-right, padding-bottom, padding-left
+
+        * 4면 한꺼번에 padding 지정하기
+            ex) padding: 5px, 7px, 3px, 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면 모두 같을 때 padding 지정하기
+            ex) padding: 5px;
+        * 위, 오른쪽&왼쪽, 아래 padding 지정하기
+            ex) padding: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 padding 지정하기
+            ex) padding: 5px, 10px;
+
+    */
+    padding: 0.5rem 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1, h2 태그 부분 */
+.gohome, .goticker {
+    text-decoration: none;
+}

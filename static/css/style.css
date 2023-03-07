@@ -1,0 +1,287 @@
+/*
+    [ CSS 기본 문법 ]
+    AND 연산자 : 선택자 사이에 공백이 제거되는 경우 여러 선택자를 동시에 만족하는 태그의 스타일을 적용
+    OR 연산자 : 두 선택자 중 하나라도 만족시 적용되는 조건 (쉼표를 통해 두 선택자 중 하나라도 만족시 적용)
+
+
+    ".a .b .c" : a클래스 내부의 b클래스 내부의 c클래스 요소에만 스타일 적용
+    ".a.b.c" : 클래스 속성 내에 a, b, c 모두 설정된 모든 요소들을 선택
+    ".a, .b, .c" : 일치하는 모든 요스들을 선택
+*/
+
+
+.sec_cal {
+    width: 360px; /* 속성의 요소 너비 */
+    margin: 0 auto;
+    font-family: "NotoSansR";
+}
+
+/* ".a .b .c" : a클래스 내부의 b클래스 내부의 c클래스 요소에만 스타일 적용 */
+.sec_cal .cal_nav {
+    display: flex;
+    justify-content: center; /* 가로 축을 기준으로 좌우에 대한 정렬 */
+    align-items: center; /* 세로 축을 기준으로 정렬 위아래에 대한 정렬 */
+    font-weight: 700; /* 폰트(font)의 가중치(weight)나 굵기(boldness)를 명시 */
+    font-size: 48px; /* 폰트(font)의 크기를 지정 */
+    line-height: 78px; /* Sets the height of a line box (줄간격) */
+}
+
+.sec_cal .cal_nav .year-month {
+    width: 300px; /* 속성의 요소 너비 */
+    text-align: center;
+    line-height: 1;
+}
+
+.sec_cal .cal_nav .nav {
+    display: flex;
+    border: 1px solid #333333;
+    border-radius: 5px;
+}
+
+.sec_cal .cal_nav .go-prev,
+.sec_cal .cal_nav .go-next {
+    display: block;
+    width: 50px; /* 속성의 요소 너비 */
+    height: 78px;
+    font-size: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec_cal .cal_nav .go-prev::before,
+.sec_cal .cal_nav .go-next::before {
+    content: "";
+    display: block;
+    width: 20px; /* 속성의 요소 너비 */
+    height: 20px;
+    border: 3px solid #000;
+    border-width: 3px 3px 0 0;
+    transition: border 0.1s;
+}
+
+.sec_cal .cal_nav .go-prev:hover::before,
+.sec_cal .cal_nav .go-next:hover::before {
+    border-color: #ed2a61;
+}
+
+.sec_cal .cal_nav .go-prev::before {
+    transform: rotate(-135deg);
+}
+
+.sec_cal .cal_nav .go-next::before {
+    transform: rotate(45deg);
+}
+
+.sec_cal .cal_wrap {
+    padding-top: 40px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.sec_cal .cal_wrap .days {
+    display: flex;
+    margin-bottom: 20px; /* 요소 하단의 margin 하단의 영역을 설정 (여유 공간 설정) */
+    padding-bottom: 20px; /* 요소의 바닥에서 패딩 영역의 높이를 설정 */
+    border-bottom: 1px solid #ddd;
+}
+
+.sec_cal .cal_wrap::after {
+    top: 368px;
+}
+
+.sec_cal .cal_wrap .day {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(100% / 7); /* 속성의 요소 너비 */
+    text-align: left;
+    color: #999;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+/* <div class="day current today">1</div> */
+.current.today {
+    /* background: rgb(3, 179, 65); */
+    background: rgb(242 242 242);
+}
+
+.sec_cal .cal_wrap .dates {
+    display: flex;
+    flex-flow: wrap;
+    height: 290px;
+}
+
+/* Pseduo-Classes ( 그 중에서 Structural pseudo-classes ) */
+.sec_cal .cal_wrap .day:nth-child(7n -1) {
+    color: #3c6ffa;
+}
+
+/* Pseduo-Classes ( 그 중에서 Structural pseudo-classes ) */
+.sec_cal .cal_wrap .day:nth-child(7n) {
+    color: #ed2a61;
+}
+
+.sec_cal .cal_wrap .day.disable {
+    color: #ddd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Model 관련 */
+
+/* id : "#" */
+#model {
+    text-align: center;
+}
+
+/* id : "#" */
+#text-input {
+    width: calc(100% / 2); /* 속성의 요소 너비 */
+    height: 78px;
+    word-break: break-all;
+}
+
+.text-output {
+    width: calc(100% / 2); /* 속성의 요소 너비 */
+    min-height: 1.2rem;
+    margin: 1rem;
+    border: 0.5px solid grey;
+    padding: 0.5rem 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Stocks 관련 */
+
+
+/* .sec_cal { */
+.stocks_wrap {
+    width: 580px; /* 속성의 요소 너비 */
+    margin: 0 auto;
+    font-family: "NotoSansR";
+}
+
+
+/* .sec_cal .cal_wrap { */
+.stocks_wrap {
+    padding-top: 40px;
+    position: relative;
+    margin: 0 auto;
+}
+
+
+/* .sec_cal .cal_wrap .days { */
+.stocks_wrap .stocks_columns {
+    display: flex;
+    margin-bottom: 20px; /* 요소 하단의 margin 하단의 영역을 설정 */
+    padding-bottom: 20px; /* 요소의 바닥에서 패딩 영역의 높이를 설정 */
+    border-bottom: 1px solid #ddd;
+}
+
+
+/* .sec_cal .cal_wrap .day { */
+.stocks_wrap .stocks_columns .column,
+.stocks_wrap .stocks .stock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    text-align: left;
+    color: #999;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 5px; /* rounds the corners of an element's outer border edge. */
+}
+
+
+
+
+.stocks_wrap .stocks_columns .column {
+    font-size: 17px;
+    /* width: 70px; */
+}
+.stocks_wrap .stocks .stock {
+    font-size: 13px;
+    /* width: 35px; */
+}
+
+
+.name {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.sector, .industry{
+    margin-right: 18px;
+    margin-left: 48px;
+}
+.dff, .open, .close {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.stocks_wrap .stocks .ticker {
+    color: #04b70d;
+    text-decoration: underline;
+}
+.stocks_wrap .stocks .up {
+    color: #ed2a61;
+}
+.stocks_wrap .stocks .down {
+    color: #3c6ffa;
+}
+
+
+
+/* .sec_cal .cal_wrap .dates { */
+.stocks_wrap .stocks {
+    display: flex;
+    flex-flow: wrap;
+    height: 5000px; /* 높이 간격 */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1 태그 부분 */
+.gohome {
+    text-decoration: none;
+}

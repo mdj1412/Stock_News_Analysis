@@ -1,0 +1,132 @@
+/* id : "#" */
+.myChart-container {
+    /* 속성의 요소 너비를 지정 */
+    width: 60vw;
+
+    /* 속성의 요소의 높이를 지정 */
+    height: 30vh;
+
+    /*
+        [ margin 태그 ]
+        margin-top (상단 여백)
+        margin-right (오른쪽 여백)
+        margin-bottom (아래 여백)
+        margin-left (왼쪽 여백)
+
+        지정값은 px, cm, %로 지정할 수 있다.
+        음수값도 지정 가능(ex. -10px)
+
+        * 4면 한꺼번에 margin 지정하기
+            ex) margin: 5px 7px 3px 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면이 모두 같을 때 margin 지정하기
+            ex) margin: 5px;
+        * 위, 오른쪽&왼쪽, 아래 margin 지정하기
+            ex) margin: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 margin 지정하기
+            ex) margin: 5px 10px;
+        * margin 자동 지정하기
+            ex) margin: auto 0;
+                (위아래 값이 자동, 좌우가 0px)
+            ex) margin-left: auto;
+
+    */
+    margin: 40px auto;
+    padding-bottom: 13%;
+}
+
+
+.table {
+    /* 
+        [ align-items 태그 ]
+        flex-box 요소의 수직 방향 정렬 방식을 설정
+        ex. flex-start, flex-end, center        
+    */
+    align-items: center;
+
+    /* 
+        [ justify-content 태그 ]
+        flex-box 요소의 수평 방향 정렬 방식을 설정
+        ex. flex-start, flex-end, center        
+    */
+    justify-content: center;
+
+
+    /*
+        [ margin 태그 ]
+        margin-top (상단 여백)
+        margin-right (오른쪽 여백)
+        margin-bottom (아래 여백)
+        margin-left (왼쪽 여백)
+
+        지정값은 px, cm, %로 지정할 수 있다.
+        음수값도 지정 가능(ex. -10px)
+
+        * 4면 한꺼번에 margin 지정하기
+            ex) margin: 5px 7px 3px 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면이 모두 같을 때 margin 지정하기
+            ex) margin: 5px;
+        * 위, 오른쪽&왼쪽, 아래 margin 지정하기
+            ex) margin: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 margin 지정하기
+            ex) margin: 5px 10px;
+        * margin 자동 지정하기
+            ex) margin: auto 0;
+                (위아래 값이 자동, 좌우가 0px)
+            ex) margin-left: auto;
+
+    */
+    margin: 20px auto;
+
+
+    /*
+        [ text-align 태그 ]
+        텍스트의 정렬 방향을 설정
+
+        left: 왼쪽 정렬
+        right: 오른쪽 정렬
+        center: 중앙 정렬
+        justify: 양쪽 정렬 (자동 줄바꿈시 오른쪽 경계선 부분 정리)
+    */
+    text-align: center;
+
+
+    padding-top: 50px;
+}
+
+
+.table .title-width {
+    width: 10px;
+    text-align: center;
+}
+
+
+.table .table-title {
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1, h2 태그 부분 */
+.gohome, .goticker {
+    text-decoration: none;
+}
+
+
+
+.table .news-table .news.diff.up {
+    color: #ed2a61;
+}
+.table .news-table .news.diff.down {
+    color: #3c6ffa;
+}
