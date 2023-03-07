@@ -1,0 +1,39 @@
+
+According to Refinitiv, analysts expect Q4 earnings from S&P 500 companies to fall 2.4% from the year-ago quarter.
+At the open, the Dow Jones was up 0.2%, the S&P 500 gained 0.3%, and the Nasdaq 100 rose 0.7%.
+
+Equity markets are on a bullish streak since the start of the year. The Nasdaq added a seventh consecutive session of gains. The U.S. technology index is a good gauge of investors' risk appetite.
+That said, the streak almost came to an end yesterday, as the Nasdaq only gained 0.1% at the close. There was also a big gap with the Dow Jones, which fell 1.14%. The old index was hampered by Goldman Sachs, which fell 6.4% after very disappointing results. The U.S. bank is the second most influential stock of the Dow Jones, since it weighed more than 7% before yesterday's session. This is because the historical index of Wall Street is calculated from the price of shares and not their real capitalization. This is why Goldman Sachs, with its price of 350 dollars, has more influence on the index than Apple, which only quotes 136 dollars, even though the capitalization of the Cupertino-based group is 15 times higher. Modern indices take into account the floating capitalization of companies.
+Now, question! Is the confidence boost of early 2023, fueled by the prospect of monetary policy normalization, a soft economic landing and a rebound in China, deeply rooted? This is what we will try to determine by dissecting Bank of America's monthly survey of a host of asset managers. The panel is representative (286 professionals managing $772 billion) and the timing is appropriate (the answers were given between January 6 and 12, which is as close as possible to the renewed optimism). The survey shows that investors are "still bearish, but much less so than in the fourth quarter", thanks to the dual factor of China and the Fed, but that they are still going in with a pinch of salt. There is a rotation towards emerging markets, the European Union and cyclical stocks, which is a pretty good description of what happened in the first half of January.
+What is surprising, but which I mentioned earlier this week, is that managers are much more optimistic than economists about the months ahead. Their optimism for global growth is at its highest in a year, while fears of recession are at their lowest in 6 months. The adjustment variable, apparently, is China's return to the economic arena. We will see in the coming months who will be right. The main risks cited are "inflation remains high" at 35%, ahead of "a deep recession" (20%) and "central banks remain punitive" (18%). Other risks cited to a lesser extent are a geopolitical deterioration, a systemic credit event and the return of the coronavirus. As for the most bottled bets, being long the US dollar comes out on top but down from December. "Being long ESG assets" comes next, ahead of "being long Chinese stocks". Nothing very original, but no big surprises there.
+One thing that is definitely weirder in this survey: in the prediction game for the end of 2023, investors see the 10-year US government bond yield at 3.6%, the S&P500 at 3900 and bitcoin at USD 15,500. Currently, we are at 3.48%, 3991 points and 21,200 USD respectively. I won't go into the 10-year rate, which looks pretty consistent, or the level of bitcoin, which is total mysticism, but I find it surprising that with a pretty bullish economic view, managers see the S&P500 lower than it is now. The answer is probably that investors are looking for performance elsewhere than in the US. And probably also that they are still a bit confused about their strategies.
+Let's get back to today's session, with many corporate results, including Charles Schwabb, Prologis and PNC Financial. We also have speeches from Fed members during the day, in particular Raphael Bostic and Lorie Logan. Perhaps an opportunity for investors to refine their predictions on the central bank's intentions.
+ 
+Economic highlights of the day:
+In Europe, December inflation for the UK and the euro zone. In the US, a busy schedule with retail sales, industrial production, NAHB house price index and business inventories. All the agenda is here. Overnight, Japan reported sharply falling machinery orders in December, while the Bank of Japan left its monetary policy unchanged.
+The dollar is down 0.5% to EUR 0.9218 and GBP 0.8069. The ounce of gold is up to USD 1917. Oil advanced, with North Sea Brent crude at USD 87.55 a barrel and U.S. light crude WTI at USD 82.05. The yield on 10-year US debt is down to 3.48%. Bitcoin is holding steady around USD 21,100.
+ 
+In corporate news:
+* United Airlines Holdings is up 3 percent in premarket trading after the airline said Tuesday it expects at least a fourfold increase in profit this year after quarterly earnings beat Wall Street expectations.
+* Moderna climbed 6.7% in premarket trading after positive results from a clinical trial for its experimental messenger RNA vaccine against respiratory syncytial virus (RSV).
+* Apple postponed indefinitely the expected launch of its connected glasses due to technical difficulties but still plans to launch a virtual and augmented reality headset this year, Bloomberg reported Tuesday.
+* Uber - VTC platforms and representatives of independent VTC drivers in France have signed an agreement on minimum net income per ride set at 7.65 euros, Uber and labor organizations announced Wednesday.
+* Coinbase Global - The crypto asset exchange platform announced Wednesday a suspension of its operations in Japan due to financial market volatility.
+ 
+Analyst recommendations:
+
+Adobe: D.A. Davidson & Co initiated coverage with a recommendation of neutral. PT set to $350.
+AstraZeneca: Berenberg remains Buy with a price target raised from GBp 118 to GBp 126.
+Magellan Midstream: Barclays upgrades to overweight from equal-weight. PT up 12% to $59.
+Monarch Casino: Macquarie downgrades to neutral from outperform. PT up 2.2% to $81.
+Morgan Stanley: Citi downgrades to neutral from buy. PT up 3% to $100.
+Oracle:  D.A. Davidson & Co initiated coverage with a recommendation of neutral. PT set to $85.
+Salesforce: D.A. Davidson & Co initiated coverage with a recommendation of neutral. PT set to $150.
+Snowflake: Scotiabank initiated coverage with a recommendation of sector perform. PT set to $125.
+Unilever: Jefferies remains Buy with a price target raised from GBp 4500 to GBp 4850.
+Vertex Pharmaceuticals: Canaccord Genuity reinstated coverage with a recommendation of hold. PT set to $311, a 0.3% decrease from last price.
+Whitbread: Oddo BHF upgrades from Outperform to Neutral with a target of GBp 3500.
+Williams Co: Barclays downgrades to equal-weight from overweight. PT up 13% to $37.
+Willis Towers: Keefe, Bruyette & Woods upgrades to outperform from market perform. PT jumps 20% to $303.
+UGI: Barclays cut its recommendation to underweight from equal-weight. PT down 3.7% to $39.
+

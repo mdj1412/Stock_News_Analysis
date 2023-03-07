@@ -1,0 +1,29 @@
+
+Today, Adobe (Nasdaq:ADBE) announced a collaboration with Qualcomm Incorporated (Nasdaq:QCOM) to help fuel its digital strategy and that of its affiliated companies.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230222006091/en/Qualcomm (Photo: Business Wire)
+Qualcomm will adopt Adobe Experience Cloud including Adobe Experience Platform (AEP) to deepen customer relationships and accelerate growth through highly personalized business-to-business (B2B) marketing. Adobe Commerce will enable Qualcomm to reimagine the customer experience for its developer community, allowing individuals to complete commerce transactions directly with the company. This collaboration will enable Qualcomm to reach new audiences, supporting its growth across segments including mobile, automotive and the internet of things (IoT), while solidifying its position as the world's leading wireless technology innovator.
+
+Combined with Adobe Experience Platform, Qualcomm will leverage a suite of applications including Adobe Real-Time Customer Data Platform, Adobe Journey Optimizer and Customer Journey Analytics. Together, these enterprise applications empower Qualcomm to connect data across all channels – from CRM and lead generation to website visits and emails – with governance and security. Teams can orchestrate content experiences across buyer journeys that may begin on a website and end at a trade show, while developing a feedback loop where insights are broadly shared across the organization.
+
+The new applications also amplify Qualcomm’s existing investments in Adobe Creative Cloud and Adobe Document Cloud, which teams leverage for digital content creation. AEP uses data to ensure content and new services are delivered to the right audiences, at the right times. Qualcomm is also expanding its use of Marketo Engage to support these efforts, with new measurement capabilities that provide deeper B2B insights on sales and marketing performance. This provides an additional layer of data to inform broad personalization campaigns.
+
+“Whether a customer is buying a connected device or the cutting-edge chips inside, everyone now expects to have a brand experience that is captivating, connected and relevant,” said Don McGuire, senior vice president and chief marketing officer of Qualcomm Technologies, Inc. “Adobe Experience Platform empowers us to reimagine the way we engage customers when they embrace our transformative technologies by integrating real-time personalization into our omnichannel approach.”
+
+“By adopting Adobe’s enterprise applications, Qualcomm has an end-to-end solution that will enhance omnichannel experiences for business customers and improve marketing performance,” said Anil Chakravarthy, president, digital experience business of Adobe. “The partnership will help Qualcomm take its own digital transformation to the next level and deliver new ways to showcase the transformative technologies it is delivering to the world.”
+
+As B2B customers embrace new channels to engage their technology partners, the industry is also moving towards a self-service model for certain use cases. Adobe Commerce, which leverages AI and advanced data sharing capabilities for end-to-end personalization, will enable Qualcomm to create custom content personalized for specific customer segments, including mobile, auto and IoT developers. Teams can quickly update pages and manage multiple businesses from a single platform.
+
+Building brand engagement among developers, a key focus for Qualcomm businesses, was another driver for this expanded collaboration. AEP enables teams to quickly verify drone developers who visit the company’s website, offer access to relevant IoT development kits, and use automated, self-servicing workflows to uncover insights. AEP also supports seamless transactions, which are critical for customers looking to make online purchases, such as automotive manufacturers looking to buy advanced driver assistance system (ADAS) solutions. Customers expect effortless digital journeys, which means best-in-case e-commerce capabilities must be in place to drive new sales.
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+About Qualcomm
+
+Qualcomm is enabling a world where everyone and everything can be intelligently connected. Our one technology roadmap allows us to efficiently scale the technologies that launched the mobile revolution – including advanced connectivity, high-performance, low-power compute, on-device intelligence and more – to the next generation of connected smart devices across industries. Innovations from Qualcomm and our family of Snapdragon platforms will help enable cloud-edge convergence, transform industries, accelerate the digital economy and revolutionize how we experience the world, for the greater good.
+
+Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio. Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of our engineering, research and development functions, and substantially all of our products and services businesses, including our QCT semiconductor business. Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries. Qualcomm patented technologies are licensed by Qualcomm Incorporated.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230222006091/en/

@@ -1,0 +1,20 @@
+
+
+Game-Changing Performance, Package and Price, Developed in Partnership with Microsoft
+LAS VEGAS, Jan. 4, 2023 /PRNewswire/ -- Orbbec, a leading global 3D camera manufacturer, today announced the launch of its latest product, the Femto Mega, at CES 2023. Built in partnership with Microsoft, it is the first product of a new platform aimed at enabling easy access to 3D technology. It's the industry's highest resolution 3D camera with real-time streaming of processed images over ethernet or USB connections that makes it ideal for use in logistics, robotics, manufacturing, retail, healthcare and fitness solutions.
+The depth camera uses Microsoft's industry proven ToF technology for precise scene understanding over a wide 120 degrees field of view and a broad range from 0.25m to 5.5m. The 1 mega-pixel depth camera is complemented by a high performance 4K resolution RGB camera with 90° FOV.
+A built-in Nvidia Jetson Nano is used to run advanced depth vision algorithms to convert raw data to precise depth images. This eliminates the need for an external PC or compute device.
+The camera can be directly connected to servers or the cloud using the Power over Ethernet (PoE) connection for both data and power. The device also has USB-C 3.2 and DC power supply connectors. A 6DOF IMU module provides orientation. The universal trigger control system provides accurate frame synchronization and uses standard ethernet cables for multi-camera and multi-sensor networks. The SDK enables easy setup and registration, and a rich set of APIs allows integration with various applications.
+"Orbbec's Femto Mega extends the use of Microsoft's depth technology, used in Hololens and Azure Kinect DevKit, to a broad range of industrial applications," said Jon Yee, Depth PM Director, Microsoft. "This camera is a result of a close collaboration between our teams and will be an essential tool helping AI developers to add depth perception to computer vision."
+"Our large-scale cargo digitization solution is built using Microsoft's Azure Kinect and Azure and is commercially deployed in Singapore. It is also in commercial trials for flight capacity optimization and digital handling at multiple international airports," said Dr. Suraj Nair, CTO, Speedcargo Technologies, Singapore. "Orbbec's Femto Mega enables us to maintain compatibility with our current system while reducing the size, cost and complexity of our solution. This will enable ease of scaling our operations to new locations."
+"Orbbec has been Mintt's 3D vision partner for its fall detection and prevention solution," said Eric Krzeslo, CEO, Mintt. "With its new advanced sensors such as the Femto Mega's integrated approach Orbbec is helping us accelerate and improve our product roadmap."
+"Femto Mega is aimed at expanding the use of 3D vision in various industry solutions," said Amit Banerjee, Head of Platform and Partnerships at Orbbec. "We're excited to introduce this new category-leading intelligent camera as part of Orbbec's new depth vision platform."
+The Orbbec team will be demonstrating Femto Mega and other 3D camera products and integrated partner solutions at CES 2023. Look for the Orbbec exhibit at North Hall, Booth 10838 in the Las Vegas Convention Center. To learn more about Orbbec, check out www.orbbec3d.com. 
+About Orbbec Orbbec is on a mission to popularize 3D vision technology for the 3D world, create a full-stack platform for industry solution developers and build smart products with industry-leading performance and price. www.Orbbec3D.com
+About Microsoft Microsoft (Nasdaq "MSFT" @microsoft) enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.
+MEDIA CONTACT:Carly LangNext PR630 363 1509
+clang@nextpr.com
+ View original content:https://www.prnewswire.com/news-releases/orbbec-debuts-femto-mega-at-ces-2023-the-industrys-highest-resolution-3d-vision-camera-with-integrated-depth-and-ai-processing-301710209.html
+SOURCE  Orbbec
+
+

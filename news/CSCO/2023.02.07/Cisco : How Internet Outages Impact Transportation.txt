@@ -1,0 +1,115 @@
+
+
+
+This blog was co-authored by Oleg Karaman, Sales Business Development Manager, ThousandEyes and Adam Sickmann, Technical Solutions Architect, ThousandEyes.
+
+
+There are certain industries that, due to their critical nature, cannot afford system downtime. The transportation industry, which includes airlines and public transit, is one example. So what happens if systems go offline? Over the past few months, we have seen highly publicized examplesin which system failures have frustrated passengers and tarnished reputations. And under the right conditions, a similar scenario could unfold in any organization that has blind spots within its digital supply chain.  
+
+
+Transporting people and goods over long distances requires constant supervision because of occupational health and safety regulations and other legislative requirements. As such, many companies in the transportation industry have invested in technologies such as sensors and readers to bring more manageability to their processes. 
+
+
+On top of that, technology is changing the way we travel. Driverless cars, autonomous railroads, and connected roadwaysare just a few examples of how the transportation industry is adopting IoT (Internet of Things) at an astonishing rate. However, with each advancement and investment comes increased reliance on the Internet, which those familiar with its inner workings can affirm introduces another level of unpredictability that needs proactive management. 
+
+
+Reliable Transportation Experiences 
+
+
+The transportation industry is one of the most connected sectors in the world. From trains to planes, automobiles to ships, connectivity helps companies and organizations in this sector compete with better products, planning, and logistics.
+
+
+Transportation companies have learned that an investment in leading indicators is an investment that pays off. For example, a rail operator using IoT to monitor its engines can better plan maintenance schedules and reduce costs.  They can also use leading indicators to predict when things are going to fail before they happen, such as a brake issue.
+
+
+In the aviation sector, airlines have moved from old-school paper tickets to mobile boarding passes and digital check-ins. This digital transformation allows airlines to manage passenger traffic more efficiently and allows for more seamless planning of flights.
+
+
+As a result of increased connectivity, companies in this sector can better anticipate problems before they happen. They can also respond more quickly when unexpected events arise, like an accident or mechanical failure. Moreover, with IoT technology, transportation companies can improve the overall passenger experience by delivering reliable service and accurate information about their operations.
+
+
+Shocks, Stressors, and Moving Assets
+
+
+The performance of transportation endpoints (i.e., trains, automobiles, and ships) is difficult to monitor because they are moving assets. Transportation companies often have limited visibility into their vehicles while in motion. For example, an operator may have a fleet of trucks traveling to different locations where drivers cannot check in with the central office because they are out of range or otherwise unavailable. This intermittent lack of connectivity makes it difficult for transportation companies to track their assets and determine if there is an issue with one or more vehicles to take preventative action.
+
+
+The transportation sector is also susceptible to shocks and stressors (i.e., extreme weather, protests, and pandemic) that make resiliency fundamental to managing risk in operations. On top of that, the unpredictability of the Internet also adds noise to the data these companies collect, making the accurate provision of information about asset location and status challenging during times of high network latency or packet loss.
+
+
+Latency and performance degradation can also be pivotal when it comes to moving targets. When a train is moving at high speed, operators rely on sensors deployed throughout the railway to ensure passenger safety, and any latency in those communications may interfere with that objective.
+
+
+Steep Cost of Transportation Downtime 
+
+
+Downtime in certain areas of the transportation sector can be expensive, resulting in steep regulatory fees and labor costs. Unscheduled downtime can also result in loss of business and reputational risk.
+
+
+Southwest Airlines estimatesits December 2022 incident will cost up to $825 million in lost revenue and other expenses.
+
+
+But it's not just downtime to internal systems that can be costly. When Google Maps went down on August 9, 2022, it took out several apps that rely on its API (Application Programming Interfaces) to deliver directions. For example, apps like Uber and Lyft rely on Google Maps data to provide real-time information about traffic conditions and other factors impacting drivers' ability to pick up riders. With these apps affected by the outage, their drivers could not pick up customers. 
+
+
+Predictive Maintenance 
+
+
+Businesses that rely on a connected communications system can be vulnerable when their connectivity worsens. But with transportation, it is not just about being unable to access websites or apps. When there are outages, transportation companies must work through their supply chain systems using other means-such as paper-based processes or phone calls-which can be very time-consuming and inefficient.
+
+
+Hence why so many companies in the sector see a competitive advantage in connectivity for ensuring smooth operations and helping customers solve problems in real time. Some have adopted the gathering and analysis of timely telemetry to alert issues ahead of time, so the company can fix them before they become more costly problems. But for these predictive maintenance systems to work and be reliable, you need end-to-end visibility of the networks relaying that information.
+
+
+Reliability means ensuring you have access to real-time data from sensors in vehicles and readers on tracks and roads, so you can monitor performance and act if problems arise. Cisco has worked with 32,000 transportation customers across 169 countries to help them achieve that goal-building a reputation for trust worldwide.
+
+
+And with ThousandEyes, we can help ensure that your company's network is available and fast enough to support a connection to a moving asset. ThousandEyes can help transportation companies understand the performance of their fleet and the Internet-based critical apps that keep them operational. With our globally distributed fleet of software agents, we provide visibility into potential impacts through insights that show how much downtime you are experiencing and what is causing it. With this data, transportation companies can make better decisions about where to invest in upgrades like sensors, readers, software, and other IoT that will improve reliability and profitability while reducing excess capacity.
+
+
+ThousandEyes can also help transportation companies reduce or eliminate downtime instances with telemetry that supports predictive maintenance. We can help you stay connected to your moving assets so they can better alert you when a component in the vehicle is starting to fail and needs maintenance. This capability helps improve uptime while reducing expenses stemming from unplanned repair work and hauling costs.
+
+
+Need for Speedy Resolution
+
+
+In November 2022, Cisco powered the Indy Autonomous Challenge at Texas Motor Speedway. At this head-to-head racecar competition, ThousandEyes conducted tests where we monitored a car traveling 100+ miles per hour around a track from a central base station computer.
+
+
+During the event, one vehicle was having an issue communicating its data, and it was uncertain whether the problem stemmed from a faulty sensor or the network. The issue only occurred at certain parts of the track, so it was assumed that it was simply a network connectivity issue. But because of the ThousandEyes tests, we discovered that the problem did not lie with the network but rather with the GPS.
+
+
+In the real world, an issue like the one seen at the raceway would not be observable to customers without end-to-end visibility. As such, this capability to monitor the connectivity and latency of moving assets could help automakers test autonomous vehicles or improve the comfort and functionality of their existing vehicle lines. Moreover, ensuring lossless and quick network conditions assures that the data the moving asset sends does not get backed up, which could create a chain reaction that delays the following data. 
+
+
+Improved Passenger Experiences 
+
+
+The Internet is a critical component of transportation and logistics. With the vast amount of data available, it is easy to see how the Internet can help companies in the transportation sector do better capacity planning for their fleets, pick the best apps for planning and logistics, and solve problems proactively with support from alerts and fault codes. Most importantly, though, continuously connected systems can vastly improve passenger experience and safety, which is what matters in the end.
+
+
+Help ensure the resiliency of your operations with real-time telemetry from Cisco ThousandEyes. Contact ustoday to learn more. Or visit Cisco's portfolio for transportationto discover even more solutions to help your company optimize its fleet and maintain uninterrupted uptime.
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 07 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 07 February 2023 14:48:06 UTC.
+      
+

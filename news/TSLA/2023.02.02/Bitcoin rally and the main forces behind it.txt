@@ -1,0 +1,21 @@
+
+The question that many traders are asking themselves now is whether this growth can be sustained, and understanding the investor group behind the rally can be instrumental in answering it. 
+Institutional investors
+Bitcoin started off as a people’s asset, promising anyone an independent, borderless, decentralized and tamper-proof money. Fourteen years after its creation, this promise still stands, and it’s no wonder institutional investors are getting increasingly interested in this new class of asset. 
+Unsurprisingly, it is the world’s biggest financial center that leads the trend: a recent study by Matrixport, a crypto investment company, showed that 35% of Bitcoin’s 40% price rise in January occurred during the US trading hours, indicating that US institutional investors are now the most active Bitcoin buyers. 
+In January, Fidelity, BNY Mellon, Wells Fargo, JPMorgan and other traditional financial companies that already propose crypto-related services, were joined by world’s biggest asset manager BlackRock. The investment giant announced it would add cash-settled Bitcoin futures traded on commodity exchanges (mostly CME) to its Global Allocation Fund, signalling to the whole financial market its commitment to cryptocurrency.
+Last week’s Goldman Sachs report ranked Bitcoin as the best-performing asset of 2023, both in absolute and risk-adjusted terms, outweighing MSCI emerging markets index and high yield credit.
+Beyond professional investors, many private and public companies are investing in Bitcoin too. Far from being the biggest, but surely one of the most famous one is Tesla, and the market follows its Bitcoin operations closely. According to its yearly filing with the SEC, the company offloaded 75% of its $BTC investment in the second quarter of 2022 (with $64 million profit), but did not sell any more in the depths of the bear market that followed, registering impairment charges of $204 million. 
+High net worth individuals
+On Monday, DeVere Group, a global financial advisory and asset management firm with $12 billion of AUM, released the results of its recent poll dedicated to cryptocurrencies. According to it, 82% of high net worth individuals (clients with between £1m and £5m of investable assets) have sought advice on crypto in 2022. 
+“Interestingly, this typically more conservative group were not deterred by the bear market and adverse market conditions. Instead, they were looking to either start including or increasing their exposure to crypto”, noted deVere Group’s CEO Nigel Green.
+High net worth individuals and their increasing interest in Bitcoin can be one of the forces that sustains the new phase of crypto market growth.
+How are the miners doing?
+Bitcoin miners are an important group that always influences the markets – for they are the only producers of new bitcoin and its natural sellers.
+The second half of 2022 was not easy for the miners. While $BTC was hitting its lows, network difficulty was at its highest, as noone wanted to abandon. Business realities, however, kicked in, and some miners started to turn off the machines, marking the event known as miner capitulation (also sign of Bitcoin’s 4-year cycle’s bottom) by December 2022.
+The miners who clung to their activity (like Greenidge, who narrowly avoided bankruptcy in the end of the year), are now slowly recovering. Bitcoin mining revenue increased 50% in one month, from $15 million to almost $23 million, according to Blockchain.com.
+As the activity becomes more profitable, more miners join to secure the Bitcoin network and try to mine new coins: on January 30th , Bitcoin hashrate reached a new all-time high of 295 million TH/s.
+Some companies are even planning expansion: Adam Back’s Blockstream has recently announced a $125 million funding round aimed at developing its Bitcoin mining operations to add capacity for institutional hosting customers.
+As Bitcoin price rises, miners need to sell less of it to cover their operational expenses, creating less of a selling pressure and helping the price to hold its newly found heights. 
+For the first time in months, crypto market sentiment has switched from “fear” to “greed”, and another growth cycle is now widely expected.
+Written by D.Center

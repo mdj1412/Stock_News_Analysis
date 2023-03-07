@@ -1,0 +1,42 @@
+
+
+The product acquisition builds Ansys' presence in South America; further accelerates Ansys' discrete particle mechanics offerings across multiple industrial sectors; and drives deeper integration into the Ansys ecosystem
+Key Highlights
+Ansys will add Rocky DEM to its portfolio — helping engineers solve challenging design problems involving discrete solids with complex multiphysics interactionsRocky DEM software can model a wide variety of cross-industry applications related to bulk materials and solid handling processes enabling users to assess the dynamic behavior of the particles and the related equipment early in the design phaseDeeper integration with Ansys ecosystem further extends particle mechanics to applications that involve Ansys' structural and fluid analysis toolsPITTSBURGH, Jan. 3, 2023 /PRNewswire/ -- Ansys (NASDAQ: ANSS), the global leader and innovator of engineering simulation software, announced today the acquisition of Engineering Simulation and Scientific Software Rocky DEM, S.L. ("Rocky").  With this acquisition, Ansys adds Rocky, the leading discrete element method (DEM) tool, and a skilled team of developers, application support technicians and customer-facing staff in Brazil, Spain, and the United States. The transaction is not expected to have a material impact on Ansys' consolidated financial statements in 2023.
+
+
+
+
+
+
+
+Rocky was a subsidiary of Engineering Simulation and Scientific Software (ESSS), a long-term Ansys Channel Partner, and developer of engineering software dedicated to modeling discrete mechanics problems. Ansys' acquisition of Rocky builds on the companies' long-term partnership and joint particle modeling workflow announced in 2021. Rocky's software, with specific strengths in GPU computing and applying particle methods to multiphysics simulations, is used in wide variety of cross-industry applications that involve discrete solids of any size and shape.
+Particle modeling spans many industries and applications; particles can consist of medical tablets, food snacks, agriculture seeds, powders, and even fibers used in filtration devices. Industry leaders are challenged to improve their product quality and find solutions to help accelerate their decision-making related to the design, manufacturing, and operation of their particulate systems.  
+Rocky is a leading DEM software package that quickly and accurately simulates the dynamic flow behavior of discrete solids and particle-laden free-surface flows in multiple industries. Rocky simulations provide powerful insight to help reduce waste, improve product quality, increase product uniformity, predict performance and
+durability of equipment during operation, meet resource management, and address sustainability concerns.
+"Rocky's unique approach to discrete particle modeling empowers our customers to solve a wide variety of problems across virtually all industries," said Shane Emswiler, senior vice president of products at Ansys. "Fully integrating Rocky into Ansys' portfolio and welcoming its distinguished experts to our team builds upon our demonstrated success and enables Ansys to provide an even more efficient and powerful solution for our customers. We are delighted to welcome Rocky into the Ansys family."
+This acquisition will ensure that Ansys customers have long-term, uninterrupted access to powerful high-fidelity particle modelling that is deeply integrated with other Ansys solutions to solve an expanding set of problems involving discrete particles. Incorporating Rocky technology into the Ansys portfolio will also facilitate long-term synergies in the Ansys portfolio that would not otherwise be possible, such as inclusion of Rocky into the PyAnsys framework.
+"Our longstanding relationship with Ansys has not only expanded Rocky's reach to new sectors and industries, but also given engineers access to a technology to rapidly run large, highly-realistic simulations that include accurate particle details," said Dr. Alexander Potapov, chief technology officer at Rocky.
+"The Rocky team is elated to join Ansys and further combine Rocky's state-of-the-art particle simulation capabilities with Ansys' flagship simulations — allowing engineers to design more reliable products, slash development time, and win the race to market," said Marcos Damiani, numerical development principal at Rocky.
+/ About Ansys
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+/ Forward-Looking Information 
+This information contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 with respect to the acquisition, including statements regarding the benefits of the acquisition and the products and markets of each company. These forward-looking statements generally are identified by the words "believe," "project," "expect," "anticipate," "estimate," "intend," "future," "opportunity," "plan," "may," "should," "will," "would," and similar expressions. Forward-looking statements are predictions, projections and other statements about future events that are based on current expectations and assumptions and, as a result, are subject to risks and uncertainties. Many factors could cause actual future events to differ materially from the forward-looking statements including but not limited to: (i) the risk that the acquisition may not be completed in a timely manner or at all; (ii) the failure to satisfy the conditions to the consummation of the acquisition; (iii) risks that the proposed transaction disrupts current plans and operations of Rocky and potential difficulties in Rocky's employee retention as a result of the transaction; (iv) the occurrence of any event, change or other circumstance that could give rise to the termination of the acquisition agreement; (v) risks related to diverting management's attention from Rocky's ongoing business operations; (vi) the ability of Ansys to successfully integrate Rocky's operations, product lines, and technology; (vii) the ability of Ansys to implement its plans, forecasts, and other expectations with respect to Rocky's business after the completion of the acquisition and realize additional opportunities for growth and innovation; and (viii) adverse changes in the economic and political conditions in the regions in which Ansys and Rocky operate. In addition, please refer to the documents that Ansys files with the SEC on Forms 10-K, 10-Q and 8-K. These filings identify and address other important risks and uncertainties that could cause events and results to differ materially from those contained in the forward-looking statements set forth herein. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and Ansys assumes no obligation to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise. Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–F
+/ Contacts
+Media          Mary Kate Joyce                    724.820.4368                    marykate.joyce@ansys.com 
+Investors     Kelsey DeBriyn                    724.820.3927                    kelsey.debriyn@ansys.com 
+
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ansys-acquires-leading-particle-dynamics-simulation-software-rocky-301712288.html
+SOURCE  Ansys
+
+

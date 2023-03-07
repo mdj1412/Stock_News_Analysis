@@ -1,0 +1,51 @@
+
+Here we are once again. You know that moment you've experienced dozens of times when you see risky stocks go into the stratosphere while your nice quality stocks stay stuck on the ground, when they're not digging a hole. It’s due to FOMO, the fear of missing out. It was a powerful driver of stock performance when money was free and kept alive companies that had no business model other than the ability to raise money ad nauseam. But it has not disappeared and strengthens rebound phases like the one that is currently taking shape. It is the force that is boosting Tesla and Just Eat, while knocking out Eli Lilly.
+
+In short, the most daring investors are taking more daring bets, while the most cautious are watching the train go by, thinking that it will derail. It has been the same story for decades when there is a debate about a market inflection point. In this case, a majority of investors believe that there is a cluster of converging signals that central banks will soon hit the ceiling of their monetary tightening cycle. In the US, the implied peak in policy rates is, as I write, 4.93% next June, while the current Fed Funds range is 4.25% to 4.50%. In other words, there are not many more rate hikes to get there (remember that a year ago, the range was 0 to 0.25%). Moreover, the CME's FedWatch tool shows an 80% probability in favor of a 0.25% rate hike, the bare minimum, at the Fed's February 1 meeting. A month ago, the odds were still 50/50 between a 25 point rate hike and a 50 point rate hike.
+While the various players are in rough agreement on the rate hike, there is much more divergence on two other unknowns. First, how long rates will remain at the assumed ceiling, and second, how much damage this will do to the economy. This is where the main questions currently lie, except for the most extreme camps. The one that thinks that the Fed is fooling itself with this punitive policy when inflation would have evaporated by itself. And at the other end of the spectrum, the one that believes that stagflation is inevitable because of past policy mistakes.
+In this context, the Fed's rhetoric no longer seems to be the gospel. At least not as much as it did for most of 2022. The Fed may be making more and more calls for caution on inflation, but it's still rowing a bit. Yesterday, Raphael Bostic and Mary Daly, two of the central bank's regional governors, each spoke of a rate peak above 5%. This did not make the bond market hot or cold, with a 10-year still positioned around 3.52%, whereas it had exceeded 4.3% at the end of October. Translation? The market is no longer as worried as it was in the fall, after a series of statistics showing that economic overheating is dissipating. It does not believe that the Fed will go beyond 5%.
+As I write these lines, supreme leader Jerome Powell is due to speak at a panel discussion. Some commentators believe that he will say inflation is still an issue and that it will keep raising rates until it is under control. Others believe that he might not comment on markets at all.
+Meanwhile, on the equity side, risk appetite has been reawakened. US indices still lost some of their gains from the previous day's session, which even caused the S&P500 to fall slightly at the close (-0.08%) yesterday. But the Nasdaq remained up 0.62%, driven by semiconductors and massive purchases of stocks heavily punished over the past months, such as Tesla or DocuSign. In Europe, despite a small drop at the end of the day, the indices still shone. The French CAC40, for example, broke through the 6,900-point barrier for the fourth time in five sessions in 2023. This is the highest level since February 2022.
+This morning, in premarket trading, Wall Street’s three main indexes remained in the red ahead of Powell’s speech.
+ 
+Economic highlights of the day:
+On the agenda, US wholesale sales for November (10:00am). All the agenda is here. 
+The dollars is slightly up to EUR 0.9327 and GBP 0.8239. The ounce of gold is flat at USD 1873. Oil retreats slightly, with North Sea Brent crude at USD 79.90 per barrel and US WTI light crude at USD 75.17. The yield on 10-year US debt comes out slightly lower at 3.54%. Bitcoin is trading around 17,200 dollars.
+ 
+In corporate news:
+* Microsoft is discussing a $10 billion investment in OpenAI, the owner of the conversational robot ChatGPT, media outlet Semafor reported, citing sources close to the matter.
+* Apple plans to replace in 2025 in its devices the Wifi and Bluetooth chips designed by Broadcom with its own products, Bloomberg reported Monday, citing sources close to the case. Broadcom was down 0.9% in pre-market trading.
+* Amazon plans to close three warehouses in the U.K., which could affect 1,200 jobs, PA Media reported.
+* Virgin Orbit was down 23.3% in premarket trading Tuesday after a failed satellite launch into space from the U.K. The group owned by British billionaire Richard Branson announced that an anomaly had prevented the Cosmic Girl rocket, carried by a modified Boeing 747, from reaching orbit.
+* Pfizer is not discussing with Chinese authorities a license for generic versions of its anti-COVID-19 treatment Paxlovid in China, Chief Executive Albert Bourla said on Monday, reacting to a report by Reuters on Friday. The discussions are only about the price at which Paxlovid will be offered in China, the Pfizer boss said.
+* CVS Health is considering an acquisition of health-care center operator Oak Street Health Bloomberg reported Monday, citing sources close to the matter. Oak Street Health shares jumped 28 percent in after-hours trading.
+* The Carlyle Group - The U.S. private equity firm has acquired a majority stake in Indian beauty and wellness products group VLCC for about $300 million, two sources told Reuters on Tuesday.
+* Jefferies Financial Group - The investment bank reported a 52.5 percent drop in fourth-quarter profit on Monday amid lower fees and market volatility that weighed on trading revenue.
+* Coinbase Global gained 4.8% in premarket trading after the company announced a plan to cut nearly 1,000 jobs by the second quarter.
+* Illumina plunged 10.03% in premarket trading after it lowered its revenue growth forecast for this year to a range of 7%-10% from 10%.
+* Bed Bath & Beyond gained 4.9% in premarket trading before the release of its quarterly results.
+* Agilent Technologies gained 1% in after-hours trading on the announcement of an additional $2 billion share buyback program beginning March 1.
+ 
+Analyst recommendations:
+
+Admiral: Deutsche Bank upgraded from hold to buy.
+Ally Financial: Jefferies downgrades to hold from buy. PT down 4.6% to $25.
+Apple: Bernstein adjusts PT to $125 from $170, Maintains Market Perform rating.
+Ashmore: Barclays moves from Overweight to Equal weight with a GBp 280 target.
+AT&T: Wells Fargo upgrades to overweight from equal-weight. PT up 16% to $22.
+Boeing: Morgan Stanley downgrades to equal-weight from overweight. PT up 5.5% to $220.
+BT Group: Jefferies remains Buy with a price target reduced from GBp 250 to GBp 190.
+Camden Property: Mizuho Securities upgrades to buy from neutral. PT up 11% to $125.
+Centrica: Exane BNP Paribas resumes its Outperform rating, targeting GBp 150.
+Clarkson: HSBC upgrades from buy to hold targeting GBp 3400.
+Keysight: Barclays upgrades to overweight from equal-weight. PT up 14% to $202.
+Nabors: Barclays upgrades to overweight from equal-weight. PT jumps 30% to $200.
+NetApp: Barclays downgrades to equal-weight from overweight. PT up 11% to $71.
+Next: Investec downgrades to hold from buy. PT set to 6,480 pence, implies a 0.4% increase from last price.
+Nike: KGI Securities raised its recommendation on Nike Inc. Class B to outperform from neutral. PT up 8.9% to $136.
+Oneok: J.P. Morgan upgrades to overweight from neutral. PT up 11% to $75.
+PDC Energy: Mizuho Securities initiated coverage with a recommendation of buy. PT set to $97.
+PPG Industries: RBC Capital Markets downgrades to sector perform from outperform. PT inches up 0.1% to $129.
+Schwab: CICC initiated coverage with a recommendation of outperform. PT set to $110.
+Superdry: RBC moves from Outperform to Sector Perform.
+

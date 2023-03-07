@@ -1,0 +1,3593 @@
+
+
+
+
+          eBay Inc.
+        
+
+          Unaudited Condensed Consolidated Statement of Cash Flows
+        
+
+          (U.S. Dollars In Millions)
+        
+
+          Three Months Ended
+        
+
+
+
+
+                Dec 31,
+              
+
+
+
+
+
+                Sep 30,
+              
+
+
+
+
+
+                Jun 30,
+              
+
+
+
+
+
+                Mar 31,
+              
+
+
+
+
+
+                Dec 31,
+              
+
+
+
+
+
+                Sep 30,
+              
+
+
+
+
+
+                Jun 30,
+              
+
+
+
+
+
+                Mar 31,
+              
+
+
+
+
+
+                2020
+              
+
+
+
+
+
+                2020
+              
+
+
+
+
+
+                2020
+              
+
+
+
+
+
+                2020
+              
+
+
+
+
+
+                2019
+              
+
+
+
+
+
+                2019
+              
+
+
+
+
+
+                2019
+              
+
+
+
+
+
+                2019
+              
+
+
+
+
+
+
+
+            Cash flows from operating activities: Net income
+          
+
+            (Income) from discontinued operations, net of income taxes Adjustments:
+          
+
+            Provision for transaction losses Depreciation and amortization Stock-based compensation
+          
+
+            Loss (gain) on investments and other, net Loss on sale of business
+          
+
+            Deferred income taxes Change in fair value of warrant
+          
+
+            Change in fair value of equity investment in KakaoBank Changes in assets and liabilities, net of acquisition effects
+          
+
+            Net cash provided by continuing operating activities
+          
+
+            Net cash provided by (used in) discontinued operating activities Net cash provided by operating activities
+          
+
+            Cash flows from investing activities: Purchases of property and equipment Purchases of investments Maturities and sales of investments Equity investment in Paytm Mall Other
+          
+
+            Net cash provided by (used in) continuing investing activities Net cash provided by (used in) discontinued investing activities Net cash provided by (used in) investing activities
+          
+
+            Cash flows from financing activities: Proceeds from issuance of common stock Repurchases of common stock
+          
+
+            Payments for taxes related to net share settlements of restricted stock units and awards Payments for dividends
+          
+
+            Proceeds from issuance of long-term debt, net Repayment of debt
+          
+
+            Other
+          
+
+            Net cash used in continuing financing activities Net cash used in discontinued financing activities Net cash used in financing activities
+          
+
+            Effect of exchange rate changes on cash, cash equivalents and restricted cash Net increase (decrease) in cash, cash equivalents and restricted cash
+          
+
+            Cash, cash equivalents and restricted cash at beginning of period Cash, cash equivalents and restricted cash at end of period Less: Cash and cash equivalents of discontinued operations
+          
+
+            Cash, cash equivalents and restricted cash of continuing operations at end of period
+          
+
+
+
+
+
+
+                  $
+                
+
+
+
+                  845
+                
+
+
+
+                  $
+                
+
+
+
+                  664
+                
+
+
+
+                  $
+                
+
+
+
+                  746
+                
+
+
+
+                  $
+                
+
+
+
+                  3,412
+                
+
+
+
+                  $
+                
+
+
+
+                  556
+                
+
+
+
+                  $
+                
+
+
+
+                  310
+                
+
+
+
+                  $
+                
+
+
+
+                  402
+                
+
+
+
+                  $
+                
+
+
+
+                  518
+                
+
+
+
+
+
+
+
+                  (73)
+                
+
+
+
+
+
+
+
+                  (59)
+                
+
+
+
+
+
+
+
+                  (57)
+                
+
+
+
+
+
+
+
+                  (2,991)
+                
+
+
+
+
+
+
+
+                  (114)
+                
+
+
+
+
+
+
+
+                  (115)
+                
+
+
+
+
+
+
+
+                  (46)
+                
+
+
+
+
+
+
+
+                  (78)
+                
+
+
+
+
+
+
+
+                  85
+                
+
+
+
+
+
+
+
+                  60
+                
+
+
+
+
+
+
+
+                  89
+                
+
+
+
+
+
+
+
+                  96
+                
+
+
+
+
+
+
+
+                  69
+                
+
+
+
+
+
+
+
+                  69
+                
+
+
+
+
+
+
+
+                  60
+                
+
+
+
+
+
+
+
+                  64
+                
+
+
+
+
+
+
+
+                  131
+                
+
+
+
+
+
+
+
+                  157
+                
+
+
+
+
+
+
+
+                  161
+                
+
+
+
+
+
+
+
+                  134
+                
+
+
+
+
+
+
+
+                  147
+                
+
+
+
+
+
+
+
+                  151
+                
+
+
+
+
+
+
+
+                  154
+                
+
+
+
+
+
+
+
+                  148
+                
+
+
+
+
+
+
+
+                  116
+                
+
+
+
+
+
+
+
+                  110
+                
+
+
+
+
+
+
+
+                  103
+                
+
+
+
+
+
+
+
+                  88
+                
+
+
+
+
+
+
+
+                  106
+                
+
+
+
+
+
+
+
+                  93
+                
+
+
+
+
+
+
+
+                  116
+                
+
+
+
+
+
+
+
+                  100
+                
+
+
+
+
+
+
+
+                  1
+                
+
+
+
+
+
+
+
+                  (1)
+                
+
+
+
+
+
+
+
+                  40
+                
+
+
+
+
+
+
+
+                  (38)
+                
+
+
+
+
+
+
+
+                  (1)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  1
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  52
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  237
+                
+
+
+
+
+
+
+
+                  71
+                
+
+
+
+
+
+
+
+                  47
+                
+
+
+
+
+
+
+
+                  59
+                
+
+
+
+
+
+
+
+                  33
+                
+
+
+
+
+
+
+
+                  (5)
+                
+
+
+
+
+
+
+
+                  (32)
+                
+
+
+
+
+
+
+
+                  11
+                
+
+
+
+
+
+
+
+                  (274)
+                
+
+
+
+
+
+
+
+                  (191)
+                
+
+
+
+
+
+
+
+                  (293)
+                
+
+
+
+
+
+
+
+                  (12)
+                
+
+
+
+
+
+
+
+                  (77)
+                
+
+
+
+
+
+
+
+                  49
+                
+
+
+
+
+
+
+
+                  8
+                
+
+
+
+
+
+
+
+                  (113)
+                
+
+
+
+
+
+
+
+                  (239)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  1
+                
+
+
+
+
+
+
+
+                  (165)
+                
+
+
+
+
+
+
+
+                  115
+                
+
+
+
+
+
+
+
+                  (171)
+                
+
+
+
+
+
+
+
+                  (82)
+                
+
+
+
+
+
+
+
+                  150
+                
+
+
+
+
+
+
+
+                  (70)
+                
+
+
+
+
+
+
+
+                  (218)
+                
+
+
+
+
+
+
+
+                  830
+                
+
+
+
+
+
+
+
+                  646
+                
+
+
+
+
+
+
+
+                  951
+                
+
+
+
+
+
+
+
+                  577
+                
+
+
+
+
+
+
+
+                  637
+                
+
+
+
+
+
+
+
+                  754
+                
+
+
+
+
+
+
+
+                  592
+                
+
+
+
+
+
+
+
+                  433
+                
+
+
+
+
+
+
+
+                  (72)
+                
+
+
+
+
+
+
+
+                  (541)
+                
+
+
+
+
+
+
+
+                  13
+                
+
+
+
+
+
+
+
+                  15
+                
+
+
+
+
+
+
+
+                  174
+                
+
+
+
+
+
+
+
+                  255
+                
+
+
+
+
+
+
+
+                  152
+                
+
+
+
+
+
+
+
+                  117
+                
+
+
+
+
+
+
+
+                  758
+                
+
+
+
+
+
+
+
+                  105
+                
+
+
+
+
+
+
+
+                  964
+                
+
+
+
+
+
+
+
+                  592
+                
+
+
+
+
+
+
+
+                  811
+                
+
+
+
+
+
+
+
+                  1,009
+                
+
+
+
+
+
+
+
+                  744
+                
+
+
+
+
+
+
+
+                  550
+                
+
+
+
+
+
+
+
+                  (155)
+                
+
+
+
+
+
+
+
+                  (124)
+                
+
+
+
+
+
+
+
+                  (97)
+                
+
+
+
+
+
+
+
+                  (87)
+                
+
+
+
+
+
+
+
+                  (122)
+                
+
+
+
+
+
+
+
+                  (91)
+                
+
+
+
+
+
+
+
+                  (123)
+                
+
+
+
+
+
+
+
+                  (172)
+                
+
+
+
+
+
+
+
+                  (3,990)
+                
+
+
+
+
+
+
+
+                  (7,224)
+                
+
+
+
+
+
+
+
+                  (10,968)
+                
+
+
+
+
+
+
+
+                  (10,705)
+                
+
+
+
+
+
+
+
+                  (9,576)
+                
+
+
+
+
+
+
+
+                  (13,223)
+                
+
+
+
+
+
+
+
+                  (12,252)
+                
+
+
+
+
+
+
+
+                  (11,915)
+                
+
+
+
+
+
+
+
+                  4,389
+                
+
+
+
+
+
+
+
+                  9,074
+                
+
+
+
+
+
+
+
+                  10,471
+                
+
+
+
+
+
+
+
+                  9,195
+                
+
+
+
+
+
+
+
+                  10,065
+                
+
+
+
+
+
+
+
+                  14,656
+                
+
+
+
+
+
+
+
+                  13,080
+                
+
+
+
+
+
+
+
+                  12,747
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  (160)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  3
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  39
+                
+
+
+
+
+
+
+
+                  5
+                
+
+
+
+
+
+
+
+                  (34)
+                
+
+
+
+
+
+
+
+                  3
+                
+
+
+
+
+
+
+
+                  12
+                
+
+
+
+
+
+
+
+                  247
+                
+
+
+
+
+
+
+
+                  1,726
+                
+
+
+
+
+
+
+
+                  (594)
+                
+
+
+
+
+
+
+
+                  (1,558)
+                
+
+
+
+
+
+
+
+                  372
+                
+
+
+
+
+
+
+
+                  1,148
+                
+
+
+
+
+
+
+
+                  708
+                
+
+
+
+
+
+
+
+                  672
+                
+
+
+
+
+
+
+
+                  (33)
+                
+
+
+
+
+
+
+
+                  (15)
+                
+
+
+
+
+
+
+
+                  (43)
+                
+
+
+
+
+
+
+
+                  4,064
+                
+
+
+
+
+
+
+
+                  (14)
+                
+
+
+
+
+
+
+
+                  (5)
+                
+
+
+
+
+
+
+
+                  20
+                
+
+
+
+
+
+
+
+                  (114)
+                
+
+
+
+
+
+
+
+                  214
+                
+
+
+
+
+
+
+
+                  1,711
+                
+
+
+
+
+
+
+
+                  (637)
+                
+
+
+
+
+
+
+
+                  2,506
+                
+
+
+
+
+
+
+
+                  358
+                
+
+
+
+
+
+
+
+                  1,143
+                
+
+
+
+
+
+
+
+                  728
+                
+
+
+
+
+
+
+
+                  558
+                
+
+
+
+
+
+
+
+                  35
+                
+
+
+
+
+
+
+
+                  5
+                
+
+
+
+
+
+
+
+                  45
+                
+
+
+
+
+
+
+
+                  5
+                
+
+
+
+
+
+
+
+                  47
+                
+
+
+
+
+
+
+
+                  4
+                
+
+
+
+
+
+
+
+                  50
+                
+
+
+
+
+
+
+
+                  5
+                
+
+
+
+
+
+
+
+                  (427)
+                
+
+
+
+
+
+
+
+                  (680)
+                
+
+
+
+
+
+
+
+                  (33)
+                
+
+
+
+
+
+
+
+                  (3,997)
+                
+
+
+
+
+
+
+
+                  (1,002)
+                
+
+
+
+
+
+
+
+                  (1,022)
+                
+
+
+
+
+
+
+
+                  (1,518)
+                
+
+
+
+
+
+
+
+                  (1,431)
+                
+
+
+
+
+
+
+
+                  (44)
+                
+
+
+
+
+
+
+
+                  (48)
+                
+
+
+
+
+
+
+
+                  (43)
+                
+
+
+
+
+
+
+
+                  (40)
+                
+
+
+
+
+
+
+
+                  (40)
+                
+
+
+
+
+
+
+
+                  (43)
+                
+
+
+
+
+
+
+
+                  (65)
+                
+
+
+
+
+
+
+
+                  (54)
+                
+
+
+
+
+
+
+
+                  (110)
+                
+
+
+
+
+
+
+
+                  (111)
+                
+
+
+
+
+
+
+
+                  (112)
+                
+
+
+
+
+
+
+
+                  (114)
+                
+
+
+
+
+
+
+
+                  (113)
+                
+
+
+
+
+
+
+
+                  (115)
+                
+
+
+
+
+
+
+
+                  (120)
+                
+
+
+
+
+
+
+
+                  (125)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  771
+                
+
+
+
+
+
+
+
+                  994
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  (932)
+                
+
+
+
+
+
+
+
+                  (839)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  (1,550)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  (5)
+                
+
+
+
+
+
+
+
+                  5
+                
+
+
+
+
+
+
+
+                  (5)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  3
+                
+
+
+
+
+
+
+
+                  2
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  (546)
+                
+
+
+
+
+
+
+
+                  (1,771)
+                
+
+
+
+
+
+
+
+                  (206)
+                
+
+
+
+
+
+
+
+                  (3,157)
+                
+
+
+
+
+
+
+
+                  (1,108)
+                
+
+
+
+
+
+
+
+                  (2,723)
+                
+
+
+
+
+
+
+
+                  (1,651)
+                
+
+
+
+
+
+
+
+                  (1,605)
+                
+
+
+
+
+
+
+
+                  (3)
+                
+
+
+
+
+
+
+
+                  (2)
+                
+
+
+
+
+
+
+
+                  (3)
+                
+
+
+
+
+
+
+
+                  (4)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  (2)
+                
+
+
+
+
+
+
+
+                  (2)
+                
+
+
+
+
+
+
+
+                  -
+                
+
+
+
+
+
+
+
+                  (549)
+                
+
+
+
+
+
+
+
+                  (1,773)
+                
+
+
+
+
+
+
+
+                  (209)
+                
+
+
+
+
+
+
+
+                  (3,161)
+                
+
+
+
+
+
+
+
+                  (1,108)
+                
+
+
+
+
+
+
+
+                  (2,725)
+                
+
+
+
+
+
+
+
+                  (1,653)
+                
+
+
+
+
+
+
+
+                  (1,605)
+                
+
+
+
+
+
+
+
+                  52
+                
+
+
+
+
+
+
+
+                  51
+                
+
+
+
+
+
+
+
+                  8
+                
+
+
+
+
+
+
+
+                  (34)
+                
+
+
+
+
+
+
+
+                  26
+                
+
+
+
+
+
+
+
+                  (39)
+                
+
+
+
+
+
+
+
+                  (10)
+                
+
+
+
+
+
+
+
+                  (10)
+                
+
+
+
+
+
+
+
+                  475
+                
+
+
+
+
+
+
+
+                  94
+                
+
+
+
+
+
+
+
+                  126
+                
+
+
+
+
+
+
+
+                  (97)
+                
+
+
+
+
+
+
+
+                  87
+                
+
+
+
+
+
+
+
+                  (612)
+                
+
+
+
+
+
+
+
+                  (191)
+                
+
+
+
+
+
+
+
+                  (507)
+                
+
+
+
+
+
+
+
+                  1,119
+                
+
+
+
+
+
+
+
+                  1,025
+                
+
+
+
+
+
+
+
+                  899
+                
+
+
+
+
+
+
+
+                  996
+                
+
+
+
+
+
+
+
+                  909
+                
+
+
+
+
+
+
+
+                  1,521
+                
+
+
+
+
+
+
+
+                  1,712
+                
+
+
+
+
+
+
+
+                  2,219
+                
+
+
+
+
+
+                  $
+                
+
+
+
+                  1,594
+                
+
+
+
+                  $
+                
+
+
+
+                  1,119
+                
+
+
+
+                  $
+                
+
+
+
+                  1,025
+                
+
+
+
+                  $
+                
+
+
+
+                  899
+                
+
+
+
+                  $
+                
+
+
+
+                  996
+                
+
+
+
+                  $
+                
+
+
+
+                  909
+                
+
+
+
+                  $
+                
+
+
+
+                  1,521
+                
+
+
+
+                  $
+                
+
+
+
+                  1,712
+                
+
+
+
+
+
+
+
+                  356
+                
+
+
+
+
+
+
+
+                  308
+                
+
+
+
+
+
+
+
+                  176
+                
+
+
+
+
+
+
+
+                  204
+                
+
+
+
+
+
+
+
+                  337
+                
+
+
+
+
+
+
+
+                  274
+                
+
+
+
+
+
+
+
+                  792
+                
+
+
+
+
+
+
+
+                  843
+                
+
+
+
+
+
+                  $
+                
+
+
+
+                  1,238
+                
+
+
+
+                  $
+                
+
+
+
+                  811
+                
+
+
+
+                  $
+                
+
+
+
+                  849
+                
+
+
+
+                  $
+                
+
+
+
+                  695
+                
+
+
+
+                  $
+                
+
+
+
+                  659
+                
+
+
+
+                  $
+                
+
+
+
+                  635
+                
+
+
+
+                  $
+                
+
+
+
+                  729
+                
+
+
+
+                  $
+                
+
+
+
+                  869
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        eBay Inc.
+      
+
+        Unaudited Reconciliation of Operating Cash Flows to Free Cash Flow*
+      
+
+        (U.S. Dollars In Millions)
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Three Months Ended
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Dec 31,
+            
+
+
+
+
+
+
+
+              Sep 30,
+            
+
+
+
+
+
+
+
+              Jun 30,
+            
+
+
+
+
+
+
+
+              Mar 31,
+            
+
+
+
+
+
+
+
+              Dec 31,
+            
+
+
+
+
+
+
+
+              Sep 30,
+            
+
+
+
+
+
+
+
+              Jun 30,
+            
+
+
+
+
+
+
+
+              Mar 31,
+            
+
+
+
+
+
+
+
+
+
+              2020
+            
+
+
+
+
+
+
+
+              2020
+            
+
+
+
+
+
+
+
+              2020
+            
+
+
+
+
+
+
+
+              2020
+            
+
+
+
+
+
+
+
+              2019
+            
+
+
+
+
+
+
+
+              2019
+            
+
+
+
+
+
+
+
+              2019
+            
+
+
+
+
+
+
+
+              2019
+            
+
+
+
+
+
+              Supplemental non-GAAP measure:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Net cash provided by continuing operating activities
+            
+
+
+
+              $
+            
+
+
+
+              830
+            
+
+
+
+              $
+            
+
+
+
+              646
+            
+
+
+
+              $
+            
+
+
+
+              951
+            
+
+
+
+              $
+            
+
+
+
+              577
+            
+
+
+
+              $
+            
+
+
+
+              637
+            
+
+
+
+              $
+            
+
+
+
+              754
+            
+
+
+
+              $
+            
+
+
+
+              592
+            
+
+
+
+              $
+            
+
+
+
+              433
+            
+
+
+
+
+
+              Less: Purchases of property and equipment
+            
+
+
+
+
+
+              (155)
+            
+
+
+
+
+
+
+
+              (124)
+            
+
+
+
+
+
+
+
+              (97)
+            
+
+
+
+
+
+
+
+              (87)
+            
+
+
+
+
+
+
+
+              (122)
+            
+
+
+
+
+
+
+
+              (91)
+            
+
+
+
+
+
+
+
+              (123)
+            
+
+
+
+
+
+              $
+            
+
+
+
+              (172)
+            
+
+
+
+
+
+              Free cash flow from continuing operations
+            
+
+
+
+              $
+            
+
+
+
+              675
+            
+
+
+
+              $
+            
+
+
+
+              522
+            
+
+
+
+              $
+            
+
+
+
+              854
+            
+
+
+
+              $
+            
+
+
+
+              490
+            
+
+
+
+              $
+            
+
+
+
+              515
+            
+
+
+
+              $
+            
+
+
+
+              663
+            
+
+
+
+              $
+            
+
+
+
+              469
+            
+
+
+
+              $
+            
+
+
+
+              261
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        *Presented on a continuing operations basis
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+eBay Inc. published this content on 22 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 22 February 2023 21:18:07 UTC.
+      
+

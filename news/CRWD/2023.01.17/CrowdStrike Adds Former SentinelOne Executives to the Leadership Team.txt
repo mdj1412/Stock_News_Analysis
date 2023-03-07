@@ -1,0 +1,43 @@
+
+CrowdStrike (Nasdaq: CRWD) today announced that two key executives have joined its leadership team to continue driving momentum across the company’s channel and small business segments, and to scale what is widely recognized by the market as the industry’s most innovative modern security platform. Daniel Bernard has been appointed as chief business officer, and Raj Rajamani has been named chief product officer, DICE (Data, Identity, Cloud and Endpoint). Bernard will report directly to CrowdStrike founder and CEO, George Kurtz. Rajamani will report to CrowdStrike’s chief product & engineering officer, Amol Kulkarni.
+
+Bernard and Rajamani, who most recently served as the chief marketing officer and chief product officer at SentinelOne (NYSE: S), respectively, bring extensive experience with high-growth, disruptive cloud and SaaS businesses, as well as elite reputations in the cybersecurity industry. Both have been widely recognized as key architects of SentinelOne’s go-to-market and product strategy.
+
+Accelerating Momentum in the Channel and the Small and Medium Business (SMB) Segment
+
+Bernard will serve as CrowdStrike’s chief business officer, a new senior executive role responsible for driving revenue from the company’s global channel and accelerating momentum in CrowdStrike’s robust and growing partner ecosystem.
+
+Michael Rogers, CrowdStrike’s vice president of global alliances, will report directly to Bernard, with all channel, alliances and business development related revenue and functions rolling up under Bernard.
+
+Bernard will also lead CrowdStrike’s overall SMB go-to-market strategy and growth initiatives, including its ecommerce business, to accelerate revenue growth in the SMB segment and increase market share.
+
+Prior to CrowdStrike, Bernard led channel partnerships and business development at several high-growth SaaS, cloud and cybersecurity companies, including Dropbox and Cylance. Most recently, he served as SentinelOne’s chief marketing officer and is widely recognized for transforming the company’s brand and market awareness.
+
+Scaling the Industry’s Best Product
+
+Rajamani joins CrowdStrike as chief product officer, DICE (Data, Identity, Cloud, Endpoint), a new senior product leadership role that will be responsible for product strategy, management and delivery across CrowdStrike’s core platform offerings. Rajamani’s responsibilities include XDR, EDR, cloud security, identity threat protection and data protection offerings.
+
+Over his career, Rajamani has built a strong reputation for driving product innovation in disruptive cloud and endpoint security companies. He served in key product and technology leadership roles at McAfee, Marketo, Cylance and most recently SentinelOne, where he was chief product officer.
+
+“For the past few years, I’ve watched Daniel and Raj’s impact as key executives instrumental in the growth of SentinelOne. They were the driving force behind the product and go-to-market strategy that helped the company go public,” said George Kurtz, co-founder and CEO of CrowdStrike. “I’m looking forward to working with Daniel and Raj. Having their talent, leadership and drive here is a win for our customers, our partners, and shareholders, and provides a significant advantage as we look to bring the value of the CrowdStrike platform to new audiences.”
+
+“CrowdStrike is the unequivocal cybersecurity leader as evidenced by its marquee customer base, cutting-edge technology and customer satisfaction scores,” said Daniel Bernard, chief business officer at CrowdStrike. “Doubling down on the channel and bringing CrowdStrike into new markets will drive continued growth. George has assembled a stellar team that wins, and I’m excited to join CrowdStrike for its next growth chapter.”
+
+“Having worked both with and against George and team over the years, CrowdStrike has been a company I’ve long respected and admired. So when offered the opportunity to help shape the future of CrowdStrike’s product strategy and innovation – and to work with CrowdStrike’s amazing product team – it was simply too good to pass up,” said Raj Rajamani, chief product officer, DICE at CrowdStrike. “CrowdStrike set the bar for the XDR era, and I am incredibly excited to have the opportunity to keep raising it higher - and that’s exactly what we’re going to do.”
+
+About CrowdStrike
+
+CrowdStrike (Nasdaq: CRWD), a global cybersecurity leader, has redefined modern security with the world’s most advanced cloud-native platform for protecting critical areas of enterprise risk — endpoints and cloud workloads, identity and data.
+
+Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections, automated protection and remediation, elite threat hunting and prioritized observability of vulnerabilities.
+
+Purpose-built in the cloud with a single lightweight-agent architecture, the Falcon platform delivers rapid and scalable deployment, superior protection and performance, reduced complexity and immediate time-to-value.
+
+CrowdStrike: We stop breaches.
+
+Learn more: https://www.crowdstrike.com/ 
+Follow us: Blog | Twitter | LinkedIn | Facebook | Instagram 
+Start a free trial today: https://www.crowdstrike.com/free-trial-guide/
+
+© 2023 CrowdStrike, Inc. All rights reserved. CrowdStrike, the falcon logo, CrowdStrike Falcon and CrowdStrike Threat Graph are marks owned by CrowdStrike, Inc. and registered with the United States Patent and Trademark Office, and in other countries. CrowdStrike owns other trademarks and service marks, and may use the brands of third parties to identify their products and services.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230117005484/en/

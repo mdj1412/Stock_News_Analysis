@@ -1,0 +1,81 @@
+
+
+Today, we're publishing our quarterly reports for the fourth quarter of 2022 including the Community Standards Enforcement Report,the Widely Viewed Content Report, Oversight Board Quarterly Updateand the Adversarial Threat Report. All reports are available in the Transparency Center. 
+
+
+Our report highlights include:
+
+
+      The Adversarial Threat Report
+    
+
+Over the past five years, we've shared our findings about threats we detect and remove from our platforms. In today's threat report, we're sharing information about three networks we took down for violating our policies against coordinated inauthentic behavior (CIB) and mass reporting (or coordinated abusive reporting) during the last quarter to make it easier for people to see the progress we're making in one place. We're also providing an update on our work against influence operations - both covert and overt - in a year since Russia began its full-scale invasion of Ukraine. We have shared information about our findings with industry partners, researchers and policymakers.
+
+
+      The Community Standards Enforcement Report
+    
+
+In the fourth quarter, we continue to make progress on removing content that violates our Community Standards with prevalence remaining relatively consistent across a wide range of violation areas. Separately, we've updated our cross-problem AI system, combining several models so that we're consolidating learnings across hate speech, bullying and harassment and violence and incitement. This and other continued improvements or adjustments to proactive detection technology, in many instances, lead to improved accuracy.  
+
+
+We also consistently refine our methodology for this report in an effort to improve the metrics we provide. This quarter we've updatedhow we calculate proactive rate. As a result of these improvements, we're seeing several shifts in the proactive rates across different areas. This methodology update only changes how we measure the proactive rate metric, but not our approach to proactively identifying violating content.  
+
+
+      The Widely Viewed Content Report
+    
+
+This quarter's report includes one case of engagement bait and one piece of content removed because it was posted by a Page that was taken down for repeatedly violating our Community Standards. We rigorously work to understand the content ecosystem and evaluate how effective our policies and integrity measures are so we can close the gaps we find along the way.
+
+
+      The Oversight Board Quarterly Update
+    
+
+The Oversight Board is a valuable source of external perspective and accountability for Meta that people can appeal to if they disagree with content enforcement decisions on Facebook and Instagram. We're committed to implementing all of the Board's content decisions and responding to all of their recommendations publicly, having already committed to implement - or explore the feasibility of implementing - 78% of their recommendations to date. 
+
+
+Q4 marked two years since the Oversight Board's first decision and we closed the quarter with building a framework to expand the Board's scope and impact. This collaboration with the Board resulted in finalizing a series of updatesthat will streamline the Board's operations and allow them to more efficiently select, deliberate and make decisions on tough issues. 
+
+
+Over the past two years the Oversight Board has given us valuable feedback on our policies and processes which has led to real changes. For example, we recently completed a global rollout of more informative user messaging to let people knowwhether human or automated review was responsible for the removal of their content. 
+
+
+Also prompted by feedback from the Oversight Board, we are sharing more detailsabout steps we're taking to update Facebook's penalty system. We continue to invest in refining our policies and improving our enforcement, and as part of that work, we are updating our penalty system to make it more fair and effective. Under the new system, we will focus on helping people understand why we have removed their content, which is shown to be more effective at preventing re-offending, rather than so quickly restricting their ability to post. 
+
+
+We are still removing violating content just as we did before, but now we're also giving people the chance to change their behavior while still applying stronger penalties to more severe violations: posting content that includes terrorism, child exploitation, human trafficking, serious suicide promotion, sexual exploitation, the sale of non-medical drugs, or the promotion of dangerous individuals and organizations. This leads to faster and more impactful actions for those that continuously violate our policies. These changes follow feedback from our community - including our civil rights auditors, the Oversight Board and independent experts - who noted that our current systems needed better balance between punishing and encouraging remediation through education.
+
+
+      Other updates
+    
+
+
+We revamped our Pages, Groups and Events policies to streamline, clarify and ensure the policies remain relevant and accurate. 
+
+
+We updated the notifications people see on Facebook when they try to view content that has been restricted due to local laws. In most cases, the notification will now include information letting them know which government authority sent the take down request resulting in the restriction. These changes are an important part of our commitment under our Corporate Human Rights Policy and as a member of the Global Network Initiative. More details about our approach to content restrictions can be found in the Transparency Center. 
+
+
+
+      Our Ongoing Commitment
+    
+
+Our commitment to integrity is ongoing, and we will continue to update, improve and evolve our policy enforcement in an ever-changing environment. We are focused on preserving people's ability to connect with each other around the world, particularly during times of crisis. We also want to ensure businesses that rely on our apps to reach customers have access to the support they need. From global brands to the local coffee shop, we know that businesses can be targets for adversarial activity which can disrupt their operations. So we will continue to focus heavily on improving overall support for business users.
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Meta Platforms Inc. published this content on 23 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 23 February 2023 13:13:06 UTC.
+      
+

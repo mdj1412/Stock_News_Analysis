@@ -1,0 +1,223 @@
+
+
+
+        February 14, 2023
+      
+
+        Earnings Conference Call Fourth Quarter 2022
+      
+
+
+
+
+          Cautionary Statements Regarding Forward-Looking Information
+        
+
+          This presentation contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to
+        
+
+          risks and uncertainties. Words such as "could," "may," "expects," "anticipates," "will," "targets," "goals," "projects," "intends," "plans," "believes," "seeks," "estimates," "predicts," "should," and variations on such words, and similar expressions that reflect our current views with respect to future events and operational, economic, and financial performance, are intended to identify such forward-looking statements. Any reference to "E" after a year or time period indicates the information for that year or time period is an estimate. Any reference to expected average outstanding shares is exclusive of any equity offerings.
+        
+
+          The factors that could cause actual results to differ materially from the forward-looking statements made by Exelon Corporation, Commonwealth Edison Company, PECO Energy Company, Baltimore Gas and Electric Company, Pepco Holdings LLC, Potomac Electric Power Company, Delmarva Power & Light Company, and Atlantic City Electric Company (Registrants) include those factors discussed herein, as well as the items discussed in (1) the Registrants' 2021 Annual Report on Form 10-K filed with the SEC on February 25, 2022 in Part I, ITEM 1A. Risk Factors; (2) the Registrants' Current Report on Form 8-K filed with the SEC on June 30, 2022 to recast Exelon's consolidated financial statements and certain other financial information originally included in the 2021 Form 10-K in (a) Part II, ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations, and (b) Part II, ITEM 8. Financial Statements and Supplementary Data: Note 17, Commitments and Contingencies; (3) the Registrants' Third Quarter 2022 Quarterly Report on Form 10-Q (filed on November 3, 2022) in (a) Part II, ITEM 1A. Risk Factors, (b) Part I, ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part I, ITEM 1. Financial Statements: Note 13, Commitments and Contingencies; and
+        
+
+          (4) other factors discussed in filings with the SEC by the Registrants.
+        
+
+          Investors are cautioned not to place undue reliance on these forward-looking statements, whether written or oral, which apply only as of the date of this presentation. None of the Registrants undertakes any obligation to publicly release any revision to its forward-looking statements to reflect events or circumstances after the date of this presentation.
+        
+
+
+
+          2
+        
+
+
+
+
+
+          Non-GAAP Financial Measures
+        
+
+          Exelon reports its financial results in accordance with accounting principles generally accepted in the United States (GAAP). Historical results were revised from amounts previously reported to reflect only Exelon continuing operations. Exelon supplements the reporting of financial information determined in accordance with GAAP with certain non-GAAP financial measures, including:
+        
+
+
+Adjusted operating earnings exclude certain items that are considered by management to be not directly related to the ongoing operations of the business as described in the Appendix
+          
+
+Adjusted operating and maintenance expense excludes regulatory operating and maintenance costs for the utility businesses and certain excluded items as set forth in the reconciliation in the Appendix
+          
+
+Operating ROE is calculated using operating net income divided by average equity for the period. The operating income reflects all lines of business for the utility business (Electric Distribution, Gas Distribution, Transmission).
+          
+
+Adjusted cash from operations primarily includes cash flows from operating activities adjusted for common dividends and change in cash on hand
+          
+
+
+          Due to the forward-looking nature of some forecasted non-GAAP measures, information to reconcile the forecasted adjusted (non-GAAP) measures to the most directly comparable GAAP measure may not be currently available, as management is unable to project all of these items for future periods.
+        
+
+          This information is intended to enhance an investor's overall understanding of period over period financial results and provide an indication of Exelon's baseline operating performance by excluding items that are considered by management to be not directly related to the ongoing operations of the business. In addition, this information is among the primary indicators management uses as a basis for evaluating performance, allocating resources, setting incentive compensation targets, and planning and forecasting of future periods.
+        
+
+          These non-GAAP financial measures are not a presentation defined under GAAP and may not be comparable to other companies' presentations. Exelon has provided these non-
+        
+
+          GAAP financial measures as supplemental information and in addition to the financial measures that are calculated and presented in accordance with GAAP. These non-GAAP measures should not be deemed more useful than, a substitute for, or an alternative to the most comparable GAAP measures provided in the materials presented.
+        
+
+          Non-GAAP financial measures are identified by the phrase "non-GAAP" or an asterisk (*). Reconciliations of these non-GAAP measures to the most comparable GAAP measures are provided in the appendices and attachments to this presentation.
+
+
+
+
+          3
+        
+
+
+
+
+
+          Exelon is Powering a Cleaner and Brighter Future
+        
+
+
+Delivering Customer Value
+
+
+Strengthening Our Infrastructure
+
+
+Modernizing Energy Delivery Systems
+
+
+Investing in Communities
+
+
+
+          Exelon's T&D platform is leading the energy transformation, creating value for customers and communities, and supports a projected risk-adjusted~9-11% total return(1) for shareholders
+        
+
+          (1) Reflects total return proposition as of market close on 12/31/2022.
+        
+
+
+
+          4
+        
+
+
+
+
+
+          Key Messages
+        
+
+
+
+
+            Financial and
+          
+
+            Operational
+          
+
+            Excellence
+          
+
+            Rate Case
+          
+
+            Execution
+          
+
+            Long-Term
+          
+
+            Outlook Updates
+          
+
+
+
+
+Earned $2.27 per share in 2022, beating guidance(1) by $0.02 per share - ~8% growth off 2021 guidance midpoint(2)
+
+
+Projecting 2023 dividend of $1.44 per share(3) - ~7% growth off 2022 dividend paid
+            
+
+Best-on-recordreliability performance at ComEd, PECO and PHI
+
+
+In 2022, successfully completed 4 distribution rate cases across DPL, PECO, and ComEd
+
+
+DPL DE filed an electric distribution rate case on December 14, 2022
+
+
+ComEd filed its first multi-year plan (MYP) on January 17, 2023
+            
+
+Second MYP filing for BGE with associated reconciliation expected in February 2023
+
+
+Second MYP filings for Pepco MD and DC with associated reconciliation filings in 1H 2023
+
+
+Investing ~$31B of capital over 2023-2026 to meet customer needs, driving expected rate base growth of ~8% through 2026
+
+
+No incremental equity in plan beyond $425M of remaining commitment
+            
+
+Projecting 2022 - 2026 Adjusted Operating Earnings* CAGR of 6 - 8%(1)
+
+
+Initiating projected 2023 EPS* of $2.30 - $2.42 per share(4) - ~5% growth off 2022 guidance midpoint(1)
+
+
+
+
+
+
+
+Based off the midpoint of Exelon's 2022 Adjusted EPS* guidance range of $2.18 - $2.32 as disclosed at Analyst Day in January 2022.
+
+
+Based off the midpoint of Exelon's 2021 Adjusted EPS* guidance range of $2.06 - $2.14 as disclosed at Analyst Day in January 2022.
+
+
+Dividend is subject to approval by Board of Directors.
+
+
+2023 earnings guidance based on expected average outstanding shares of 996M. ComEd's 2023 earnings guidance is based on a forward 30-year Treasury yield as of 1/31/2023.
+          
+
+
+
+
+          5
+        
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Exelon Corporation published this content on 14 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 14 February 2023 12:01:10 UTC.
+      
+

@@ -1,0 +1,115 @@
+
+
+
+        Resourcing projects has always been a bit of a dance for professional services-pairing up the needed skills with a client's project without missing a beat. Such matching has long been handled at the local level, with leaders often defaulting to the same tried-and-true talent again and again. The work gets done, even as professional services firms experience relatively high talent churn.
+      
+
+        But recent years find the industry facing a radically different tune. The talent market is now tighter than ever, with a record-low unemployment rate in the EU and nearly two open positions for every available worker in the U.S. 
+      
+
+        Many employees are reevaluating what they want and expect from an employer, while professional services firms are still iterating on remote and hybrid work models. At the same time, widespread economic uncertainty has increased client scrutiny and margin pressures. And heightened merger and acquisition activity and use of contingent talent are making it that much harder for firms to accurately understand the skills and capacities of their extended talent ecosystem.
+      
+
+        Some firms are sticking with the status quo-and struggling. Others are embracing automation and machine learning to unlock real-time visibility into their workforce and to make project resourcing dramatically more efficient, more effective, and more intelligent. 
+      
+
+        "You'll never take out the human element entirely," says Patrice Cappello, global head of professional services industry strategy at Workday. "But machine learning can work through so many more dimensions around who would make an ideal team for a particular project-helping the person tasked with resourcing make data-driven decisions faster, and with greater accuracy and confidence."
+      
+
+
+
+        "Tighter margins and clients' increasing sophistication in procuring resources are driving firms to rethink resource management, and we see the industry now takes automation much more seriously."
+      
+Patrice CappelloGlobal Head of Professional Services Industry StrategyWorkday
+
+
+
+        Such data-driven decisions can also positively impact the bottom line. Research by industry group Service Performance Insight found that using professional services automation lifted employee billable utilization by 4%. As the analysts note, for a 100-person firm with an average bill rate of $200 per hour, that 4% bump in utilization translates to 8,000 more billable hours each year-and $1.6 million in incremental revenue.
+      
+
+        Cappello recently joined Justin Joseph, Workday's senior director of product strategy for professional services industries, to talk through how intelligent resource management (IRM) is poised to reshape the industry and what professional services firms can do to maximize IRM's value.
+      
+
+        We've talked about automation in the professional services industry since the late 1990s. What's changed and why are firms now embracing intelligent technology?
+      
+
+Cappello: In the past, professional services firms were hesitant to put in the work required for real enterprisewide resource management. There was a sense that we know people are hiding resources, and we know that people are leaving, but it's mostly working fine. But the past few years have been a perfect storm for highlighting the vulnerabilities in that approach. Tighter margins and clients' increasing sophistication in procuring resources are driving firms to rethink resource management, and we see the industry now takes automation much more seriously. 
+      
+
+Joseph: Today's momentum toward IRM has also been accelerated by the shift to remote and hybrid work. New ways of working have made it far easier to build teams by pulling resources across the enterprise, regardless of locations and time zones. But it's also highlighted, for a lot of companies, how murky their visibility is on the real skills of their workforce. 
+      
+
+        Companies might have a skills taxonomy that they manage in spreadsheets, but that's not true management. And so they've been relying, basically, on people staffing projects with the people they know. That's not a scalable strategy-particularly in a remote or hybrid environment. 
+      
+
+        When we talk about IRM what do we mean? What makes IRM "intelligent"?
+      
+
+Joseph: From a software perspective, "intelligence" is almost synonymous with machine learning. For instance, let's focus on Workday Skills Cloud. It uses machine learning to cull information from a variety of sources-resumes, performance reviews, learning systems, the types of projects someone's been assigned to in the past-to build a skills ontology that's both comprehensive and continuously updated. That real-time, accurate understanding of your existing skills is all but impossible to achieve with a spreadsheet. 
+      
+
+        But that holistic skills ontology is just one part of IRM. You can take it so much further: pulling in customer relationship data, such as location or language preferences, and even the strategic importance of certain clients. You can combine cross-functional data from sales, marketing, HR [human resources], and finance, to really fine-tune the profitability of deploying certain resources or adjust pipeline assumptions.
+      
+
+
+
+        "Machine learning can remove some of the biases to ensure that work is being distributed equitably and that the right talent is being leveraged for the right projects across the enterprise."
+      
+Justin JosephSenior Director of Product Strategy for the Professional Services IndustriesWorkday
+
+
+
+        The software is able to take all of that data and make specific recommendations for resourcing a particular project, as well as alternative models. So when we say "intelligent" resource management, we're really talking about machine learning applied across different dimensions.
+      
+
+Cappello: It's worth noting that the bigger an organization grows, the more unpredictable resource management can be. Machine learning can do a lot of the heavy lifting when it comes to taking everything into account and optimizing recommendations. There's always that human element, because people are still making the decisions-but now with advanced tools. 
+      
+
+        How does IRM tie into talent development and retention?
+      
+
+Joseph: In professional services, people tend to work on the same projects over and over again. A partner or senior director might keep assigning the same resources, resulting in them being overworked or feeling restricted in their careers. At the same time, new hires or employees with new skills can be overlooked and underutilized, simply because it's hard to break in. So you wind up with one person who's burnt out and another who's languishing on the bench-and neither employee feels like they're growing. 
+      
+
+        Machine learning can remove some of the biases to ensure that work is being distributed equitably and that the right talent is being leveraged for the right projects across the enterprise. And because IRM centers on workforce data-including skills, capabilities, and career interests and ambitions-the recommendations are designed to continually stretch and strengthen employee skills. That can be a real competitive advantage in an industry where growth so often takes a back seat to pressing client demands. 
+      
+
+Cappello: Talent supply chains have always been critical in professional services. But there's such a massive talent shortage right now, firms are actively evolving strategies to handle increased work with a decreased workforce. Finding ways to not only deploy the right talent but to also grow existing skill sets is a clear win, in that regard. 
+      
+
+        For firms looking to elevate their resource management, where should they focus first? 
+      
+
+Cappello: I'd point to a few things, but the very first is data accuracy. Good resource management is only possible if you have accurate data about your workforce-that's really the backbone of any system, regardless of the technology used. We hear from firms who are rushing to assign new hires to projects and so delay onboarding or don't take a full inventory of their skills. To which I say: Stop it! Without workforce data, your resource management is hampered right from the start.
+      
+
+        I'd also suggest taking detailed stock of how your company tracks skills across the workforce. If it's basically a spreadsheet that's rarely updated or knowledge that sits inside someone's head, there's no question that will prove to be a pain point. Especially with a worker shortage, companies have to know what skills are available and when. Connected, real-time data helps firms optimize the workforce they have and capitalize on new opportunities more quickly.
+      
+
+        Finally, I'd look at staffing processes, in regard to resource management. How formal is the process and who's involved? Do you see high rates of resource hoarding? Are the same people pulling in the same resources, time after time? How does the process align with business needs and goals across the organization? How has it been impacted by the new dynamics of remote or hybrid work? 
+      
+
+Joseph: What we're seeing is that professional services, as an industry, shows little interest in returning to operations as they were a few years ago. Firms are already moving down the path of better understanding who their people are, in order to improve project matching, fill talent gaps, and grow their workforce for tomorrow. And often the best step is simply taking the first step. Get started, and the early benefits you see from IRM can help build momentum on your journey.
+      
+
+To learn more about how Workday helps professional services firms with intelligent resource management and drives digital transformation, visit our website.
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Workday Inc. published this content on 05 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 05 January 2023 18:37:04 UTC.
+      
+

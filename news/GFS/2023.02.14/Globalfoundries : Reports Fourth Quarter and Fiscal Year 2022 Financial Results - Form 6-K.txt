@@ -1,0 +1,4402 @@
+
+
+      GlobalFoundries Reports Fourth Quarter and Fiscal Year 2022 Financial Results
+    
+
+      Record Revenue, Gross Margin, Adjusted EBITDA, and Net Income
+    
+
+
+
+
+      Malta, New York, February 14, 2023 - GlobalFoundries Inc. (GF) (Nasdaq: GFS) today announced preliminary financial results for the fourth quarter and fiscal year ended December 31, 2022.
+    
+
+      Key Fourth Quarter Financial Highlights
+    
+
+      •Revenue of $2,101 million, up 14% year-over-year.
+    
+
+      •Gross margin of 29.6% and adjusted gross margin of 30.1%.
+    
+
+      •Net income of $668 million.
+    
+
+      •Adjusted EBITDA of $821 million.
+    
+
+      •Cash, cash equivalents and marketable securities of $3,346 million.
+    
+
+      Key Full Year 2022 Financial Highlights
+    
+
+      •Revenue of $8,108 million, up 23% year-over-year.
+    
+
+      •Gross margin of 27.6% and adjusted gross margin of 28.4%.
+    
+
+      •Net income margin of 17.8% and adjusted EBITDA margin of 38.1%.
+    
+
+
+
+
+      "Our revenue in 2022 grew 23% year-over-year, and we delivered record gross margin and net income, making significant progress toward our long-term financial model," said CEO Dr. Thomas Caulfield. "In the fourth quarter, the GF team continued to execute on its commitments to customers and shareholders, despite the well-publicized inventory correction. As we look to 2023, we will continue to deepen our engagements with our customers in bringing specialty and differentiated solutions to market."
+    
+
+
+
+
+      Recent Business Highlights
+    
+
+
+
+
+      •GF and General Motors jointly announced that General Motors has entered into a long-term agreement with GF to secure a capacity corridor in our advanced Fab in Upstate NY for GM's U.S. supply chain. This first-of-its-kind, multi-year agreement brings a critical process to the U.S. and supports GM's strategy to reduce the number of unique chips needed to power increasingly complex and tech-laden vehicles.
+    
+
+
+
+
+      •GF announced that it has acquired Renesas Electronics Corporation's proprietary and production-proven Conductive Bridging Random Access Memory (CBRAM) Technology, a low power memory solution designed to enable a range of applications in home and industrial IoT and smart mobile devices. The transaction further strengthens GF's memory portfolio and extends its roadmap of embedded nonvolatile memory solutions that is easy to integrate into other technology nodes.
+    
+
+
+
+
+      •GF completed the sale of its East Fishkill, NY, facility to onsemi, on December 31, 2022, for a final purchase price of $406m. The deal enables GlobalFoundries to further optimize our assets globally and intensify our investments in the differentiated technologies that fuel our growth while securing a long-term future for the East Fishkill facility and its employees.
+    
+
+
+
+
+      Page 1 of 10
+    
+
+
+
+
+      Unaudited Summary Quarterly Results (in millions USD, except per share amounts and wafer shipments)
+    
+
+
+
+
+
+
+
+
+
+
+
+            Year-over-year
+          
+
+            Sequential
+          
+
+
+
+            Q4'22
+          
+
+            Q3'22
+          
+
+            Q4'21
+          
+
+            Q4'22 vs Q4'21
+          
+
+            Q4'22 vs Q3'22
+          
+
+
+
+
+
+
+
+            Net revenue
+          
+
+            $
+          
+
+            2,101
+          
+
+            $
+          
+
+            2,074
+          
+
+            $
+          
+
+            1,847
+          
+
+            $
+          
+
+            254
+          
+
+            14
+          
+
+            %
+          
+
+            $
+          
+
+            27
+          
+
+            1
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Gross profit
+          
+
+            622
+          
+
+            610
+          
+
+            384
+          
+
+            $
+          
+
+            238
+          
+
+            62
+          
+
+            %
+          
+
+            $
+          
+
+            12
+          
+
+            2
+          
+
+            %
+          
+
+
+
+            Gross margin
+          
+
+            29.6 
+          
+
+            %
+          
+
+            29.4 
+          
+
+            %
+          
+
+            20.8 
+          
+
+            %
+          
+
+            +880bps
+          
+
+            +20bps
+          
+
+
+
+
+
+
+
+
+              Adjusted gross profit(1)
+            
+
+
+            $
+          
+
+            633
+          
+
+            $
+          
+
+            621
+          
+
+            $
+          
+
+            397
+          
+
+            $
+          
+
+            236
+          
+
+            59
+          
+
+            %
+          
+
+            $
+          
+
+            12
+          
+
+            2
+          
+
+            %
+          
+
+
+
+            Adjusted gross margin
+          
+
+            30.1 
+          
+
+            %
+          
+
+            29.9 
+          
+
+            %
+          
+
+            21.5 
+          
+
+            %
+          
+
+            +860bps
+          
+
+            +20bps
+          
+
+
+
+
+
+
+
+            Operating profit
+          
+
+            $
+          
+
+            288
+          
+
+            $
+          
+
+            357
+          
+
+            $
+          
+
+            87
+          
+
+            $
+          
+
+            201
+          
+
+            231
+          
+
+            %
+          
+
+            $
+          
+
+            (69)
+          
+
+            (19)
+          
+
+            %
+          
+
+
+
+            Operating margin
+          
+
+            13.7 
+          
+
+            %
+          
+
+            17.2 
+          
+
+            %
+          
+
+            4.7 
+          
+
+            %
+          
+
+            +900bps
+          
+
+            (350)bps
+          
+
+
+
+
+
+
+
+
+              Adjusted operating profit(1)
+            
+
+
+            $
+          
+
+            425
+          
+
+            $
+          
+
+            389
+          
+
+            $
+          
+
+            142
+          
+
+            $
+          
+
+            283
+          
+
+            199
+          
+
+            %
+          
+
+            $
+          
+
+            36
+          
+
+            9
+          
+
+            %
+          
+
+
+
+            Adjusted operating margin
+          
+
+            20.2 
+          
+
+            %
+          
+
+            18.8 
+          
+
+            %
+          
+
+            7.7 
+          
+
+            %
+          
+
+            +1,250bps
+          
+
+            +140bps
+          
+
+
+
+
+
+
+
+
+              Net income(2)
+            
+
+
+            $
+          
+
+            668
+          
+
+            $
+          
+
+            336
+          
+
+            $
+          
+
+            43
+          
+
+            $
+          
+
+            625
+          
+
+            1,453
+          
+
+            %
+          
+
+            $
+          
+
+            332
+          
+
+            99
+          
+
+            %
+          
+
+
+
+            Net income margin
+          
+
+            31.8 
+          
+
+            %
+          
+
+            16.2 
+          
+
+            %
+          
+
+            2.3 
+          
+
+            %
+          
+
+            +2,950bps
+          
+
+            +1,560bps
+          
+
+
+
+
+
+
+
+
+              Adjusted net income(1)(2)(3)
+            
+
+
+            $
+          
+
+            800
+          
+
+            $
+          
+
+            368
+          
+
+            $
+          
+
+            98
+          
+
+            $
+          
+
+            702
+          
+
+            716
+          
+
+            %
+          
+
+            $
+          
+
+            432
+          
+
+            117
+          
+
+            %
+          
+
+
+
+            Adjusted net income margin
+          
+
+            38.1 
+          
+
+            %
+          
+
+            17.7 
+          
+
+            %
+          
+
+            5.3 
+          
+
+            %
+          
+
+            +3,280bps
+          
+
+            +2,040bps
+          
+
+
+
+
+
+
+
+            Diluted earnings per share ("EPS")
+          
+
+            $
+          
+
+            1.21
+          
+
+            $
+          
+
+            0.61
+          
+
+            $
+          
+
+            0.08
+          
+
+            $
+          
+
+            1.13
+          
+
+            1,413
+          
+
+            %
+          
+
+            $
+          
+
+            0.60
+          
+
+            98
+          
+
+            %
+          
+
+
+
+
+
+
+
+
+              Adjusted diluted earnings per share(1)
+            
+
+
+            $
+          
+
+            1.44
+          
+
+            $
+          
+
+            0.67
+          
+
+            $
+          
+
+            0.18
+          
+
+            $
+          
+
+            1.26
+          
+
+            700
+          
+
+            %
+          
+
+            $
+          
+
+            0.77
+          
+
+            115
+          
+
+            %
+          
+
+
+
+
+
+
+
+
+              Adjusted EBITDA(1)(4)
+            
+
+
+            $
+          
+
+            821
+          
+
+            $
+          
+
+            793
+          
+
+            $
+          
+
+            584
+          
+
+            $
+          
+
+            237
+          
+
+            41
+          
+
+            %
+          
+
+            $
+          
+
+            28
+          
+
+            4
+          
+
+            %
+          
+
+
+
+            Adjusted EBITDA margin
+          
+
+            39.1 
+          
+
+            %
+          
+
+            38.2 
+          
+
+            %
+          
+
+            31.6 
+          
+
+            %
+          
+
+            +750bps
+          
+
+            +90bps
+          
+
+
+
+
+
+
+
+            Cash from operations
+          
+
+            $
+          
+
+            491
+          
+
+            $
+          
+
+            679
+          
+
+            $
+          
+
+            1,148
+          
+
+            $
+          
+
+            (657)
+          
+
+            (57)
+          
+
+            %
+          
+
+            $
+          
+
+            (188)
+          
+
+            (28)
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Wafer shipments (300mm equivalent) (in thousands)
+          
+
+            580
+          
+
+            637
+          
+
+            622
+          
+
+            (42)
+          
+
+            (7)
+          
+
+            %
+          
+
+            (57)
+          
+
+            (9)
+          
+
+            %
+          
+
+
+
+
+
+
+
+
+      (1) Adjusted gross profit, adjusted operating profit, adjusted net income, adjusted diluted earnings per share, and adjusted EBITDA are adjusted non-IFRS metrics; please see the reconciliation of IFRS to adjusted non-IFRS metrics in the section "Unaudited Reconciliation of IFRS to Adjusted non-IFRS" below.
+    
+
+
+
+
+      (2) Includes the gain on sale of our EFK business in December 2022.
+    
+
+
+
+
+      (3) Beginning in Q4 2022, the Company has revised its definition of adjusted net income to include an adjustment for restructuring charges and the associated tax impact. The change was made due to a restructuring undertaken in Q4 2022. The Company believes the revised definition provides management and investors with more useful information to evaluate the operations of our business. Adjusted net income (loss) is now defined as net income (loss) adjusted for share-based compensation expense, restructuring charges and the associated tax impact.
+    
+
+
+
+
+      (4) Beginning in Q3 2022, the Company has revised its definition of adjusted EBITDA to include an adjustment for finance income. The change was made due to the Company making an investment during Q2 2022 of approximately $1.0 billion in marketable securities. The Company believes the revised definition provides management and investors more useful information to evaluate the operations of our business. Adjusted EBITDA is now defined as net income (loss), adjusted for the impact of finance expense, finance income, income tax expense, depreciation, amortization, share-based compensation expense, transaction gains and associated expenses, restructuring charges, labor optimization initiatives and litigation settlement.
+    
+
+
+
+
+      Page 2 of 10
+    
+
+
+
+
+      Unaudited Summary Annual Results (in millions USD, except per share amounts and wafer shipments)
+    
+
+
+
+
+
+
+
+
+
+
+
+            Year-over-year
+          
+
+
+
+            FY2022
+          
+
+            FY2021
+          
+
+            FY22 vs FY21
+          
+
+
+
+
+
+
+
+            Net revenue
+          
+
+            $
+          
+
+            8,108
+          
+
+            $
+          
+
+            6,585
+          
+
+            $
+          
+
+            1,523
+          
+
+            23
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Gross profit
+          
+
+            2,239
+          
+
+            $
+          
+
+            1,013
+          
+
+            $
+          
+
+            1,226
+          
+
+            121
+          
+
+            %
+          
+
+
+
+            Gross margin
+          
+
+            27.6 
+          
+
+            %
+          
+
+            15.4 
+          
+
+            %
+          
+
+            +1,220bps
+          
+
+
+
+
+
+
+
+
+              Adjusted gross profit(1)
+            
+
+
+            $
+          
+
+            2,303
+          
+
+            $
+          
+
+            1,068
+          
+
+            $
+          
+
+            1,235
+          
+
+            116
+          
+
+            %
+          
+
+
+
+            Adjusted gross margin
+          
+
+            28.4 
+          
+
+            %
+          
+
+            16.2 
+          
+
+            %
+          
+
+            +1,220bps
+          
+
+
+
+
+
+
+
+            Operating profit (loss)
+          
+
+            $
+          
+
+            1,167
+          
+
+            $
+          
+
+            (60)
+          
+
+            $
+          
+
+            1,227
+          
+
+            2,045
+          
+
+            %
+          
+
+
+
+            Operating margin
+          
+
+            14.4 
+          
+
+            %
+          
+
+            (0.9)
+          
+
+            %
+          
+
+            +1,530bps
+          
+
+
+
+
+
+
+
+
+              Adjusted operating profit(1)
+            
+
+
+            $
+          
+
+            1,443
+          
+
+            $
+          
+
+            168
+          
+
+            $
+          
+
+            1,275
+          
+
+            759
+          
+
+            %
+          
+
+
+
+            Adjusted operating margin
+          
+
+            17.8 
+          
+
+            %
+          
+
+            2.6 
+          
+
+            %
+          
+
+            +1,520bps
+          
+
+
+
+
+
+
+
+
+              Net income (loss)(2)
+            
+
+
+            $
+          
+
+            1,446
+          
+
+            $
+          
+
+            (254)
+          
+
+            $
+          
+
+            1,700
+          
+
+            669
+          
+
+            %
+          
+
+
+
+            Net income margin
+          
+
+            17.8 
+          
+
+            %
+          
+
+            (3.9)
+          
+
+            %
+          
+
+            +2,170bps
+          
+
+
+
+
+
+
+
+
+              Adjusted net income (loss)(1)(2)(3)
+            
+
+
+            $
+          
+
+            1,717
+          
+
+            $
+          
+
+            (26)
+          
+
+            $
+          
+
+            1,743
+          
+
+            6,704
+          
+
+            %
+          
+
+
+
+            Adjusted net income(loss) margin
+          
+
+            21.2 
+          
+
+            %
+          
+
+            (0.4)
+          
+
+            %
+          
+
+            +2,160bps
+          
+
+
+
+
+
+
+
+            Diluted EPS
+          
+
+            $
+          
+
+            2.62
+          
+
+            $
+          
+
+            (0.49)
+          
+
+            $
+          
+
+            3.11
+          
+
+            635
+          
+
+            %
+          
+
+
+
+
+
+
+
+
+              Adjusted diluted earnings per share(1)
+            
+
+
+            $
+          
+
+            3.11
+          
+
+            $
+          
+
+            (0.05)
+          
+
+            $
+          
+
+            3.16
+          
+
+            6,320
+          
+
+            %
+          
+
+
+
+
+
+
+
+
+              Adjusted EBITDA(1)(4)
+            
+
+
+            $
+          
+
+            3,088
+          
+
+            $
+          
+
+            1,848
+          
+
+            $
+          
+
+            1,240
+          
+
+            67
+          
+
+            %
+          
+
+
+
+            Adjusted EBITDA margin
+          
+
+            38.1 
+          
+
+            %
+          
+
+            28.1 
+          
+
+            %
+          
+
+            +1,000bps
+          
+
+
+
+
+
+
+
+            Cash from operations
+          
+
+            $
+          
+
+            2,624
+          
+
+            $
+          
+
+            2,839
+          
+
+            $
+          
+
+            (215)
+          
+
+            8
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Wafer shipments (300mm equivalent) (in thousands)
+          
+
+            2,472
+          
+
+            2,374
+          
+
+            98
+          
+
+            4
+          
+
+            %
+          
+
+
+
+
+
+
+
+
+      (1) Adjusted gross profit, adjusted operating profit, adjusted net income, adjusted diluted earnings per share, and adjusted EBITDA are adjusted non-IFRS metrics; please see the reconciliation of IFRS to adjusted non-IFRS metrics in the section "Unaudited Reconciliation of IFRS to Adjusted non-IFRS" below.
+    
+
+
+
+
+      (2) Includes the gain on sale of our EFK business in December 2022.
+    
+
+
+
+
+      (3) Beginning in Q4 2022, the Company has revised its definition of adjusted net income to include an adjustment for restructuring charges and the associated tax impact. The change was made due to a restructuring undertaken in Q4 2022. The Company believes the revised definition provides management and investors with more useful information to evaluate the operations of our business. Adjusted net income (loss) is now defined as net income (loss) adjusted for share-based compensation expense, restructuring charges and the associated tax impact.
+    
+
+
+
+
+      (4) Beginning in Q3 2022, the Company has revised its definition of adjusted EBITDA to include an adjustment for finance income. The change was made due to the Company making an investment during Q2 2022 of approximately $1.0 billion in marketable securities. The Company believes the revised definition provides management and investors more useful information to evaluate the operations of our business. Adjusted EBITDA is now defined as net income (loss), adjusted for the impact of finance expense, finance income, income tax expense, depreciation, amortization, share-based compensation expense, transaction gains and associated expenses, restructuring charges, labor optimization initiatives and litigation settlement.
+    
+
+      Page 3 of 10
+    
+
+
+
+
+
+
+
+      Summary of First Quarter 2023 Outlook (unaudited in millions USD, except per share amounts)(1)
+    
+
+
+
+
+
+
+
+
+
+
+
+            IFRS
+          
+
+            Share-based compensation
+          
+
+            Non-IFRS Adjusted
+          
+
+
+
+            Net revenue
+          
+
+            $1,810 - $1,850
+          
+
+            -
+          
+
+            -
+          
+
+
+
+            Gross Profit
+          
+
+            $481 - $512
+          
+
+            $15- $17
+          
+
+            $498 - $527
+          
+
+
+
+            Gross Margin (mid-point)
+          
+
+            27.1%
+          
+
+            28.0%
+          
+
+
+
+            Operating Profit
+          
+
+            $233 - $282
+          
+
+            $40 - $50
+          
+
+            $283 - $322
+          
+
+
+
+            Operating Margin (mid-point)
+          
+
+            14.1%
+          
+
+            16.5%
+          
+
+
+
+            Net Income
+          
+
+            $202 - $257
+          
+
+            $40 - $50
+          
+
+            $252 - $297
+          
+
+
+
+            Net Income Margin (mid-point)
+          
+
+            12.5%
+          
+
+            15.0%
+          
+
+
+
+            Diluted EPS
+          
+
+            $0.36 - $0.46
+          
+
+            $0.45 - $0.53
+          
+
+
+
+
+              Adjusted EBITDA(2)
+            
+
+
+            NA
+          
+
+            $667 - $722
+          
+
+
+
+            Adj. EBITDA Margin (mid-point)
+          
+
+            37.9%
+          
+
+
+
+
+      (1)The guidance provided above contains forward-looking statements as defined in the U.S. Private Securities Litigation Act of 1995, and is subject to the safe harbors created therein. The guidance includes management's beliefs and assumptions and is based on information currently available. GF has not provided a reconciliation of its First Fiscal Quarter outlook for adjusted Non-IFRS EBITDA and related Margin because estimates of all of the reconciling items cannot be provided without unreasonable efforts. Certain factors that are materially significant to GF's ability to estimate these items are out of its control and/or cannot be reasonably predicted.
+    
+
+
+
+
+      (2)Reflects change to adjusted EBITDA definition discussed in more detail elsewhere in this release.
+    
+
+
+
+
+      Unaudited Consolidated Statements of Operations
+    
+
+
+
+
+
+
+
+
+
+
+
+            Three Months Ended
+          
+
+            Year Ended
+          
+
+
+
+            (in millions USD, except for per share amounts)
+          
+
+            December 31, 2022
+          
+
+            December 31, 2021
+          
+
+            December 31, 2022
+          
+
+            December 31, 2021
+          
+
+
+
+
+
+
+
+            Net revenue
+          
+
+            $
+          
+
+            2,101
+          
+
+            $
+          
+
+            1,847
+          
+
+            $
+          
+
+            8,108
+          
+
+            $
+          
+
+            6,585
+          
+
+
+
+            Cost of revenue
+          
+
+            1,479 
+          
+
+            1,463 
+          
+
+            5,869 
+          
+
+            5,572 
+          
+
+
+
+            Gross profit
+          
+
+            $
+          
+
+            622
+          
+
+            $
+          
+
+            384
+          
+
+            $
+          
+
+            2,239
+          
+
+            $
+          
+
+            1,013
+          
+
+
+
+            Operating expenses:
+          
+
+
+
+            Research and development
+          
+
+            110 
+          
+
+            130 
+          
+
+            482 
+          
+
+            478 
+          
+
+
+
+            Sales, marketing, general and administrative
+          
+
+            130 
+          
+
+            167 
+          
+
+            496 
+          
+
+            595 
+          
+
+
+
+            Restructuring charges
+          
+
+            94 
+          
+
+            - 
+          
+
+            94 
+          
+
+            - 
+          
+
+
+
+            Total operating expenses
+          
+
+            $
+          
+
+            334
+          
+
+            $
+          
+
+            297
+          
+
+            $
+          
+
+            1,072
+          
+
+            $
+          
+
+            1,073
+          
+
+
+
+            Operating profit (loss)
+          
+
+            $
+          
+
+            288
+          
+
+            $
+          
+
+            87
+          
+
+            $
+          
+
+            1,167
+          
+
+            $
+          
+
+            (60)
+          
+
+
+
+            Finance expense, net
+          
+
+            (2)
+          
+
+            (26)
+          
+
+            (60)
+          
+
+            (108)
+          
+
+
+
+            Other income (expense)
+          
+
+            (13)
+          
+
+            8 
+          
+
+            22 
+          
+
+            (8)
+          
+
+
+
+            Gain on sale of a business
+          
+
+            403 
+          
+
+            403 
+          
+
+
+
+            Income tax expense
+          
+
+            (8)
+          
+
+            (26)
+          
+
+            (86)
+          
+
+            (78)
+          
+
+
+
+            Net income (loss)
+          
+
+            $
+          
+
+            668
+          
+
+            $
+          
+
+            43
+          
+
+            $
+          
+
+            1,446
+          
+
+            $
+          
+
+            (254)
+          
+
+
+
+            Attributable to:
+          
+
+
+
+            Shareholders of GlobalFoundries
+          
+
+            668 
+          
+
+            44 
+          
+
+            1,448 
+          
+
+            (250)
+          
+
+
+
+            Non-controlling interest
+          
+
+            - 
+          
+
+            (1)
+          
+
+            (2)
+          
+
+            (4)
+          
+
+
+
+            Earnings (Loss) per share :
+          
+
+
+
+            Basic
+          
+
+            $
+          
+
+            1.22 
+          
+
+            $
+          
+
+            0.08 
+          
+
+            $
+          
+
+            2.69 
+          
+
+            $
+          
+
+            (0.49)
+          
+
+
+
+            Diluted
+          
+
+            $
+          
+
+            1.21 
+          
+
+            $
+          
+
+            0.08 
+          
+
+            $
+          
+
+            2.62 
+          
+
+            $
+          
+
+            (0.49)
+          
+
+
+
+            Shares used in earnings per share calculation:
+          
+
+
+
+            Basic
+          
+
+            546 
+          
+
+            522 
+          
+
+            539 
+          
+
+            506 
+          
+
+
+
+            Diluted
+          
+
+            554 
+          
+
+            540 
+          
+
+            552 
+          
+
+            506 
+          
+
+
+
+
+      Page 4 of 10
+    
+
+
+
+
+      Unaudited Consolidated Statements of Financial Position
+    
+
+
+
+
+
+
+
+
+
+
+
+            (in millions USD)
+          
+
+            December 31, 2022
+          
+
+            December 31, 2021
+          
+
+
+
+
+
+
+
+            Assets:
+          
+
+
+
+            Cash and cash equivalents
+          
+
+            $
+          
+
+            2,352 
+          
+
+            $
+          
+
+            2,939 
+          
+
+
+
+            Receivables, prepayments and other
+          
+
+            1,487 
+          
+
+            1,231 
+          
+
+
+
+            Marketable securities
+          
+
+            622 
+          
+
+            - 
+          
+
+
+
+            Inventories
+          
+
+            1,339 
+          
+
+            1,121 
+          
+
+
+
+            Current assets
+          
+
+            $
+          
+
+            5,800
+          
+
+            $
+          
+
+            5,291
+          
+
+
+
+            Deferred tax assets
+          
+
+            $
+          
+
+            292 
+          
+
+            $
+          
+
+            353 
+          
+
+
+
+            Property, plant, and equipment, net
+          
+
+            10,596 
+          
+
+            8,713 
+          
+
+
+
+            Marketable securities
+          
+
+            372 
+          
+
+            - 
+          
+
+
+
+            Other assets
+          
+
+            781 
+          
+
+            671 
+          
+
+
+
+            Non-current assets
+          
+
+            $
+          
+
+            12,041
+          
+
+            $
+          
+
+            9,737
+          
+
+
+
+            Total assets
+          
+
+            $
+          
+
+            17,841
+          
+
+            $
+          
+
+            15,028
+          
+
+
+
+            Liabilities and equity:
+          
+
+
+
+            Current portion of long-term debt
+          
+
+            $
+          
+
+            223 
+          
+
+            $
+          
+
+            297 
+          
+
+
+
+            Other current liabilities
+          
+
+            3,136 
+          
+
+            2,866 
+          
+
+
+
+            Current liabilities
+          
+
+            $
+          
+
+            3,359
+          
+
+            $
+          
+
+            3,163
+          
+
+
+
+            Non-current portion of long-term debt
+          
+
+            $
+          
+
+            2,288 
+          
+
+            $
+          
+
+            1,716 
+          
+
+
+
+            Other liabilities
+          
+
+            2,234 
+          
+
+            2,116 
+          
+
+
+
+            Non-current liabilities
+          
+
+            $
+          
+
+            4,522
+          
+
+            $
+          
+
+            3,832
+          
+
+
+
+            Shareholders' equity:
+          
+
+
+
+            Common stock/additional paid-in capital
+          
+
+            $
+          
+
+            23,842 
+          
+
+            $
+          
+
+            23,498 
+          
+
+
+
+            Accumulated deficit
+          
+
+            (14,021)
+          
+
+            (15,469)
+          
+
+
+
+            Accumulated other comprehensive (loss)
+          
+
+            92 
+          
+
+            (54)
+          
+
+
+
+            Non-controlling interest
+          
+
+            47 
+          
+
+            58 
+          
+
+
+
+            Total liabilities and equity
+          
+
+            $
+          
+
+            17,841
+          
+
+            $
+          
+
+            15,028
+          
+
+
+
+
+
+
+
+      Page 5 of 10
+    
+
+
+
+
+
+
+
+      Unaudited Consolidated Statements of Cash Flows
+    
+
+
+
+
+
+
+
+
+
+
+
+            Three Months Ended
+          
+
+            Year Ended
+          
+
+
+
+            (in millions USD)
+          
+
+            December 31, 2022
+          
+
+            December 31, 2021
+          
+
+            December 31, 2022
+          
+
+            December 31, 2021
+          
+
+
+
+
+
+
+
+            Cash flows from operating activities:
+          
+
+
+
+            Net income (loss)
+          
+
+            $
+          
+
+            668
+          
+
+            $
+          
+
+            43
+          
+
+            $
+          
+
+            1,446
+          
+
+            $
+          
+
+            (254)
+          
+
+
+
+            Depreciation and amortization
+          
+
+            409 
+          
+
+            419 
+          
+
+            1,623 
+          
+
+            1,619 
+          
+
+
+
+            Gain on the sale of a fabrication facility
+          
+
+            (403)
+          
+
+            - 
+          
+
+            (403)
+          
+
+            - 
+          
+
+
+
+
+              Finance expense, net and other(1)
+            
+
+
+            (3)
+          
+
+            (6)
+          
+
+            1 
+          
+
+            1 
+          
+
+
+
+            Deferred income taxes
+          
+
+            30 
+          
+
+            40 
+          
+
+            82 
+          
+
+            93 
+          
+
+
+
+            Other non-cash operating activities
+          
+
+            16 
+          
+
+            23 
+          
+
+            50 
+          
+
+            150 
+          
+
+
+
+            Net change in working capital
+          
+
+            (226)
+          
+
+            629 
+          
+
+            (175)
+          
+
+            1,230 
+          
+
+
+
+            Net cash provided by operating activities
+          
+
+            $
+          
+
+            491
+          
+
+            $
+          
+
+            1,148
+          
+
+            $
+          
+
+            2,624
+          
+
+            $
+          
+
+            2,839
+          
+
+
+
+
+
+
+
+            Cash flows from investing activities:
+          
+
+
+
+            Purchases of property, plant, equipment, and intangible assets
+          
+
+            $
+          
+
+            (991)
+          
+
+            $
+          
+
+            (649)
+          
+
+            $
+          
+
+            (3,059)
+          
+
+            $
+          
+
+            (1,766)
+          
+
+
+
+            Other investing activities
+          
+
+            (60)
+          
+
+            23 
+          
+
+            (999)
+          
+
+            316 
+          
+
+
+
+            Net cash used in investing activities
+          
+
+            $
+          
+
+            (1,051)
+          
+
+            $
+          
+
+            (626)
+          
+
+            $
+          
+
+            (4,058)
+          
+
+            $
+          
+
+            (1,450)
+          
+
+
+
+
+
+
+
+            Cash flows from financing activities:
+          
+
+
+
+            Proceeds from issuance of equity instruments
+          
+
+            $
+          
+
+            12 
+          
+
+            $
+          
+
+            1,444 
+          
+
+            $
+          
+
+            168 
+          
+
+            $
+          
+
+            1,444 
+          
+
+
+
+            Repayments of shareholder loan
+          
+
+            - 
+          
+
+            - 
+          
+
+            - 
+          
+
+            (568)
+          
+
+
+
+            Proceeds (repayment) of debt, net
+          
+
+            255 
+          
+
+            (72)
+          
+
+            581 
+          
+
+            (343)
+          
+
+
+
+            Other financing activities
+          
+
+            93 
+          
+
+            27 
+          
+
+            93 
+          
+
+            117 
+          
+
+
+
+            Net cash provided by financing activities
+          
+
+            $
+          
+
+            360
+          
+
+            $
+          
+
+            1,399
+          
+
+            $
+          
+
+            842
+          
+
+            842,000,000
+          
+
+            $
+          
+
+            650
+          
+
+
+
+            Effect of exchange rate changes
+          
+
+            11 
+          
+
+            (1)
+          
+
+            5 
+          
+
+            (8)
+          
+
+
+
+            Net change in cash and cash equivalents
+          
+
+            $
+          
+
+            (189)
+          
+
+            $
+          
+
+            1,920
+          
+
+            $
+          
+
+            (587)
+          
+
+            $
+          
+
+            2,031
+          
+
+
+
+            Cash and cash equivalents at the beginning of the period
+          
+
+            2,541 
+          
+
+            1,019 
+          
+
+            2,939 
+          
+
+            908 
+          
+
+
+
+            Cash and cash equivalents at the end of the period
+          
+
+            $
+          
+
+            2,352
+          
+
+            $
+          
+
+            2,939
+          
+
+            $
+          
+
+            2,352
+          
+
+            $
+          
+
+            2,939
+          
+
+
+
+
+
+
+
+
+
+
+
+
+              (1) Finance expense, net and other has been adjusted to include interest and taxes paid that were previously included in "Other non-cash operating activities." Prior period amounts have been adjusted accordingly.
+            
+
+
+
+
+
+      Page 6 of 10
+    
+
+
+
+
+
+
+
+      Unaudited Reconciliation of IFRS to Adjusted Non-IFRS
+    
+
+
+
+
+
+
+
+
+            Three Months Ended
+          
+
+            Year Ended
+          
+
+
+
+            (in millions USD)
+          
+
+            December 31, 2022
+          
+
+            September 30, 2022
+          
+
+            December 31, 2021
+          
+
+            December 31, 2022
+          
+
+            December 31, 2021
+          
+
+
+
+
+
+
+
+            Gross profit
+          
+
+            $
+          
+
+            622
+          
+
+            $
+          
+
+            610
+          
+
+            $
+          
+
+            384
+          
+
+            $
+          
+
+            2,239
+          
+
+            $
+          
+
+            1,013
+          
+
+
+
+            Gross profit margin
+          
+
+            29.6 
+          
+
+            %
+          
+
+            29.4 
+          
+
+            %
+          
+
+            20.8 
+          
+
+            %
+          
+
+            27.6 
+          
+
+            %
+          
+
+            15.4 
+          
+
+            %
+          
+
+
+
+            Share based compensation
+          
+
+            $
+          
+
+            11 
+          
+
+            $
+          
+
+            11 
+          
+
+            $
+          
+
+            13 
+          
+
+            $
+          
+
+            64 
+          
+
+            $
+          
+
+            55 
+          
+
+
+
+            Adjusted gross profit
+          
+
+            $
+          
+
+            633
+          
+
+            $
+          
+
+            621
+          
+
+            $
+          
+
+            397
+          
+
+            $
+          
+
+            2,303
+          
+
+            $
+          
+
+            1,068
+          
+
+
+
+            Adjusted gross margin
+          
+
+            30.1 
+          
+
+            %
+          
+
+            29.9 
+          
+
+            %
+          
+
+            21.5 
+          
+
+            %
+          
+
+            28.4 
+          
+
+            %
+          
+
+            16.2 
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Operating profit (loss)
+          
+
+            $
+          
+
+            288
+          
+
+            $
+          
+
+            357
+          
+
+            $
+          
+
+            87
+          
+
+            $
+          
+
+            1,167
+          
+
+            $
+          
+
+            (60)
+          
+
+
+
+            Operating profit margin
+          
+
+            13.7 
+          
+
+            %
+          
+
+            17.2 
+          
+
+            %
+          
+
+            4.7 
+          
+
+            %
+          
+
+            14.4 
+          
+
+            %
+          
+
+            (0.9)
+          
+
+            %
+          
+
+
+
+            Share based compensation
+          
+
+            $
+          
+
+            43 
+          
+
+            $
+          
+
+            32 
+          
+
+            $
+          
+
+            55 
+          
+
+            $
+          
+
+            182 
+          
+
+            $
+          
+
+            228 
+          
+
+
+
+
+              Restructuring charges(1)
+            
+
+
+            $
+          
+
+            94 
+          
+
+            - 
+          
+
+            - 
+          
+
+            $
+          
+
+            94 
+          
+
+            - 
+          
+
+
+
+            Adjusted operating profit
+          
+
+            $
+          
+
+            425
+          
+
+            $
+          
+
+            389
+          
+
+            $
+          
+
+            142
+          
+
+            $
+          
+
+            1,443
+          
+
+            $
+          
+
+            168
+          
+
+
+
+            Adjusted operating profit margin
+          
+
+            20.2 
+          
+
+            %
+          
+
+            18.8 
+          
+
+            %
+          
+
+            7.7 
+          
+
+            %
+          
+
+            17.8 
+          
+
+            %
+          
+
+            2.6 
+          
+
+            %
+          
+
+
+
+
+
+
+
+
+              Net income (loss)(2)
+            
+
+
+            $
+          
+
+            668
+          
+
+            $
+          
+
+            336
+          
+
+            $
+          
+
+            43
+          
+
+            $
+          
+
+            1,446 
+          
+
+            $
+          
+
+            (254)
+          
+
+
+
+            Net income (loss) margin
+          
+
+            31.8 
+          
+
+            %
+          
+
+            16.2 
+          
+
+            %
+          
+
+            2.3 
+          
+
+            %
+          
+
+            17.8 
+          
+
+            %
+          
+
+            (3.9)
+          
+
+            %
+          
+
+
+
+            Share based compensation
+          
+
+            $
+          
+
+            43 
+          
+
+            $
+          
+
+            32 
+          
+
+            $
+          
+
+            55 
+          
+
+            $
+          
+
+            182 
+          
+
+            $
+          
+
+            228 
+          
+
+
+
+
+              Restructuring charges(1)
+            
+
+
+            $
+          
+
+            94 
+          
+
+            - 
+          
+
+            - 
+          
+
+            $
+          
+
+            94 
+          
+
+            -
+          
+
+
+
+
+              Income tax effect(3)
+            
+
+
+            $
+          
+
+            (5)
+          
+
+            $
+          
+
+            - 
+          
+
+            $
+          
+
+            - 
+          
+
+            $
+          
+
+            (5)
+          
+
+            $
+          
+
+            - 
+          
+
+
+
+
+              Adjusted net income (loss)(4)
+            
+
+
+            $
+          
+
+            800
+          
+
+            $
+          
+
+            368
+          
+
+            $
+          
+
+            98
+          
+
+            $
+          
+
+            1,717
+          
+
+            $
+          
+
+            (26)
+          
+
+
+
+            Adjusted net income (loss) margin
+          
+
+            38.1 
+          
+
+            %
+          
+
+            17.7 
+          
+
+            %
+          
+
+            5.3 
+          
+
+            %
+          
+
+            21.2 
+          
+
+            %
+          
+
+            (0.4)
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Diluted earnings (loss) per share
+          
+
+            $
+          
+
+            1.21
+          
+
+            $
+          
+
+            0.61
+          
+
+            $
+          
+
+            0.08
+          
+
+            $
+          
+
+            2.62
+          
+
+            $
+          
+
+            (0.49)
+          
+
+
+
+            Share based compensation
+          
+
+            $
+          
+
+            0.07 
+          
+
+            $
+          
+
+            0.06 
+          
+
+            $
+          
+
+            0.10 
+          
+
+            $
+          
+
+            0.33 
+          
+
+            $
+          
+
+            0.44 
+          
+
+
+
+
+              Restructuring charges(1)
+            
+
+
+            $
+          
+
+            0.17 
+          
+
+            - 
+          
+
+            - 
+          
+
+            $
+          
+
+            0.17 
+          
+
+            - 
+          
+
+
+
+            Income tax effect
+          
+
+            $
+          
+
+            (0.01)
+          
+
+            - 
+          
+
+            - 
+          
+
+            $
+          
+
+            (0.01)
+          
+
+            - 
+          
+
+
+
+            Adjusted diluted earnings (loss) per share
+          
+
+            $
+          
+
+            1.44
+          
+
+            $
+          
+
+            0.67
+          
+
+            $
+          
+
+            0.18
+          
+
+            $
+          
+
+            3.11
+          
+
+            $
+          
+
+            (0.05)
+          
+
+
+
+
+
+
+
+      (1) Includes $3.1 million of share based compensation in Q4 2022.
+    
+
+
+
+
+      (2)Includes the gain on sale of our EFK business in December 2022.
+    
+
+
+
+
+      (3) Relates to restructuring charges in Q4 2022.
+    
+
+
+
+
+      (4) Reflects change to adjusted net income (loss) definition discussed in more detail elsewhere in this release.
+    
+
+
+
+
+      Page 7 of 10
+    
+
+
+
+
+
+
+
+      Unaudited Reconciliation of Net Income to Adjusted EBITDA
+    
+
+
+
+
+
+
+
+
+            Three Months Ended
+          
+
+            Year Ended
+          
+
+
+
+            (in millions USD)
+          
+
+            December 31, 2022
+          
+
+            September 30, 2022
+          
+
+            December 31, 2021
+          
+
+            December 31, 2022
+          
+
+            December 31, 2021
+          
+
+
+
+
+
+
+
+            Net income for the period
+          
+
+            $
+          
+
+            668
+          
+
+            $
+          
+
+            336
+          
+
+            $
+          
+
+            43
+          
+
+            $
+          
+
+            1,446
+          
+
+            $
+          
+
+            (254)
+          
+
+
+
+            Depreciation and amortization
+          
+
+            409 
+          
+
+            395 
+          
+
+            419 
+          
+
+            1,623 
+          
+
+            1,619 
+          
+
+
+
+            Finance expense
+          
+
+            28 
+          
+
+            28 
+          
+
+            28 
+          
+
+            111 
+          
+
+            114 
+          
+
+
+
+            Finance income
+          
+
+            (26)
+          
+
+            (17)
+          
+
+            NA
+          
+
+            (51)
+          
+
+            NA
+          
+
+
+
+            Income tax expense
+          
+
+            8 
+          
+
+            19 
+          
+
+            26 
+          
+
+            86 
+          
+
+            78 
+          
+
+
+
+            Share based compensation
+          
+
+            43 
+          
+
+            32 
+          
+
+            55 
+          
+
+            182 
+          
+
+            228 
+          
+
+
+
+
+              Restructuring charges(1)
+            
+
+
+            94 
+          
+
+            - 
+          
+
+            - 
+          
+
+            94 
+          
+
+            - 
+          
+
+
+
+            Labor optimization initiatives
+          
+
+            - 
+          
+
+            - 
+          
+
+            5 
+          
+
+            - 
+          
+
+            17 
+          
+
+
+
+
+              (Gains) on transactions, legal settlements and transaction expenses(2)
+            
+
+
+            (403)
+          
+
+            - 
+          
+
+            8 
+          
+
+            (403)
+          
+
+            46 
+          
+
+
+
+
+              Adjusted EBITDA(3)
+            
+
+
+            $
+          
+
+            821
+          
+
+            $
+          
+
+            793
+          
+
+            $
+          
+
+            584
+          
+
+            $
+          
+
+            3,088
+          
+
+            $
+          
+
+            1,848
+          
+
+
+
+            Adjusted EBITDA margin
+          
+
+            39.1 
+          
+
+            %
+          
+
+            38.2 
+          
+
+            %
+          
+
+            31.6 
+          
+
+            %
+          
+
+            38.1 
+          
+
+            %
+          
+
+            28.1 
+          
+
+            %
+          
+
+
+
+
+
+
+
+      (1) Includes $3.1 million of share-based compensation in Q4 2022.
+    
+
+
+
+
+      (2)Activity for the year ended December 31, 2022, relates to the gain on sale of our EFK business.
+    
+
+
+
+
+      (3)Reflects change to adjusted EBITDA definition discussed in more detail elsewhere in this release.
+    
+
+      Page 8 of 10
+    
+
+
+
+
+      Adjusted Financial Measures (Non-IFRS)
+    
+
+
+
+
+      In addition to the financial information presented in accordance with IFRS, this press release includes the following adjusted non-IFRS metrics: adjusted gross profit, adjusted operating profit, adjusted net income (loss), adjusted diluted earnings (loss) per share and adjusted EBITDA. We define adjusted gross profit as gross profit adjusted for share-based compensation expense. We define adjusted operating profit as profit from operations adjusted for share-based compensation expense and restructuring charges. We define adjusted net income (loss) as net income (loss) adjusted for share-based compensation expense, restructuring charges and the associated tax impact. We define adjusted diluted EPS as adjusted net income (loss) divided by the dilutive shares. We define adjusted EBITDA as net income (loss), adjusted for the impact of finance expense, finance income, income tax expense, depreciation, amortization, share-based compensation expense, transaction gains and associated expenses, restructuring charges, labor optimization initiatives and litigation settlements.
+    
+
+
+
+
+      We believe that in addition to our results determined in accordance with IFRS, these adjusted non-IFRS measures provide useful information to both management and investors in measuring our financial performance and highlight trends in our business that may not otherwise be apparent when relying solely on IFRS measures. These adjusted non-IFRS financial measures provide supplemental information regarding our operating performance that excludes certain gains, losses and non-cash charges that occur relatively infrequently and/or that we consider to be unrelated to our core operations. For further information regarding these non-IFRS measures, please refer to "Unaudited Reconciliation of IFRS to Adjusted Non-IFRS" table above.
+    
+
+
+
+
+      Adjusted non-IFRS financial information is presented for supplemental informational purposes only and should not be considered in isolation or as a substitute for financial information presented in accordance with IFRS. Our presentation of adjusted non-IFRS measures should not be construed as an inference that our future results will be unaffected by unusual or nonrecurring items. Other companies in our industry may calculate these measures differently, which may limit their usefulness as a comparative measure.
+    
+
+
+
+
+      Conference Call and Webcast Information
+    
+
+
+
+
+      GF will host a conference call with the financial community on Tuesday, February 14, 2022 at 8:30 a.m. U.S. Eastern Time (ET) to review the Fourth Quarter and Full Year 2022 results in detail. Interested parties may join the scheduled conference call by registering at https://register.vevent.com/register/BIb7c5c31960b748cb82f3624738c04f6d
+
+
+      The call will be webcast and can be accessed from the GF Investor Relations website https://investors.gf.com. A replay of the call will be available on the GF Investor Relations website within 24 hours of the actual call.
+    
+
+
+
+
+      About GlobalFoundries
+    
+
+
+
+
+      GlobalFoundries® (GF®) is one of the world's leading semiconductor manufacturers. GF is redefining innovation and semiconductor manufacturing by developing and delivering feature-rich process technology solutions that provide leadership performance in pervasive high growth markets. GF offers a unique mix of design, development and fabrication services. With a talented and diverse workforce and an at-scale manufacturing footprint spanning the U.S., Europe and Asia, GF is a trusted technology source to its worldwide customers. For more information, visit www.gf.com.
+    
+
+
+
+
+      Forward-looking Statements
+    
+
+
+
+
+      This press release includes "forward-looking statements" that reflect our current expectations and views of future events. These forward-looking statements are made under the "safe harbor" provisions of the U.S. Private Securities Litigation Reform Act of 1995 and include but are not limited to, statements regarding our financial outlook, future guidance, product development, business strategy and plans, and market trends, opportunities and positioning. These statements are based on current expectations, assumptions, estimates, forecasts, projections and limited information available at the time they are made. Words such as "expect," "anticipate," "should," "believe," "hope," "target," "project," "goals," "estimate," "potential," "predict," "may," "will," "might," "could," "intend," "shall," "outlook," "on track," and variations of these terms or the negative of these terms and similar expressions are intended to identify these forward-looking statements, although not all forward-looking statements contain these identifying words. Forward-looking statements are subject to a broad variety of risks and uncertainties, both known and unknown. Any inaccuracy in our assumptions and estimates could affect the realization of the expectations or forecasts in these forward-looking statements. For example, our business could be impacted by the COVID-19 pandemic and supply chain disruptions due to the Russia/Ukraine conflict and actions taken in response to such events; the market for our products may develop more slowly than expected or than it has in the past; we may fail to achieve the full benefits of our current restructuring plan; our operating results may fluctuate more than expected; there may be significant fluctuations in our results of operations and cash flows related to our revenue recognition or otherwise; a network or data security incident that allows unauthorized access to our network or data or our customers' data could damage our reputation; we could experience interruptions or performance problems associated with our technology, including a service outage; and global economic conditions could deteriorate, including due to increasing interest rates, rising inflation and any potential recession. It is not possible for us to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results or
+    
+
+      Page 9 of 10
+    
+
+
+
+
+      outcomes to differ materially from those contained in any forward-looking statements we may make. Moreover, we operate in a competitive and rapidly changing market, and new risks may emerge from time to time. You should not rely upon forward-looking statements as predictions of future events. These statements are based on our historical performance and on our current plans, estimates and projections in light of information currently available to us, and therefore you should not place undue reliance on them.
+    
+
+
+
+
+      Although we believe that the expectations reflected in our statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances described in the forward-looking statements will be achieved or occur. Moreover, neither we, nor any other person, assumes responsibility for the accuracy and completeness of these statements. Recipients are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date such statements are made and should not be construed as statements of fact. Except to the extent required by federal securities laws, we undertake no obligation to update any information or any forward-looking statements as a result of new information, subsequent events, or any other circumstances after the date hereof, or to reflect the occurrence of unanticipated events. For a discussion of potential risks and uncertainties, please refer to the risk factors and cautionary statements in our 2021 Annual Report on Form 20-F, current reports on Form 6-K and other reports filed with the Securities and Exchange Commission. Copies of our SEC filings are available on our Investor Relations website, investors.gf.com, or from the SEC website, www.sec.gov.
+    
+
+
+
+
+      For further information, please contact:
+    
+
+      Investor Relations
+    
+
+      ir@gf.com
+    
+
+
+
+
+      Page 10 of 10
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+GLOBALFOUNDRIES Inc. published this content on 14 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 14 February 2023 12:01:10 UTC.
+      
+

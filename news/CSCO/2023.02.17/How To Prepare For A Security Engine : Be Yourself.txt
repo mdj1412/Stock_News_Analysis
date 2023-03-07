@@ -1,0 +1,162 @@
+
+
+
+        Interviews can be intimidating. That's why we spoke to engineers and hiring managers at Cisco to learn the 10 steps they recommend to put your best self forward in an engineering interview. Hint: Being yourself was the most popular piece of advice. If you're interested in being yourself at work, visit our open positions.
+      
+
+1. Track your greatest hits.
+
+
+        Maintaining a document of your career greatest hits is what Amy Vazquez, a customer data experience engineering leader, recommends. For each of those projects or initiatives, prepare stories that provide context about the project's purpose and problem meant to be solved. "You want to get very specific about what your role was. What was the value that you added? What was the impact that you had? And then for that project initiative, what was the outcome? What were the results? What was different at the end after having completed that work?"
+      
+
+
+        Software Engineer Hanna Fernandez also recommends having a portfolio of your engineering work. "Even if they're tiny personal projects, having code that you can show somebody and speak about is so good," she said.
+      
+
+2. Don't have a technical background? Don't count yourself out!
+
+
+"If you want to join software engineering, you should do it," said David Rines, a senior engineering leader. For instance, while Senior Software Engineer Mario Lopez did have some relevant work experience, it hadn't been the main focus in his previous position as a systems administrator. However, Lopez believes that the industry is moving towards recognizing that having a non-technical background can be a positive.
+      
+
+        Lopez explained that when tackling a problem working on Duo, he can consider how a systems administrator would interact with a product. "Highlighting that in your interview and showing how that could be useful is a great asset to have," Lopez said.
+      
+
+        Rines explained that people who don't have a background in software engineering "bring a lot to the table because they're focused on the value software provides and are going to be very user and customer focused."
+      
+
+3. Research the company you're interviewing with.
+
+
+        Vazquez recommends "trying to find out if a company is really living up to their espoused values in terms of the work culture" by connecting with current or past employees. In terms of online resources, "Glassdoor is definitely where I go. You won't get the full picture from there, but you might see a few red flags, and companies can't delete a review," she said.
+      
+
+        Doing this research not only gives you insights, it also makes you stand out to interviewers. Guillaume Dury, a site reliability engineering (SRE) manager, said: "When I do interviews and ask, 'Why do you want to join Duo Security?' when I get somebody who's well prepared and has an answer that is aligned with their profile and aspiration, it can definitely leave a good impression."
+      
+
+
+4. Get feedback on your resume.
+
+
+        Before focusing exclusively on interview prep, Fernandez says, "It really starts from the ground up: resumes are so important." She recommends getting someone to look at your resume, even a friend.
+      
+
+        If you don't hear back or don't get an interview after applying for a job, Fernandez encourages candidates to ask for feedback on their resume "because that's pretty much a recruiter's first impression of you and whether or not you would fit their role," she said.
+      
+
+5. To prep for technical engineering interviews: practice, practice, practice.
+
+
+        Practicing for a technical interview helps you feel more prepared and matters to hiring managers. "When candidates are well prepared for a technical exam and have things fresh in their mind, it shows me that they'll bring that same attitude to work," said Blake Ellingham, an SRE manager.
+      
+
+        To prepare, Rines recommends doing problems you haven't done before, thinking about your logic, and checking your logic because, "that's what we're going to care about. Why did you make those decisions?" he said.
+      
+
+        Fernandez and SRE Nick Aspinall suggest using websites to practice coding and watching videos that break down concepts. They also recommend practicing interviewing skills with friends, including having them watch you code so you can get used to those situations.
+      
+
+        SRE Manager Jaya Sistla shared that in a technical interview, hiring managers are considering how candidates think about a problem rather than how thorough they are with an algorithm. Questions she's discerning in an interview include, "Are they able to communicate the code that they are writing? Are they able to solve the problem? How readable is the code?" In second-round technical interviews, Sistla wants to learn if candidates are familiar with the different components of architecture and system design and their purposes.
+      
+
+6. For behavioral engineering interviews: Your stories matter, even when things didn't go perfectly.
+
+
+        Ellingham explains that for behavioral style questions, candidates are asked to respond in stories. To determine which stories to share, Sistla suggests asking yourself: "What are the key milestones that you have reached in your career or key projects that you have worked on?" For early career engineers, consider what projects you have done in your courses and how you've collaborated with fellow students.
+      
+
+        The team recognizes that, "things don't always go perfectly, and that's okay. We're looking for people to own up to their mistakes and admit where they could have done better and how they would change it the next time around," Ellingham said.
+      
+
+        Openness and honesty allow hiring managers to imagine you on their team. "Be open, because that's how we want you to behave at Duo when you arrive - that you'll level with us as individuals and humans. If you can do that in an interview, we think you can do that on a day-to-day basis," Rines said.
+      
+
+
+7. Pay attention to your interview experience.
+
+
+        When you're being interviewed, you're also figuring out whether the company is a good fit for you. Taking note of how you're treated can be a gauge of how you might be treated as an employee. When interviewing with Duo, Lopez appreciated seeing how interviewers interacted with him and asked himself, "Would I enjoy working with this person? For me it was a yes," he said.
+      
+
+        For Fernandez's interview, "the thing that got me is that for every question that people asked I would answer and then they would have great, insightful follow-up questions. It was really cool to feel listened to," she said.
+      
+
+8. Ask questions and remember that the interviewer wants this to go well, too.
+
+
+        Aspinall's go-to question suggestions: Ask what the role is like and ask about the culture. Those kind of questions "show that you are curious and that you see yourself in that role," he said. To understand company culture, Lopez suggests asking: "What are the opportunities to grow and learn, and is there room for cross-organization collaboration?"
+      
+
+        "You're not expected to know everything, and you're going to be growing. If there's something you don't understand, ask the question," Lopez said. "We understand interviews can be intense, sometimes they're a little bit intense for myself as the interviewer. I want folks to see Duo is a fantastic place to work, learn and grow."
+      
+
+9. Remember that your passion will come through.
+
+
+
+        SRE Manager Stacey Young says that "there is a lot to be said for understanding your craft, knowing your craft, and first and foremost, loving your craft."
+      
+
+        "If you're in a tech field -whether it be cybersecurity, SRE, software development - if you love what you do, it shows. Most of the people here that I've encountered love what they do, and it comes through in an interview," she said.
+      
+
+10. Most popular tip: Be yourself.
+
+
+        "First and foremost, be who you are. When you're yourself, it shows just like they say when smiling on a phone call - you can hear it," Young said. I heard this advice more than any other.
+      
+
+        Remember, a company wants to hire you for who you are. "There's no point in putting on a mask or pretending to be something that you aren't. Just be yourself and let your true personality come out, because that's the best thing about everyone," Aspinall said.
+      
+
+
+        Humanity goes both ways. "We're all people behind the screen. I want to work in a space where I feel comfortable being myself, expressing myself and showing my personality at work. I really do think it shows at Duo."
+      
+
+        Senior SRE Bernard Ting says as an interviewer the question he most wants to come away with an answer to is: Do we think that we can collaborate well with you on challenging problems? For him to be able to answer that question, you being yourself is imperative.
+      
+
+        "Having a good, balanced team is an important thing. We're not always searching for just the most technically expert people. Sometimes we want people that we can grow, that we can teach and train up to that level of expertise that we need. Be yourself, be open and show us that we can have a good collaborative environment," he said.
+      
+
+        Interested in a security engineering interview with us?
+      
+
+        Join our team.
+      
+
+We'd love to hear what you think. Ask a Question, Comment Below, and Stay Connected with Cisco Secure on social!
+
+
+Cisco Secure Social Channels
+
+
+Instagram
+Facebook
+Twitter
+LinkedIn
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 17 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 17 February 2023 13:05:01 UTC.
+      
+

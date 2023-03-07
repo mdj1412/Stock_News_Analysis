@@ -1,0 +1,576 @@
+
+exc-20230201
+    
+
+
+
+
+
+
+
+
+
+
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+
+
+
+Washington, D.C. 20549
+
+
+
+
+FORM
+
+
+8-K
+
+
+
+
+
+
+
+
+CURRENT REPORT
+
+
+
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+
+February 1, 2023
+
+
+
+
+Date of Report (Date of earliest event reported)
+
+
+
+
+
+
+
+
+
+
+
+
+Commission
+            File Number
+
+
+Name of Registrant; State or Other Jurisdiction of Incorporation; Address of Principal Executive Offices; and Telephone Number
+
+
+IRS Employer Identification Number
+
+
+
+
+
+
+
+
+001-16169
+
+
+EXELON CORPORATION
+
+
+23-2990190
+
+
+
+
+
+(a Pennsylvania corporation)
+
+
+10 South Dearborn Street
+
+
+P.O. Box 805379
+
+
+Chicago, Illinois60680-5379
+
+
+(800)483-3220
+
+
+
+
+
+
+
+
+
+001-01839
+
+
+COMMONWEALTH EDISON COMPANY
+
+
+36-0938600
+
+
+
+
+
+(an Illinois corporation)
+
+
+10 South Dearborn Street
+
+
+Chicago, Illinois60603-2300
+
+
+(312)394-4321
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+
+
+
+☐
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+
+
+☐
+
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+
+
+☐
+
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+
+☐
+
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+
+
+
+
+
+
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+Title of each class
+
+
+Trading Symbol(s)
+
+
+Name of each exchange on which registered
+
+
+
+
+EXELON CORPORATION:
+
+
+
+
+Common Stock, without par value
+
+
+EXC
+
+
+The Nasdaq Stock Market LLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indicate by check mark whether any of the registrants are emerging growth companies as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☐
+
+
+
+
+
+
+
+
+
+
+
+
+
+If an emerging growth company, indicate by check mark if any of the registrants have elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Section 8- Other Events
+
+
+Item 8.01. Other Events
+
+
+
+
+
+
+On February 1, 2023, an ordinance is expected to be introduced to the Chicago City Council that, if approved, would (1) grant Commonwealth Edison Company ("ComEd") a new franchise agreement, or license ("New License"), to provide on a non-exclusive basis electric utility services using public ways within the City of Chicago, Illinois, and (2) authorize the City to enter into a related Energy and Equity Agreement ("EEA") with ComEd. The New License would have an initial 15-year term ending December 31, 2037 and, subject to mutual agreement reached on or before December 31, 2036, an additional five-year extension term ending December 31, 2042, and the EEA would have a term expiring December 31, 2042, or, if earlier, the expiration date of the New License.
+
+
+
+
+
+
+Upon its effectiveness, the New License would replace the existing 1992 non-exclusive license from the City of Chicago under which ComEd currently provides electric utility service within the City of Chicago. The New License would cover, among other things, the use of the public ways and property, coordination of activities, permitting, relocation of utility facilities, undergrounding of overhead utility facilities, and reporting and information requirements. It also establishes certain utilization initiatives, including goals for participation by minority-owned and women-owned business enterprises and utilization of City of Chicago residents in certain non-electric grid projects. The New License would provide for compensation to be paid by ComEd to the City in the form of a franchise fee, recoverable from customers in the City, determined as prescribed by the Illinois Infrastructure Maintenance Fee Law.
+
+
+
+
+
+
+The New License would grant the City the right, upon not less than one year's prior demand, which may not be given earlier than January 1, 2027, to acquire ComEd's utility facilities located in Chicago that provide electricity to customers within Chicago. That acquisition would require a cash consideration equal to: (a) the cost of reproduction new of those utility facilities, minus (b) the depreciation on those utility facilities, plus (c) the net actual costs of separating the utility facilities to be transferred to the City from other portions of ComEd's electric utility system, plus (d) a "Municipalization Increment", intended to recover a pro rata portion of contributions (assuming a 15-year pro ration period) made to the non-profit entity discussed below, net of any amounts recovered in utility rates or, in certain cases, third party sources.
+
+
+
+
+
+
+Under the EEA, the parties would create a new non-profit entity to advance energy and energy-related equity projects. The non-profit would be governed by a seven-member board of directors, two of whom would be appointed by ComEd and five of whom would be appointed by the City of Chicago. No board member may be a current employee or director of Exelon Corporation or its affiliates.
+
+
+
+
+
+
+Projects advanced by the non-profit would be funded, at least in part, by ComEd. ComEd would fund the non-profit in installments to be made between 2023 and 2026, in the aggregate amount of $90 million, with an additional $20 million funded if the City and ComEd allow the New License to enter the five-year extension term. Those fundings would not be recovered in rates charged to customers. Under the EEA, ComEd also would commit to funding not less than $10 million to establish workforce development initiatives with the intent of preparing individuals from disadvantaged communities for clean energy careers; provided that if ComEd recovered that $10 million in rates, it would make a further $10 million payment to the non-profit.
+
+
+
+
+
+
+No assurance can be provided as to the nature or timing of any action that the Chicago City Council may take in connection with its consideration of the ordinance or as to the final terms of any New License or EEA.
+
+
+
+
+
+
+
+
+
+
+Section 9 - Financial Statements and Exhibits
+
+
+Item 9.01. Financial Statements and Exhibits
+
+
+
+
+
+
+(d)    Exhibits.
+
+
+
+
+
+
+
+Exhibit No.
+
+
+Description
+
+
+
+
+101
+
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+
+
+
+104
+
+
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+
+
+
+
+
+
+
+
+* * * * *
+
+
+
+
+
+
+This combined Current Report on Form 8-K is being furnished separately by Exelon Corporation and Commonwealth Edison Company (Registrants). Information contained herein relating to any individual Registrant has been furnished by such Registrant on its own behalf. No Registrant makes any representation as to information relating to any other Registrant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Current Report contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks and uncertainties. Words such as "could," "may," "expects," "anticipates," "will," "targets," "goals," "projects," "intends," "plans," "believes," "seeks," "estimates," "predicts," "should," and variations on such words, and similar expressions that reflect our current views with respect to future events and operational, economic, and financial performance, are intended to identify such forward-looking statements.
+
+
+
+
+
+
+The factors that could cause actual results to differ materially from the forward-looking statements made by the Registrants include those factors discussed herein as well as the items discussed in (1) the Registrants' Annual Report on Form 10-K filed with the SEC on February 25, 2022 in Part I, ITEM 1A. Risk Factors; (2) the Registrants' Current Report on Form 8-K filed with the SEC on June 30, 2022 to recast Exelon's consolidated financial statements and certain other financial information originally included in the 2021 Form 10-K in (a) Part II, ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations and (b) Part II, ITEM 8. Financial Statements and Supplementary Data: Note 17, Commitments and Contingencies; (3) the Registrants' Third Quarter 2022 Quarterly Report on Form 10-Q in (a) Part II, ITEM 1A. Risk Factors, (b) Part I, ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part I, ITEM 1. Financial Statements: Note 13, Commitments and Contingencies; and(4) other factors discussed in filings with the Securities and Exchange Commission bythe Registrants.
+
+
+
+
+
+
+Investors are cautioned not to place undue reliance on these forward-looking statements, whether written or oral, which apply only as of the date of this Current Report. None of the Registrants undertakes any obligation to publicly release any revision to its forward-looking statements to reflect events or circumstances after the date of this Current Report.
+
+
+
+
+
+
+
+
+
+
+SIGNATURES
+
+
+
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, each Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+
+
+
+
+
+
+
+
+EXELON CORPORATION
+
+
+
+
+
+
+
+
+/s/ Jeanne M. Jones
+
+
+
+
+Jeanne M. Jones
+
+
+
+
+Executive Vice President and Chief Financial Officer
+
+
+
+
+Exelon Corporation
+
+
+
+
+
+
+
+
+COMMONWEALTH EDISON COMPANY
+
+
+
+
+
+
+
+
+/s/ Elisabeth J. Graham
+
+
+
+
+Elisabeth J. Graham
+
+
+
+
+Senior Vice President, Chief Financial Officer and Treasurer
+
+
+
+
+Commonwealth Edison Company
+
+
+
+
+
+February 1, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT INDEX
+
+
+
+
+
+
+
+
+
+Exhibit No.
+
+
+Description
+
+
+
+
+101
+
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+
+
+
+104
+
+
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+
+
+
+
+
+
+
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Exelon Corporation published this content on 01 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 01 February 2023 13:47:07 UTC.
+      
+

@@ -1,0 +1,42 @@
+
+
+Ansys showcases Bianchi's E-Omnia high-performance e-bike during CES 2023 
+/ Key Highlights
+Ansys simulation helped enable a new approach to road bike prototyping, using every model size and test bench with fewer physical prototypes and design modificationsWith support from Ansys channel partner EnginSoft, Bianchi also uses Ansys software for design and safety verification of its e-bikes in response to growing consumer demands for green mobilityPITTSBURGH, Jan. 5, 2023 /PRNewswire/ -- Italian bicycle manufacturer Bianchi used Ansys (NASDAQ: ANSS) simulation software to realize a 70% reduction in frame prototyping in the efficient optimization of its road bike and e-bike designs – speeding time to market and reducing development costs. Ansys solutions helped enable stronger, lighter, stiffer bike frame geometries that meet ISO safety standards while satisfying competitive cycling and e-bike design requirements. Bianchi's E-Omnia e-bike is on display during CES at Ansys booth #4401.
+
+
+
+
+
+
+
+Designing bicycles that conform to numerous applications or environments presents significant challenges for manufacturers. In the world of competitive cycling, there is considerable demand for bikes that are lighter, stiffer and faster. For e-bikes, suspension components must be lightweight, yet strong enough to withstand pavement impacts. To meet these demands, engineers require an understanding of frame design as it relates to material stiffness, weight, component integration, and the aerodynamics of rider and bike in a variety of environments.
+Bianchi used Ansys' multiphysics capabilities to understand the impact of frame geometry on overall performance. Within Ansys® SpaceClaim®, Bianchi used a dynamic 3D model of rider position in combination with drivetrain efficiency data to make predictions about what levels of power and performance can be expected during time trials or specific stages of a competitive race. Ansys® Mechanical™ also helped engineers understand and identify the level of suspension e-bike kinematics needed to withstand hard pavement yet conform with lighter component materials — often revealing interesting mechanical properties that led to new design ideas.
+"One of the biggest discoveries we made during testing was that frame stiffness is dependent on the geometrical harmony between all the tubes of the frame, including the top tube, which we had previously overlooked," said Marco Borgonovo, head of product at Bianchi. "It's just one of many examples of how using Ansys simulation helped us to understand which parts of the frame really influence aerodynamic performance — where it makes sense to work more and optimize more, rather than stick to conventional wisdom and dismiss the importance of the top tube altogether."
+"The role of bicycles has evolved beyond recreation to green transportation," said Walt Hearn, vice president of worldwide sales and customer excellence at Ansys. "This shift reflects a preference for ergonomic designs influenced by lower drag, lighter frames and greater performance. Using Ansys simulation solutions helps our customers efficiently work through large design challenges like these with fewer prototypes, saving them time, effort and costs on the way to something new."
+Visit Ansys at CES in Las Vegas from Jan. 5-8, 2023, at booth #4401 to see Bianchi's e-bike, E Omnia, on display and learn more.
+/ About AnsysWhen visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–C
+/ Contacts
+Media   
+Mary Kate Joyce
+724.820.4368
+marykate.joyce@ansys.com 
+Investors   
+Kelsey DeBriyn
+724.820.3927
+kelsey.debriyn@ansys.com 
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/bianchi-uses-ansys-to-reduce-physical-bicycle-prototypes-by-70-301714142.html
+SOURCE  Ansys
+
+

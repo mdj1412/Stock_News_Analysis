@@ -1,0 +1,87 @@
+
+
+
+This post was co-authored by Cisco Technical Education Content Developers Patrick Lao and Paul Ostrowski.
+
+
+Every day, organizations worldwide contend with increasing malicious activity by criminal organizations and nation-state sponsored threat actors. There is a tremendous demand for security professionals who are trained to defend against these malicious threats. These professionals are the backbone of effective security teams.
+
+
+When organizations build security teams to address sophisticated cyber threats, they typically begin by constructing a security operations center (SOC). Modern organizations rely on SOC teams to vigilantly monitor security systems, rapidly detect breaches, and quickly respond to and remediate security incidents. To succeed in these crucial tasks, SOCs are desperately seeking more qualified cybersecurity professionals.
+
+
+Cisco CyberOps Certification Evolution
+
+
+
+In 2016, Cisco introduced the Global Cybersecurity Scholarship program to help close this cybersecurity skills gap. Alongside an investment of $10 million in the program to increase the pool of talent with critical cybersecurity proficiency, Cisco also introduced a new CCNA CyberOps certification to prepare candidates to begin a career working with associate-level cybersecurity analysts within SOCs. At the time, candidates had to pass two exams (SECFND + SECOPS) to earn this valuable certification.
+
+
+In 2020, Cisco redesigned the certification requirements and introduced the one-exam CCNA certification. For example, to earn the CCNA CyberOps certification, candidates had to only pass the CBROPS exam. At the professional level, candidates still had to pass two exams: for CCNP CyberOps, those exams were and still are the CBRCOR core exam and the CBRFIR concentration exam.
+
+
+In 2022, with the release of the new Cisco U. digital learning experience, the SOC Tier 1 Analyst learning pathwas introduced. The Cisco U. digital learning experience is built around the learner and the SOC Tier 1 Analyst learning path is specifically designed to ready learners for the SOC environment. With targeted quick-start pre-skill assessments, modular learning that addressed various aspects of the SOC experience, advanced search to refresh skills and topics, and a focus on goal setting, Cisco U. is designed to work for everyone's unique journey.
+
+
+Cisco SOC Tier 1 Analyst Learning Path
+
+
+The SOC Tier 1 analyst role is the entry-level position within the security operations center. The SOC Tier 1 analyst, or triage specialist, has sysadmin and scripting programming skills, as well as one or more relevant cybersecurity-related certifications, such as the Cisco Certified CyberOps Associate, Cisco Certified CyberOps Professional, or CCNA. To help grow the skills necessary to operate effectively as a SOC Tier 1 analyst, Cisco created the Security Operations Center (SOC) Tier 1 analyst Learning Path training. This learning path is a collection of courses designed to help learners master the concepts and tasks needed for the SOC Tier 1 analyst job role and functions as a roadmap, guiding learners and providing visibility into their mastery of necessary SOC analyst skills and concepts.
+
+
+The goal of Cisco's SOC Tier 1 Analyst Learning Path training is to teach the fundamental skills required to begin a career working as an entry-level associate SOC analyst within a threat-centric security operations center.
+
+
+The training explores common attack vectors, malicious activities, and patterns of suspicious behaviors typically encountered within a threat-centric security operation center. It includes videos, example scenarios, hands-on-labs, and knowledge assessments (review questions). As the student advances down the learning path, they will be exposed to the foundational concepts and practices behind a security operations center and will gain the tactical knowledge and skills that SOC teams require to effectively detect and respond to the growing numbers of cybersecurity threats. 
+
+
+Note: The SOC Tier 1 Analyst Learning Path consists of the CBROPScourse with some additional cyber security content, plus some CCNA Implementing and Administering Cisco Solutions 1.0content.
+
+
+SOC Analyst Job Outlook
+
+
+According to the U.S. Bureau of Labor Statistics, employment of information security analysts is projected to grow 33 percent from 2020 to 2030, much faster than the average for all occupations.  
+
+
+Cisco CyberOps certifications are designed to satisfy the actual needs of SOC teams. CCNA and CCNP certifications prepare individuals to pursue a career working as an analyst in the SOC and the different levels of certification are intended to develop the skills necessary for advancement.  Below is a recent Cisco job posting for a SOC Cyber Security Analyst opening with the job position overview and responsibilities. Successfully completing the Cisco CCNA/CCNP Cyber Ops certifications fulfills many of the job requirements.
+
+
+
+What's Next?
+
+
+        Stay tuned for Part 2 in the upcoming weeks. In the meantime, check out this episode of the Cisco Learning Network Podcast with Cybersecurity and Collaboration Senior Manager James Risler, Getting Started with Your CyberOps Career and join the Cisco Learning Network's CyberOps Community to connect with other learners on their certification journey.
+      
+
+        Join the Cisco Learning Network today for free.
+      
+
+Follow Cisco Learning & Certifications
+
+
+        Use #CiscoCert to join the conversation.
+      
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 20 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 20 January 2023 21:30:05 UTC.
+      
+

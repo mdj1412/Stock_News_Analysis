@@ -1,0 +1,39 @@
+
+
+Ansys software enables engineers to develop high-torque density motors and low-gear ratio transmission so powerful robots can interact gently with humans in real-world settings
+/ Key Highlights
+Halodi Robotics used simulation through the Ansys Startup Program to reduce development time of humanoid robots by monthsAnsys helped enable Halodi Robotics engineers to develop motors with enough power to lift heavy items while simultaneously being gentle enough to retrieve a laptop and hand it to a human colleaguePITTSBURGH, Jan. 5, 2023 /PRNewswire/ -- Halodi Robotics is using Ansys (NASDAQ: ANSS) simulation software through the Ansys Startup Program to develop its humanoid robots designed to work among humans in everyday environments. Humanoid robots can help alleviate the growing labor shortage, and free critical personnel to focus on tasks that require their high-level skills. These robots will perform jobs such as patrolling buildings at night, stocking grocery shelves, and executing logistical tasks at hospitals. With Elite Channel Partner EDRMedeso, Ansys enabled Halodi Robotics to shorten development time by months.
+
+
+
+
+
+
+
+Up until now, robotic machines have only been seen working in factories performing repetitive and precise tasks. With humanoid robots, the most significant difference is that they are capable of interacting with the world just like humans do. To be able to do so, safety is the most important factor for ensuring successful deployment. Halodi Robotics engineers used Ansys to develop motors with enough power to lift heavy packages in a warehouse while simultaneously being gentle enough to retrieve a laptop and hand it to a human colleague.
+Last spring, Halodi Robotics tested its robot EVE as an assistant to healthcare personnel at Sunnaas Hospital in Norway, executing logistical tasks. The hospital identified that using EVE as an assistant has the potential to free up the approximately 200 hours nurses spend on simple logistics tasks, allowing them to spend more time caring for patients.
+"Safety must come first when designing a humanoid robot that will interact with and work among people. Our goal is to engineer a product that is passively safe, making sure that if everything fails, the robot is still harmless," said Bernt Øivind Børnich, chief executive officer at Halodi Robotics. "Simulating the design of powerful yet safe electric motor systems using Ansys software reduced the development time of our second generation of motors by months."
+Halodi Robotics engineers used Ansys Motor-CAD simulation software to develop motors that mimic biological systems, such as human muscles. Synthetic fiber threads connected to actuators are driven by very lightweight, low-speed motors with very high torque. These motors provide the high power and low-energy interactions required by humanoid robots.
+"We're amazed at what Halodi Robotics has been able to accomplish. With the help of Ansys software, engineers are making humanoid robots safe to work around people," said Walt Hearn, vice president of worldwide sales and customer excellence at Ansys. "Moving robots out of confined, structured industrial settings and enabling them to interact with people in real-world settings is a significant leap forward in robotics technology."
+To speak with Ansys executives and subject matters and learn more about how customers are leveraging Ansys solutions, visit Ansys at CES in Las Vegas from Jan. 5-8, 2023, at booth #4401.
+/ About AnsysWhen visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–C
+/ Contacts
+Media
+Mary Kate Joyce724.820.4368 marykate.joyce@ansys.com 
+Investors
+Kelsey DeBriyn 724.820.3927 kelsey.debriyn@ansys.com 
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/halodi-robotics-leverages-ansys-simulation-to-develop-humanoid-robots-to-safely-work-among-people-301714136.html
+SOURCE  Ansys
+
+

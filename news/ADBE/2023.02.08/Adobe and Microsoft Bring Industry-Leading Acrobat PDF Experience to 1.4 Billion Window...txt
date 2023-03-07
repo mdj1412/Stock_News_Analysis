@@ -1,0 +1,29 @@
+
+Today, Adobe (Nasdaq:ADBE) and Microsoft Corp. (Nasdaq: MSFT) have taken the next step in their commitment to transform the future of digital work and life by bringing Adobe Acrobat’s PDF capabilities to more than 1.4 billion Microsoft Windows users in Microsoft Edge.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230208005269/en/Microsoft Edge Partnership (Graphic: Business Wire)
+Together, the two companies are updating the PDF experience and value users have come to expect in Microsoft Edge by powering the built-in PDF reader with the Adobe Acrobat PDF engine. This will give users a unique PDF experience that includes higher fidelity for more accurate colors and graphics, improved performance, strong security for PDF handling and greater accessibility—including better text selection and read-aloud narration. These capabilities will continue to be free of cost.
+
+“Bringing Adobe and Microsoft closer together is good for productivity and good for customers,” said Jared Spataro, corporate vice president, Modern Work & Business Applications at Microsoft. “Adobe’s PDF technology in Microsoft Edge means users will have fast and secure access to critical digital document capabilities.”
+
+“PDF is essential for modern business, accelerating productivity in a world where automation and collaboration are more critical than ever,” said Ashley Still, senior vice president and general manager at Adobe. “By bringing the global standard in PDF experience to Microsoft Edge and the billion-plus Windows users worldwide, Adobe and Microsoft are using our joint heritage and expertise in productivity to take an important step forward in making modern, secure and connected work and life a reality.”
+
+Users who want more advanced digital document features—such as the ability to edit text and images, convert PDFs to other file formats and combine files—can purchase an Acrobat subscription that enables access to these features anywhere, including directly inside Microsoft Edge via a browser extension. Microsoft Edge users with existing Adobe Acrobat subscriptions can use the Acrobat extension inside Edge at no extra cost.
+
+In the age of digital transformation, the web browser is the place where people collaborate, share information and get work done in the cloud. Users across the world interact with trillions of PDF files across web, mobile and desktop. With Adobe Acrobat capabilities powering the PDF experience in Edge, Windows 10 and Windows 11 users can use Adobe’s best-in-class PDF capabilities within the Microsoft Edge web browser, without the need to download or switch to a separate application.
+
+Phased Rollout
+
+To meet the needs of organizations with managed devices, the transition to the built-in Microsoft Edge PDF reader with the Adobe Acrobat PDF rendering engine will occur in phases, with an initial opt-in option for managed devices. The Microsoft Edge PDF solution with the legacy engine is scheduled to be removed in March 2024. For more details, please see the FAQ.
+
+This announcement is part of an ongoing Adobe and Microsoft initiative that is transforming digital work and life by bringing Adobe’s industry-leading PDF, e-signature and document automation tools directly to Microsoft users. This PDF experience in Microsoft Edge joins an already comprehensive set of Adobe PDF and e-sign integrations across Microsoft solutions, including Microsoft 365, Microsoft Teams, SharePoint and others. This is another step in our shared journey to bring people continued innovation, efficiency and productivity in their digital work and lives.
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+About Microsoft
+
+Microsoft (Nasdaq “MSFT” @microsoft) enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230208005269/en/

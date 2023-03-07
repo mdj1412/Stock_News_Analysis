@@ -1,0 +1,22 @@
+
+
+      The FortiGuard Labs team has discovered a new 0-day attack embedded in three PyPI packages (Python Package Index) called 'colorslib', 'httpslib', and "libhttps". They were found on January 10, 2023, by monitoring an open-source ecosystem. The Python packages "colorslib" and "httpslib" were published on January 7, 2023, and "libhttps" was published on January 12, 2023. All three were published by the same author, 'Lolip0p', as shown in the official PyPI repository.  'Lolip0p' joined the repository close to the publish date.
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Fortinet Inc. published this content on 14 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 14 January 2023 19:09:02 UTC.
+      
+

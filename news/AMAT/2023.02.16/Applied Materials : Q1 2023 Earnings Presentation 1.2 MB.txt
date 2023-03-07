@@ -1,0 +1,471 @@
+
+
+
+
+          First Quarter Fiscal 2023
+        
+
+          Earnings Presentation
+        
+
+          February 16, 2023
+        
+
+
+
+          Applied Materials External
+        
+
+
+
+
+        Forward-Looking Statements
+      
+
+This presentation contains forward-looking statements, including those regarding anticipated growth and trends in our businesses and markets, industry outlooks and demand drivers, technology transitions, our business and financial performance and market share positions, our capital allocation and cash deployment strategies, our investment and growth strategies, our development of new products and technologies, our estimate of the impact on our second quarter of fiscal 2023 of a cybersecurity incident recently announced by one of our major suppliers, our business outlook for the second quarter of fiscal 2023 and beyond, and other statements that are not historical facts. These statements and their underlying assumptions are subject to risks and uncertainties and are not guarantees of future performance.
+      
+
+        Factors that could cause actual results to differ materially from those expressed or implied by such statements include, without limitation: the level of demand for our products, our ability to meet customer demand, and our suppliers' ability to meet our demand requirements; our ability to assess and mitigate the impact on our business of the recent cybersecurity incident at one of our major suppliers, and this supplier's ability to recover its manufacturing and operations to meet our requirements; financial, legal and reputational risks, and the risk of loss of intellectual property, resulting from this or other cybersecurity incidents affecting us or our suppliers; global economic, political and industry conditions, including rising inflation and interest rates; the interpretation and implementation of new export regulations and license requirements, and their impact on our ability to export products and provide services to customers and on our results of operations; global trade issues and changes in trade and export license policies; our ability to obtain licenses or authorizations on a timely basis, if at all; transportation interruptions and logistics constraints; the effects of regional or global health epidemics, including the severity and duration of the ongoing COVID-19 pandemic and government imposed lockdowns and other measures taken in response; consumer demand for electronic products; the demand for semiconductors; customers' technology and capacity requirements; the introduction of new and innovative technologies, and the timing of technology transitions; our ability to develop, deliver and support new products and technologies; the concentrated nature of our customer base; acquisitions, investments and divestitures; changes in income tax laws; our ability to expand our current markets, increase market share and develop new markets; market acceptance of existing and newly developed products; our ability to obtain and protect intellectual property rights in key technologies; our ability to achieve the objectives of operational and strategic initiatives, align our resources and cost structure with business conditions, and attract, motivate and retain key employees; the variability of operating expenses and results among products and segments, and our ability to accurately forecast future results, market conditions, customer requirements and business needs; our ability to ensure compliance with applicable law, rules and regulations; and other risks and uncertainties described in our SEC filings, including our recent Forms 10-K and 8-K. All forward-looking statements are based on management's current estimates, projections and assumptions, and we assume no obligation to update them.
+      
+
+        2 | Applied Materials External
+      
+
+
+
+
+          APPLIED MATERIALS AT-A-GLANCE
+        
+
+          REPORTING SEGMENTS
+        
+
+
+
+
+                Semiconductor Systems
+              
+
+
+
+                CURRENT FISCAL
+              
+
+
+
+
+
+
+
+                YEAR ENDS
+              
+
+
+
+
+
+
+
+                Applied Global Services
+              
+
+
+
+                29 October 2023
+              
+
+
+
+
+
+                Display and Adjacent Markets
+              
+
+
+
+
+
+
+
+
+
+
+
+                $26.3 billion
+              
+
+
+
+
+
+                $2.9 billion
+              
+
+
+
+
+
+                ~33,000*
+
+
+
+
+
+
+
+
+
+
+                employees
+              
+
+
+
+
+
+
+
+                TTM R&D
+              
+
+
+
+
+
+
+
+                TTM REVENUE
+              
+
+
+
+
+
+
+
+
+
+
+
+                INVESTMENTS
+              
+
+
+
+
+
+                in 24* countries
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          TTM is trailing twelve months. *As of fiscal year-ended 10/30/2022.
+        
+
+          3 | Applied Materials External
+        
+
+
+
+          FOUNDED
+        
+
+          1967
+        
+
+          FIRST PUBLIC OFFERING
+        
+
+          1972
+        
+
+          ~17,300*
+
+
+          active patents
+        
+
+
+
+
+
+
+
+
+                Q1F23 Summary
+              
+
+
+
+
+
+                2023 Outlook
+              
+
+
+
+
+
+                Longer Term
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Delivered strong first-quarter results
+          
+
+            Made progress mitigating supply chain constraints to meet customer demand
+          
+
+            Generated record revenue in Semi Systems
+          
+
+            Grew revenue Y/Y in both Semi Systems and AGS
+          
+
+
+
+            Expect 2023 WFE down Y/Y:
+          
+
+
+Leading-edgeF/L  ICAPS*
+ Memory
+            
+
+
+            Applied is well positioned to outperform:
+          
+
+
+Large backlog of differentiated products
+
+
+Growing service business
+
+
+Strong positions with leading customers at key technology inflections
+
+
+
+
+
+            Semiconductors are the foundation of the digital economy; expect market to grow to $1T by 2030
+          
+
+            Semiconductor roadmap inflections are increasingly enabled by Applied Materials technology
+          
+
+            Applied is investing in manufacturing, logistics and R&D capacity while increasing our focus on productivity
+          
+
+
+
+
+          Applied is Well Positioned to Outperform our Markets in 2023
+        
+
+          * ICAPS = IoT, Communications, Automotive, Power, Sensors; includes 10nm and above nodes
+        
+
+          4 | Applied Materials External
+        
+
+
+
+
+        Investment Thesis
+      
+
+        Market Outlook = Innovation and Secular Growth
+      
+
+        Applied = PPACt Enablement Company
+      
+
+
+
+
+
+
+
+
+
+
+              Growth in
+            
+
+
+
+              New and
+            
+
+
+
+
+
+              Unit process
+            
+
+
+
+              Co-optimized
+            
+
+
+
+              Actionable insight /
+            
+
+
+
+              adjacent
+            
+
+
+
+
+
+              subscriptions
+            
+
+
+
+
+
+              leadership and
+            
+
+
+
+              and integrated
+            
+
+
+
+              time to market
+            
+
+
+
+              materials
+            
+
+
+
+
+
+              and services
+            
+
+
+
+
+
+              broadest portfolio
+            
+
+
+
+              solutions
+            
+
+
+
+              acceleration
+            
+
+
+
+              engineering
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              businesses
+            
+
+
+
+
+        High ROI Financial Model + Attractive Shareholder Returns
+      
+
+        5 | Applied Materials External
+      
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Applied Materials Inc. published this content on 16 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 16 February 2023 22:45:05 UTC.
+      
+

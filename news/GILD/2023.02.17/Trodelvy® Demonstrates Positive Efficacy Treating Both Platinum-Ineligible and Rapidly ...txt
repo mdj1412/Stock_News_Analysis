@@ -1,0 +1,145 @@
+
+Gilead Sciences, Inc. (Nasdaq: GILD) today announced new and updated positive results from three cohorts of the Phase 2 TROPHY-U-01 study of Trodelvy® (sacituzumab govitecan-hziy) for the treatment of metastatic urothelial cancer (mUC). These data demonstrate that Trodelvy produced both rapid and durable responses for patients across a range of hard-to-treat types of mUC including platinum-ineligible and rapidly progressing, post-platinum mUC. These findings will be featured in both an oral session (abstract #520) and in poster presentations (abstract #518, #526) during the 2023 American Society of Clinical Oncology Genitourinary Cancers Symposium (ASCO-GU) Annual Meeting February 16-18.
+
+“The TROPHY-U-01 data show consistent benefit of Trodelvy across multiple types of metastatic urothelial cancer, including the most difficult-to-treat and, often times, frail patients where treatment options are still scarce,” said Bill Grossman, MD, PhD, Senior Vice President, Therapeutic Area Head, Gilead Oncology. “Trodelvy has the potential to become a cornerstone treatment in metastatic urothelial cancer, and we are excited about the expected results from the ongoing Phase 3 TROPiCS-04 study that may serve to convert our U.S. accelerated approval to full approval for Trodelvy to treat patients with locally advanced or metastatic urothelial cancer following a platinum-containing chemotherapy and PD-1/PD-L1 inhibitor.”
+
+Longer-term follow-up across Cohorts 1, 2, and 3 of TROPHY-U-01 provides an increasing body of evidence supporting the potential benefit of treating mUC with Trodelvy across clinically relevant, hard-to-treat patient populations. Results are summarized below:
+
+Cohort
+
+Inclusion Criteria
+
+Key Findings
+
+Cohort 1
+
+n=113
+
+Patients with mUC who progressed after platinum-based chemotherapy and checkpoint inhibitor (CPI) therapy
+
+ 
+
+Abstract 526
+
+In new long-term follow-up results, Trodelvy continued to demonstrate efficacy:
+
+ 
+
+Cohort 2
+
+n=38
+
+ 
+
+Platinum-ineligible patients with mUC who progressed after CPI therapy
+
+ 
+
+Abstract 520
+
+In this primary analysis, Trodelvy demonstrated:
+
+Cohort 3
+
+n=41
+
+Patients with rapidly progressing mUC who progressed after platinum-based therapy
+
+ 
+
+Abstract 518
+
+In this primary analysis, Trodelvy plus pembrolizumab, demonstrated:
+
+ 
+
+In April 2021, the U.S. FDA granted accelerated approval of Trodelvy for use in adult patients with locally advanced or mUC who have previously received a platinum-containing chemotherapy and either a PD-1 or PD-L1 inhibitor. This approval is based on ORR and DOR established in Cohort 1.
+
+Trodelvy has not been approved by any regulatory agency for the treatment of platinum-ineligible patients with mUC who progressed after prior CPI therapy, or in combination with pembrolizumab in patients with mUC who progressed after platinum-based therapy. Its safety and efficacy have not been established for these indications.
+
+Trodelvy has a Boxed Warning for severe or life-threatening neutropenia and severe diarrhea; please see below for additional Important Safety Information.
+
+About Metastatic Urothelial Cancer
+
+Urothelial Cancer (UC) is the most common type of bladder cancer and occurs when the urothelial cells that line the inside of the bladder and other parts of the urinary tract grow unusually or uncontrollably. An estimated 83,000 Americans will be diagnosed with bladder cancer in 20231, and almost 90% of those diagnoses will be UC2. In total, 30% of cases are considered advanced or metastatic disease.3 Despite advancements in treating mUC, long-term survival remains low.
+
+About the TROPHY U-01 Study
+
+The Phase 2 TROPHY-U-01 trial is an ongoing, international, multi-center, open-label, multi-cohort, single-arm study evaluating Trodelvy monotherapy or combination therapy in patients with mUC after progression on a platinum-based regimen and anti-PD-1/PD-L1-based immunotherapy.
+
+Cohort 1 is assessing Trodelvy after progression on platinum-based chemotherapy and checkpoint inhibitor (CPI) therapy. Cohorts 2, 3, 4 and 5 of the study are ongoing. Cohort 2 is assessing Trodelvy monotherapy in platinum-ineligible patients after progression on anti-PD-1/PD-L1-based immunotherapy. Cohort 3 is assessing Trodelvy in patients with rapidly progressing, mUC who progressed after platinum-based therapy. Cohorts 4 and 5 are assessing Trodelvy combination therapy in patients with treatment naive mUC, with those in Cohort 4 receiving cisplatin and those in Cohort 5 receiving cisplatin and avelumab, respectively, in addition to Trodelvy.
+
+More information about TROPHY is available at https://clinicaltrials.gov/ct2/show/NCT03547973.
+
+About Trodelvy
+
+Trodelvy® (sacituzumab govitecan-hziy) is a first-in-class Trop-2 directed antibody-drug conjugate. Trop-2 is a cell surface antigen highly expressed in multiple tumor types, including in more than 90% of breast and bladder cancers. Trodelvy is intentionally designed with a proprietary hydrolyzable linker attached to SN-38, a topoisomerase I inhibitor payload. This unique combination delivers potent activity to both Trop-2 expressing cells and the microenvironment.
+
+Trodelvy is approved in more than 40 countries, with multiple additional regulatory reviews underway worldwide, for the treatment of adult patients with unresectable locally advanced or metastatic triple-negative breast cancer (TNBC) who have received two or more prior systemic therapies, at least one of them for metastatic disease.
+
+Trodelvy is also approved in the U.S. to treat certain patients with pre-treated HR+/HER2- metastatic breast cancer and has an accelerated approval for treatment of certain patients with second-line metastatic urothelial cancer; see below for full indication statements.
+
+Trodelvy is also being developed for potential investigational use in other TNBC, HR+/HER2- and mUC populations, as well as a range of tumor types where Trop-2 is highly expressed, including metastatic non-small cell lung cancer (NSCLC), metastatic small cell lung cancer (SCLC), head and neck cancer, and endometrial cancer.
+
+U.S. Indications for Trodelvy
+
+In the United States, Trodelvy is indicated for the treatment of adult patients with:
+
+U.S. Important Safety Information for Trodelvy
+
+BOXED WARNING: NEUTROPENIA AND DIARRHEA
+
+CONTRAINDICATIONS
+
+WARNINGS AND PRECAUTIONS
+
+Neutropenia: Severe, life-threatening, or fatal neutropenia can occur and may require dose modification. Neutropenia occurred in 64% of patients treated with Trodelvy. Grade 3-4 neutropenia occurred in 49% of patients. Febrile neutropenia occurred in 6%. Neutropenic colitis occurred in 1.4%. Withhold Trodelvy for absolute neutrophil count below 1500/mm3 on Day 1 of any cycle or neutrophil count below 1000/mm3 on Day 8 of any cycle. Withhold Trodelvy for neutropenic fever. Administer G-CSF as clinically indicated or indicated in Table 1 of USPI.
+
+Diarrhea: Diarrhea occurred in 64% of all patients treated with Trodelvy. Grade 3-4 diarrhea occurred in 11% of patients. One patient had intestinal perforation following diarrhea. Diarrhea that led to dehydration and subsequent acute kidney injury occurred in 0.7% of all patients. Withhold Trodelvy for Grade 3-4 diarrhea and resume when resolved to ≤Grade 1. At onset, evaluate for infectious causes and if negative, promptly initiate loperamide, 4 mg initially followed by 2 mg with every episode of diarrhea for a maximum of 16 mg daily. Discontinue loperamide 12 hours after diarrhea resolves. Additional supportive measures (e.g., fluid and electrolyte substitution) may also be employed as clinically indicated. Patients who exhibit an excessive cholinergic response to treatment can receive appropriate premedication (e.g., atropine) for subsequent treatments.
+
+Hypersensitivity and Infusion-Related Reactions: Serious hypersensitivity reactions including life-threatening anaphylactic reactions have occurred with Trodelvy. Severe signs and symptoms included cardiac arrest, hypotension, wheezing, angioedema, swelling, pneumonitis, and skin reactions. Hypersensitivity reactions within 24 hours of dosing occurred in 35% of patients. Grade 3-4 hypersensitivity occurred in 2% of patients. The incidence of hypersensitivity reactions leading to permanent discontinuation of Trodelvy was 0.2%. The incidence of anaphylactic reactions was 0.2%. Pre-infusion medication is recommended. Have medications and emergency equipment to treat such reactions available for immediate use. Observe patients closely for hypersensitivity and infusion-related reactions during each infusion and for at least 30 minutes after completion of each infusion. Permanently discontinue Trodelvy for Grade 4 infusion-related reactions.
+
+Nausea and Vomiting: Nausea occurred in 64% of all patients treated with Trodelvy and Grade 3-4 nausea occurred in 3% of these patients. Vomiting occurred in 35% of patients and Grade 3-4 vomiting occurred in 2% of these patients. Premedicate with a two or three drug combination regimen (e.g., dexamethasone with either a 5-HT3 receptor antagonist or an NK1 receptor antagonist as well as other drugs as indicated) for prevention of chemotherapy-induced nausea and vomiting (CINV). Withhold Trodelvy doses for Grade 3 nausea or Grade 3-4 vomiting and resume with additional supportive measures when resolved to Grade ≤1. Additional antiemetics and other supportive measures may also be employed as clinically indicated. All patients should be given take-home medications with clear instructions for prevention and treatment of nausea and vomiting.
+
+Increased Risk of Adverse Reactions in Patients with Reduced UGT1A1 Activity: Patients homozygous for the uridine diphosphate-glucuronosyl transferase 1A1 (UGT1A1)*28 allele are at increased risk for neutropenia, febrile neutropenia, and anemia and may be at increased risk for other adverse reactions with Trodelvy. The incidence of Grade 3-4 neutropenia was 58% in patients homozygous for the UGT1A1*28, 49% in patients heterozygous for the UGT1A1*28 allele, and 43% in patients homozygous for the wild-type allele. The incidence of Grade 3-4 anemia was 21% in patients homozygous for the UGT1A1*28 allele, 10% in patients heterozygous for the UGT1A1*28 allele, and 9% in patients homozygous for the wild-type allele. Closely monitor patients with known reduced UGT1A1 activity for adverse reactions. Withhold or permanently discontinue Trodelvy based on clinical assessment of the onset, duration and severity of the observed adverse reactions in patients with evidence of acute early-onset or unusually severe adverse reactions, which may indicate reduced UGT1A1 function.
+
+Embryo-Fetal Toxicity: Based on its mechanism of action, Trodelvy can cause teratogenicity and/or embryo-fetal lethality when administered to a pregnant woman. Trodelvy contains a genotoxic component, SN-38, and targets rapidly dividing cells. Advise pregnant women and females of reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with Trodelvy and for 6 months after the last dose. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Trodelvy and for 3 months after the last dose.
+
+ADVERSE REACTIONS
+
+In the pooled safety population, the most common (≥ 25%) adverse reactions including laboratory abnormalities were decreased leukocyte count (84%), decreased neutrophil count (75%), decreased hemoglobin (69%), diarrhea (64%), nausea (64%), decreased lymphocyte count (63%), fatigue (51%), alopecia (45%), constipation (37%), increased glucose (37%), decreased albumin (35%), vomiting (35%), decreased appetite (30%), decreased creatinine clearance (28%), increased alkaline phosphatase (28%), decreased magnesium (27%), decreased potassium (26%), and decreased sodium (26%).
+
+In the ASCENT study (locally advanced or metastatic triple-negative breast cancer), the most common adverse reactions (incidence ≥25%) were fatigue, diarrhea, nausea, alopecia, constipation, vomiting, abdominal pain, and decreased appetite. The most frequent serious adverse reactions (SAR) (>1%) were neutropenia (7%), diarrhea (4%), and pneumonia (3%). SAR were reported in 27% of patients, and 5% discontinued therapy due to adverse reactions. The most common Grade 3-4 lab abnormalities (incidence ≥25%) in the ASCENT study were reduced neutrophils, leukocytes, and lymphocytes.
+
+In the TROPiCS-02 study (locally advanced or metastatic HR-positive, HER2-negative breast cancer), the most common adverse reactions (incidence ≥25%) were diarrhea, fatigue, nausea, alopecia, and constipation. The most frequent serious adverse reactions (SAR) (>1%) were diarrhea (5%), febrile neutropenia (4%), neutropenia (3%), abdominal pain, colitis, neutropenic colitis, pneumonia, and vomiting (each 2%). SAR were reported in 28% of patients, and 6% discontinued therapy due to adverse reactions. The most common Grade 3-4 lab abnormalities (incidence ≥25%) in the TROPiCS-02 study were reduced neutrophils and leukocytes.
+
+In the TROPHY study (locally advanced or metastatic urothelial cancer), the most common adverse reactions (incidence ≥25%) were diarrhea, fatigue, nausea, any infection, alopecia, decreased appetite, constipation, vomiting, rash, and abdominal pain. The most frequent serious adverse reactions (SAR) (≥5%) were infection (18%), neutropenia (12%, including febrile neutropenia in 10%), acute kidney injury (6%), urinary tract infection (6%), and sepsis or bacteremia (5%). SAR were reported in 44% of patients, and 10% discontinued due to adverse reactions. The most common Grade 3-4 lab abnormalities (incidence ≥25%) in the TROPHY study were reduced neutrophils, leukocytes, and lymphocytes.
+
+DRUG INTERACTIONS
+
+UGT1A1 Inhibitors: Concomitant administration of Trodelvy with inhibitors of UGT1A1 may increase the incidence of adverse reactions due to potential increase in systemic exposure to SN-38. Avoid administering UGT1A1 inhibitors with Trodelvy.
+
+UGT1A1 Inducers: Exposure to SN-38 may be reduced in patients concomitantly receiving UGT1A1 enzyme inducers. Avoid administering UGT1A1 inducers with Trodelvy.
+
+Please see full Prescribing Information, including BOXED WARNING.
+
+About Gilead Sciences
+
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks, uncertainties and other factors, including Gilead’s ability to initiate, progress or complete clinical trials within currently anticipated timelines or at all, and the possibility of unfavorable results from ongoing or additional clinical trials, including those involving Trodelvy; uncertainties relating to regulatory applications for Trodelvy and related filing and approval timelines, including the risk that the FDA may not grant full approval for Trodelvy for use in adult patients with locally advanced or metastatic UC who have previously received a platinum-containing chemotherapy and either a PD-1 or PD-L1 inhibitor, and pending or potential applications for the treatment of metastatic TNBC, mUC, HR+/HER2- breast cancer, NSCLC, SCLC, head and neck cancer, endometrial cancer and other cancers, in the currently anticipated timelines or at all; Gilead’s ability to receive regulatory approvals for such indications in a timely manner or at all, and the risk that any such approvals may be subject to significant limitations on use; the possibility that Gilead may make a strategic decision to discontinue development of Trodelvy for such indications and as a result, Trodelvy may never be commercialized for these indications; and any assumptions underlying any of the foregoing. These and other risks, uncertainties and other factors are described in detail in Gilead’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2022, as filed with the U.S. Securities and Exchange Commission. These risks, uncertainties and other factors could cause actual results to differ materially from those referred to in the forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. The reader is cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, and is cautioned not to place undue reliance on these forward-looking statements. All forward-looking statements are based on information currently available to Gilead, and Gilead assumes no obligation and disclaims any intent to update any such forward-looking statements.
+
+U.S. Prescribing Information for Trodelvy including BOXED WARNING, is available at www.gilead.com.
+
+Trodelvy, Gilead and the Gilead logo are trademarks of Gilead Sciences, Inc., or its related companies.
+
+For more information about Gilead, please visit the company’s website at www.gilead.com, follow Gilead on Twitter (@GileadSciences) or call Gilead Public Affairs at 1-800-GILEAD-5 or 1-650-574-3000.
+
+_________________________
+
+1 Key Statistics for Bladder Cancer. The American Cancer Society. https://www.cancer.org/cancer/bladder-cancer/about/key-statistics.html. Last accessed February 6, 2023.
+2 Bladder Cancer: An Introduction. The American Society of Clinical Oncology. https://www.cancer.net/cancer-types/bladder-cancer/introduction. Last accessed February 6, 2023.
+3 Bladder Cancer Statistics. The American Society of Clinical Oncology. https://www.cancer.net/cancer-types/bladder-cancer/statistics. Last accessed February 6, 2023.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230216005947/en/

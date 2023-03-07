@@ -1,0 +1,33 @@
+
+CrowdStrike (Nasdaq: CRWD) today announced the promotion of Michael Sentonas to president. Sentonas, who has served as CrowdStrike’s chief technology officer (CTO) since 2020, will be responsible for leading the company’s product and go-to-market functions, including its sales, marketing, product and engineering, threat intelligence, corporate development and CTO teams. The appointment comes as CrowdStrike, the recognized market leader in endpoint security, drives growth at scale as customers consolidate point products, including XDR, cloud security, identity protection and more, on its industry-leading cybersecurity platform.
+
+Sentonas will report to CrowdStrike co-founder and CEO, George Kurtz, with CrowdStrike’s chief sales officer (Jim Seidel), chief marketing officer (Jennifer Johnson), chief product & engineering officer (Amol Kulkarni), and senior vice president of Intelligence (Adam Meyers) reporting directly into Sentonas.
+
+“Mike has proven himself as a one-of-a-kind leader maniacally focused on execution. No one in cybersecurity is more adept at aligning customer needs with technology and go-to-market excellence than Mike. His technical acumen, market mastery, and passion for winning have made him highly sought by customers, employees, partners, analysts, and investors alike,” said Kurtz. “Mike is a tremendous partner and will continue helping me drive the company to our next level of growth. His unique skill set and leadership will allow me to engage even more with our customers and partners as we continue scaling CrowdStrike into a once-in-a-generation cybersecurity company.”
+
+Sentonas joined CrowdStrike in 2016 as vice president of Technology Strategy, and was promoted to CTO in 2020. Prior to CrowdStrike, Sentonas held multiple leadership roles at McAfee that spanned sales, go-to-market, and technology responsibilities. He served as the company’s chief technology officer – Security Connected, and chief technology and strategy officer Asia Pacific (APAC). Sentonas was also part of McAfee’s Advanced Technology Group, a specialist sales team where he drove customer transactions, go-to-market strategy, and previously oversaw sales engineering and services for the APAC region.
+
+“CrowdStrike became one of the fastest growing cloud companies ever by rewriting the playbook on how organizations stop breaches and protect themselves against sophisticated and relentless adversaries. The combination of a single lightweight agent, cloud native platform, unparalleled threat intelligence and elite human expertise that helped us dominate the modern endpoint security market and become the gold standard in cybersecurity now has us poised to become an increasingly foundational element of our customers’ digital estate,” said Sentonas. “It’s a rare opportunity to work with a founder and CEO of George’s caliber. I’m grateful for the confidence and faith that he has placed in me to help drive our next phase of growth.”
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements that involve risks and uncertainties. There are a significant number of factors that could cause actual results to differ materially from statements made in this press release, including risks and uncertainties that could affect the forward-looking statements in this press release, which are included under the captions “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” set forth from time to time in our filings and reports with the Securities and Exchange Commission (“SEC”), including our Quarterly Report on Form 10-Q for the quarter ended October 31, 2022. Actual outcomes and results may differ materially from those contemplated by these forward-looking statements as a result of such risks and uncertainties. All forward-looking statements in this press release are based on information available to us as of the date hereof, and we do not assume any obligation to update the forward-looking statements provided to reflect events that occur or circumstances that exist after the date on which they were made.
+
+About CrowdStrike
+
+CrowdStrike (Nasdaq: CRWD), a global cybersecurity leader, has redefined modern security with the world’s most advanced cloud-native platform for protecting critical areas of enterprise risk — endpoints and cloud workloads, identity and data.
+
+Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections, automated protection and remediation, elite threat hunting and prioritized observability of vulnerabilities.
+
+Purpose-built in the cloud with a single lightweight-agent architecture, the Falcon platform delivers rapid and scalable deployment, superior protection and performance, reduced complexity and immediate time-to-value.
+
+CrowdStrike: We stop breaches.
+
+Learn more: https://www.crowdstrike.com/
+
+Follow us: Blog | Twitter | LinkedIn | Facebook | Instagram
+
+Start a free trial today: https://www.crowdstrike.com/free-trial-guide/
+
+© 2023 CrowdStrike, Inc. All rights reserved. CrowdStrike, the falcon logo, CrowdStrike Falcon and CrowdStrike Threat Graph are marks owned by CrowdStrike, Inc. and registered with the United States Patent and Trademark Office, and in other countries. CrowdStrike owns other trademarks and service marks, and may use the brands of third parties to identify their products and services.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230208005405/en/

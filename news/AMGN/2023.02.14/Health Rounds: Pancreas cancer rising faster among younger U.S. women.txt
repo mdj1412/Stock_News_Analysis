@@ -1,0 +1,87 @@
+(Health Rounds is published on Tuesdays and Thursdays. Think
+your friend or colleague should know about us? Forward this
+newsletter to them. They can also subscribe here.)Feb 14 (Reuters) -Welcome to Health Rounds! Pancreas cancer rates are climbing
+in the U.S., but they’re rising faster in younger women than in
+their male counterparts, a large study shows. Researchers say
+the increases are relatively small, but while they work to
+figure out the reasons, they hope awareness might refocus people
+on the need for lifestyle changes that help decrease the risk.In other news, a drug that delivers a cancer-killing virus
+directly into tumors may be an effective new alternative for
+patients with a hard-to-treat form of breast cancer. And instead
+of looking for new ways to kill antibiotic-resistant bacteria,
+researchers suggest finding ways to disable the organisms and
+make them less harmful.Pancreas cancer rates rising faster in young womenPancreas cancer rates in the United States are increasing
+faster in younger women than in their male counterparts, a large
+study has found.And while survival rates are improving overall, "that
+improvement is largely among men. The mortality rate among women
+is not improving," Dr. Srinivas Gaddam of Cedars Sinai Medical
+Center in Los Angeles said in a statement.Gaddam's team used databases covering more than half the
+country to study pancreatic cancer rates between 2001 and 2018.
+During that period, the cancers were diagnosed in 454,611
+patients, roughly half of whom were female. Over that period,
+the rate of new diagnoses rose by roughly 1%, with a similar
+pattern seen in adults of both sexes over the age of 55.Among those younger than 55, however, the rate of new
+pancreatic cancer diagnoses rose by 2.36% in women versus 0.62%
+in men.The difference was most pronounced in the youngest patients.
+Among women under age 34, the rate went up by 6.45%, compared to
+2.97% in similarly aged men.  The greatest increase in this age
+group was in Black women, the research team reported in
+Gastroenterology.The researchers also found that rates of pancreatic head
+adenocarcinoma, an especially aggressive and deadly type of
+tumor at the head of the pancreas, appear to be increasing.The increases are small and the findings should not cause
+alarm, Gaddam said. The research team plans to look for
+explanations for these trends, which might include differences
+between pancreatic tumors in women and in men.The study was funded in part by The Widjaja Family Fund for
+Pancreatic Cancer Research.Cancer-killing virus tested in hard-to-treat breast cancerAdding a drug that contains a cancer cell-killing virus to
+treatment with chemotherapy yielded impressive results in a
+small trial of patients with triple-negative breast cancer, with
+nearly half seeing their tumors disappear.Triple-negative breast cancer has few treatment options
+because many drugs do not bind to the cancer cells and so cannot
+attack them. A new approach employs talimogene laherperepvec
+(T-VEC), sold as Imlygic by Amgen Inc, which contains a
+so-called oncolytic, or cancer-killing, herpes virus already in
+use for treating advanced melanoma.With funding from Amgen, researchers at the Moffitt Cancer
+Center in Tampa, Florida injected T-VEC directly into
+triple-negative breast cancer tumors in 37 patients receiving
+chemotherapy in advance of mastectomy or lumpectomy. The average
+tumor size was about four centimeters (1.65 inches), all the
+patients had stage 2 or stage 3 disease, and in nearly half, the
+cancer had spread to the lymph nodes.As reported in Nature Medicine, the treatment led to a
+complete response in 46% of the patients, meaning the tumor was
+no longer detectable. Another 21% of the patients had
+significant shrinkage of their tumors.Two years after the treatment and the surgery, 89% of the
+patients remained cancer free, and there were no recurrences in
+the patients who had strong responses to the treatment.The researchers noted that Merck and Co's
+immunotherapy Keytruda is already approved for use along with
+chemotherapy in patients with triple-negative breast cancer and
+has led to significantly improved survival, but with a risk for
+autoimmune side effects.Side effects with T-VEC were similar to what would be
+expected of chemotherapy. There were higher rates of low grade
+fevers, chills, headaches and injection site pain, researchers
+reported."Locally administered agents like oncolytic viruses may
+boost tumor anti-immunity without increasing systemic
+toxicities," they said.If you can't kill MRSA, try disabling itInstead of trying to kill antibiotic-resistant bacteria,
+limiting the damage they can do might be an option, laboratory
+experiments suggest."If we can disarm it, then we may not have to worry about it
+evading antimicrobial agents," study leader Seth Dickey of the
+University of Maryland said in a statement.There is a huge unmet need for new medicines or approaches
+to tackle bacteria resistant to many current drugs.Dickey's team has discovered that two proteins enable MRSA
+bacteria (methicillin-resistant Staphylococcus aureus) to
+secrete the toxins that make people sick. They also learned how
+those proteins work and what happens if they are disabled,
+according to a report released on Tuesday and scheduled for
+publication this week in PNAS."We were looking for an alternative way of approaching
+MRSA," Dickey said. "We were interested in understanding how the
+bacterium causes disease to see if we could interfere directly
+with the virulence factors that the bug produces."When they removed one of those proteins in test-tube
+experiments, toxins could not leave the single-cell organisms,
+the researchers found. Instead, the toxins merely built up
+inside the bacteria, where they cannot hurt anyone. When the
+other protein was removed, the bacteria were damaged by their
+own toxins.The researchers theorize that if therapies could be
+developed that target these two proteins, MRSA bacteria could be
+disabled, making them less deadly and possibly even harmless.The research, funded by the U.S. National Institutes of
+Health, has implications beyond MRSA because many other bacteria
+also have dual transport protein systems similar to the one
+found in MRSA.
+(Reporting by Nancy Lapid; Editing by Bill Berkrot)

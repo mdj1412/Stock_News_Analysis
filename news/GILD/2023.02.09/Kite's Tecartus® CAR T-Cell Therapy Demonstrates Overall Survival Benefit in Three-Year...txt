@@ -1,0 +1,87 @@
+
+Kite, a Gilead Company (Nasdaq: GILD), today announced the three-year follow-up results from the pivotal ZUMA-3 study of the CAR T-cell therapy Tecartus® (brexucabtagene autoleucel). Results from the analysis showed a median overall survival (OS) of 26 months and demonstrated that responses remained durable in adults with relapsed/refractory B-cell acute lymphoblastic leukemia (R/R B-ALL) with a consistent safety profile observed since the two-year analysis. These findings were presented today during a poster session at the 5th European CAR T-cell Meeting, taking place in Rotterdam, the Netherlands.
+
+“For adult patients living with ALL, there is a need for therapeutic options that provide long-term responses,” said Bijal Shah, MD, ZUMA-3 investigator and medical oncologist, Moffitt Cancer Center, Tampa, Florida. “The continued durable response and significant improvement in survival indicated by these new data can potentially establish a new standard of care for adult patients living with this aggressive form of leukemia.”
+
+In the Phase 2 treated patient cohort (n=55) the median follow-up was 38.8 months (range, 32.7-44.6). The OS rate at 36.0 months was 47.1% (95% CI, 32.7-60.2), with a median OS of 26.0 months among all treated Phase 2 patients (n=55) and 38.9 months in patients with complete remission (CR) or complete remission with incomplete hematologic recovery (CRi; n=39). Overall CR rate (CR + CRi), CR, and subsequent allogeneic stem cell transplant (alloSCT) rates remained unchanged since the prior data cut at 71%, 56%, and 20%, respectively. Median (95% CI) relapse-free survival (RFS) censored and not censored at subsequent alloSCT were both 11.6 (2.7-20.5) and 11.7 months (2.8-20.5), respectively.
+
+For patients treated at the pivotal dose in both Phase 1 and 2 (n=78), the median follow-up at data cutoff was 41.6 months (range, 32.7-70.3). Median (95% CI) DOR censored and not censored at subsequent alloSCT was 18.6 (9.6-24.1) and 20.0 (10.3-24.1) months, respectively. Median (95% CI) RFS were both 11.7 (6.1-20.5) months. At data cutoff, 36% of patients (28) were still alive with a median OS of 25.6 months (95% CI, 16.2-47.0) in all treated patients (n=78). The proportion of pooled Phase 1 and 2 patients with Grade ≥3 AEs that were deemed treatment-related was unchanged since the prior data cut. No Grade 5 AEs occurred since the prior data cut off.
+
+“We are encouraged by the sustained benefit that a single one-time treatment of Tecartus continues to provide for patients living with this difficult-to-treat blood cancer,” said Frank Neumann, MD, PhD, SVP, Kite’s Global Head of Clinical Development. “Our hope is that these results, along with our commitment to long-term research of Tecartus, will continue to provide clarity to physicians on optimal treatment methods for these patients living with this rare disease who have suffered historically poor outcomes.”
+
+In this trial, longer follow-up of the pivotal analysis and outcomes of a larger pooled analysis of Phase 1 and 2 patients who received the pivotal dose of Tecartus were reported. Most patients in the analysis were heavily pre-treated, with a median of two prior therapies, and 47% had received three or more prior therapies.
+
+About ZUMA-3
+
+ZUMA-3 is an ongoing international multicenter (US, Canada, Europe), single arm, open label, registrational Phase 1/2 study of Tecartus in adult patients (≥18 years old) with ALL whose disease is refractory to or has relapsed following standard systemic therapy or hematopoietic stem cell transplantation. The primary endpoint is the rate of overall complete remission or complete remission with incomplete hematological recovery by central assessment. Duration of remission and relapse-free survival, overall survival, minimal residual disease (MRD) negativity rate, and alloSCT rate were assessed as secondary endpoints.
+
+About Acute Lymphoblastic Leukemia
+
+ALL is an aggressive and rare type of blood cancer that can also involve the lymph nodes, spleen, liver, central nervous system and other organs. While 80% of ALL occurs in children, it represents a devastating disease in adults. In adults, B-cell precursor ALL is the most common form, accounting for 75% of cases. Survival rates in adults with R/R B-ALL are poor, with median OS at less than eight months.
+
+About Tecartus
+
+Please see full FDA Prescribing Information, including BOXED WARNING and Medication Guide.
+
+Tecartus is a CD19-directed genetically modified autologous T cell immunotherapy indicated for the treatment of:
+
+This indication is approved under accelerated approval based on overall response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.
+
+U.S. IMPORTANT SAFETY INFORMATION
+
+BOXED WARNING: CYTOKINE RELEASE SYNDROME and NEUROLOGIC TOXICITIES
+
+Cytokine Release Syndrome (CRS), including life-threatening reactions, occurred following treatment with Tecartus. CRS occurred in 92% (72/78) of patients with ALL, including ≥ Grade 3 (Lee grading system) CRS in 26% of patients. Three patients with ALL had ongoing CRS events at the time of death. The median time to onset of CRS was five days (range: 1 to 12 days) and the median duration of CRS was eight days (range: 2 to 63 days) for patients with ALL.
+
+Ensure that a minimum of two doses of tocilizumab are available for each patient prior to infusion of Tecartus. Following infusion, monitor patients for signs and symptoms of CRS daily for at least seven days at the certified healthcare facility, and for four weeks thereafter. Counsel patients to seek immediate medical attention should signs or symptoms of CRS occur at any time. At the first sign of CRS, institute treatment with supportive care, tocilizumab, or tocilizumab and corticosteroids as indicated.
+
+Neurologic Events, including those that were fatal or life-threatening, occurred following treatment with Tecartus. Neurologic events occurred in 87% (68/78) of patients with ALL, including ≥ Grade 3 in 35% of patients. The median time to onset for neurologic events was seven days (range: 1 to 51 days) with a median duration of 15 days (range: 1 to 397 days) in patients with ALL. For patients with MCL, 54 (66%) patients experienced CRS before the onset of neurological events. Five (6%) patients did not experience CRS with neurologic events and eight patients (10%) developed neurological events after the resolution of CRS. Neurologic events resolved for 119 out of 134 (89%) patients treated with Tecartus. Nine patients (three patients with MCL and six patients with ALL) had ongoing neurologic events at the time of death. For patients with ALL, neurologic events occurred before, during, and after CRS in 4 (5%), 57 (73%), and 8 (10%) of patients; respectively. Three patients (4%) had neurologic events without CRS. The onset of neurologic events can be concurrent with CRS, following resolution of CRS or in the absence of CRS.
+
+The most common neurologic events (>10%) were similar in MCL and ALL and included encephalopathy (57%), headache (37%), tremor (34%), confusional state (26%), aphasia (23%), delirium (17%), dizziness (15%), anxiety (14%), and agitation (12%). Serious events including encephalopathy, aphasia, confusional state, and seizures occurred after treatment with Tecartus.
+
+Monitor patients daily for at least seven days for patients with MCL and at least 14 days for patients with ALL at the certified healthcare facility and for four weeks following infusion for signs and symptoms of neurologic toxicities and treat promptly.
+
+REMS Program: Because of the risk of CRS and neurologic toxicities, Tecartus is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the Yescarta and Tecartus REMS Program which requires that:
+
+Hypersensitivity Reactions: Serious hypersensitivity reactions, including anaphylaxis, may occur due to dimethyl sulfoxide (DMSO) or residual gentamicin in Tecartus.
+
+Severe Infections: Severe or life-threatening infections occurred in patients after Tecartus infusion. Infections (all grades) occurred in 56% (46/82) of patients with MCL and 44% (34/78) of patients with ALL. Grade 3 or higher infections, including bacterial, viral, and fungal infections, occurred in 30% of patients with ALL and MCL. Tecartus should not be administered to patients with clinically significant active systemic infections. Monitor patients for signs and symptoms of infection before and after Tecartus infusion and treat appropriately. Administer prophylactic antimicrobials according to local guidelines.
+
+Febrile neutropenia was observed in 6% of patients with MCL and 35% of patients with ALL after Tecartus infusion and may be concurrent with CRS. The febrile neutropenia in 27 (35%) of patients with ALL includes events of “febrile neutropenia” (11 (14%)) plus the concurrent events of “fever” and “neutropenia” (16 (21%)). In the event of febrile neutropenia, evaluate for infection and manage with broad spectrum antibiotics, fluids, and other supportive care as medically indicated.
+
+In immunosuppressed patients, life-threatening and fatal opportunistic infections have been reported. The possibility of rare infectious etiologies (e.g., fungal and viral infections such as HHV-6 and progressive multifocal leukoencephalopathy) should be considered in patients with neurologic events and appropriate diagnostic evaluations should be performed.
+
+Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure, and death, can occur in patients treated with drugs directed against B cells. Perform screening for HBV, HCV, and HIV in accordance with clinical guidelines before collection of cells for manufacturing.
+
+Prolonged Cytopenias: Patients may exhibit cytopenias for several weeks following lymphodepleting chemotherapy and Tecartus infusion. In patients with MCL, Grade 3 or higher cytopenias not resolved by Day 30 following Tecartus infusion occurred in 55% (45/82) of patients and included thrombocytopenia (38%), neutropenia (37%), and anemia (17%). In patients with ALL who were responders to Tecartus treatment, Grade 3 or higher cytopenias not resolved by Day 30 following Tecartus infusion occurred in 20% (7/35) of the patients and included neutropenia (12%) and thrombocytopenia (12%); Grade 3 or higher cytopenias not resolved by Day 60 following Tecartus infusion occurred in 11% (4/35) of the patients and included neutropenia (9%) and thrombocytopenia (6%). Monitor blood counts after Tecartus infusion.
+
+Hypogammaglobulinemia: B cell aplasia and hypogammaglobulinemia can occur in patients receiving treatment with Tecartus. Hypogammaglobulinemia was reported in 16% (13/82) of patients with MCL and 9% (7/78) of patients with ALL. Monitor immunoglobulin levels after treatment with Tecartus and manage using infection precautions, antibiotic prophylaxis, and immunoglobulin replacement.
+
+The safety of immunization with live viral vaccines during or following Tecartus treatment has not been studied. Vaccination with live virus vaccines is not recommended for at least six weeks prior to the start of lymphodepleting chemotherapy, during Tecartus treatment, and until immune recovery following treatment with Tecartus.
+
+Secondary Malignancies may develop. Monitor life-long for secondary malignancies. In the event that one occurs, contact Kite at 1-844-454-KITE (5483) to obtain instructions on patient samples to collect for testing.
+
+Effects on Ability to Drive and Use Machines: Due to the potential for neurologic events, including altered mental status or seizures, patients are at risk for altered or decreased consciousness or coordination in the 8 weeks following Tecartus infusion. Advise patients to refrain from driving and engaging in hazardous activities, such as operating heavy or potentially dangerous machinery, during this period.
+
+Adverse Reactions: The most common non-laboratory adverse reactions (≥ 20%) were fever, cytokine release syndrome, hypotension, encephalopathy, tachycardia, nausea, chills, headache, fatigue, febrile neutropenia, diarrhea, musculoskeletal pain, hypoxia, rash, edema, tremor, infection with pathogen unspecified, constipation, decreased appetite, and vomiting. The most common serious adverse reactions (≥ 2%) were cytokine release syndrome, febrile neutropenia, hypotension, encephalopathy, fever, infection with pathogen unspecified, hypoxia, tachycardia, bacterial infections, respiratory failure, seizure, diarrhea, dyspnea, fungal infections, viral infections, coagulopathy, delirium, fatigue, hemophagocytic lymphohistiocytosis, musculoskeletal pain, edema, and paraparesis.
+
+Please see full Prescribing Information, including BOXED WARNING and Medication Guide.
+
+About Kite
+
+Kite, a Gilead Company, is a global biopharmaceutical company based in Santa Monica, California, focused on cell therapy to treat and potentially cure cancer. As the global cell therapy leader, Kite has treated more patients with CAR T-cell therapy than any other company. Kite has the largest in-house cell therapy manufacturing network in the world, spanning process development, vector manufacturing, clinical trial production and commercial product manufacturing. For more information on Kite, please visit www.kitepharma.com.
+
+About Gilead Sciences
+
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California. Gilead Sciences acquired Kite in 2017.
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks, uncertainties and other factors, including Gilead and Kite’s ability to initiate, progress or complete clinical trials within currently anticipated timelines or at all, and the possibility of unfavorable results from ongoing or additional clinical trials, including those involving Tecartus; the risk that physicians and patients may not see the potential benefits of Tecartus for the treatment of adult patients with relapsed or refractory B-cell ALL; and any assumptions underlying any of the foregoing. These and other risks, uncertainties and other factors are described in detail in Gilead’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2022, as filed with the U.S. Securities and Exchange Commission. These risks, uncertainties and other factors could cause actual results to differ materially from those referred to in the forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Investors are cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties and are cautioned not to place undue reliance on these forward-looking statements. All forward-looking statements are based on information currently available to Kite and Gilead, and Kite and Gilead assume no obligation and disclaim any intent to update any such forward-looking statements.
+
+U.S. Prescribing Information for Tecartus including BOXED WARNING, is available at www.kitepharma.com and www.gilead.com.
+
+Kite, the Kite logo, Tecartus and GILEAD are trademarks of Gilead Sciences, Inc. or its related companies.
+
+For more information on Kite, please visit the company’s website at www.kitepharma.com or call Gilead Public Affairs at 1-800-GILEAD-5 or 1-650-574-3000. Follow Kite on social media on Twitter (@KitePharma) and LinkedIn.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230209005227/en/

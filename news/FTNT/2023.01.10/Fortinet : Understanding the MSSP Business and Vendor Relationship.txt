@@ -1,0 +1,71 @@
+
+
+      When Managed Security Service Providers (MSSP) evaluate a cybersecurity vendor, they usually start by reviewing the technology offerings. The vendor's technologies often drive the MSSP's business model and ability to respond to client needs. Technology is the core concern for many MSSPs. However, focusing solely on technology ignores the other two parts of a robust cybersecurity program. The people that use technology need processes that streamline their daily tasks.
+    
+
+      What is an MSSP business?
+
+
+      A Managed Security Service Provider (MSSP) offers security device management and continuous monitoring using a collection of technologies that enable them to provide:
+    
+
+
+        Networking capabilities, like Software-defined Wide Area Networking (SD-WAN)
+
+
+Security Operations Center (SOC) services
+      
+
+        Security capabilities like Next Generation Firewalls (NGFW) or Web Application Firewalls (WAF)
+
+
+        Security analytics
+      
+
+        Threat intelligence
+      
+
+        And more.
+      
+
+
+      Companies looking for a cost-effective way to enhance their security posture work with MSSPs to migrate some or all of their cybersecurity risk, and overcome the cybersecurity skills gap.
+    
+
+      The Importance of the MSSP Business-Vendor Relationship
+    
+
+      While many MSSPs focus on cybersecurity technology capabilities, they should remember that their customers come to them for services. Too often, MSSPs view their vendor relationship as a transactional agreement focused on products. However, when they incorporate cybersecurity vendor experience they can build a relationship that enables long-term business success.
+    
+
+      MSSPs should treat conversations with their sales engineers the same way they would treat potential employees during a job interview. The sales engineers should be able to understand and articulate the MSSP's:
+    
+
+
+Business objectives: how their technologies enable the MSSP to meet long and short term business goals
+      
+
+Metrics their customers use: what the MSSP's ideal customer needs to understand security posture and maturity
+      
+
+Way the customer defines success: how customers determine whether the MSSP is helping them achieve their security goals
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Fortinet Inc. published this content on 10 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 10 January 2023 16:43:15 UTC.
+      
+

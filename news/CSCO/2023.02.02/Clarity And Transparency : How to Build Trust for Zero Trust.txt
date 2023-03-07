@@ -1,0 +1,137 @@
+
+
+
+Be impeccable with your words. It's the first of the Four Agreements - a set of universal life principles outlined in the bestselling book by Don Miguel Ruiz. 'Being impeccable with your words' is my favorite, and it's no surprise. As a product marketer, I spend most of my daily existence casting about for the perfect word to use in web copy, a webinar, or video script.
+      
+
+Words can connect us, as well as divide us. In helping to develop the message that Cisco takes to the market about zero trust, I try to be as impeccable as I can with each word. After all, cybersecurity is too important to be cavalier about what is possible - within a particular use case, product, or service.
+      
+
+Clarifying what zero trust means to you comes first. The zero trust principles reflect another of the four agreements: 'Don't make assumptions'. Don't assume that a user or device is trusted based on their presence on the network, their type of device, or any other aspect of the connection request. Instead, verify it.
+      
+
+        At the same time, don't assume that everyone in your organization is in accord with, or clear on the goals of a zero trust initiative. Confirm goals and clearly communicate them. Over the past year, I've met with several customers keen to embark on zero trust and generally those goals involve one or more of the following:
+      
+
+
+Modernizing user access - secure remote access for users to SaaS-based, and private, on-premises apps
+        
+
+Assessing and validating device health - increase visibility into device posture and using this data to make a policy decision (e.g., prompt users to self-remediate before getting access)
+        
+
+Accelerating cloud migration - accurately enforce micro-segmentation across your entire application landscape - at scale
+        
+
+Orchestrating SOC workflows - gain actionable insights to automate threat response across networks, cloud, endpoints, email, and applications
+        
+
+Securing mixed environments consistently apply a "never trust, always verify, least-privilege policy" across OT and IT networks, public and private clouds, managed and unmanaged devices, and employees and contractors.
+        
+
+
+The phrase zero trust does not inspire trust, clarity, or transparency. No name is perfect, but the challenge with calling an architecture that is consistent with a 'never assume trust, always verify it, and enforce the principle of least-privilege' policy 'zero trust' is that it sends the message that 'one cannot ever be trusted'.
+      
+
+Changing the mindset of anyone is already a complex undertaking, but
+        starting off with a lack of trust (even if it's only a word) doesn't help.
+
+
+
+Zero trust is simply good security. Zero trust is a conversation about the totality of the security stack, and how to bring it to bear in ways that allow teams to…
+      
+
+
+          consistently and continually verify user and device trust;
+        
+
+          enforce trust-level access based on least privilege access;
+        
+
+          and respond to change in trust to protect data and recover quickly from incidents.
+        
+
+
+        Simply put, make sure that one only has access to resources they need and that any violations of this policy are investigated.
+      
+
+So… how do we build the trust necessary for zero trust adoption?
+
+
+Relationships build trust - an essential ingredient for zero trust momentum. In the Harvard Business Review's "Begin with Trust", Frances Frei and Anne Morriss describe three key drivers for trust: authenticity, logic, and empathy. Perhaps we can apply these drivers within the context of zero trust security:
+      
+
+
+Authenticity - are we truly aligned on the goals of a zero trust rollout? Have we clearly communicated our intentions and progress to our users, business leaders, and other stakeholders? 
+          
+
+How to cultivate: Be as transparent as possible. For example, share lessons learned - including mistakes - during each phase of the initiative. Publish dashboards and other reports on milestones and metrics (e.g., # of users enrolled, # of apps protected, etc.).
+            
+
+
+
+Logic - have we clearly explained the rationale behind the change in policy, user workflows, as well as the benefits of adopting zero trust? 
+          
+
+How to cultivate: Appeal to everyone's bottom line: saving money and making your job easier. Zero trust can save money (refer to our TEI studies and ROI blog article from CIO's office) and done right, can simplify IT management and empower users to fix issues on their own.
+            
+
+
+
+Empathy - have we considered the impact on our users and how a move towards zero trust security can vastly improve the user experience? 
+          
+
+How to cultivate: Remember a very simple yet essential concept. Whatever our role in the organization, we're all users. The easier we make security controls - in other words, the less they get in the way of getting our work done, the better for all of us.
+            
+
+
+
+
+Next Steps
+
+
+
+Listen to the conversation Wolfgang Goerlich, Advisory CISO, and I had during this on-demand webinar entitled "The Skeptic and the Data: How to Build Trust for Zero Trust".
+        
+
+Explore Cisco's rollout of zero trust using Duo for our 100,000+ users in more than 95 countries.
+        
+
+Download Cisco's Guide to Zero Trust Maturity to see how teams with mature implementations of zero trust found quick wins and built organizational trust.
+        
+
+
+We'd love to hear what you think. Ask a Question, Comment Below, and Stay Connected with Cisco Secure on social!
+
+
+Cisco Secure Social Channels
+
+
+Instagram
+Facebook
+Twitter
+LinkedIn
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 02 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 02 February 2023 13:10:01 UTC.
+      
+

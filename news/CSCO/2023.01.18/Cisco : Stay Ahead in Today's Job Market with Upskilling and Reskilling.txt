@@ -1,0 +1,70 @@
+
+
+
+        In today's ever-evolving job market, upskilling and reskilling have become essential to stay competitive, particularly in the technology industry, where advancements are happening rapidly. According to the Fall 2022 Deloitte CEO Survey, 71% of CEOs expect talent shortages to continue, and 58% are reskilling or upskilling their employees. One valuable resource to keep current in the industry is the Cisco U. Snack Minute video series.
+      
+
+Empower Your Career: Cisco U. Snack Minute Video Series
+
+
+        The Cisco U. Snack Minute video series has been around for two years and is hosted by Matt DeNapoli, Manager of Developer Advocacy, and Kareem Iskander, Lead Technical Advocate. Each episode is short, intuitive, and covers the latest learning resources and exciting projects that Matt, Kareem, and their guests are working on.
+      
+
+        One fan of the series is Verlaine Muhungu from the Democratic Republic of Congo. Verlaine shared, "When Matt and Kareem promoted the first episode, 'Securing API Keys with HashiCorp Vault,' it was short and insightful. After watching several episodes, I fell in love with the concept."
+      
+
+        When asked what keeps him coming back to watch each week, Verlaine said, "The Snack Minute demos inspire me to learn more and give a bird's-eye view of the industry with real-life scenarios."
+      
+
+        He also shared that watching the series has helped him professionally and personally. "Every time I watch a Snack Minute video, my VScode and Linux CLI are always open. When I started my developer journey, interacting with APIs was difficult and strange. Watching different episodes encouraged me to start my technical writing journey, which led me to contribute to tech publications."
+      
+
+        Verlaine also shared that he has implemented the information he learned from the series into his work. He said, "The last two years, I dedicated my learning and focus to automation. I am improving my understanding of APIs using the Cisco Postman Collection. I have some projects to release before the end of 2023!"
+      
+
+        When asked how he feels the series compares to other technology or project-related content, Verlaine said, "The concept is unique, has short content, and is insightful. You don't need one hour to learn something new! Matt and Kareem are changing learning."
+      
+
+Cisco Learning Network
+
+
+        In the most recent episode of the Cisco U. Snack Minute video series, episode 86, Matt and Kareem interviewed Matt Saunders, Community Manager for the Cisco Learning Network (CLN). CLN is a social learning community focused on the IT industry and provides learning tools, training resources, and industry guidance for those interested in building an IT career.
+      
+
+        The community is designed to provide a central location for individuals to come together and support each other in their learning and certification journey. The community is structured around Cisco learning and certification paths, such as CCNA, DevNet, Enterprise Networking, and Cyber Ops. The community offers a variety of resources for those looking to prepare for Cisco certification exams, including study guides, exam tutorials, and practice tests.
+      
+
+        Take advantage of the opportunity to learn more about the Cisco Learning Network and the resources it offers to help you on your IT career journey by watching episode 86 of the Cisco U. Snack Minute video series on YouTube.
+      
+
+        With the help of the Cisco U. Snack Minute video series and the Cisco Learning Network community, you can stay ahead in today's job market and empower your career.
+      
+
+In this interview, Matt Saunders, Community Manager for the Cisco Learning Network, shares his insights and experiences with the social learning community focused on the IT industry. Learn more about the mission of the Cisco Learning Network to provide learning tools, training resources, and industry guidance to anyone interested in building an IT career through Cisco certifications. Find out how to join the Cisco Learning Network and get access to certification preparation materials and other resources.
+
+
+Resources
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 18 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 18 January 2023 16:39:05 UTC.
+      
+

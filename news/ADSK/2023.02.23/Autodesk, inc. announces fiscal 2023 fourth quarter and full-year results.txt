@@ -1,0 +1,802 @@
+
+
+Record quarterly and full-year revenue, cash flow from operating activities, and free cash flowFourth quarter billings and current remaining performance obligations grew 28 percent and 12 percent year over year, respectively, to $2.1 billion and $3.5 billionSAN FRANCISCO, Feb. 23, 2023 /PRNewswire/ -- Autodesk, Inc. (NASDAQ: ADSK) today reported financial results for the fourth quarter and full year of fiscal 2023.
+
+
+
+
+
+
+
+All growth rates are compared to the  fourth quarter and full year of fiscal 2022, respectively, unless otherwise noted. A reconciliation of GAAP to non-GAAP results is provided in the accompanying tables. For definitions, please view the Glossary of Terms later in this document.
+Fourth Quarter Fiscal 2023 Financial Highlights
+Total revenue increased 9 percent to $1.32 billion;GAAP operating margin was 21 percent, up 9 percentage points;Non-GAAP operating margin was 36 percent, up 1 percentage point;GAAP diluted EPS was $1.35; Non-GAAP diluted EPS was $1.86;Cash flow from operating activities was $911 million; free cash flow was $903 million."As we deliver next-generation technology and services to our customers, the pace of transformation within and between the industries we serve will accelerate, generating large new growth opportunities for Autodesk," said Andrew Anagnost, Autodesk president and CEO. "We started seeing the shift towards connected digital workflows in the cloud in product design and manufacturing, then in architecture, followed by building engineering, and more recently construction. And we are now seeing growing momentum with owners."
+"Overall, the demand environment in Q4 remained consistent with Q3 with the approaching transition from up-front to annual billings for multi-year contracts, and a large renewal cohort, providing a tailwind to billings and free cash flow," said Debbie Clifford, Autodesk CFO. "We continue to develop broader strategic partnerships with our customers, closing our largest deal to date during the quarter. Our strong momentum and competitive performance set us up well for fiscal 24."
+Fourth Quarter Fiscal 2023 Additional Financial Details
+Total billings increased 28 percent to $2.12 billion.Total revenue was $1.32 billion, an increase of 9 percent as reported, and 12 percent on a constant currency basis. Recurring revenue represents 98 percent of total.Design revenue was $1.11 billion, an increase of 9 percent as reported, and 12 percent on a constant currency basis. On a sequential basis, Design revenue increased 2 percent as reported and on a constant currency basis.Make revenue was $119 million, an increase of 20 percent as reported, and 21 percent on a constant currency basis. On a sequential basis, Make revenue increased 2 percent as reported and on a constant currency basis.Subscription plan revenue was $1.21 billion, an increase of 11 percent as reported, and 14 percent on a constant currency basis.  On a sequential basis, subscription plan revenue increased 2 percent as reported and on a constant currency basis.Net revenue retention rate was within the range of 100 to 110 percent.GAAP operating income was $277 million, compared to $143 million in the fourth quarter last year.  GAAP operating margin was 21 percent, up 9 percentage points.Total non-GAAP operating income was $479 million, compared to $421 million in the fourth quarter last year. Non-GAAP operating margin was 36 percent, up 1 percentage point.GAAP diluted net income per share was $1.35, compared to $0.40 in the fourth quarter last year.Non-GAAP diluted net income per share was $1.86, compared to $1.50 in the fourth quarter last year.Deferred revenue increased 21 percent to $4.58 billion.  Unbilled deferred revenue was $1.04 billion, an increase of $94 million compared to the fourth quarter of last year. Remaining performance obligations (RPO) increased 19 percent to $5.62 billion. Current RPO increased 12 percent to $3.52 billion.Cash flow from operating activities was $911 million, an increase of $189 million compared to the fourth quarter last year.  Free cash flow was $903 million, an increase of $187 million compared to the fourth quarter last year. 
+Net Revenue by Geographic Area
+Three Months Ended January 31, 2023
+Three Months Ended January 31, 2022
+Change compared to
+prior fiscal year
+Constant currency change compared to prior fiscal year
+(In millions, except percentages) (1)
+$
+%
+%
+Net Revenue:
+Americas
+U.S.
+$                       451
+$                      402
+$     49
+12 %
+*
+Other Americas
+101
+87
+14
+16 %
+*
+Total Americas
+552
+489
+63
+13 %
+13 %
+EMEA
+508
+474
+34
+7 %
+12 %
+APAC
+258
+248
+10
+4 %
+10 %
+Total Net Revenue
+$                     1,318
+$                     1,211
+$    107
+9 %
+12 %
+____________________
+*  Constant currency data not provided at this level.
+(1) In the current fiscal year, the Company changed its rounding presentation to the nearest whole number in millions of reported amounts, except per share data or as otherwise noted. The current year rounding presentation has been applied to all prior year amounts presented and, in certain circumstances, this change may adjust previously reported balances.
+ 
+Net Revenue by Product Family
+Our product offerings are focused in four primary product families: Architecture, Engineering and Construction ("AEC"), AutoCAD and AutoCAD LT, Manufacturing ("MFG"), and Media and Entertainment ("M&E").
+Three Months Ended
+Change compared to
+prior fiscal year
+(In millions, except percentages) (1)
+January 31, 2023
+January 31, 2022
+$
+%
+AEC (2)
+$              602
+$              540
+$         62
+11 %
+AutoCAD and AutoCAD LT (2)
+362
+332
+30
+9 %
+MFG
+257
+246
+11
+4 %
+M&E
+74
+82
+(8)
+(10) %
+Other
+23
+11
+12
+109 %
+Total Net Revenue
+$            1,318
+$             1,211
+$       107
+9 %
+____________________ 
+(1) In the current fiscal year, the Company changed its rounding presentation to the nearest whole number in millions of reported amounts, except per share data or as otherwise noted. The current year rounding presentation has been applied to all prior year amounts presented and, in certain circumstances, this change may adjust previously reported balances.
+(2) During the current fiscal year, the Company corrected an immaterial classification error and reclassified certain revenue amounts between Architecture, Engineering and Construction and AutoCAD and AutoCAD LT.  The prior year period has been adjusted to conform to the current period presentation.
+Fiscal 2023 Financial Highlights
+Total billings increased 20 percent to $5.80 billion.Total revenue was $5.01 billion, an increase of 14 percent as reported, and 15 percent on a constant currency basis. Recurring revenue represents 98 percent of total.Design revenue was $4.26 billion, an increase of 13 percent as reported, and 14 percent on a constant currency basis.Make revenue was $452 million, an increase of 24 percent as reported, and 25 percent on a constant currency basis.Subscription plan revenue was $4.65 billion, an increase of 15 percent as reported and on a constant currency basis.Total subscriptions increased approximately 702 thousand from fiscal 2022 to 6.74 million at the end of fiscal 2023. Total subscriptions adjusted for the multi-user trade-in increased approximately 603 thousand from fiscal 2022 to 6.25 million. Subscription plan subscriptions increased 724 thousand from the end of fiscal 2022 to 6.74 million at the end of fiscal 2023.GAAP operating income was $989 million, compared to $618 million last year. GAAP operating margin was 20 percent, up 6 percentage points.Total non-GAAP operating income was $1.79 billion compared to $1.40 billion last year. Non-GAAP operating margin was 36 percent, up 4 percentage points.GAAP diluted net income per share was $3.78, compared to $2.24 last year. Non-GAAP diluted net income per share was $6.63, compared to $5.07 last year.Cash flow from operating activities increased to $2.07 billion, compared to $1.53 billion in fiscal 2022. Free cash flow increased to $2.03 billion, compared to $1.48 billion in fiscal 2022. 
+Net Revenue by Geographic Area
+Fiscal Year Ended January 31, 2023
+Fiscal Year Ended January 31, 2022
+Change compared to
+prior fiscal year
+Constant currency change compared to prior fiscal year
+(In millions, except percentages) (1)
+$
+%
+%
+Net Revenue:
+Americas
+U.S.
+$                 1,720
+$               1,457
+$           263
+18 %
+*
+Other Americas
+372
+308
+64
+21 %
+*
+Total Americas
+2,092
+1,765
+327
+19 %
+18 %
+EMEA
+1,906
+1,700
+206
+12 %
+13 %
+APAC
+1,007
+921
+86
+9 %
+13 %
+Total Net Revenue
+$                5,005
+$              4,386
+$           619
+14 %
+15 %
+____________________
+*  Constant currency data not provided at this level.
+(1) In the current fiscal year, the Company changed its rounding presentation to the nearest whole number in millions of reported amounts, except per share data or as otherwise noted. The current year rounding presentation has been applied to all prior year amounts presented and, in certain circumstances, this change may adjust previously reported balances. 
+ 
+Net Revenue by Product Family
+Our product offerings are focused in four primary product families: AEC, AutoCAD and AutoCAD LT, MFG, and M&E.
+Fiscal Year Ended
+Change compared to
+prior fiscal year
+(In millions, except percentages) (1)
+January 31, 2023
+January 31, 2022
+$
+%
+AEC (2)
+$                2,278
+$                 1,969
+$          309
+16 %
+AutoCAD and AutoCAD LT (2)
+1,387
+1,244
+143
+11 %
+MFG
+978
+876
+102
+12 %
+M&E
+291
+259
+32
+12 %
+Other
+71
+38
+33
+87 %
+Total Net Revenue
+$               5,005
+$                 4,386
+$           619
+14 %
+____________________ 
+(1) In the current fiscal year, the Company changed its rounding presentation to the nearest whole number in millions of reported amounts, except per share data or as otherwise noted. The current year rounding presentation has been applied to all prior year amounts presented and, in certain circumstances, this change may adjust previously reported balances.
+(2) During the current fiscal year, the Company corrected an immaterial classification error and reclassified certain revenue amounts between Architecture, Engineering and Construction and AutoCAD and AutoCAD LT.  The fiscal year ended January 31, 2022 has been adjusted to conform to the current period presentation. These reclassifications did not impact total net revenue. 
+Business Outlook
+The following are forward-looking statements based on current expectations and assumptions, and involve risks and uncertainties, some of which are set forth below under "Safe Harbor Statement." Autodesk's business outlook for the first quarter and full-year fiscal 2024 takes into consideration the current economic environment and foreign exchange currency rate environment. A reconciliation between the fiscal 2023 GAAP and non-GAAP estimates is provided below or in the tables later in this document.
+First Quarter Fiscal 2024 
+Q1 FY24 Guidance Metrics
+Q1 FY24(ending April 30, 2023)
+Revenue (in millions)
+$1,260 - $1,275
+EPS GAAP
+$0.74 - $0.80
+EPS non-GAAP (1)
+$1.50- $1.56
+________________
+(1) Non-GAAP earnings per diluted share excludes $0.75 related to stock-based compensation expense, $0.09 for the amortization of purchased intangibles, $0.01 for acquisition-related costs, partially offset by ($0.09) related to GAAP-only tax charges.
+ 
+Full-Year Fiscal 2024 
+FY24 Guidance Metrics
+FY24(ending January 31, 2024)
+Billings (in millions) (1)
+$5,025 - $5,175Down 13% - 11%
+Revenue (in millions) (2)
+$5,355 - $5,455Up 7% - 9%
+GAAP operating margin
+Approx. flat year over year
+Non-GAAP operating margin (3)
+Approx. flat year over year
+EPS GAAP
+$3.63 - $3.97
+EPS non-GAAP (4)
+$6.98 - $7.32
+Free cash flow (in millions) (5)
+$1,150 - $1,250
+________________
+(1) Excluding the approximate 2 ppt impact of foreign currency exchange rates and hedge gains/losses, billings guidance would be down 11% to 9%.
+(2) Excluding the approximate 4 ppt impact of foreign currency exchange rates and hedge gains/losses, revenue guidance would be up 11% to 13%.
+(3) Non-GAAP operating margin excludes approximately 13% related to stock-based compensation expense, approximately 2% for the amortization of purchased intangibles and less than 1% related to acquisition-related costs.
+(4) Non-GAAP earnings per diluted share excludes $3.31 related to stock-based compensation expense, $0.37 for the amortization of purchased intangibles, and $0.02 related to acquisition-related costs, partially offset by ($0.35) related to GAAP-only tax charges.
+(5) Free cash flow is cash flow from operating activities less approximately $35 million of capital expenditures.
+The first quarter and full-year fiscal 2024 outlook assume a projected annual effective tax rate of 24 percent for GAAP and 18 percent for non-GAAP results, respectively. Shifts in geographic profitability continue to impact the annual effective tax rate due to significant differences in tax rates in various jurisdictions. As such, assumptions for the annual effective tax rate are evaluated regularly and may change based on the projected geographic mix of earnings.
+Earnings Conference Call and Webcast
+Autodesk will host its fourth quarter conference call today at 5 p.m. ET. The live broadcast can be accessed at autodesk.com/investor. A transcript of the opening commentary will also be available following the conference call. 
+A replay of the broadcast will be available at 7 p.m. ET at autodesk.com/investor. This replay will be maintained on Autodesk's website for at least 12 months.
+Investor Presentation Details
+An investor presentation, excel financials and other supplemental materials providing additional information can be found at autodesk.com/investor.
+Key Performance Metrics
+To help better understand our financial performance, we use several key performance metrics including billings, recurring revenue, net revenue retention rate ("NR3") and subscriptions. These metrics are key performance metrics and should be viewed independently of revenue and deferred revenue. These metrics are not intended to be combined with those items. We use these metrics to monitor the strength of our recurring business. We believe these metrics are useful to investors because they can help in monitoring the long-term health of our business. Our determination and presentation of these metrics may differ from that of other companies. The presentation of these metrics is meant to be considered in addition to, not as a substitute for or in isolation from, our financial measures prepared in accordance with GAAP.
+Glossary of Terms
+Billings: Total revenue plus the net change in deferred revenue from the beginning to the end of the period. 
+Cloud Service Offerings: Represents individual term-based offerings deployed through web browser technologies or in a hybrid software and cloud configuration. Cloud service offerings that are bundled with other product offerings are not captured as a separate cloud service offering.
+Constant Currency (CC) Growth Rates: We attempt to represent the changes in the underlying business operations by eliminating fluctuations caused by changes in foreign currency exchange rates as well as eliminating hedge gains or losses recorded within the current and comparative periods. We calculate constant currency growth rates by (i) applying the applicable prior period exchange rates to current period results and (ii) excluding any gains or losses from foreign currency hedge contracts that are reported in the current and comparative periods. 
+Design Business: Represents the combination of maintenance, product subscriptions, and all EBAs. Main products include, but are not limited to, AutoCAD, AutoCAD LT, Industry Collections, Revit, Inventor, Maya, and 3ds Max. Certain products, such as our computer aided manufacturing solutions, incorporate both Design and Make functionality and are classified as Design.
+Enterprise Business Agreements (EBAs): Represents programs providing enterprise customers with token-based access to a broad pool of Autodesk products over a defined contract term. 
+Free Cash Flow: Cash flow from operating activities minus capital expenditures. 
+Industry Collections: Autodesk Industry Collections are a combination of products and services that target a specific user objective and support a set of workflows for that objective. Our Industry Collections consist of: Autodesk Architecture, Engineering and Construction Collection, Autodesk Product Design and Manufacturing Collection, and Autodesk Media and Entertainment Collection.
+Maintenance Plan: Our maintenance plans provide our customers with a cost effective and predictable budgetary option to obtain the productivity benefits of our new releases and enhancements when and if released during the term of their contracts. Under our maintenance plans, customers are eligible to receive unspecified upgrades when and if available, and technical support. We recognize maintenance revenue over the term of the agreements, generally one year.    
+Make Business: Represents certain cloud-based product subscriptions. Main products include, but are not limited to, Assemble, Autodesk Build, BuildingConnected, Fusion 360, and ShotGrid. Certain products, such as Fusion 360, incorporate both Design and Make functionality and are classified as Make.
+Net Revenue Retention Rate (NR3): Measures the year-over-year change in Recurring Revenue for the population of customers that existed one year ago ("base customers").  Net revenue retention rate is calculated by dividing the current quarter Recurring Revenue related to base customers by the total corresponding quarter Recurring Revenue from one year ago. Recurring Revenue is based on USD reported revenue, and fluctuations caused by changes in foreign currency exchange rates and hedge gains or losses have not been eliminated. Recurring Revenue related to acquired companies, one year after acquisition, has been captured as existing customers until such data conforms to the calculation methodology. This may cause variability in the comparison.
+Other Revenue: Consists of revenue from consulting, training and other products and services, and is recognized as the products are delivered and services are performed. 
+Product Subscription: Provides customers a flexible, cost-effective way to access and manage 3D design, engineering, and entertainment software tools. Our product subscriptions currently represent a hybrid of desktop and cloud functionality, which provides a device-independent, collaborative design workflow for designers and their stakeholders.  
+Recurring Revenue: Consists of the revenue for the period from our traditional maintenance plans, our subscription plan offerings, and certain Other revenue. It excludes subscription revenue related to third-party products. Recurring revenue acquired with the acquisition of a business is captured when total subscriptions are captured in our systems and may cause variability in the comparison of this calculation.    
+Remaining Performance Obligations (RPO): The sum of total short-term, long-term, and unbilled deferred revenue. Current remaining performance obligations is the amount of revenue we expect to recognize in the next twelve months.  
+Spend: The sum of cost of revenue and operating expenses. 
+Subscription Plan: Comprises our term-based product subscriptions, cloud service offerings, and EBAs. Subscriptions represent a combined hybrid offering of desktop software and cloud functionality which provides a device-independent, collaborative design workflow for designers and their stakeholders. With subscription, customers can use our software anytime, anywhere, and get access to the latest updates to previous versions.  
+Subscription Revenue: Includes our cloud-enabled term-based product subscriptions, cloud service offerings, and flexible EBAs.  
+Total Subscriptions: Consists of subscriptions from our maintenance plans and subscription plan offerings that are active and paid as of the fiscal year end date. For certain cloud service offerings and EBAs, subscriptions represent the monthly average activity reported within the last three months of the fiscal quarter end date. Total subscriptions do not include education offerings, consumer product offerings, select Creative Finishing product offerings, Autodesk Buzzsaw, Autodesk Constructware, and third-party products. Subscriptions acquired with the acquisition of a business are captured once the data conforms to our subscription count methodology and when added, may cause variability in comparison of this calculation.
+Unbilled Deferred Revenue: Unbilled deferred revenue represents contractually stated or committed orders under early renewal and multi-year billing plans for subscription, services, and maintenance for which the associated deferred revenue has not been recognized. Under FASB Accounting Standards Codification ("ASC") Topic 606, unbilled deferred revenue is not included as a receivable or deferred revenue on our Consolidated Balance Sheet.  
+Safe Harbor Statement
+This press release contains forward-looking statements that involve risks and uncertainties, including quotations from management, statements in the paragraphs under "Business Outlook" above, statements about our short-term and long-term goals, statements regarding our strategies, market and product positions, performance and results, and all statements that are not historical facts. There are a significant number of factors that could cause actual results to differ materially from statements made in this press release, including: our strategy to develop and introduce new products and services, and to move to platforms and capabilities, exposing us to risks such as limited customer acceptance, costs related to product defects, and large expenditures; global economic and political conditions, including foreign exchange headwinds, recessionary fears, supply chain disruptions, resulting inflationary pressures and hiring conditions; costs and challenges associated with strategic acquisitions and investments; dependency on international revenue and operations, exposing us to significant international regulatory, economic, intellectual property, collections, currency exchange rate, taxation, political, and other risks including risks related to the war against Ukraine launched by Russia and our exit from Russia; inability to predict subscription renewal rates and their impact on our future revenue and operating results; existing and increased competition and rapidly evolving technological changes; fluctuation of our financial results, key metrics and other operating metrics; deriving a substantial portion of our net revenue from a small number of solutions, including our AutoCAD-based software products and collections; any failure to successfully execute and manage initiatives to realign or introduce new business and sales initiatives; net revenue, billings, earnings, cash flow, or subscriptions shortfalls; social and ethical issues relating to the use of artificial intelligence in our offerings; our ability to maintain security levels and service performance meeting the expectations of our customers, and the resources and costs required to avoid unanticipated downtime and prevent, detect and remediate performance degradation and security breaches; security incidents or other incidents compromising the integrity of our or our customers' offerings, services, data, or intellectual property; reliance on third parties to provide us with a number of operational and technical services as well as software; our highly complex software, which may contain undetected errors, defects, or vulnerabilities; increasing regulatory focus on privacy issues and expanding laws; governmental export and import controls that could impair our ability to compete in international markets or subject us to liability if we violate the controls; protection of our intellectual property rights and intellectual property infringement claims from others; the government procurement process; fluctuations in currency exchange rates; our debt service obligations; and our investment portfolio consisting of a variety of investment vehicles that are subject to interest rate trends, market volatility, and other economic factors. Our estimates as to tax rate are based on current tax law, including current interpretations of the Tax Cuts and Jobs Act, and could be affected by changing interpretations of that Act, as well as additional legislation and guidance around that Act.
+Further information on potential factors that could affect the financial results of Autodesk are included in Autodesk's Form 10-K and subsequent forms 10-Q, which are on file with the U.S. Securities and Exchange Commission. Autodesk disclaims any obligation to update the forward-looking statements provided to reflect events that occur or circumstances that exist after the date on which they were made.
+About Autodesk
+Autodesk is changing how the world is designed and made. Our technology spans architecture, engineering, construction, product design, manufacturing, media and entertainment, empowering innovators everywhere to solve challenges big and small. From greener buildings to smarter products to more mesmerizing blockbusters, Autodesk software helps our customers to design and make a better world for all. For more information visit autodesk.com or follow @autodesk.
+Autodesk uses its investors.autodesk.com website as a means of disclosing material non-public information, announcing upcoming investor conferences and for complying with its disclosure obligations under Regulation FD. Accordingly, you should monitor our investor relations website in addition to following our press releases, SEC filings and public conference calls and webcasts.
+Autodesk, AutoCAD, AutoCAD LT, BIM 360 and Fusion 360 are registered trademarks of Autodesk, Inc., and/or its subsidiaries and/or affiliates in the USA and/or other countries. All other brand names, product names or trademarks belong to their respective holders. Autodesk reserves the right to alter product and service offerings, and specifications and pricing at any time without notice, and is not responsible for typographical or graphical errors that may appear in this document. 
+© 2023 Autodesk, Inc. All rights reserved.
+ 
+Autodesk, Inc.
+Condensed Consolidated Statements of Operations
+(In millions, except per share data) (1)
+Three Months Ended January 31,
+Fiscal Year Ended January 31,
+2023
+2022
+2023
+2022
+(Unaudited)
+Net revenue (2):
+Subscription
+$             1,214
+$                1,093
+$            4,651
+$           4,060
+Maintenance
+14
+22
+65
+76
+    Total subscription and maintenance revenue 
+1,228
+1,115
+4,716
+4,136
+Other
+90
+96
+289
+250
+Total net revenue
+1,318
+1,211
+5,005
+4,386
+Cost of revenue:
+Cost of subscription and maintenance revenue
+90
+80
+343
+299
+Cost of other revenue
+20
+19
+79
+67
+Amortization of developed technologies
+14
+13
+58
+52
+Total cost of revenue
+124
+112
+480
+418
+Gross profit
+1,194
+1,099
+4,525
+3,968
+Operating expenses:
+Marketing and sales
+439
+428
+1,745
+1,623
+Research and development
+313
+290
+1,219
+1,115
+General and administrative
+155
+228
+532
+572
+Amortization of purchased intangibles
+10
+10
+40
+40
+Total operating expenses
+917
+956
+3,536
+3,350
+Income from operations
+277
+143
+989
+618
+Interest and other expense, net
+—
+(36)
+(43)
+(53)
+Income before income taxes
+277
+107
+946
+565
+Benefit (provision) for income taxes
+16
+(18)
+(123)
+(68)
+Net income
+$               293
+$                     89
+$              823
+$               497
+Basic net income per share
+$              1.36
+$                  0.41
+$              3.81
+$              2.26
+Diluted net income per share
+$              1.35
+$                 0.40
+$             3.78
+$              2.24
+Weighted average shares used in computing basic net income per share
+216
+219
+216
+220
+Weighted average shares used in computing diluted net income per share
+217
+221
+218
+222
+____________________ 
+(1) In the current fiscal year, the Company changed its rounding presentation to the nearest whole number in millions of reported amounts, except per share data or as otherwise noted. The current year rounding presentation has been applied to all prior year amounts presented and, in certain circumstances, this change may adjust previously reported balances.
+(2) In current fiscal year, the Company changed its presentation of certain subscription plan offerings in our Condensed Consolidated Statement of Operations. Revenue from subscription plan offerings in which the customer does not utilize the cloud functionality or that do not incorporate substantial cloud functionality, previously recorded in "Subscription" have been reclassified to "Other" and "Maintenance," as applicable.  Accordingly, prior period amounts have been reclassified to conform to the current period presentation, in all material respects. These reclassifications did not impact total net revenue.
+ 
+Autodesk, Inc.
+Condensed Consolidated Balance Sheets
+(In millions) (1)
+January 31, 2023
+January 31, 2022
+(Unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalents
+$               1,947
+$               1,528
+Marketable securities
+125
+236
+Accounts receivable, net
+961
+716
+Prepaid expenses and other current assets
+308
+284
+Total current assets
+3,341
+2,764
+Long-term marketable securities
+102
+45
+Computer equipment, software, furniture and leasehold improvements, net
+144
+162
+Operating lease right-of-use assets
+245
+305
+Intangible assets, net
+407
+494
+Goodwill
+3,625
+3,604
+Deferred income taxes, net
+1,014
+741
+Long-term other assets
+560
+492
+Total assets
+$              9,438
+$              8,607
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+Current liabilities:
+Accounts payable
+$                  102
+$                   121
+Accrued compensation
+358
+341
+Accrued income taxes
+33
+30
+Deferred revenue
+3,203
+2,863
+Operating lease liabilities
+85
+87
+Current portion of long-term notes payable, net
+—
+350
+Other accrued liabilities
+219
+217
+Total current liabilities
+4,000
+4,009
+Long-term deferred revenue
+1,377
+927
+Long-term operating lease liabilities
+300
+346
+Long-term income taxes payable
+164
+20
+Long-term deferred income taxes
+32
+29
+Long-term notes payable, net
+2,281
+2,278
+Long-term other liabilities
+139
+149
+Stockholders' equity:
+Common stock and additional paid-in capital
+3,325
+2,923
+Accumulated other comprehensive loss
+(185)
+(124)
+Accumulated deficit
+(1,995)
+(1,950)
+Total stockholders' equity 
+1,145
+849
+Total liabilities and stockholders' equity 
+$              9,438
+$              8,607
+____________________ 
+(1) In the current fiscal year, the Company changed its rounding presentation to the nearest whole number in millions of reported amounts, except per share data or as otherwise noted. The current year rounding presentation has been applied to all prior year amounts presented and, in certain circumstances, this change may adjust previously reported balances.
+ 
+Autodesk, Inc.
+Condensed Consolidated Statements of Cash Flows
+(In millions) (1)
+Fiscal Year Ended January 31,
+2023
+2022
+(Unaudited)
+Operating activities:
+Net income
+$                823
+$               497
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and accretion
+150
+148
+Stock-based compensation expense
+657
+555
+Deferred income taxes
+(277)
+(8)
+Lease-related asset impairments
+34
+104
+Other operating activities
+(8)
+18
+Changes in operating assets and liabilities, net of business combinations:
+Accounts receivable
+(247)
+(66)
+Prepaid expenses and other assets
+(3)
+(134)
+Accounts payable and other liabilities
+(5)
+10
+Deferred revenue
+798
+419
+Accrued income taxes
+149
+(12)
+Net cash provided by operating activities
+2,071
+1,531
+Investing activities:
+Purchases of marketable securities
+(397)
+(311)
+Sales of marketable securities
+152
+12
+Maturities of marketable securities
+298
+26
+Purchases of intangible assets (2)
+(6)
+(11)
+Business combinations, net of cash acquired
+(96)
+(1,250)
+Capital expenditures
+(40)
+(56)
+Other investing activities
+(54)
+(5)
+Net cash used in investing activities
+(143)
+(1,595)
+Financing activities:
+Proceeds from issuance of common stock, net of issuance costs
+124
+114
+Taxes paid related to net share settlement of equity awards
+(160)
+(194)
+Repurchase and retirement of common stock
+(1,101)
+(1,079)
+Proceeds from debt, net of discount
+—
+997
+Repayment of debt
+(350)
+—
+Other financing activities
+—
+(7)
+Net cash used in financing activities
+(1,487)
+(169)
+Effect of exchange rate changes on cash and cash equivalents
+(22)
+(11)
+Net increase (decrease) in cash and cash equivalents
+419
+(244)
+Cash and cash equivalents at beginning of the period
+1,528
+1,772
+Cash and cash equivalents at end of the period
+$             1,947
+$             1,528
+____________________
+(1) In the current fiscal year, the Company changed its rounding presentation to the nearest whole number in millions of reported amounts, except per share data or as otherwise noted. The current year rounding presentation has been applied to all prior year amounts presented and, in certain circumstances, this change may adjust previously reported balances.
+(2) The line description was changed from "Purchases of developed technologies" to "Purchases of intangible assets". 
+ 
+Autodesk, Inc.
+Reconciliation of GAAP financial measures to non-GAAP financial measures
+(In millions, except per share data) (2)
+To supplement our condensed consolidated financial statements presented on a GAAP basis, we provide investors with certain non-GAAP measures including non-GAAP operating margin, non-GAAP income from operations, non-GAAP diluted net income per share, and free cash flow. For our internal budgeting and resource allocation process and as a means to evaluate period-to-period comparisons, we use non-GAAP measures to supplement our condensed consolidated financial statements presented on a GAAP basis. These non-GAAP measures do not include certain items that may have a material impact upon our future reported financial results. We use non-GAAP measures in making operating decisions because we believe those measures provide meaningful supplemental information regarding our earning potential and performance for management by excluding certain expenses and charges that may not be indicative of our core business operating results.  For the reasons set forth below, we believe these non-GAAP financial measures are useful to investors both because (1) they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making and (2) they are used by our institutional investors and the analyst community to help them analyze the health of our business. This allows investors and others to better understand and evaluate our operating results and future prospects in the same manner as management, compare financial results across accounting periods and to those of peer companies and to better understand the long-term performance of our core business. We also use some of these measures for purposes of determining company-wide incentive compensation.
+There are limitations in using non-GAAP financial measures because non-GAAP financial measures are not prepared in accordance with GAAP and may be different from non-GAAP financial measures used by other companies. The non-GAAP financial measures are limited in value because they exclude certain items that may have a material impact upon our reported financial results. In addition, they are subject to inherent limitations as they reflect the exercise of judgments by management about which charges are excluded from the non-GAAP financial measures. We compensate for these limitations by analyzing current and future results on a GAAP basis as well as a non-GAAP basis and also by providing GAAP measures in our public disclosures. The presentation of non-GAAP financial information is meant to be considered in addition to, not as a substitute for or in isolation from, the directly comparable financial measures prepared in accordance with GAAP. We urge investors to review the reconciliation of our non-GAAP financial measures to the comparable GAAP financial measures included in this presentation, and not to rely on any single financial measure to evaluate our business.
+The following table shows Autodesk's GAAP results reconciled to non-GAAP results included in this release.
+Three Months Ended January 31,
+Fiscal Year Ended January 31,
+2023
+2022
+2023
+2022
+(Unaudited)
+(Unaudited)
+GAAP operating margin
+21 %
+12 %
+20 %
+14 %
+Stock-based compensation expense
+12 %
+12 %
+13 %
+13 %
+Amortization of developed technologies
+1 %
+1 %
+1 %
+1 %
+Amortization of purchased intangibles
+1 %
+1 %
+1 %
+1 %
+Acquisition-related costs
+— %
+— %
+— %
+1 %
+Lease-related asset impairments and other charges
+1 %
+9 %
+1 %
+2 %
+Non-GAAP operating margin (1)
+36 %
+35 %
+36 %
+32 %
+GAAP income from operations
+$               277
+$            143
+$           989
+$           618
+Stock-based compensation expense
+164
+146
+660
+559
+Amortization of developed technologies
+12
+12
+53
+50
+Amortization of purchased intangibles
+10
+10
+40
+40
+Acquisition-related costs
+3
+6
+10
+26
+Lease-related asset impairments and other charges
+13
+104
+33
+104
+Non-GAAP income from operations
+$              479
+$            421
+$        1,785
+$        1,397
+GAAP diluted net income per share
+$              1.35
+$          0.40
+$          3.78
+$          2.24
+Stock-based compensation expense
+0.76
+0.66
+3.03
+2.52
+Amortization of developed technologies
+0.05
+0.05
+0.24
+0.22
+Amortization of purchased intangibles
+0.04
+0.05
+0.18
+0.18
+Acquisition-related costs
+0.02
+0.03
+0.05
+0.11
+Lease-related asset impairments and other charges
+0.06
+0.47
+0.15
+0.47
+Loss (gain) on strategic investments and dispositions, net
+0.04
+0.05
+—
+(0.01)
+Discrete GAAP tax items 
+0.15
+(0.05)
+0.13
+(0.32)
+Release of valuation allowance on deferred tax assets
+(0.18)
+—
+(0.18)
+—
+Income tax effect of non-GAAP adjustments
+(0.43)
+(0.16)
+(0.75)
+(0.34)
+Non-GAAP diluted net income per share
+$              1.86
+$           1.50
+$          6.63
+$          5.07
+Net cash provided by operating activities
+$               911
+$            722
+$        2,071
+$         1,531
+Capital expenditures
+(8)
+(6)
+(40)
+(56)
+Free cash flow
+$              903
+$            716
+$        2,031
+$        1,475
+____________________
+(1)  Totals may not sum due to rounding.
+(2)  In the current fiscal year, the Company changed its rounding presentation to the nearest whole number in millions of reported amounts, except per share data or as otherwise noted. The current year rounding presentation has been applied to all prior year amounts presented and, in certain circumstances, this change may adjust previously reported balances.
+ 
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/autodesk-inc-announces-fiscal-2023-fourth-quarter-and-full-year-results-301754839.html
+SOURCE  Autodesk, Inc.
+
+

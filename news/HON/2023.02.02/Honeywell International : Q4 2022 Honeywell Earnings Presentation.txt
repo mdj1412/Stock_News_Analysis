@@ -1,0 +1,925 @@
+
+
+
+        FOURTH QUARTER 2022 EARNINGS AND 2023 OUTLOOK
+
+
+        FEBRUARY 2, 2023
+      
+
+
+
+
+          Forward Looking Statements
+        
+
+          This presentation contains certain statements that may be deemed "forward-looking statements" within the meaning of Section 21E of the Securities Exchange Act of 1934. All
+        
+
+          statements, other than statements of historical fact, that address activities, events, or developments that we or our management intends, expects, projects, believes, or anticipates will or may occur in the future are forward looking statements. Such statements are based upon certain assumptions and assessments made by our management in light of their experience and their perception of historical trends, current economic and industry conditions, expected future developments, and other factors they believe to be appropriate. The forward-looking statements included in this presentation are also subject to a number of material risks and uncertainties, including but not limited to economic, competitive, governmental, technological, COVID-19 public health factors or impacts of the Russia-Ukraine conflict affecting our operations, markets, products, services, and prices. Such forward-looking statements are not guarantees of future performance, and actual results, and other developments, including the potential impact of the COVID-19 pandemic, the Russia-Ukraine conflict, and business decisions may differ from those envisaged by such forward-looking statements. Any forward-looking plans described herein
+        
+
+          are not final and may be modified or abandoned at any time. We identify the principal risks and uncertainties that affect our performance in our Form 10-K and other filings with
+        
+
+          the Securities and Exchange Commission.
+        
+
+          Non-GAAP Financial Measures
+        
+
+          This presentation contains financial measures presented on a non-GAAP basis. Honeywell's non-GAAP financial measures used in this presentation are as follows: Segment profit, on an overall Honeywell basis, a measure by which we assess operating performance, which we define as operating income adjusted for certain items as presented in the
+        
+
+          Appendix; Segment margin, on an overall Honeywell basis; Organic sales growth; Free cash flow; Free cash flow excluding the Impact of Settlements; Free cash flow margin;
+        
+
+          Adjusted earnings per share; Adjusted earnings per share excluding pension headwind; Adjusted income before taxes; Adjusted tax expense; and Adjusted effective tax rate, if and as noted in the presentation. Management believes that, when considered together with reported amounts, these measures are useful to investors and management in understanding our ongoing operations and in the analysis of ongoing operating trends. These measures should be considered in addition to, and not as replacements for, the most comparable GAAP measure. Certain measures presented on a non-GAAP basis represent the impact of adjusting items net of tax. The tax-effect for adjusting items is determined individually and on a case-by-case basis. Refer to the Appendix attached to this presentation for reconciliations of non-GAAP financial measures to the most directly comparable GAAP measures.
+        
+
+
+
+
+
+
+                4Q 2022 Earnings and 2023 Outlook - February 2, 2023
+              
+
+
+
+                1
+              
+
+
+
+
+
+
+
+
+          2022 RESULTS
+        
+
+
+
+
+            Adjusted
+          
+
+            Earnings Per
+          
+
+            Share
+          
+
+            Organic Sales
+          
+
+            Growth
+          
+
+            Segment Margin
+          
+
+            Expansion
+          
+
+            Free Cash Flow
+          
+
+            Capital
+          
+
+            Deployment
+          
+
+
+
+
+
+
+                  FY 2022
+                
+
+
+
+
+
+                  4Q 2022
+                
+
+
+
+
+
+                  Actual
+                
+
+
+
+
+
+                  Actual
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  $8.76
+                
+
+
+
+
+
+                  $2.52
+                
+
+
+
+
+
+                  Up 9% YoY
+                
+
+
+
+
+
+                  Up 21% YoY
+                
+
+
+
+
+
+
+
+
+
+
+
+
+            6%10%
+
+
+
+
+
+                  70 bps
+                
+
+
+
+
+
+                  150 bps
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  $4.9B
+                
+
+
+
+
+
+                  $2.1B
+                
+
+
+
+
+
+                  Down (14%) YoY
+                
+
+
+
+
+
+                  Down (18%) YoY
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  $7.9B
+                
+
+
+
+
+
+                  $2.3B
+                
+
+
+
+
+
+                  Share Repurchases,
+                
+
+
+
+
+
+                  Share Repurchases,
+                
+
+
+
+
+
+                  Dividends, Capital
+                
+
+
+
+
+
+                  Dividends, and
+                
+
+
+
+
+
+                  Expenditures, and M&A
+                
+
+
+
+
+
+                  Capital Expenditures
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            4Q 2022
+          
+
+            Guidance
+          
+
+            $2.46 -
+          
+
+            $2.56
+          
+
+            10% - 13%
+          
+
+            140 - 180
+          
+
+            bps
+          
+
+
+
+            4Q 2022 Highlights
+          
+
+
+Delivered on organic sales, segment margin expansion, and adjusted EPS commitments
+
+
+Double-digitorganic sales growth driven by HBT, PMT, and Aero
+            
+
+150 bps margin expansion, led by SPS up 940 bps
+
+
+$2.3B capital deployed to share repurchases, dividends, and high- return capex
+
+
+
+            Full Year Highlights
+          
+
+
+Above high end of initial guidance for segment margin and adjusted EPS despite significant top line headwinds due to FX and the wind down of our operations in Russia
+
+
+70 bps margin expansion with 100+ bps expansion in SPS and HBT
+
+
+Generated $4.9B of FCF, achieving full-year guidance
+            
+
+Maintained best-in-class balance sheet
+            
+
+
+
+
+
+          Adjusted EPS excludes 2022 pension mark-to-market expense, 4Q22 benefit and FY22 expense related to UOP matters, Russian-related Charges, Gain on sale of Russian Entities, and Net expense related to the NARCO Buyout and HWI sale.
+        
+
+          Overdelivered Despite Challenging Environment in 2022
+        
+
+
+
+
+
+
+                4Q 2022 Earnings and 2023 Outlook - February 2, 2023
+              
+
+
+
+                2
+              
+
+
+
+
+
+
+
+
+          ASBESTOS TRUST SETTLEMENT DETAILS
+        
+
+
+
+
+
+
+
+
+
+
+
+                  Income Statement
+                
+
+
+
+
+
+
+
+
+
+                  Impact
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  NARCO Trust Buyout
+                
+
+
+
+                  ($1,325M)
+                
+
+
+
+
+
+
+
+                  Existing Reserve
+                
+
+
+
+                  $688M
+                
+
+
+
+
+
+
+
+                  Expected Proceeds
+                
+
+
+
+                  $295M1
+
+
+
+
+
+
+
+
+                  from HWI Sale
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Impact Before Taxes
+                
+
+
+
+                  ($342M)
+                
+
+
+
+
+
+
+
+                  Tax Effect
+                
+
+
+
+                  $82M
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  4Q22 GAAP Impact
+                
+
+
+
+                  ($260M)
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1Estimated based on NARCO Trust tax and other expenses
+          
+
+
+
+            Background and Key Details
+          
+
+
+Honeywell's predecessor, Allied Corporation, owned NARCO from 1979 to 1986, at which time Allied Corporation sold NARCO and entered into a cross-indemnityagreement for asbestos-relatedclaims
+
+
+Honeywell established its initial liability for NARCO asbestos claims in 2002
+            
+
+The NARCO Trust was established in 2013 upon NARCO emerging from bankruptcy, with HarbisonWalker International (HWI) becoming the reorganized and renamed entity
+
+
+Honeywell retained evergreen funding obligation - a ~$700M existing liability plus ongoing expenses to operate the Trust and manage legal disputes
+
+
+Entered into a buyout agreement with the NARCO Trust regarding Honeywell's legacy asbestos liabilities which received final court approval in December 2022
+            
+
+Cash payment was made to the Trust in the January 2023, providing a one-timeheadwind of ($1.3B) to free cash flow that will be partially offset by a $295M1 benefit for
+              Honeywell's rights to the net proceeds from the sale of HWI to be completed later in 2023
+            
+
+Key benefits for Honeywell:
+
+
+
+
+Eliminates evergreen funding obligation
+
+
+Removes future quarterly asbestos charges related to NARCO
+
+
+Further enhances the quality of the balance sheet
+
+
+De-risksfuture unpredictability
+                
+
+
+
+
+
+
+
+          Significantly De-Risking Honeywell's Legacy Liabilities
+        
+
+
+
+
+
+
+                4Q 2022 Earnings and 2023 Outlook - February 2, 2023
+              
+
+
+
+                3
+              
+
+
+
+
+
+
+
+
+          4Q 2022 FINANCIAL SUMMARY
+        
+
+
+
+
+                Sales
+              
+
+
+
+
+
+                Segment Margin
+              
+
+
+
+
+
+                Adjusted EPS
+              
+
+
+
+
+
+                Free Cash Flow
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Up 10%
+          
+
+
+
+
+
+
+                  Organic
+                
+
+
+
+
+
+                  $8.7B
+                
+
+
+
+                  $9.2B
+                
+
+
+
+
+
+
+
+
+
+                  4Q21
+                
+
+
+
+                  4Q22
+                
+
+
+
+
+
+
+            Up 150
+          
+
+            bps
+          
+
+
+
+
+
+
+                  22.9%
+                
+
+
+
+
+
+                  21.4%
+                
+
+
+
+
+
+
+
+                  4Q21
+                
+
+
+
+                  4Q22
+                
+
+
+
+
+
+
+            Up 21%
+          
+
+            $2.52
+          
+
+            $2.09
+          
+
+            $1.36
+          
+
+            Reported
+          
+
+            $1.74
+          
+
+            4Q21 4Q22
+          
+
+
+
+            Down (18%)
+          
+
+            $2.6B
+          
+
+            $2.1B
+          
+
+            $1.2B
+          
+
+            4Q21 4Q22
+          
+
+
+
+
+
+
+Double-digitorganic growth in HBT, PMT, and Aerospace
+            
+
+Price / cost management
+
+
+Strength in long-cycle businesses
+            
+
+
+
+FX headwinds
+
+
+
+
+
+
+Commercial excellence more than offset inflation
+
+
+Highest ever segment margin in SPS
+
+
+
+
+Continued supply chain challenges, though some sequential improvement
+
+
+
+
+
+
+Higher segment profit
+
+
+Lower share count (677M vs. 696M)
+
+
+Lower adjusted effective tax rate (16.3% vs. 19.7%)
+
+
+
+
+Higher Interest expense
+
+
+
+
+
+
+Deployed $2.3B to share repurchases, dividends, and capex
+
+
+
+
+Lower working capital release due to higher receivables and inventory
+
+
+Lower Garrett cash receipts year over year
+
+
+
+
+
+
+          Adjusted EPS and adjusted EPS V% excludes 4Q22 pension mark-to-market expense, 4Q22 benefit related to UOP matters, 4Q22 Russian-related Charges, 4Q22 Gain on sale of Russian Entities, 4Q22 Net expense related to the NARCO Buyout and HWI sale, 4Q21 Pension mark-to-market expense, and 4Q21 Changes in fair value for Garrett equity securities.
+        
+
+          Operational Excellence in Challenging Environment
+        
+
+
+
+
+
+
+                4Q 2022 Earnings and 2023 Outlook - February 2, 2023
+              
+
+
+
+                4
+              
+
+
+
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Honeywell International Inc. published this content on 01 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 02 February 2023 11:50:03 UTC.
+      
+

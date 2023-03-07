@@ -1,0 +1,69 @@
+
+Gilead Sciences, Inc. (Nasdaq: GILD) today announced data evaluating lenacapavir in combination with broadly neutralizing antibodies (bNAbs) teropavimab and zinlirvimab as a potential long-acting treatment regimen with twice-yearly dosing. Results from the Phase 1b clinical trial demonstrated the investigational combination was generally well tolerated with high efficacy in select virologically suppressed participants living with HIV. These data were presented at the 30th Conference on Retroviruses and Opportunistic Infections (CROI).
+
+“Novel long-acting HIV treatment options will drive the next chapter in care and may help meet the therapy needs and preferences of people living with HIV. In this study we found that lenacapavir and bNAbs in a combination approach may have a significant role to play in the future treatment of HIV,” said Dr. Joseph Eron, MD, lead study investigator and the Chief of the Division of Infectious Diseases at the University of North Carolina School of Medicine. “As a clinician who strives to support the people living with the virus under my care, it will be exciting to continue evaluating the combination regimen as a potential twice-yearly long-acting HIV treatment option.”
+
+The study evaluated the safety and efficacy profile of lenacapavir + teropavimab + zinlirvimab in selected adults living with HIV who were virologically suppressed (HIV-1 RNA <50 copies/mL) for ≥2 years while taking antiretroviral therapy (ART). Study participants (n=20) were sensitive to both bNAbs by HIV proviral DNA phenotype and had a CD4 cell count of ≥500 at study entry. The median age was 44 years (14% female, 14% Black, 14% Asian, and 33% Hispanic/Latinx).
+
+Doses of teropavimab and zinlirvimab were weight-based, with participants randomly allocated in a 1:1 ratio into two active treatment groups replacing their baseline ART with lenacapavir (927mg subcutaneous after oral loading) + teropavimab (30mg/kg body weight intravenous) + zinlirvimab (Group 1: 10mg/kg body weight; Group 2: 30mg/kg body weight, both intravenous).
+
+At Week 26, 90% of participants receiving the complete study regimen (n=18/20) maintained virologic suppression (HIV-1 RNA ≤50 copies/mL). At Week 12, one participant withdrew from the study with documented viral suppression (HIV-1 RNA <50 copies/mL). At Week 16, one participant had a confirmed virologic rebound and later resuppressed on baseline oral ART. There were no serious adverse events (AEs), including no grade 4 or 5 AEs, and no AEs that led to study drug discontinuation. Two participants experienced grade 3 AEs with one experiencing injection site cellulitis and the other experiencing injection site erythema.
+
+“We’re excited to share these promising results that reinforce lenacapavir’s potential to be a foundational agent for long-acting combination HIV treatment options, and we are especially pleased to see the potential of the combination of lenacapavir plus bNAbs dosed once every six months,” said Jared Baeten, MD, PhD, Vice President, HIV Clinical Development, Gilead Sciences. “We are committed to exploring novel therapy approaches that may help deliver care for all people living with HIV, with a focus on developing person-centric options that fit into the diverse lives of people living with the virus, as we continue in our pursuit of ending the HIV epidemic for everyone, everywhere.”
+
+The combination of lenacapavir with teropavimab and zinlirvimab will advance to a Phase 2 study (NCT05729568) later this year in virologically suppressed people living with HIV. The study will assess two different dose levels of the bNAbs and assess safety and efficacy of the regimen in participants followed longitudinally for multiple doses of the study regimen. For more information, please visit: https://clinicaltrials.gov/ct2/show/NCT05729568
+
+Lenacapavir is being developed as a foundation for future HIV therapies with the goal of offering both long-acting oral and injectable options with several dosing frequencies, in combination with other antiretroviral agents for treatment or as monotherapy for prevention, that help address individual patient needs and preferences. Lenacapavir is being evaluated as a long-acting option in multiple ongoing and planned early and late-stage clinical studies in Gilead's prevention and treatment research program.
+
+Sunlenca® (lenacapavir), alone or in combination, is not approved by any regulatory authority outside of the United States, United Kingdom, Canada or the European Union for any use.
+
+Please see below for the U.S. Indication and Important Safety Information for Sunlenca.
+
+Teropavimab (GS-2872) and zinlirvimab (GS-5423) are investigational compounds and are not approved by the U.S. Food and Drug Administration or any other regulatory authority for any use. The use of these compounds in combination with lenacapavir are investigational. Their safety and efficacy are unknown.
+
+There is currently no cure for HIV or AIDS.
+
+About Sunlenca
+
+Sunlenca (300 mg tablet and 463.5 mg/1.5 mL injection) [(lenacapavir)] is a first-in-class, long-acting HIV capsid inhibitor approved in the United States, the United Kingdom, Canada and the European Union, for the treatment of HIV infection, in combination with other antiretroviral(s), in people with multi-drug resistant HIV who are heavily treatment-experienced. Sunlenca tablets are approved for oral loading during initiation of Sunlenca treatment, prior to or at the time of the first long-acting lenacapavir injection depending on initiation option. Sunlenca is the only HIV treatment option administered twice-yearly.
+
+The multi-stage mechanism of action of Sunlenca’s active pharmaceutical agent, lenacapavir, is distinguishable from other currently approved classes of antiviral agents. While most antivirals act on just one stage of viral replication, Sunlenca is designed to inhibit HIV at multiple stages of its lifecycle and has no known cross resistance exhibited in vitro to other existing drug classes.
+
+U.S. Indication for Sunlenca
+
+Sunlenca, a human immunodeficiency virus type 1 (HIV-1) capsid inhibitor, in combination with other antiretroviral(s), is indicated for the treatment of HIV-1 infection in heavily treatment-experienced adults with multidrug resistant HIV-1 infection failing their current antiretroviral regimen due to resistance, intolerance, or safety considerations.
+
+U.S. Important Safety Information for Sunlenca
+
+Contraindications
+
+Warnings and precautions
+
+Adverse reactions
+
+Drug interactions
+
+Dosage and administration
+
+Pregnancy and lactation
+
+About Gilead Sciences
+
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases and address unmet needs in virology, oncology and inflammation.
+
+For 35 years, Gilead has been a leading innovator in the field of HIV, driving advances in treatment, prevention and cure research. Gilead researchers have developed 12 HIV medications, including the first single-tablet regimen to treat HIV, the first antiretroviral for pre-exposure prophylaxis (PrEP) to reduce the risk of acquiring HIV infection, and the first long-acting injectable HIV treatment medication administered twice-yearly. Our advances in medical research have helped to transform HIV into a treatable, preventable, chronic condition for millions of people.
+
+Gilead is committed to continued scientific innovation to provide solutions for the evolving needs of people affected by HIV around the world. Through partnerships and collaborations, the company also aims to improve education, expand access and address barriers to care, with the goal of ending the HIV epidemic for everyone, everywhere. Gilead was recognized as the number one philanthropic funder of HIV-related programs in a report released by Funders Concerned About AIDS.
+
+Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks, uncertainties and other factors, including Gilead’s ability to initiate, progress or complete clinical trials or studies within currently anticipated timelines or at all, and the possibility of unfavorable results from ongoing or additional clinical trials or studies, including those involving lenacapavir, teropavimab and zinlirvimab; uncertainties relating to regulatory applications and related filing and approval timelines, and the risk that any regulatory approvals, if granted, may be subject to significant limitations on use; and any assumptions underlying any of the foregoing. These and other risks, uncertainties and factors are described in detail in Gilead’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2022, as filed with the U.S. Securities and Exchange Commission. These risks, uncertainties and other factors could cause actual results to differ materially from those referred to in the forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. The reader is cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, and is cautioned not to place undue reliance on these forward-looking statements. All forward-looking statements are based on information currently available to Gilead, and Gilead assumes no obligation and disclaims any intent to update any such forward-looking statements.
+
+U.S. full Prescribing Information for Sunlenca is available at www.gilead.com.
+
+Sunlenca, Gilead and the Gilead logo are registered trademarks of Gilead Sciences, Inc., or its related companies. All other trademarks are the property of their respective owner(s).
+
+For more information about Gilead, please visit the company’s website at www.gilead.com, follow Gilead on Twitter (@Gilead Sciences) and LinkedIn, or call Gilead Public Affairs at 1-800-GILEAD-5 or 1-650-574-3000.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230222005741/en/

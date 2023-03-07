@@ -1,0 +1,27 @@
+
+T-Mobile US, Inc. (NASDAQ: TMUS):
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230220005341/en/T-Mobile is first US wireless provider to work with AWS to deliver customizable 5G edge compute offerings (Photo: Business Wire)
+What’s the news: T-Mobile and AWS are working together to pair T-Mobile's 5G Advanced Network Solutions portfolio with AWS cloud-based services and scalable, pre-integrated applications, so customers can more easily discover, customize and deploy 5G edge compute.
+
+Why it matters: Businesses need both massive connectivity and computing power to unlock the full business potential of digital transformation, but unlocking those capabilities can be complex and costly. Together, T-Mobile and AWS can help accelerate adoption and reduce costs.
+
+Who it’s for: Organizations of all sizes that are looking to unlock breakthrough results.
+
+T-Mobile (NASDAQ: TMUS) and Amazon Web Services (AWS), Amazon’s cloud computing division, today are joining forces to bring 5G connectivity paired with AWS compute solutions to T-Mobile’s 5G Advanced Network Solutions portfolio. They will also collaborate on customizable, use case specific offerings as part of the new Integrated Private Wireless on AWS program. These offerings help businesses get the performance and applications they need for their unique use cases – for example, monitoring worker safety on remote industrial campuses, performing predictive maintenance on manufacturing equipment, or ensuring faster aircraft turnaround times at the airport.
+
+“T-Mobile and AWS are coming together to do what industry-leading companies do best – make things easier for customers,” said Callie Field, President, T-Mobile Business Group. “Businesses need a combination of connectivity and compute that fits into their current infrastructure. With our flexible 5G network deployment options and AWS’s cloud compute capabilities, we can quickly provide customers a right-sized solution to make their applications – new and existing – perform like never before.”
+
+“AWS and T-Mobile share a common desire to work backwards from customer feedback to deliver innovation,” said Adolfo Hernandez, Vice President, Telco Industry at AWS. “One of the biggest challenges in galvanizing industries and revenue for 5G services has been the lack of flexible 5G solutions that meet the compute and connectivity needs for customers. Together with T-Mobile's innovative suite of 5G Advanced Network Solutions and our Integrated Private Wireless Program, we have the power to meet customers where they are.”
+
+After years of industry excitement, 5G private network adoption has underwhelmed, but the potential is undeniably huge. The challenge has been the complexity and cost businesses face in unlocking that potential – requiring them to work across multiple vendors for compute, connectivity, applications, integration and more at a time of increased budget pressures. With some connectivity vendors insisting on a costly one-size-fits all approach to private networking – instead of a flexible set of private, hybrid and public networking options – it’s no wonder adoption has been slow to take off.
+
+By working together, T-Mobile and AWS can help customers more easily discover, customize, and deploy 5G edge compute. Current AWS customers or businesses wanting AWS services can use the Integrated Private Wireless on AWS portal to explore customized solutions, browsing by industry or use case. Then they simply choose T-Mobile as their 5G provider. For U.S. businesses new to any advanced network or compute solution, T-Mobile will be able to work with them to set up a 5G public, hybrid or private network that’s already integrated with AWS’s customizable edge infrastructure and services.
+
+For more information on T-Mobile’s 5G Advanced Network Solutions (5G ANS), head to https://www.t-mobile.com/business/solutions/networking/5G-advanced-solutions. Customers can also visit https://aws.amazon.com/telecom/integrated-private-wireless/ to learn more through the Integrated Private Wireless portal.
+
+See 5G device, coverage, & access details at T-Mobile.com.
+
+About T-Mobile
+
+T-Mobile US, Inc. (NASDAQ: TMUS) is America’s supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile’s customers benefit from its unmatched combination of value and quality, unwavering obsession with offering them the best possible service experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond. Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Sprint. For more information please visit: https://www.t-mobile.com.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230220005341/en/

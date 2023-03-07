@@ -1,0 +1,34 @@
+
+
+DALLAS, Jan. 17, 2023 /PRNewswire/ -- Texas Instruments (TI) (Nasdaq: TXN) today introduced the first purpose-built semiconductors with ultrasonic lens cleaning (ULC) technology, enabling camera systems to quickly detect and remove dirt, ice and water using microscopic vibrations.
+
+
+
+
+
+
+
+Removing contaminants from camera lenses traditionally requires manual cleaning, causing system downtime, or the use of various mechanical parts that could malfunction. TI's new ULC chipset, including the ULC1001 digital signal processor (DSP) and companion DRV2901 piezo transducer driver, features a proprietary technology that allows cameras to rapidly self-clear contaminants using precisely controlled vibrations to rapidly eliminate debris, which improves system accuracy and reduces maintenance requirements. The chipset offers designers a compact and affordable way to use ULC in a wide range of applications and camera sizes. For more information, see www.ti.com/ulc1001-pr and www.ti.com/drv2901-pr.
+"ULC can make widespread use of self-cleaning cameras and sensors a reality. Existing cleaning approaches are expensive and impractical, requiring complicated mechanics, costly electronics and significant processing to detect contaminants and execute cleaning," said Avi Yashar, product marketing engineer at TI. "With the recent proliferation of cameras in a variety of applications, from automotive and traffic cameras to smart cities and manufacturing, there's a strong need for a simple, cost-effective way to enable self-cleaning cameras."
+The ULC1001 controller includes proprietary algorithms for automatic sensing, cleaning, and temperature and fault detection without any image processing, making ULC technology highly adaptable to various camera lens designs. The chipset's small form factor makes it possible to improve machine vision and sensing in a variety of applications – any place that a camera or sensor could get dirty. To learn how it works, read the technical article, "Ultrasonic Lens Cleaning: A Solid-State Technology You Didn't Know You Needed."
+"As advanced driver assistance systems [ADAS] become more sophisticated and drivers rely on them more extensively, it will become more important than ever that the sensor suite is fully operational at all times," said Edward Sanchez, senior analyst, global automotive practice, TechInsights. "Dirt or foreign material on a camera lens, which would be just a nuisance in the case of a rearview camera, becomes a vital functional and safety issue on a vehicle that relies on accurate and precise imaging and sensor data. TI's ULC approach addresses what will soon be a significant issue in the ADAS and autonomous vehicle market both practically and cost-effectively."
+Reduce system size and complexity with an integrated solution
+TI's ULC chipset eliminates the need for complex mechanical parts and human intervention in lens cleaning systems. The ULC1001 ultrasonic cleaning DSP with proprietary algorithms integrates a pulse-width modulator, current- and voltage-sense amplifiers and an analog-to-digital converter. Used together with the DRV2901 piezo transducer driver as a companion amplifier, TI's chipset enables ULC in a compact footprint with a printed circuit board size less than 25 mm by 15 mm, reducing the bill of materials while providing more functionality than a discrete implementation.
+Package, availability and pricing
+The ULC1001 DSP is in volume production and available for purchase on TI.com and authorized distributors in a 4.5-mm-by-5-mm, 32-pin HotRod™ quad flat no-lead (QFN) package, with pricing at US$6.43 in 1,000-unit quantities. The DRV2901 piezo transducer driver is available for purchase for US$5.35 in 1,000-unit quantities. Full reels are available on TI.com and through other channels. The evaluation module, ULC1001-DRV290XEVM, can be requested on TI.com for US$249. Multiple payment and shipping options are available on TI.com.
+About Texas Instruments
+Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world by making electronics more affordable through semiconductors is alive today, as each generation of innovation builds upon the last to make our technology smaller, more efficient, more reliable and more affordable – making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. It's what we do and have been doing for decades. Learn more at TI.com.
+Trademarks
+All registered trademarks and other trademarks belong to their respective owners.
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/industrys-first-ultrasonic-lens-cleaning-chipset-enables-self-cleaning-cameras-and-sensors-301723493.html
+SOURCE  Texas Instruments
+
+

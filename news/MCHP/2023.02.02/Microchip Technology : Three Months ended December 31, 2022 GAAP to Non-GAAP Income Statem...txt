@@ -1,0 +1,1075 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              MICROCHIP TECHNOLOGY INCORPORATED AND SUBSIDIARIES
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              THREE MONTHS ENDED DECEMBER 31, 2022
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              (in millions, except per share amounts)
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              (unaudited)
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Net sales
+            
+
+
+
+              $
+            
+
+
+
+              2,169.2
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Share-based
+            
+
+
+
+              Acquisition-related
+            
+
+
+
+              Amortization of
+            
+
+
+
+              Special charges
+            
+
+
+
+              Other non-GAAP tax
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+              GAAP
+            
+
+
+
+              compensation
+            
+
+
+
+              acquired intangible
+            
+
+
+
+              (income) and other,
+            
+
+
+
+
+
+              Non-GAAP
+            
+
+
+
+
+
+
+
+
+
+
+
+              expense
+            
+
+
+
+              costs
+            
+
+
+
+              assets
+            
+
+
+
+              net
+            
+
+
+
+              adjustment
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Cost of sales
+            
+
+
+
+              $
+            
+
+
+
+              698.4
+            
+
+
+
+              (6.9)
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              $
+            
+
+
+
+              691.5
+            
+
+
+
+
+
+              Gross profit
+            
+
+
+
+
+
+              1,470.8
+            
+
+
+
+              6.9
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+
+
+              1,477.7
+            
+
+
+
+
+
+              Gross profit percentage
+            
+
+
+
+
+
+              67.8 %
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              68.1 %
+            
+
+
+
+
+
+              Research and development
+            
+
+
+
+
+
+              282.4
+            
+
+
+
+              (21.2)
+            
+
+
+
+              (0.2)
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+
+
+              261.0
+            
+
+
+
+
+
+              Selling, general and administrative
+            
+
+
+
+
+
+              202.9
+            
+
+
+
+              (15.9)
+            
+
+
+
+              (0.1)
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+
+
+              186.9
+            
+
+
+
+
+
+              Amortization of acquired intangible assets
+            
+
+
+
+
+
+              167.4
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              (167.4)
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+
+
+              -
+            
+
+
+
+
+
+              Special charges (income) and other, net
+            
+
+
+
+
+
+              6.5
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              (6.5)
+            
+
+
+
+              -
+            
+
+
+
+
+
+              -
+            
+
+
+
+
+
+              Operating expenses
+            
+
+
+
+
+
+              659.2
+            
+
+
+
+              (37.1)
+            
+
+
+
+              (0.3)
+            
+
+
+
+              (167.4)
+            
+
+
+
+              (6.5)
+            
+
+
+
+              -
+            
+
+
+
+
+
+              447.9
+            
+
+
+
+
+
+              Operating income
+            
+
+
+
+
+
+              811.6
+            
+
+
+
+              44.0
+            
+
+
+
+              0.3
+            
+
+
+
+              167.4
+            
+
+
+
+              6.5
+            
+
+
+
+              -
+            
+
+
+
+
+
+              1,029.8
+            
+
+
+
+
+
+              Operating income percentage
+            
+
+
+
+
+
+              37.4 %
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              47.5 %
+            
+
+
+
+
+
+              Other expense, net
+            
+
+
+
+
+
+              (49.4)
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+
+
+              (49.4)
+            
+
+
+
+
+
+              Income before income taxes
+            
+
+
+
+
+
+              762.2
+            
+
+
+
+              44.0
+            
+
+
+
+              0.3
+            
+
+
+
+              167.4
+            
+
+
+
+              6.5
+            
+
+
+
+              -
+            
+
+
+
+
+
+              980.4
+            
+
+
+
+
+
+              Income tax provision
+            
+
+
+
+
+
+              181.9
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              -
+            
+
+
+
+              (65.2)
+            
+
+
+
+
+
+              116.7
+            
+
+
+
+
+
+              Net income
+            
+
+
+
+              $
+            
+
+
+
+              580.3
+            
+
+
+
+              44.0
+            
+
+
+
+              0.3
+            
+
+
+
+              167.4
+            
+
+
+
+              6.5
+            
+
+
+
+              65.2
+            
+
+
+
+              $
+            
+
+
+
+              863.7
+            
+
+
+
+
+
+              Net income percentage
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              26.8 %
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              39.8 %
+            
+
+
+
+
+
+              Diluted net income per common share
+            
+
+
+
+              $
+            
+
+
+
+              1.04
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+              $
+            
+
+
+
+              1.56
+            
+
+
+
+
+
+              Diluted common shares outstanding
+            
+
+
+
+
+
+              555.4
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              555.4
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Microchip Technology Incorporated published this content on 02 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 02 February 2023 21:47:02 UTC.
+      
+

@@ -1,0 +1,590 @@
+
+
+
+
+          Qualcomm Corporate Responsibility Report
+        
+
+
+
+          Our environmental, social and governance (ESG) performance in 2022
+        
+
+
+
+
+
+          Table of Contents
+        
+
+
+
+
+
+Message from Our CEO
+
+
+About Qualcomm
+
+
+Purposeful Innovation
+
+
+Our Corporate Responsibility Governance
+
+
+Our Approach to Stakeholder Engagement
+
+
+
+
+Our Goals
+
+
+Our Awards and Recognitions
+
+
+
+            12 Empowering Digital Transformation
+          
+
+
+Future-FocusedResearch and Development
+            
+
+
+
+Breakthrough Inventions
+
+
+
+
+Equitable Access
+
+
+
+            23 Acting Responsibly
+          
+
+            24 Workforce
+          
+
+
+Business Integrity
+
+
+
+
+Ethical Governance
+
+
+
+
+
+            40 Operating Sustainably
+          
+
+
+Sustainability Goals
+
+
+Resource Management
+
+
+Operational Resilience
+
+
+
+
+ESG Performance Summary
+
+
+
+
+Progress on Our Goals
+
+
+
+            55 Global Reporting Initiative (GRI) Content Index
+          
+
+            60 Sustainability Accounting Standards Board Index (SASB)
+          
+
+            67 Task Force on Climate-related Financial Disclosures Index (TCFD)
+          
+
+
+Our Alignment with the United Nations Sustainable Development Goals
+
+
+About This Report
+
+
+
+
+
+
+
+            02
+          
+
+
+
+            2022 Qualcomm Corporate Responsibility Report
+          
+
+            Table of Contents
+          
+
+
+
+
+
+
+          Message from Our CEO
+        
+
+          At Qualcomm, we take our responsibility as a global leader seriously. We believe technology can transform industries, businesses, communities and individual lives, and I am proud of our contributions and progress towards this effort this year.
+        
+
+          With this report, I would like to introduce our new Purposeful Innovation Framework - guiding our decisions and 2025 Corporate Responsibility goals as we use technology to positively impact how we live, work and thrive. It lays out three strategic areas of focus: Empowering Digital Transformation, Acting Responsibly and Operating Sustainably. I provide highlights of each below, and I encourage you to read the full report to learn more about our commitment to environmental, social, and governance (ESG) efforts.
+        
+
+
+
+
+            Empowering Digital Transformation
+          
+
+            The past year marked an important evolution in our long-term vision of enabling a world where everyone and everything is intelligently connected. We remain focused on transitioning Qualcomm from a wireless communications company for the mobile industry to a connected processor company for the intelligent edge. Our one technology roadmap is allowing us to efficiently scale and diversify our leading technologies across new industries, applications and experiences - accelerating digital transformation and changing the world for the greater good. Our breakthrough innovations - including advanced connectivity, high-performancelow-power processing, AI-accelerated solutions and more - can help tackle the world's biggest challenges and enable society to leap forward into the digital era.
+          
+
+
+
+            The broad digital transformation at the edge will have a profound impact and we believe everyone deserves the opportunity to participate in this intelligently connected future. We are addressing this imperative to bridge the digital divide by working with a broad ecosystem to deploy advanced technology and solutions at scale and bring programs that strengthen economic and social development to underserved communities globally. Providing everyone with reliable fixed or mobile internet connectivity is a major first step in creating greater access to quality education, entrepreneurial and employment opportunities, health care and other services.
+          
+
+
+
+
+
+            03
+          
+
+
+
+            2022 Qualcomm Corporate Responsibility Report
+          
+
+            Message from Our CEO
+          
+
+
+
+
+
+
+
+            Acting Responsibly
+          
+
+            At Qualcomm, we believe that breakthrough innovation depends on the collective effort of the best and brightest minds. Teams that bring a wealth of backgrounds, experiences, perspectives and skillsets are the driving force behind our innovation, strategy and success. An inclusive and inspiring workplace - where everyone is welcome and has the opportunity to succeed - provides the foundation to further expand diverse talent and develop our future leaders. This year, I signed Disability:IN's CEO Letter on Disability Inclusion, to continue advancing equality and inclusion and to serve as a positive example for CEOs and organizations globally.
+          
+
+            As part of our commitment to championing and empowering our people, we continue to make progress on our 2025 goals. We increased our representation of women in leadership1 by more than 7 percent, our representation of underrepresented minorities (URM2) leadership by more than 5 percent and our overall representation of URMs by more than 12 percent, since 2020. Further, we understand the importance of developing a pipeline of highly skilled science, technology, engineering and mathematics (STEM) innovators. In 2022, we achieved our 2025 goal to engage 1.5 million students and teachers across the globe. But our work and our efforts don't stop there. As technology and innovation continue to drive a more connected world, it is imperative that we remain steadfast in our commitment to inspiring the next generation of inventors.
+          
+
+
+
+            Operating Sustainably
+          
+
+            We also see our advanced technologies playing an essential role in enabling efficiencies through digital transformation. Connected vehicles will help reduce congestion and pollution. Smart factories will be able to deploy flexible manufacturing lines to improve productivity and energy use. And precision agriculture will enable farmers to optimize the use of water and fertilizer to mitigate waste and reduce environmental impact. In our own operations, we are doing our part as well.
+          
+
+            Last year, to reflect our belief that environmental sustainability is imperative for our collective future, we announced our plans to achieve net-zero global emissions for Scopes 1, 2 and 3 by 2040 and committed to the Science Based Targets initiative's (SBTi)Business Ambition for 1.5°C. During our first full year of implementing this strategy, we've already made
+          
+
+
+
+            progress by reducing our Scope 1 and 2 emissions by 4 percent, with a total reduction of 28 percent since 2014. We also joined The Climate Pledge, a cross-sector community of companies committed to be net-zero by 2040, 10 years ahead of the Paris Agreement's goals. Further, we engaged with our suppliers to tackle value chain emission reductions in a collaborative and open manner.
+          
+
+            In recognition of the positive impact our technology can have on society, we are proud to be included in the Fortune Change the Worldlist for the third time since 2019. The list recognizes companies that are making important social or environmental impacts through innovative business strategies. We are also pleased to be acknowledged, once again, for our leading ESG performance and disclosures in the Dow Jones Sustainability North America Index
+          
+
+
+
+            and Newsweek's list of America's Most Responsible Companies. Additional awards and recognitions can be found in the Our Awards and Recognitions section of this report.
+          
+
+            We believe in making the world smarter, more connected and more sustainable. We will continue to build on our progress and remain centered around purposeful innovation to create a better future for everyone.
+          
+
+            Cristiano Amon
+          
+
+            Chief Executive Officer
+          
+
+
+
+
+
+            04
+          
+
+
+
+
+
+
+                  2022 Qualcomm Corporate Responsibility Report
+                
+
+
+
+                  1
+                
+
+
+
+                  Global. Regular employees. Leadership is defined as individuals at the Principal and above level.
+                
+
+
+
+
+
+                  2
+                
+
+
+
+                  U.S. only. Regular employees. For technical positions, "URM" includes Black, Latinx/Hispanic, Native Hawaiian or other Pacific Islander and American Indian or Native American.
+                
+
+
+
+
+
+                  Message from Our CEO
+                
+
+
+
+
+
+                  For non-technical positions, "URM" includes Black, Latinx/Hispanic, Native Hawaiian or other Pacific Islander, American Indian or Native American and Asian.
+                
+
+
+
+
+
+
+
+
+
+          About Qualcomm
+        
+
+
+
+
+            Qualcomm enables a world where everyone and everything can be intelligently connected. As the world's leading wireless technology innovator, we push the boundaries of what's possible to enable next-gen experiences and drive digital transformation
+          
+
+
+pioneering positive impact for a more connected world.
+
+
+
+            With our leadership in wireless connectivity, high- performance, low-power computing and on-device AI, Qualcomm and our family of Snapdragon® platforms are powering the connected intelligent edge. Our one technology roadmap scales its leading portfolio of essential mobile innovations to advance the connectivity evolution and expand our breakthrough technology solutions to support virtually every connected device across industries and sectors, including automotive, edge networking and the Internet of Things (IoT).
+          
+
+            Throughout our history, we've made the "impossible" possible. We continue to inspire new inventions that help enable our customers and partners to create technologies and experiences we've yet to imagine. We are proud to be the technology partner of choice to many of the world's largest enterprises to enable their digital transformation at the edge. When we break through, the ecosystem leaps forward and the world benefits - forever transforming the ways society lives, works and connects with each other.
+          
+
+
+
+            Our Qualcomm CDMA Technologies (QCT) Production Model
+          
+
+            Other than for certain of our radio frequency front- end (RFFE) modules and radio frequency (RF) filter products, QCT utilizes a fabless production model, which means that we do not own or operate foundries for the production of silicon wafers from which our integrated circuits are made. Therefore, we primarily rely on third parties to perform the manufacturing and assembly, and most of the testing, of our integrated circuits based primarily on our proprietary designs and test programs. Our suppliers are also responsible for the procurement of most of the raw materials used in the production of our integrated circuits. The majority of our foundry and semiconductor assembly and test suppliers are located in the Asia-Pacific region.
+          
+
+            QCT primarily uses internal fabrication facilities to manufacture certain RFFE modules and RF filter products, and its manufacturing operations consist of front-end and back-end processes. The front-end processes primarily take place at manufacturing facilities located in Germany and Singapore and involve the imprinting of substrate wafers with the structure and circuitry required for the products to function (also known as wafer fabrication). The back-end processes include the assembly, packaging and test of RFFE modules and RF filter products and their preparation for distribution. Our back-end manufacturing facilities are located in China and Singapore.
+          
+
+
+
+
+
+
+                  Revenues in Fiscal 2022 (FY22)
+                
+
+
+
+
+
+
+
+
+
+                  $37.7b
+                
+
+
+
+                  $6.4b
+                
+
+
+
+
+
+
+
+
+
+                  Qualcomm Technology Licensing
+                
+
+
+
+
+
+                  QCT
+                
+
+
+
+                  Qualcomm CDMA Technologies
+                
+
+
+
+                  QTL
+                
+
+
+
+
+
+                  QCT is a leading developer and supplier of
+                
+
+
+
+                  QTL grants licenses or otherwise provides rights to
+                
+
+
+
+
+
+                  integrated circuits and system software based
+                
+
+
+
+                  use portions of our intellectual property (IP) portfolio.
+                
+
+
+
+
+
+                  on 3G/4G/5G and other technologies for use
+                
+
+
+
+
+
+
+
+
+
+                  in wireless voice and data communications,
+                
+
+
+
+
+
+
+
+
+
+                  networking, computing, multimedia and global
+                
+
+
+
+
+
+
+
+
+
+                  positioning systems products.
+                
+
+
+
+
+
+
+
+
+
+
+
+                  $31m
+                
+
+
+
+                  $134m
+                
+
+
+
+
+
+
+
+                  Qualcomm Strategic Investments
+                
+
+
+
+
+
+
+
+                  QSI
+                
+
+
+
+                  Other
+                
+
+
+
+
+
+
+
+                  QSI makes strategic investments primarily through
+                
+
+
+
+                  Other revenues included revenues from
+                
+
+
+
+
+
+                  our Qualcomm Ventures arm that are focused
+                
+
+
+
+                  non-reportable segments.
+                
+
+
+
+
+
+                  on expanding or opening new opportunities for
+                
+
+
+
+
+
+
+
+
+
+                  our technologies as well as supporting the design
+                
+
+
+
+
+
+
+
+
+
+                  and introduction of new products and services
+                
+
+
+
+
+
+
+
+
+
+                  (or enhancing existing products or services).
+                
+
+
+
+
+
+
+
+
+
+
+
+          Snapdragon is a product of Qualcomm Technologies, Inc. and/or its subsidiaries.
+        
+
+
+
+
+            05
+          
+
+
+
+            2022 Qualcomm Corporate Responsibility Report
+          
+
+            About Qualcomm
+          
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Qualcomm Inc. published this content on 24 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 28 February 2023 10:04:02 UTC.
+      
+

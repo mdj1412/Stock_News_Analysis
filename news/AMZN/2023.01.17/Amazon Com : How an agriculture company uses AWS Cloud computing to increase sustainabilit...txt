@@ -1,0 +1,152 @@
+
+
+      Growing food and raising livestock contributes to global warming, but one AWS customer is using cloud-based tools to help farmers deploy climate change solutions.
+    
+
+
+        Global drought has been a stubbornly destructive presence this last year, even in parts of the world where it's rarely seen-including the United States and Europe. The Drought in Europe August 2022: GDO Analytical Reportby the Joint Research Centre (JRC), the European Commission's science and knowledge service, states that this year 64% of Europe is experiencing-or in danger of facing-drought.
+      
+
+
+How AWS will return more water than it uses by 2030
+
+
+          Getting AWS to be water positive requires new solutions and collaborations involving employees, global nonprofits, local communities, and public utilities-all with the same goal in mind: creating a better future for our planet.
+        
+
+Watch now
+
+
+
+        Not surprisingly, a key driver of the worldwide drought we are experiencing is climate change. Many factors contribute to the environmental fix we find ourselves in. Among them is agriculture. The global agriculture industry has a massive impacton global water supplies and sustainability and is widely recognized as a significant contributor to climate change, particularly through methane gas emissions from cattle. But even in less extreme conditions than the drought European countries experienced last summer (and other parts of the world continue to deal with), the agriculture industry has a massive impact on global water supplies and sustainability. Food and livestock production uses 70% of available fresh waterand 50% of habitable land.
+      
+
+        The quandary, of course, is that we need food. The question for the agriculture industry is: "How can farmers supply food to the world's population with as little contribution to climate change as possible?"
+      
+
+        AWS customer CropXhas one answer.
+      
+
+        The Israel-based agricultural firm uses AWS solutions to power more effective, cost-efficient farming. CropX's easy-to-use, do-it-yourself (DIY) agronomic farm management platform ("CropX platform") and app helps farmers boost crop yields by focusing on saving water, agrochemicals, labor, and energy-which in turn helps farmers reduce their environmental and planetary impact.
+      
+
+        Digging for data, literally
+      
+
+        While agricultural services are available that provide farmers with above-ground data for farming efficiency, less than 10% of companies extract data from the soil. And the soil "is where the most valuable data can be extracted," according to Matan Rahav, vice president of Business Development at CropX.
+      
+
+        Without soil data, many farmers are not optimizing their resources, and they might irrigate or fertilize too much or too little, and so on. On a planet with a rapidly growing population, where farmers have to grow more food with less land, inputs, and overall environmental impact, CropX stepped in to address wasted resources in agriculture.
+      
+
+        Using the dashboard, CropX customers can track soil and crop health, and manage their irrigation, fertilization, and crop protection. The CropX platform integrates both proprietary software and hardware, and contains patented internet of things (IoT) sensors that the company manufactures itself. The CropX platform is accessible on mobile and desktop systems, to aid farmers in minimizing resource inputs while increasing their yields.
+      
+
+        Between 2018 and 2020, CropX scaled its in-soil data analytics platform on AWS fourfold, allowing it to ingest millions of soil and weather-related data points daily. Its platform also incorporates above-ground data layers, including satellite imagery, and the AWS Cloud enables it to incorporate more satellite imagery and real-time weather data.
+      
+
+        From raw data to actionable insights
+      
+
+        The CropX platform processes raw soil data via soil sensors and analyzes it in real time, which makes the data more accessible and user friendly, and integrating additional data layers easier. Data layers include soil maps, topography maps, weather data, weather forecasts, satellite imagery (CropX develops its own image-processing), hydraulic models, crop models, user inputs, data from the irrigation system and controllers, and data from all agricultural equipment (such as tractors, harvesters, and sprayers). CropX sends these layers together in the cloud to provide accurate insights and recommendations that are crop-specific and growth-stage specific, such as advising farmers when, where, and how much to irrigate, fertilize, and spray.
+      
+
+        This information will update automatically on the CropX app, where farmers can view it on their mobile devices with additional insights and information, without having to download any raw data or export data. If farmers do want raw data, they can access it, as well as graph views.
+      
+
+        Thanks to AWS' cloud and tools, we successfully built a hyper-scalable, DIY, global infrastructure and are now winning channels and customers, positioning ourselves as the world's leading agronomic farm management platform solution.
+
+
+            Matan Rahav
+          
+
+            Vice President of Business Development of CropX
+          
+
+
+
+        The CropX platform's insights for irrigation, nutrition, and disease management
+      
+
+        CropX's data solution captures data from thousands of global soil sensors and sends it to a centralized platform running on hundreds of Amazon Elastic Compute Cloud (Amazon EC2)instances. It then analyzes and saves satellite imagery data, and stores all agronomical data and insights in the cloud. CropX also relies on AWS solutions to support growing traffic from web and mobile devices, and to transfer messages between services.
+      
+
+        The company combines above-ground datasets with sensor-measured, in-soil data. It then transmits that data to its AWS-powered solution. The data is integrated with imaging, weather, and topography metrics, as well as crop models, hydraulic models, and user inputs. The CropX platform uses artificial intelligence to analyze the data and provides insights to farmers on the CropX web interface or mobile app. The solution specifically helps with irrigation management, telling farmers when they need to irrigate and how many millimeters of water is required for optimal moisture. The recommendations are specific to each crop and growth-stage.
+      
+
+        The CropX platform also helps with nutrition management, alerting farmers when it detects risky buildup of salinity or leaching of nitrates from the root zone to the groundwater. Nutrition-management alerts can help farmers prevent overapplying nitrogen fertilizer, which is the main cause of agricultural pollution. It is also a very expensive fertilizer.
+      
+
+        A third way the CropX platform helps farmers is with disease management. The solution identifies disease risks and specific sprays needed to prevent diseases from occurring. This more targeted approach counters and mitigates the common practice of spraying everything, every week-so that no disease can ever develop. This traditional approach is both costly and environmentally unfriendly.
+      
+
+        "Our customers can use the app to view the updated status of soil readings, moisture levels, and root zones," said Sagi Briteman, vice president of Research and Development at CropX. "We also provide alerts and notifications if fields are too dry or too wet."
+      
+
+
+How a climate change startup is using AWS Cloud computing to monitor new forest growth
+
+
+          Terraformation combines local expertise and AWS Cloud computing tools to regrow plants.
+        
+
+Read more
+
+
+
+        CropX' technology helps farmers supplying PepsiCo Mexico to use less water
+      
+
+        An example of a company effectively using the technology is CropX's collaboration with PepsiCo Mexico. PepsiCo Mexico's parent company, PepsiCo-an American multinational food, snack, and beverage corporation headquartered in the U.S.-has set a number of interconnected goals that aim to contribute to its positive water impact. It designs its efforts and partnerships to facilitate long-term, sustainable water security for its business.
+      
+
+        PepsiCo has an ambitious goal of 15% water reduction by 2025. As part of this effort, CropX collaborates with PepsiCo Mexico (PepsiCo's largest operation in Latin America) to help the producers that supply the potatoes reduce their water use.
+      
+
+        The CropX platform provides real-time recommendations to the potato farmers, which helps them optimize irrigation management. Previously, farmers went to the field to feel whether the soil was too wet or dry. By using the app to apply the right amount of water, in the right place, and at the right time, potato farmers now use up to 25% less water. Given PepsiCo Mexico's stature as the largest potato buyer, their helping each grower save water, in aggregate, has a very significant impact on water savings.
+      
+
+        After delivering a very successful pilot with PepsiCo, where it demonstrated significant water, agrochemicals, and fertilizer savings and managed to significantly reduce greenhouse gas emissions, CropX expanded its collaboration to more countries. It now collaborates with PepsiCo in countries such as Guatemala, Colombia, Argentina, the Dominican Republic, Peru, Chile, Brazil, Egypt, Saudi Arabia, Australia, and New Zealand.
+      
+
+        Serving over 5,000 customers with over 12,000 installations across 50 countries, CropX has demonstrated 50% water and 20% agrochemicals savings with 20% yield increase for 100 crop types.
+      
+
+        Stewards of sustainability
+      
+
+        This year, CropX expanded its platform to include an innovative disease-management capability that can lead to reduced chemical use while protecting crop yields. CropX platform tracks key fungal diseases on over 320 crop and fungal disease combinations and offers advice on when to spray. This new capability integrates 25 years of agronomic research and expertise of Netherlands-based Dacom Farm Intelligence, which CropX acquired in 2021. By timing the application correctly, farmers can ensure that they protect their crops while limiting the use of chemicals to what is absolutely necessary.
+      
+
+        "Thanks to AWS' cloud and tools, we successfully built a hyper-scalable, DIY, global infrastructure and are now winning channels and customers, positioning ourselves as the world's leading agronomic farm management platform solution," said Rahav.
+      
+
+        To learn more about CropX and AWS customers pioneering and powering agriculture in the cloud, visit Agriculture Customer Stories. And learn about innovative work AWS customers in other sectors and industries are doing in the cloud by visiting the AWS Customer Story Collections page.
+
+
+
+
+        Related Tags
+      
+
+AWSSustainabilityClimate
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Amazon.com Inc. published this content on 17 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 17 January 2023 21:39:02 UTC.
+      
+

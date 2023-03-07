@@ -1,0 +1,134 @@
+
+A red flag does not necessarily mean that there is a fraud or a scandal to be expected. It's simply something that needs to be watched. The problem is when they accumulate. These red flags should be understood as warnings: the more they multiply during the study of a company, the more the risks of a possible permanent loss of capital - if you decide to invest in this file anyway - intensify. 
+ 
+Investors should therefore perform due diligence, i.e. a thorough and systematic analysis of the documents and information available to shareholders to ensure that there are no irregularities and that the company is financially sound, in order to reduce the possible risks associated with the investment. 
+ 
+Looking for red flags is an integral part of the job of a professional financial analyst, but it can also be extremely useful for any conscientious investor looking to avoid bad companies and maximize their returns. In this article, we will learn about the 12 main types of red flags that can be spotted and then we will study a detailed case study with a listed stock. 
+ 
+Part 1: The 12 main types of red flags
+ 
+A lack of transparency 
+ 
+Let's start with a common characteristic of any shady company that doesn't want anyone to look into its accounts. Lack of transparency is an overall perception when reading financial statements. This can take the form of an omission of additional information that could have been useful, the use of allusive or roundabout vocabulary, the unnecessary complexity of a document or data presentation, or the systematic placing in footnotes of all information that could be perceived as negative by the investor. Most of the time, nothing is illegal, but we have this feeling that information is difficult to obtain. This is a first warning sign. It should invite us to dig deeper into the subject. 
+ 
+Unproven (or unprovable) competitive advantages 
+ 
+The company boasts about a lot of things but without really proving anything. It describes itself as more efficient, employing the best engineers, offering the fastest solutions. But when you look for the facts behind the claims: que tchi, nada, zilch. There is simply no proof. So of course, an investor presentation is spun in a way that appeals to its readership, but when you can't find any evidence, chances are it's all just talk. 
+ 
+The company is burning cash and not generating free cash flow 
+ 
+Stable cash flow is a sign of a healthy, thriving business, while large fluctuations in cash flow can signal that a company is in trouble. But it gets worse: when the evolution of free cash flow (FCF) does not follow the evolution of turnover at all. When the FCF is negative, it means that the company is burning cash. It will therefore need to finance itself sooner or later if it does not manage to turn the tide and go into the black. In this case, the company can refinance itself with debt or equity. In any case, this is a bad sign for the shareholder. Indeed, either the balance sheet situation of the company risks to deteriorate soon and its stock market valuation will drop to take into account this deterioration of the fundamentals, or the issue of shares will dilute the shareholder and the share will drop to readjust to the initial market capitalization. 
+ 
+(Overly) promising results 
+ 
+The company tends to promise much. The growth forecasts are gargantuan. But when you look at previous earnings releases, the company struggles to deliver on these overly optimistic forecasts. Announcements regularly disappoint and the promise of a year of finally creating shareholder value fades as the disenchantment of a bright future fades. 
+ 
+A history of dilution 
+ 
+Dilution is what happens when an ownership interest in a company is reduced due to a new share issue or the exercise of stock options. Each time a company issues new shares, it results in a smaller share of ownership for the shareholders. In effect, more shares in the hands of more people means that each holder of existing common stock owns a smaller or diluted percentage of the company. Some companies tend to abuse the issuance of shares. So it's essential to consider this parameter when analyzing a stock. Look at the evolution of the number of shares over the last few years, avoid companies that dilute their shareholders too much and favor companies that buy back their own shares. 
+ 
+OCABSAs 
+ 
+In the same line as share dilution, the company can find alternative financing methods if it no longer has access to loans. This is where the OCABSA come into play. This is a structured product that combines bonds convertible into shares (OCA), with a short maturity (less than three years) and warrants to subscribe for shares (BSA). They are most often issued by companies that no longer have access to credit, are not able to increase their capital under good conditions, or do not offer reassuring prospects for their development. Few companies that enter into this trap come out unscathed. We often speak of OCABSA but other dilutive instruments exist (ORNANE, BEOCEANE, ABSA, OCEANE/BSA, ODIRNANE, etc). The shareholder loses his feathers almost every time. When you see this kind of thing, it is better to run away. 
+ 
+No or few insiders in the capital 
+ 
+If this company is so great and the stock has so much potential, why aren't the key stakeholders buying shares? This is a question you need to ask yourself. Do you want to invest with a "skin in the game" management, who is up to his neck in his entrepreneurial project, who wants, just like you, the business to flourish and the stock to rise because that's how he makes his money? Or do you want to invest in a company owned by institutional investors and index managers who have little regard for the practices of the management, which itself pays itself a large salary that does not depend on the share price? Choose your side, but remember that incentives are often highly correlated with results. As Charlie Munger said: "Show me the incentive, and I will show you the outcome". 
+ 
+Massive insider selling 
+ 
+When you look at the latest insider deals, if you see massive sales from the executive team (CEO, CFO, COO, VP, Director, etc.), it is usually not good news. So there are many reasons to sell a stock. The CEO may exercise call options and then resell the stock to compensate himself. The CFO may need to diversify his or her personal investments so as not to "put all his or her eggs in one basket. The vice-chairman of the board of directors simply sells some shares to finance the renovation of his house and, in passing, to build a new swimming pool in his second home. Why not! But it can also be because insiders have privileged information or observe a slowdown in activity. They prefer to cash in some gains and come back to the stock later. There is always a good reason to sell stocks. However, when you have the wind at your back, with a committed management that strongly believes in its entrepreneurial project and continues to invest its own money because it sees the long-term potential, it is still more reassuring. 
+ 
+A CEO out of nowhere 
+ 
+This is a phenomenon that has accelerated in recent years, especially since the advent of SPACs and other "empty shell" investment vehicles. Some executives have gone from CEO of a SaaS software company in Silicon Valley to CEO of a mining company in southern Montana out of nowhere. Others have wacky backgrounds that don't give a sense of expertise in a business area. How can you be an expert in a field of endeavor after only two years in an industry? Some things take time, like building expertise. On the contrary, it's nice to invest in a company where the current CEO has worked hard for many years (or even decades), spending time with major competitors to understand their environment and then working his way up the corporate ladder. 
+ 
+High salaries 
+ 
+Another indicator that the company is a "cash pig" for its management is when the salaries are far too high compared to the turnover and the net result generated. As we will see in "Part 2: Case study", some managers go as far as paying themselves a salary equivalent to 10% of the turnover, that's simply enormous. How do you expect the company to have good profit margins if 10% of the turnover is used to pay the CEO? In a healthy company, salaries are balanced in relation to the value created and there is enough cash left over to invest in organic growth, make targeted acquisitions, carry out share buybacks or pay a dividend to shareholders. 
+ 
+SBC's in spades 
+ 
+This due diligence goes hand in hand with the study of salaries and other benefits paid to executives. SBC for Stock Based Compensation is a variable remuneration in the form of shares for employees, directors or executives. This includes stock payouts, stock options, phantom shares, restricted stock units or employee stock ownership plans. Like the issuance of shares or OCABSAs, this dilutes existing shareholders. It is not alarming to see them, they exist in most large listed companies. The important thing is the proportion they take in relation to the cash flow profile, the minimum holding period imposed on holders (usually several years) and the behavior of the latter (do they systematically sell or not). 
+ 
+A feeling of "too good to be true "
+ 
+When reading the financial statements, you have the feeling that you have stumbled upon a five-legged sheep. The company has everything going for it: it is profitable, in good financial health, showing sustained growth, the management seems competent and the stock is paying a discount. It seems almost too good to be true. How is it that no one has seen this bargain, or rather, this anomaly in the financial markets? And then you say to yourself: "So the markets are inefficient, I have tangible proof of this right in front of me". 
+ 
+But what if it really is too good to be true? If the market gives a modest valuation to a stock, there is surely a good reason for it that you may not have seen. Is the company positioned in a very cyclical business? Is it at the top of the cycle? Is a slowdown in activity to be expected in the coming quarters? Or perhaps it is due to the company's positioning in its market: does the company have little bargaining power with its customers or suppliers? The products or services it offers are in the process of being disrupted? The company is undergoing a regulatory shock or is subject to regulation? Its business model is very capitalist? The company is facing a financing or management problem? A scandal is about to break? Who knows? There are many factors that can enter into the equation and you may have missed some. 
+ 
+Look at the big picture. Would you invest in this company with your eyes closed if you couldn't sell your shares for the next ten years? If the answer is no, reconsider your enthusiasm. 
+Here is a summary of the 12 main types of red flags:
+
+I invite you not to duly believe the words of leaders and the flattering comments of observers, but instead to go deep into the information for yourself. Independent thinking is essential in this world where information is a weapon of mass concealment. You must dig, dig and use all (legal) means at your disposal to gather information in order to form a solid, constructed opinion. This is especially true when you are investing in individual stocks in poorly regulated markets or in small companies with little analyst coverage. 
+ 
+Part 2: Case Study 
+ 
+Now that you know the main points to watch out for when looking at a company, you'll have to move on to the next step: the case study. 
+ 
+This example of a company we're going to break down is a perfect example of what we often see in the markets: "a promise of a wonderful future that rings a little hollow". 
+ 
+Pointerra Limited (3DP) is a small Australian company with a market capitalization of just under $100 million as of this writing. The company provides a data-as-a-service (DaaS) solution for managing, working with, analyzing and sharing three-dimensional (3D) data sets. 
+ 
+The company's cloud platform, Pointerra3D, is an end-to-end solution that stores, processes, manages, analyzes, extracts, visualizes and shares key information from 3D data. The company also offers real-time web visualization tools to access data from any device and any location.
+ 
+The applications of its tools are obvious and extremely useful for many sectors such as engineering, architecture, infrastructure management, defense or commerce. This specialist in 3D visualization and digital twins (digital replica of an object) addresses markets in structural growth. 
+ 
+This precise 3D mapping can be used as a platform to manage a fleet of robots (such as Amazon's warehouses with which Pointerra has a pilot project on 200 sites in the United States and Europe) or to manage electrical infrastructures (such as with the high voltage lines of FPL (Florida Power & Light Company), the main subsidiary of Nextera Energy with which Pointerra has a contract). 
+ 
+In short, the company is in a trendy sector, uses a plethora of keywords (3D mapping, cloud platform, virtual twin, etc.) and presents itself as an agile solution and the fastest on the market. The pitch is well-tuned and an inattentive investor could easily fall for it after reading their well-polished presentation. 
+
+Source : Investor presentation 2022
+We are going to go a little deeper and deconstruct the substance of Pointerra in order to identify potential "red flags" on this share. 
+ 
+
+Red Flag #1 : First of all, what is surprising is the apparent lack of transparency. As an analyst, when I study a company, I prefer when information (positive or negative) is easily available and expressed in clear terms. First, it makes my job easier. And second, it makes me feel more confident. Here, Pointerra uses the ACV metric for "annual contract value". A curious term, which can be explained in the case of a SaaS business, but which hides unverifiable data. Then, we notice that the most interesting information is in the footnotes. Here is what you can find when you look in the "fine print": 10% of the turnover comes from an R&D tax credit (the Australian equivalent of our research credit). Of course, the company does not brag about it in the headlines, you have to look in the footnotes. Do you want to invest in a company where about 10% of the turnover comes from a government grant? 
+Red Flag #2: Despite LCA's meteoric growth, the company is burning cash, not generating Free Cash Flow (FCF) and its expenses are accelerating. Growth is good, but if it's profitable, it's better. This real and rapidly growing cash-burn will surely not allow the company to survive another 18 months without a capital increase, and thus a potential dilution for the current shareholder. In fact, over its last six fiscal years in operation, we observe that the company has burned through AUD 12.5 million, and unsurprisingly, this is in line with the AUD 12 million it has raised in equity over the same period. 
+
+
+Source : Investor presentation 2022
+
+Red Flag #3: The Australian company announces that it has the fastest solution available on the market. Faster than Ansys or Dassault Systèmes (to name but two), while the means and reputation of these competitors are no longer to be demonstrated. When you look at the technical team on LinkedIn, it is tiny (barely 10 full-time engineers). How could this small team of engineers compete with the global giants of 3D visualization with a faster solution? This is a source of amazement to me. Especially since the growth of 2022 is almost entirely due to a pilot project with an American energy company (FPL mentioned earlier in the article). Only one big customer for the fastest solution in the world, surprising that customers are not yet convinced. 
+
+ 
+
+Red Flag #4: Let's look at compensation this time. And not surprisingly, the salaries of the management team are (very) high for a small-cap with less than $100 million in market capitalization and $10 million in revenue in 2022. The CEO, Ian Olson, is paid $492,255 per year all in cash, or 5% of the company's revenue. This is what we call value capture! 
+
+
+Source : Annual report 2022
+
+Red Flag #5 : There is a classic incentive program in Australia which allows the management to borrow from the company at a rate of 0.4% to buy shares of the company at $0.03 and to sell them potentially at $0.06. The management has used it well. In short, there are many signs that the management is getting paid handsomely at the expense of shareholders. 
+
+
+Source : Annual report 2022
+
+Red Flag #6 : In the accounts, the details of the SBC (stock based compensation) do not appear in the cash flow statements. The SBC are classified under the catch-all name of "share based payments" much further down in the annual report. This is not a very elegant practice when one considers that SBCs represent almost one third of EBITDA (gross operating profit). 
+
+
+Source : Annual report 2022
+
+Source : Annual report 2022
+
+Red Flag #7: To keep the momentum going, there are 17 million options up in the air with a strike at $0.07 per share. This clearly doesn't foreshadow any incentive for management, who are going to take money no matter what happens to the company's trajectory in the coming quarters. 
+
+
+
+
+Source : Annual report 2022
+
+Red Flag #8: We then observe a provision for bad debt of AUD 437,497 in 2022. In other words, 5% of the 2022 revenue (excluding tax credits) is set aside as a provision because it appears to have been earned from insolvent or non-paying customers. All this seems abnormally high. It also allows the company to potentially juggle cash flow artificially since the provisions are a non-cash item. 
+
+
+
+
+Source : Annual report 2022
+
+Red Flag #9: Finally, the ninth and last "red flag" identified here: the latest Q1 2023 release. Like a nail in the coffin, this last one announces billing delays and delayed projects in the US with an impact on the "cash collection". Surprising for a supposedly SaaS business where normally the customer pays in advance to access the services. 
+
+
+Source : Quarterly Activities/Appendix 4C Cash Flow Report 01/31/2023
+To go further, I have put the links, documents and corresponding pages so that you can check for yourself and trace the path when looking for potential anomalies on a company. 
+ 
+As you can guess, all this does not inspire much confidence. And even if the turnover continues to grow in the next few years, do you want to invest in this kind of company? Maybe Pointerra will improve its current situation and turn out to be a good investment, but in the meantime, there is a lot of risk. When we want to become long-term shareholders of a company and therefore partners with the management team, we have to trust them because it is our savings that they have in their hands. 
+ 
+Identifying potential red flags is part of an investor's job. Unfortunately, not all investors take the time to thoroughly study a company's financial statements before investing in it. I invite you to think for yourself and to do this work, which certainly takes time, but will allow you to avoid big mistakes and to eventually identify the most qualitative companies. 

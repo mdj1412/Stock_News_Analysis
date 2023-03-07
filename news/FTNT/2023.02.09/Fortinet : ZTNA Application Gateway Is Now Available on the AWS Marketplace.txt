@@ -1,0 +1,47 @@
+
+
+      Due to the rise of work from anywhere, more organizations are adopting Zero-Trust Network Access (ZTNA) to secure their networks and data. In a world where employees are accessing resources from a variety of devices and locations, the traditional network perimeter can no longer be used as a reliable indicator of trust, so ZTNA is being looked at more seriously.
+    
+
+      The Fortinet Zero-Trust Network Access (ZTNA) Application Gateway is now available on the Amazon Web Services (AWS) Marketplace. It provides a secure and scalable solution for businesses seeking to protect their applications and data in the cloud or data center. The ZTNA Application Gateway is designed to provide secure, remote access to applications and data using a range of security features to verify the identity of users and devices before granting access. By preventing unauthorized access and data breaches, it helps protect businesses from potential legal and financial consequences.
+    
+
+A Single, Unified Solution
+
+
+      With its Universal ZTNA approach, Fortinet takes the concept of ZTNA a step further. The single, unified solution secures access to applications and data from anywhere, which is especially important for organizations with a distributed workforce or a mix of on-premises and cloud-based resources. Users are authenticated and authorized based on their identity, the posture of their device, and only then provided access to resources explicitly granted to them. Regardless of where they are located or what device they are using, only authorized users can access sensitive data. ZTNA can significantly improve security and reduce an organization's attack surface compared to legacy VPN solutions.
+    
+
+      In addition to its strong security capabilities, the Fortinet ZTNA Application Gateway is also highly scalable and flexible. It can be easily deployed on the AWS cloud, so businesses can quickly and easily set up secure access to their applications and data. The gateway is also compatible with a wide range of devices and platforms, so it's ideal for businesses with diverse IT infrastructures.  
+    
+
+Improve Security While Reducing Complexity
+
+
+
+      ZTNA also offers a number of other advantages for organizations. It can help reduce the complexity of managing access to resources because it eliminates the need for traditional VPNs and other complex access controls that often provide excessive access. ZTNA makes it easier for users to access the resources they need while reducing the burden on IT departments.  The Fortinet Universal ZTNA approach provides a consistent experience regardless of where users are logging in from, so the overall experience is significantly better than remote access-only ZTNA solutions.
+    
+
+      Because the Fortinet ZTNA Application Gateway is now available on the AWS Marketplace, businesses can secure their digital assets and safeguard against cyber threats more easily. With its strong security features and scalable, flexible design, the Fortinet ZTNA Application Gateway is an excellent choice for businesses looking to secure their applications and data in the cloud or anywhere.
+    
+
+Learn more about Fortinet ZTNA solutions and why our Universal ZTNA approach makes sense for many organizations. Find out more about the Fortinet ZTNA Application Gateway on the AWS Marketplace.
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Fortinet Inc. published this content on 09 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 09 February 2023 16:10:01 UTC.
+      
+

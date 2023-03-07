@@ -1,0 +1,176 @@
+
+
+
+        Marriott International, Inc.
+      
+
+        Fourth Quarter 2022
+      
+
+        Earnings Conference Call Transcript1
+
+
+        February 14, 2023
+      
+
+Operator: Good day, everyone, and welcome to Marriott International's Fourth Quarter 2022 Earnings Conference Call. Today's call is being recorded. I will now turn the call over to Jackie Burka, Senior Vice President, Investor Relations.
+      
+
+Jackie Burka: Good morning, everyone, and welcome to Marriott's fourth quarter 2022 earnings call. On the call with me today are Tony Capuano, our President and Chief Executive Officer, Leeny Oberg, our Chief Financial Officer and Executive Vice President, Business Operations, and Betsy Dahm, our Vice President of Investor Relations.
+      
+
+        I will remind everyone that many of our comments today are not historical facts and are considered forward‐looking statements under federal securities laws. These statements are subject to numerous risks and uncertainties, as described in our SEC filings, which could cause future results to differ materially from those expressed in or implied by our comments. Statements in our comments and the press release we issued earlier today are effective only today and will not be updated as actual events unfold. Please also note that, unless otherwise stated, our RevPAR, occupancy and average daily rate comments reflect systemwide, constant currency results for comparable hotels and include hotels temporarily closed due to COVID‐19. RevPAR, occupancy, and ADR comparisons between 2022 and 2019 reflect properties that are defined as comparable as of December 31, 2022, even if they were not open and operating for the full year 2019 or they did not meet all the other criteria for comparable in 2019. Additionally, unless otherwise stated, all comparisons to pre‐pandemic or 2019 are comparing the same time period in each year. You can find our earnings release and reconciliations of all non‐GAAP financial measures referred to in our remarks today on our investor relations website. And now I will turn the call over to Tony.
+      
+
+Tony Capuano: Thanks, Jackie, and good morning, everyone.
+      
+
+        2022 was a very strong year for the company. After achieving global RevPAR recovery in June, we finished the year on a real high note, with RevPAR versus 2019 up 7 percent in December and up 5 percent in the fourth quarter. Each quarter saw sequential improvement in global occupancy and ADR compared to 2019. We ended the year with fourth quarter occupancy down just 5 percentage points and ADR up 13 percent. With Asia Pacific excluding China, or APEC, surpassing pre‐pandemic levels in the fourth quarter, all regions except Greater China have now more than fully recovered.
+      
+
+1 Not a verbatim transcript; extraneous material omitted and edited for clarity and misstatements.
+      
+
+        1
+      
+
+
+
+        It is abundantly clear that people love to travel. Globally, leisure demand has remained robust. In the fourth quarter, leisure transient room nights increased 7 percent versus 2019, and we continued driving leisure ADR, which rose 22 percent.
+      
+
+        Our group business experienced the most meaningful improvement in 2022. In the U.S. & Canada, fourth quarter group revenue increased 10 percent above the same quarter in 2019. Group revenue for 2023 is already pacing up 20 percent year over year, with roomnight and rate gains each quarter. Given strong lead generation and increased rate quotes, especially for in‐the‐year‐for‐the‐year bookings, we expect group revenues this year to strengthen further. In 2022, around half of group room nights were booked in the year, compared to one‐third in 2019.
+      
+
+        U.S. & Canada business transient demand remained steady from the third quarter to the fourth quarter, at around 90 percent recovery. For 2023, we are pleased to have negotiated special corporate rate growth in the high‐single digits after holding these rates steady the last two years.
+      
+
+        Our day‐of‐the‐week trends in the U.S. & Canada continue to point to the blending of business and leisure trips. In the fourth quarter, mid‐week occupancy was still down mid single‐digit percentage points versus 2019, while occupancy on shoulder and weekend nights was down in the low single‐digits. Additionally, the average length of a business transient trip in the U.S. has risen by more than 20 percent versus 2019.
+      
+
+        Rising cross‐border travel also helped spur overall demand growth during the quarter, though we believe there is still further upside in 2023, especially now that China's borders have re‐ opened. Guests traveling outside their home country accounted for 16 percent of transient room nights globally in the 2022 fourth quarter, 1 percentage point higher than the prior quarter, yet still 3 percentage points lower than in 2019.
+      
+
+        With more than 177 million members, our powerful Marriott Bonvoy program has also been a key driver of demand for our hotels and other lodging offerings, and for adjacent products like our Bonvoy co‐branded credit cards. Our growing portfolio of credit cards, now in nine countries following our November card launch in Saudi Arabia, had record global cardmember acquisitions and card spend last year. Product innovation and engagement with our members remain key focus areas, especially through investments in our Marriott Bonvoy app and other digital products. We have made great gains in contributions from our digital platforms, which are highly profitable channels for our owners, and anticipate many additional enhancements over the next couple of years. In 2022, our mobile app users were up 32 percent year over year, digital room nights rose 27 percent, and digital revenues climbed 41 percent.
+      
+
+        The financing environment for new projects and hotel sales remains challenging, especially here in the U.S., given higher interest rates and uncertainty surrounding a potential economic downturn. However, other industry headwinds like supply chain disruptions, construction costs, and availability of labor, have improved.
+      
+
+        2
+      
+
+
+
+        Given strong global operating trends, overall developer sentiment improved in 2022, and we had another year of strong signing activity. Our development team signed franchise and management agreements for nearly 108,000 rooms last year. In addition, upon the anticipated closing of the transaction, the City Express portfolio should add around 17,000 rooms in the moderately priced mid‐scale space. We are excited about the opportunity to expand in this segment in the Caribbean and Latin America, or CALA region, as well as in other locations around the world.
+      
+
+        We also recently announced Apartments by Marriott Bonvoy, a new 1‐ to 3‐bedroom serviced apartment brand, that we plan to launch in the upper upscale and luxury segments. We've already received a great deal of initial interest from owners and developers.
+      
+
+        Momentum in conversions continues, including in multi‐property opportunities, thanks to the breadth of our roster of conversion‐friendly brands across the chain scales. The meaningful top‐ and bottom‐line benefits associated with being part of our portfolio make these brands very attractive to owners. Conversions represented nearly 20 percent of room signings and 27 percent of room additions in 2022.
+      
+
+        We added a total of 394 properties last year, representing more than 65,000 rooms, and grew our industry‐leading system 4.4 percent on a gross basis, or 3.1 percent, net, year over year.
+      
+
+        Excluding the impact from our exit from Russia, our net rooms growth was 3.6 percent.
+      
+
+        For 2023, we are forecasting gross rooms growth of around 5.5 percent, including around 1 percentage point from the anticipated addition of the City Express rooms to our franchise system. Assuming deletions of 1 to 1.5 percent, net rooms could grow 4 to 4.5 percent.
+      
+
+        I'd like to pivot now and share a few highlights of our recent ESG efforts. ESG is an integral part of our company's culture and strategy, and our company is dedicated to making a positive and sustainable impact wherever we do business. In June, we committed $50 million to support historically under‐represented groups in the journey to hotel ownership through a new program here in North America called "Marriott's Bridging the Gap." This program should help us reach our goal of having at least 3,000 diverse‐ and women‐owned hotels in our system by 2025. In December, we announced that over 1 million Marriott associates have taken our human trafficking training, which we've also donated to the wider hospitality industry. In terms of workforce diversity and inclusion, our aim is to achieve global gender parity in the company's leadership by 2023, and have people of color hold 25 percent of U.S. executive positions by 2025. We also continue our work to set science‐based emissions reduction targets, with more details expected to come later this year.
+      
+
+        I am proud of these accomplishments and all that we've achieved in 2022. As we look ahead to full year 2023, there is meaningful uncertainty about global economic growth. Lodging is a cyclical business and it's not immune to downturns in the macroeconomic environment. To date, however, we have not seen signs of demand softening. Trends could change relatively quickly given our average transient booking window is around three weeks. But a month and a half into 2023, booking demand and pricing remain strong. As Leeny will discuss in her
+      
+
+        3
+      
+
+
+
+        remarks, we are optimistic that global RevPAR will grow year over year, even if the global economy softens in the back half of this year.
+      
+
+        Before I turn the call over to Leeny, I'd like to thank our associates around the world for their hard work and commitment in navigating through the last few challenging years and in helping the company achieve these record financial results.
+      
+
+        I also want to make a couple of statements regarding two of my senior team members.  I am sure you saw the news in December that Stephanie Linnartz has been appointed Under Armour's new President and CEO, a role that she'll assume at the end of this month. 
+      
+
+        Also, after a 35‐year career with Marriott that has spanned the globe, Craig Smith, our Group President, International has informed me of his decision to retire from the company later this month. Craig has developed and mentored hundreds of hotel general managers and above‐ property leaders around the world, and has helped us meaningfully accelerate the growth of our international business.
+      
+
+        I want to thank both Stephanie and Craig for their decades of dedication and countless contributions to Marriott. While I will personally miss these two excellent senior executives, I am proud that we have such an incredibly deep management bench. I look forward to sharing more details about new leadership appointments soon.
+      
+
+        Now, let me turn the call over to Leeny. Leeny?
+      
+
+Leeny Oberg: Thank you, Tony.
+      
+
+        With sustained momentum in global RevPAR growth, we reported an outstanding quarter. Gross fees rose 16 percent and Adjusted EBITDA climbed 21 percent over the 2019 fourth quarter. For the full year, we posted record fees, adjusted EBITDA and adjusted EPS, despite the Omicron variant causing a slow start to the year.
+      
+
+        In the fourth quarter, RevPAR versus 2019 accelerated nicely from the third quarter in every region except Greater China. Compared to pre‐pandemic levels, fourth quarter U.S. & Canada RevPAR increased 5 percent, aided by 11 percent growth in ADR. RevPAR in the region versus 2019 improved sequentially from the third to the fourth quarter across all market types, from primary to tertiary, and all brand tiers, from luxury to select‐service.
+      
+
+        International RevPAR rose 3 percent above pre‐pandemic levels in the fourth quarter, driven by improvements in the comparison to 2019 for both rate and occupancy. In the Middle East and Africa, or MEA, RevPAR grew 44 percent, boosted by the World Cup in Qatar. RevPAR increased 28 percent in CALA, 7 percent in Europe, and 6 percent in Asia Pacific excluding China.
+      
+
+        While results in Greater China were again impacted by lockdowns in the fourth quarter, the region reached a major milestone with the new open border policy and the lifting of quarantine requirements in January. It could take time to increase airline capacity and work through
+      
+
+        4
+      
+
+
+
+        passport and visa requests, but we're optimistic about meaningful RevPAR recovery in the region as these issues abate. We saw a huge demand surge in January during the Chinese New Year holiday, with RevPAR for the holiday period nearly in line with 2019. Other regions are also anticipated to benefit from an increase in outbound China travel, especially APEC, where over 40 percent of room nights in 2019 came from Chinese travelers.
+      
+
+        In the fourth quarter, total gross fee revenues totaled $1.1 billion, reflecting higher RevPAR, room additions, and another quarter of significant growth in our non‐RevPAR‐related franchise fees. Those fees rose 16 percent year over year, to $215 million, driven largely by our co‐brand credit card fees.
+      
+
+        Incentive management fees, or IMFs, rose impressively in the quarter, reaching $186 million. IMFs surpassed the fourth quarter of 2019, with IMFs in the U.S. & Canada up nearly 30 percent.
+      
+
+        At the hotel level, we remain focused on working closely with our owners and franchisees to deliver superior customer service while containing operating costs. Profit margins at our U.S. managed hotels in the quarter were again higher than for the same period of 2019, despite meaningful wage and benefit inflation. Importantly, our guest surveys indicate that customer satisfaction continues to rise. In December, our intent to recommend scores in the U.S. improved for the tenth consecutive month and are now generally in line with 2019 scores. Hiring challenges have moderated, and the number of open positions in the U.S. is now below 2019 levels.
+      
+
+        Our asset light business model once again generated significant cash during 2022, with net cash provided by operating activities totaling $2.4 billion, double the amount in 2021. Our loyalty program was a modest source of cash before factoring in the reduced payments received from the credit card companies. In 2023, we expect loyalty to again be modestly cash positive, before the impact of the final year of reduced payments.
+      
+
+        Now let's talk about our 2023 outlook, the full details of which are in our press release. Note that all RevPAR comparisons will be to 2022. More than one in four hotels that are currently comparable in both 2022 and 2023, or open for the full year, were not open in 2019, making comparisons to that year not really meaningful.
+      
+
+        I'll start with the first quarter, which we anticipate will benefit from continued strong underlying trends. There is also a meaningfully easier comparison to the year‐ago quarter, when the Omicron variant depressed lodging demand.
+      
+
+        Halfway through the quarter, bookings across customer segments and geographies are excellent. Momentum is being driven by rising cross‐border travel and strong group revenues due to demand and ADR gains. Additionally, business transient revenues are benefitting from higher volumes and our successful special corporate rate negotiations. January global RevPAR rose 52 percent, with the U.S. & Canada up 43 percent. We anticipate that first quarter RevPAR
+      
+
+        5
+      
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Marriott International Inc. published this content on 15 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 15 February 2023 16:47:08 UTC.
+      
+

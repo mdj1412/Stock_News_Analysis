@@ -1,0 +1,45 @@
+
+
+      Outbreaks have been a continued and critical element of 2022-no, not that type of outbreak. We're talking about FortiGuard Outbreak Alerts.
+    
+
+      FortiGuard Outbreak Alerts
+    
+
+      During the SolarWinds Orion supply chain attack at the end of 2020, a number of our customers asked us to help them determine whether their Fortinet solutions had protected them against its multiple attack vectors, malware, resulting lateral movement, and command and control activity. While all of this information existed, we wanted to make it more readily available for customers. So, to help our customers more rapidly determine whether they had been protected against an attack and to better enable rapid threat hunting to identify Indicators of Compromise (IoCs) across their network, we developed the FortiGuard Outbreak Alerts and corresponding FortiGuard Outbreak Detection Service.
+    
+
+      In the years since, we have enhanced this service to include the following:
+    
+
+
+        Coverage of the entire Fortinet Security Fabric.
+      
+
+        Alignment with the five functions of the NIST Cybersecurity Framework (CSF): Identify, Protect, Detect, Respond, and Recover.
+      
+
+        Mapping attacks to MITRE ATT&CK threat model, whereby each outbreak is analyzed by FortiGuard Labs to provide a comprehensive view of the tactics and techniques employed by threat actors.
+      
+
+
+      These enhancements enable customers to react quickly to emerging outbreaks with factual, actionable intelligence.
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Fortinet Inc. published this content on 26 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 26 January 2023 17:12:07 UTC.
+      
+

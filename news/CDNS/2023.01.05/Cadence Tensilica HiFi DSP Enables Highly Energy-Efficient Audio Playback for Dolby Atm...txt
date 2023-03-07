@@ -1,0 +1,19 @@
+
+Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that Cadence® Tensilica® HiFi DSP IP now supports Dolby Atmos® for cars, making it the first DSP IP with this capability. Cadence has optimized Dolby car experience technology to run on the Tensilica HiFi DSP for audio playback of Dolby Atmos for cars. Offloading Dolby Atmos to the low-energy, high-performance Tensilica HiFi DSP enables system-on-chip (SoC) providers to offer automotive OEMs and Tier 1 suppliers a more energy-efficient implementation without affecting the audio experience.
+
+Dolby Atmos for cars immerses drivers and passengers in the future of in-car entertainment with greater audio details, clarity and sound separation that bring listeners closer to their favorite content. Dolby Atmos brings music to life by providing artists an expanded palette that can be used to express their creativity in an entirely new way. With Dolby Atmos, drivers can experience entertainment that has been created, delivered and played back as the artist intended.
+
+“At Dolby we are passionate about expanding the options for consumers to enjoy Dolby Atmos experiences and music is an important aspect of any in-car experience,” said Andreas Ehret, Director of Automotive at Dolby Laboratories. “Dolby is a long-standing Cadence partner, and enabling Dolby Atmos on the popular Tensilica HiFi DSP allows OEMs and users to optimize their automotive infotainment experience.”
+
+“The Tensilica HiFi DSP is the most widely used audio DSP on the market. HiFi DSPs are licensed by 19 of the top 20 semiconductor companies, with more than 1.5 billion HiFi DSP cores shipping per year. In collaboration with Dolby, we have brought Dolby technology to billions of consumer devices over the years, including the first-ever Dolby Atmos TV,” stated Yipeng Liu, group director of marketing, Tensilica audio/voice IP at Cadence. “Offering Dolby car experience technology on Tensilica HiFi DSPs enables our customers to deliver Dolby Atmos for cars to the market with extremely high performance, energy efficiency and value.”
+
+Cadence’s comprehensive audio ecosystem includes more than 180 partners ranging from industry giants like Dolby to other companies providing innovative sensor fusion, always-on, sound-enhancement and noise-reduction software. More than 300 audio, voice, speech recognition and voice enhancement software packages have already been ported to the Tensilica HiFi DSP architecture, enabling customers to get up and running very quickly and easily port their proprietary software with the same or higher performance as other DSP solutions. For more information on the Tensilica HiFi DSP family, visit www.cadence.com/go/HiFiDolbyforcars.
+
+About Cadence
+
+Cadence is a pivotal leader in electronic systems design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality. Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to complete systems for the most dynamic market applications, including hyperscale computing, 5G communications, automotive, mobile, aerospace, consumer, industrial and healthcare. For eight years in a row, Fortune magazine has named Cadence one of the 100 Best Companies to Work For. Learn more at cadence.com.
+
+© 2023 Cadence Design Systems, Inc. All rights reserved worldwide. Cadence, the Cadence logo and the other Cadence marks found at www.cadence.com/go/trademarks are trademarks or registered trademarks of Cadence Design Systems, Inc. in the US and/or elsewhere. Dolby and Dolby Atmos are registered trademarks of Dolby Laboratories. All other trademarks are the property of their respective owners.
+
+Category: Featured
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230105005415/en/

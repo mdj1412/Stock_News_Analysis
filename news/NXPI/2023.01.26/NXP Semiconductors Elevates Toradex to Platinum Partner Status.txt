@@ -1,0 +1,34 @@
+Horw, Switzerland January 26, 2023 --(PR.com)-- Toradex, a leader in IoT and embedded computing solutions, announces that NXP® Semiconductors has elevated it to Platinum Partner status, the highest level a partner can obtain within NXP’s longstanding Global Partner Program.
+
+Toradex has provided highly reliable System on Modules (SoMs), customized Single Board Computers (SBCs) and embedded software since 2004 and has been an NXP (formerly Freescale) partner since 2014. Toradex SoMs and software are deployed in thousands of demanding applications across several industries worldwide, including medical devices, industrial automation, smart cities, transportation, and agriculture.
+
+Toradex reduces the complexity and cost of designing and maintaining products using NXP i.MX applications processors. Toradex SoMs are pin - and software - compatible, allowing customers to switch seamlessly between i.MX 6, i.MX 7 and i.MX 8 applications processors, thereby scaling performance, features, and price. Torizon, by Toradex, offers a ready-to-use, simple-to-configure embedded Linux® OS and a complete IoT Platform, including features such as full-stack remote updates and device monitoring. This is complemented by Toradex’s extensive online resources, an active community, a partner ecosystem, and support offices around the globe.
+
+Torizon - Simplifying the Development and Operation of Linux IoT Devices
+The value of Toradex’s offerings helps customers to be successful, even with limited engineering capacity, faster time-to-market requirements, or a need to reduce project risks.
+
+“Our valuable ecosystem of partners like Toradex has helped us to continue our rapid market penetration and growth across industries. Toradex is one of our key partners and promoting it to Platinum Status in our partner program is a testament to the value Toradex brings us in terms of high-quality products, excellent support, and indispensable collaboration. I am sure we will accomplish much more together in the future as our partnership continues to grow.” said Ron Martino, Executive Vice President, Global Sales, at NXP Semiconductors.
+
+Toradex’s elevation to Platinum status in the NXP Partner Program signifies the mutually beneficial and committed relationship between the two companies and allows for meaningful accelerated progress going forward.
+
+“We are proud of this accomplishment at Toradex. This recognition from NXP further validates us as a strategic partner in the NXP ecosystem. Toradex’s strong foothold across industries worldwide gives us an advantage over the competition, and our commitment to innovation and reliability is greatly valued by our joint customers. The shared vision and strategic alignment with NXP will continue to drive success. We are thrilled about the potential this strengthened partnership presents to both companies!” said Samuel Imgrueth, CEO of Toradex.
+
+Looking forward, the tight collaboration will allow customers to take advantage of NXP’s latest technologies in a simple and cost-effective manner. For example, the increasing need for high-performance machine learning and computer vision at the edge resulted in Maivin, a Modular AI Vision System powered by the NXP i.MX 8M Plus applications processor with an integrated Neural Processing Unit (NPU). The Maivin development kit was realized thanks to the close collaboration between NXP and the Toradex ecosystem. Continuous patching for security vulnerabilities is crucial for compliance with changing global regulations. This is addressed with Torizon, which includes a secure and reliable Over-The-Air (OTA) and offline updates feature for NXP i.MX applications processors. Torizon also enables the use of modern tools and development methodologies, accelerating the speed of delivery and giving customers using NXP and Toradex an edge in the market.
+
+About Toradex:
+Toradex specializes in embedded hardware and software, offering Arm®-based system-on-modules (SoMs), customized single-board computers (SBCs), and industrial-grade software. Toradex’s software offerings include Torizon, an easy-to-use, open-source embedded Linux distribution.
+
+Toradex’s offerings are an ideal fit in fields like healthcare, transportation, industrial automation, testing and measurement, and smart cities. Its off-the-shelf, commercial SoMs for embedded computing are easy to use and pin-compatible for improved scalability. They also come with free premium support and long-term product availability. Through innovation, Toradex performs market-leading integration of hardware, software and services to reduce complexity, time-to-market, risk and costs for its customers.
+
+Founded in 2003 and headquartered in Horw, Switzerland, the company’s network stretches across the globe, with offices in the U.S., Vietnam, China, India, Japan and Brazil. For more information, please visit https://www.toradex.com/.
+
+For media queries, please contact:
+Lakshmi Naidu
+lakshmi.naidu@toradex.comContact Information:
+Toradex
+Lakshmi Naidu
+206-452-2031
+Contact via Email
+https://www.toradex.comRead the full story here: https://www.pr.com/press-release/877738
+Press Release Distributed by PR.comCopyright © 2023 PR.com and its licensors
+, source US Press Releases

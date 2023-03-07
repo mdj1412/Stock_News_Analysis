@@ -1,0 +1,580 @@
+
+
+
+        ADP Earnings Call & Webcast
+      
+
+        Q2 Fiscal 2023
+      
+
+        January 25, 2023
+      
+
+        Copyright © 2023 ADP, Inc.
+      
+
+
+
+
+          Forward Looking Statements
+        
+
+          This document and other written or oral statements made from time to time by ADP may contain "forward-looking statements" within the meaning of the Private
+        
+
+          Securities Litigation Reform Act of 1995. Statements that are not historical in nature and which may be identified by the use of words like "outlook," "expects," "assumes," "projects," "anticipates," "estimates," "we believe," "could," "is designed to" and other words of similar meaning, are forward-looking statements. These statements are based on management's expectations and assumptions and depend upon or refer to future events or conditions and are subject to risks and uncertainties that may cause actual results to differ materially from those expressed. Factors that could cause actual results to differ materially from those contemplated by the forward-looking statements or that could contribute to such difference include: ADP's success in obtaining and retaining clients, and selling additional services to clients; the pricing of products and services; the success of our new solutions; compliance with existing or new legislation or regulations; changes in, or interpretations of, existing legislation or regulations; overall market, political and economic conditions, including interest rate and foreign currency trends and inflation; competitive conditions; our ability to maintain our current credit ratings and the impact on our funding costs and profitability; security or cyber breaches, fraudulent acts, and system interruptions and failures; employment and wage levels; changes in technology; availability of skilled associates; the impact of new acquisitions and divestitures; the adequacy, effectiveness and success of our business transformation initiatives; the impact of any uncertainties related to major natural disasters or catastrophic events, including the COVID-19 pandemic; and supply-chain disruptions. ADP disclaims any obligation to update any forward- looking statements, whether as a result of new information, future events or otherwise, except as required by law. These risks and uncertainties, along with the risk factors discussed under "Item 1A. Risk Factors" of our most recent Annual Report on Form 10-K, and in other written or oral statements made from time to time by ADP, should be considered in evaluating any forward-looking statements contained herein.
+        
+
+          Non-GAAP Measures
+        
+
+          Adjusted EBIT, adjusted EBIT margin, adjusted diluted earnings per share, adjusted effective tax rate, and organic constant currency are all non-GAAP financial measures. Please refer to the Q2 fiscal 2023 earnings release available at investors.adp.com for a discussion of why ADP believes these measures are important and for a reconciliation of non-GAAP financial measures to their closest comparable GAAP financial measures.
+        
+
+          This presentation is a supplement to our Q2 fiscal 2023 earnings release; it is intended to be read in conjunction with, not as a substitute for, or in isolation from, the earnings release.
+        
+
+          2
+        
+
+
+
+          Copyright © 2023 ADP, Inc.
+        
+
+
+
+
+
+          Highlights and Perspective
+        
+
+
+Healthy momentum continued in Q2:
+
+
+
+
+Revenue increase of 9%, adjusted EBIT margin (a) increase of 120 basis points, and adjusted diluted EPS (a) growth of 19%
+              
+
+Strong ES new business bookings growth
+
+
+ES retention improved year-over-year to a near-record level for the quarter
+              
+
+U.S. pays per control growth of 5% indicative of a continued healthy labor market
+
+
+
+
+PEO average worksite employee growth decelerated; demand remains healthy; well-positioned to re-accelerate worksite employee growth
+          
+
+Continued progress on ADP's "Modernization Journey"
+
+
+
+
+For a reconciliation of these non-GAAP financial metrics to their closest comparable GAAP metrics see our Q2 fiscal 2023 earnings release available at investors.adp.com.
+          
+
+
+
+
+          3
+        
+
+
+
+
+
+          Q2 Fiscal 2023 Financial Highlights
+        
+
+          (unaudited)
+        
+
+
+
+
+                Total Revenues
+              
+
+
+
+                Adjusted EBIT (a)
+
+
+
+
+                Adjusted Diluted EPS (a)
+
+
+
+
+
+
+
+
+                h 9%
+
+
+
+
+h 15%
+              
+
+
+
+h 19%
+              
+
+
+
+
+
+h 10% Organic Constant Currency (a)
+              
+
+
+
+                Adjusted EBIT (a) Margin h 120 bps
+              
+
+
+
+
+
+
+
+
+
+
+
+                $4,391M
+              
+
+
+
+
+
+                $1,069M
+              
+
+
+
+
+
+                $1.96
+              
+
+
+
+
+
+                $4,025M
+              
+
+
+
+                $930M
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                $1.65
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Q2 FY22
+              
+
+
+
+                Q2 FY23
+              
+
+
+
+                Q2 FY22
+              
+
+
+
+                Q2 FY23
+              
+
+
+
+                Q2 FY22
+              
+
+
+
+                Q2 FY23
+              
+
+
+
+
+
+                (a) For a reconciliation of these non-GAAP financial metrics to their closest comparable GAAP metrics see our Q2 fiscal 2023 earnings release available at investors.adp.com.
+              
+
+
+
+
+
+                4
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Copyright © 2023 ADP, Inc.
+        
+
+
+
+
+
+          Q2 Fiscal 2023 Employer Services Segment Results
+        
+
+          (unaudited)
+        
+
+
+
+
+            ES Revenues
+          
+
+
+
+
+
+
+                  ES Margin
+                
+
+
+
+                  Q2 Highlights
+                
+
+
+
+
+
+
+
+
+
+8%
+
+
+
+
+10% Organic Constant Currency (a)
+
+
+
+
+
+
+                  $2,671M
+                
+
+
+
+                  $2,892M
+                
+
+
+
+
+
+
+
+
+
+                  Q2 FY22
+                
+
+
+
+                  Q2 FY23
+                
+
+
+
+
+
+U.S. pays per control h 5%
+            
+
+Average client funds balances h 4%
+            
+
+Average client funds yield of 2.2%, up from 1.3% in prior year
+
+
+
+
+
+
+170 bps
+
+
+
+
+
+
+                  30.6%
+                
+
+
+
+                  32.3%
+                
+
+
+
+
+
+
+
+
+
+                  Q2 FY22
+                
+
+
+
+                  Q2 FY23
+                
+
+
+
+
+
+Margin expansion driven by operating leverage and growth in client funds interest revenue
+
+
+
+
+
+
+Revenue growth supported by strong bookings, retention gains, continued strong pays per control growth, and higher client funds interest revenue
+
+
+
+            FY23 ES Outlook
+          
+
+
+
+
+
+
+                  Prior
+                
+
+
+
+                  Current
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Revenues
+                
+
+
+
+                  7 to 8%
+                
+
+
+
+                  8 to 9%
+                
+
+
+
+
+
+                  Margin
+                
+
+
+
+                  200 to 225 bps
+                
+
+
+
+                  200 to 225 bps
+                
+
+
+
+
+
+                  ES New Business Bookings
+                
+
+
+
+                  6 to 9%
+                
+
+
+
+                  6 to 9%
+                
+
+
+
+
+
+                  Client Revenue Retention
+                
+
+
+
+                  (50) to (25) bps
+                
+
+
+
+                  (30) to (20) bps
+                
+
+
+
+
+
+                  U. S. Pays Per Control
+                
+
+
+
+                  2 to 3%
+                
+
+
+
+                  3 to 4%
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                (a) For a reconciliation of this non-GAAP financial metric to its closest comparable GAAP metric see our Q2 fiscal 2023 earnings release available at investors.adp.com.
+              
+
+
+
+                5
+              
+
+
+
+
+
+
+
+
+
+
+          Copyright © 2023 ADP, Inc.
+        
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+ADP - Automatic Data Processing Inc. published this content on 25 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 25 January 2023 12:27:01 UTC.
+      
+

@@ -1,0 +1,43 @@
+
+
+Ansys technology enables a smarter, "sustainable-by-design" R&D strategy for home appliances with much smaller carbon footprints
+/ Key Highlights
+Designed with a simulation-driven, super-efficient brushless DC motor, the fan generates energy savings of approximately 50 watts of electricity per dayWith support from Ansys Elite Channel Partner CADFEM India, Ansys software is used throughout Atomberg's development process for blade airflow, aero-acoustic and modal analysis, blade rivet dynamic load studies as well as stress and deformation analysis of the rotor  PITTSBURGH, Jan. 5, 2023 /PRNewswire/ -- Ansys (NASDAQ: ANSS) simulation solutions empowered Atomberg, a high-efficiency fan and small appliance manufacturer, to develop a more energy-efficient electric fan motor. The result is a smarter, more sustainable and streamlined internet-of-things (IoT)-enabled ceiling fan design that consumes 65% less electricity than conventionally powered fans.
+
+
+
+
+
+
+
+Traditional ceiling fans consume 70-80 watts of electricity per day, yet only use 22 watts of that energy to power the fan blades — resulting in a net loss of almost 50 watts in the form of heat. This performance has a negative environmental impact on a very large scale. Atomberg was founded to challenge the existing market and deliver new home appliance experiences as part of its "sustainable-by-design" R&D strategy.
+The Atomberg team leveraged Ansys software to deliver a more compact, energy-efficient brushless DC motor design that runs on 28 watts of electricity versus the 70-80 watts required by a conventional induction motor. This design enables roughly three Atomberg fans to run on the same amount of power required by a single induction-motor-based fan.
+Atomberg also uses Ansys simulation for structural analysis and assessment of fluid dynamics in various aspects of its fan designs to further streamline and improve overall fan performance.
+"Our fan designs are undergoing drastic changes in terms of energy efficiency, materials, and overall look and feel," said Manoj Meena, chief executive officer and founder of Atomberg. "Our motor technology is continuously evolving, and simulation is an important part of that evolutionary journey. Ansys tools help us to efficiently validate all kinds of variables including cost optimization, product design, and performance requirements, reducing our prototyping efforts."  
+"Simulation and virtual prototyping can play a powerful role in reducing manufacturing's carbon footprint and creating novel sustainable solutions by default technologies," said Walt Hearn, vice president of worldwide sales and customer excellence at Ansys. "Ansys is proud to provide innovators with the engineering simulation to make better decisions more efficiently with the speed and scale required."
+To speak with Ansys executives and subject matters and learn more about how customers are leveraging Ansys solutions, visit Ansys at CES in Las Vegas from Jan. 5-8, 2023, at booth #4401.
+/ About AnsysWhen visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–C
+/ Contacts
+Media     
+Mary Kate Joyce
+724.820.4368 
+marykate.joyce@ansys.com 
+Investors   
+Kelsey DeBriyn
+724.820.3927 
+kelsey.debriyn@ansys.com 
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ansys-simulation-empowers-atomberg-to-reduce-home-appliance-energy-consumption-by-65-301714134.html
+SOURCE  Ansys
+
+

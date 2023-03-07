@@ -1,0 +1,105 @@
+
+
+      Whether creating realistic digital humans that can express raw emotion or building immersive virtual worlds, those in the design, engineering, creative and other industries across the globe are reaching new heights through 3D workflows.
+    
+
+      Animators, creators and developers can use new AI-powered tools to reimagine 3D environments, simulations and the metaverse - the 3D evolution of the internet.
+    
+
+      Based on the Universal Scene Description (USD) framework, the NVIDIA Omniverse platform - which enables the development of metaverse applications - is expanding with Blender enhancements and a new suite of experimental generative AI tools for 3D artists.
+    
+
+      In a special address at CES, NVIDIA announced these features, as well as Omniverse preinstallation on NVIDIA Studio laptops and thousands of new, free USD assets to help accelerate adoption of 3D workflows.
+    
+
+NVIDIA Studio 3D creators Jeremy Lightcap, Edward McEvenue, Rafi Nizam, Jae Solina, Pekka Varis, Shangyu Wang, Ashley Goldstein collaborate across multiple 3D design tools, time zones and RTX systems with Omniverse.
+
+
+      Plus, a new release for Blender, now available in the Omniverse Launcher, is bringing 3D generative AI capabilities to Blender users everywhere. A new panel lets Blender users easily transfer shape keys and rigged characters.  The challenge of reattaching a rigged character's head can now be solved with a one-button operation from Omniverse Audio2Face - an AI-enabled tool that automatically generates realistic facial expressions from an audio file.
+    
+
+      Another new panel for scene optimization lets users create USD scenes within their multi-app 3D workflows more easily and in real time.
+    
+
+      In addition, Audio2Face, Audio2Gesture and Audio2Emotion - generative AI tools that enable instant 3D character animation - are getting performance updates that make it easier for developers and creators to integrate into their current 3D pipelines.
+    
+
+      Creators can generate facial expressions from an audio file using Audio2Face; realistic emotions ranging from happy and excited to sad and regretful with Audio2Emotion; and realistic upper-body movement using Audio2Gesture. These audio-to-animation tools are game-changers for 3D artists, eliminating the need to perform tedious, manual tasks.
+    
+
+      AI-assisted creator tools are expanding to even more communities of creative and technical professionals. When NVIDIA Canvas was introduced, it empowered artists to seamlessly generate landscapes and iterate on them with simple brushstrokes and AI. Coming soon, all RTX users will be able to download an update to Canvas that introduces 360 surround images to create and conceptualize panoramic environments and beautiful images. The AI ToyBox, which features extensions derived from NVIDIA Research, enables creators to generate 3D meshes from 2D inputs.
+    
+
+      Omniverse's powerful AI tools simplify complex tasks. Creators of all levels can tap into these resources to produce high-quality outputs that meet the growing demands for content and virtual worlds in the metaverse.
+    
+
+      "The demand for 3D skills is skyrocketing, but learning 3D can be pretty scary to some, and definitely time consuming," said Jae Solina, aka JSFilmz. "But these new platform developments not only let creatives and technical professionals continue to work in their favorite 3D tools, but also supercharge their craft and even use AI to assist them in their workflows."
+    
+
+      Omniverse Launcher, the portal to download Omniverse content and reference applications, has also been made available to system builders so they can preinstall it, enabling optimized, out-of-the-box experiences for 3D creators on NVIDIA Studio-validated laptops. GIGABYTE and AORUS will be the first laptops launching in 2023 with Omniverse Launcher preinstalled, expanding platform access to a growing number of 3D content creators.
+    
+
+NVIDIA RTX Remix is a free modding platform, built on Omniverse, that enables modders to
+    
+
+      quickly create and share #RTXON mods for classic games, each with full ray tracing, enhanced materials, NVIDIA DLSS 3 and NVIDIA Reflex. Its release in early access is coming soon. The jaw-dropping Portal with RTXwas built with RTX Remix, and to demonstrate how easy it is for modders to turn RTX ON in their mods, we shared RTX Remix with the original creator of Portal: Prelude, an unofficial Portal prequel released in 2008.
+    
+
+      Omniverse users can also access thousands of new, free USD assets, including a USD-based NVIDIA RTX Winter WorldMinecraft experience, and learn to create their own NVIDIA SimReady assets for complex simulation building. Using Omniverse, creators can supercharge their existing workflows using familiar tools such as Autodesk Maya, Autodesk 3ds Max, Blender, Adobe Substance 3D Painter, and more with AI, simulation tools and real-time RTX-accelerated rendering.
+    
+
+      All types of 3D creators can take advantage of these new tools to push the boundaries of 3D simulation and virtual world-building. Users can reimagine digital worlds and animate lifelike characters with new depths of creativity through the bridging of audio-to-animation tools, generative AI and the metaverse.
+    
+
+Latest Omniverse Platform Updates
+
+
+      The latest updates within Omniverse include:
+    
+
+
+Early access for the Unity Omniverse Connector is now available.
+      
+
+Blender alpha release, now available in the Omniverse Launcher, enables users to repair geometry, generate automatic UVs and decimate high-resolution CAD data to more usable polycounts.
+      
+
+Audio2Face, Audio2Emotion and Audio2Gesture updates better enable instant, realistic animation of characters, now available in Omniverse Audio2Face and Omniverse Machinima.
+      
+
+NVIDIA Canvas is coming soon to the Omniverse Launcher with new capabilities that enable the creation of 360-degree landscapes with simple brushstrokes. Users can import the environments into 3D apps to test different settings and lighting.
+      
+
+AI ToyBox of experimental tools, built by NVIDIA Research, that include GET3D, an Omniverse extension that generates trainable 3D models from 2D images, letting developers use their own datasets to rapidly create models for 3D virtual worlds, is now available in the Omniverse Extension Manager.
+      
+
+Thousands of new, free 3D assets are now available worldwide for users to build and create within Omniverse.
+      
+
+
+      Watch the NVIDIA special address at CES on demand.
+    
+
+      Creators can download NVIDIA Omniverse for free, submit their work to the NVIDIA Omniverse gallery, and find resources through forums, Medium, Twitter, YouTube, Twitch, Instagram and Discord.
+    
+
+      Follow NVIDIA Studio on Instagram, Twitter and Facebook and access tutorials - including on Omniverse - on the Studio YouTube channel. Get the latest Studio updates directly in your inbox by subscribing to the NVIDIA Studio newsletter.
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Nvidia Corporation published this content on 03 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 03 January 2023 16:57:03 UTC.
+      
+

@@ -1,0 +1,33 @@
+
+
+New high-voltage ASIL D-compliant, high-precision battery monitors improve range estimations with the highest accuracy possible
+DALLAS, Jan. 4, 2023 /PRNewswire/ -- Texas Instruments (TI) (Nasdaq: TXN) today introduced new automotive battery cell and pack monitors with the most accurate measurement capability available on the market, maximizing electric vehicle (EV) drive time and enabling safer operation.
+As EVs grow in popularity, advanced battery management systems (BMS) are helping overcome critical barriers to widespread adoption. With a focus on solving complex system design challenges, TI provides the most advanced, comprehensive portfolio of BMS devices, enabling automakers to create a safer, more reliable driving experience and accelerate EV adoption.
+The BQ79718-Q1 battery cell monitor and BQ79731-Q1 battery pack monitor are the newest products in TI's comprehensive BMS offering. The BQ79731-Q1 and BQ79718-Q1 devices provide an unprecedented level of accuracy and precision in measuring battery voltage, current and temperature to effectively determine the true range of a vehicle and increase the overall life and safety of the battery pack.
+"Automakers aim to get the most range possible out of their EVs, and accurate state-of-charge estimations are vital to achieve this," said Sam Wong, general manager for BMS at TI. "Our new devices bring substantially higher precision to voltage and current measurement, giving automakers confidence to accurately measure an EV's true range."
+TI will demonstrate its BMS technology featuring the new BQ79718-Q1 and BQ79731-Q1 devices at CES 2023. Visit ti.com/ces for more information.
+Effectively increase drive range with the industry's leading precisionAs consumers turn to EVs, accuracy and precision in measuring battery voltage have become critical to a consumer's driving experience. Even a slight change in temperature can have a significant impact on an EV's range; and colder weather, in particular, can impact battery range by up to 40%. Such variations can create considerable uncertainty in battery voltage and expected EV range.
+The BQ79718-Q1 allows automakers to maximize the true range of their EV with high-performance battery cell voltage measurements down to 1 mV of accuracy, and the BQ79731-Q1 allows measurement of the battery pack current down to 0.05% of accuracy. These innovations will provide the clearest picture possible to measure accurate state of charge and state of health at the individual cell and pack level, effectively reflecting true remaining mileage and instilling confidence in the battery life of their EV.
+Enhance state-of-charge estimations with pack voltage and current synchronizationIn addition, industry-leading voltage and current synchronization (64 µs) enables instantaneous monitoring of battery pack power, providing a real-time snapshot of battery health. This level of synchronization enables electrochemical impedance spectroscopy, which provides vital insight into the cell core temperature, battery aging and state of charge of the battery. Read the technical article, "How to design an intelligent battery junction box for advanced EV battery management systems." 
+Enable higher levels of safety and performance with holistic BMS offeringThe BQ79718-Q1 battery cell monitoring integrated circuit achieves an unprecedented Automotive Safety Integrity Level (ASIL) accuracy (main path, redundant path and residual error seeking) giving automakers the ability to charge and discharge a vehicle battery pack beyond any cell monitor previously on the market.
+The BQ79718-Q1 battery cell monitor and BQ79731-Q1 pack monitor join TI's portfolio of high-precision battery monitors and balancers. Additionally, the family includes the BQ79600-Q1 SPI/UART communication bridge device, which enables reliable and fast daisy-chained communication using an isolated communication protocol.
+This family adds to TI's holistic offering for BMS, which also includes the CC2662R-Q1 wireless microcontroller (MCU) for wireless BMS, TPSI3050-Q1 isolated switch driver and TPSI2140-Q1 isolated switch device. TI also provides a BMS design suite that includes a reference board, emulator and Automotive Open System Architecture complex device driver.
+TI remains committed to driving vehicle electrification forward by helping automakers optimize vehicle performance, accelerate development and create safer, more reliable and affordable EVs.
+Package, availability and pricingAutomakers can jump-start their designs by purchasing the battery cell monitor BQ79718-Q1 evaluation module (BQ79718EVM-049), which is available on TI.com for US$399. The 18-channel BQ79718-Q1 comes in a 10-mm-by-10-mm, 64-pin thermally enhanced thin quad flat package (HTQFP), and is priced at US$8.39 in 1,000-unit quantities. 
+Also available is the battery pack monitor BQ79731-Q1 evaluation module (BQ79731Q1EVM-060), which is available on TI.com for US$199. The battery pack monitor BQ79731-Q1 comes in a 7-mm-by-7-mm, 48-pin thermally enhanced thin quad flat package (HTQFP), and is priced at US$8.39 in 1,000-unit quantities. All products featured for BMS are immediately available for purchase on TI.com.
+###
+About Texas InstrumentsTexas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world by making electronics more affordable through semiconductors is alive today, as each generation of innovation builds upon the last to make our technology smaller, more efficient, more reliable and more affordable – making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. It's what we do and have been doing for decades. Learn more at TI.com.
+TrademarksAll registered trademarks and other trademarks belong to their respective owners.
+
+
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ti-enables-automakers-to-take-full-advantage-of-ev-range-with-the-industrys-most-accurate-battery-cell-and-pack-monitors-301709482.html
+SOURCE  Texas Instruments
+
+

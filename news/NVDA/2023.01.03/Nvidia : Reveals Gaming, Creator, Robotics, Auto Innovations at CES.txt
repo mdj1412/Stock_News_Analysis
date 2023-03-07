@@ -1,0 +1,148 @@
+
+
+      Powerful new GeForce RTX GPUs, a new generation of hyper-efficient laptops and new Omniverse capabilities and partnerships across the automotive industry were highlights of a news-packed address ahead of this week's CES trade show in Las Vegas.
+    
+
+      "AI will define the future of computing and this has influenced much of what we're covering today," said Jeff Fisher, senior vice president for gaming products at NVIDIA, as he kicked off the presentation.
+    
+
+      Fisher was joined by several leaders from NVIDIA to introduce products and partnerships across gaming and content creation, robotics and next-generation automobiles.
+    
+
+      The headline news:
+    
+
+
+GeForce RTX 40 Series laptops deliver company's largest-ever generational leap in performance and power efficiency to 170+ laptops for gamers and designers.
+
+
+GeForce RTX 40 Series Studio laptops will bring new power and efficiency to creators, gamers and designers.
+      
+
+NVIDIA launches GeForce RTX 4070 Ti graphics cards, faster than RTX 3090 Ti, bringing power and efficiency of NVIDIA Ada architecture to $799. 
+
+
+DLSS 3 comes to 50 released and upcoming games.
+      
+
+NVIDIA bringing RTX 4080 performance to GeForce NOW cloud-gaming service.
+      
+
+Hyundai Motor Group, BYD and Polestar adopt GeForce NOW for cars.
+      
+
+Foxconn partners with NVIDIA to build automated electric vehicles and manufacture NVIDIA DRIVE Orin computers for the global automotive market.
+      
+
+Mercedes-Benz to use NVIDIA Omniverse to assemble next-generation factories in "digital-first" approach.
+
+
+Major updates to NVIDIA Omniverse Enterprise enhance performance and offer new deployment options.
+
+
+NVIDIA opens Omniverse portals with generative AIs for 3D and RTX Remix; releases AI avatar builder Omniverse ACE in early access.
+      
+
+NVIDIA Isaac Sim gets next-gen simulation tools for robotics development.
+      
+
+
+Introducing GeForce RTX 40 Series Laptops, RTX 4070 Ti Graphics Cards and DLSS 3 Games
+
+
+      Fisher said the performance and power efficiency of the NVIDIA GeForce RTX 40 Series Laptop GPUs enable the greatest ever generational leap, including 14-inch gaming and creating powerhouse laptops, starting at $999 in February.
+    
+
+      New GeForce RTX 4070 Ti graphics cards for desktops are faster than last generation's RTX 3090 Ti at nearly half the power, bringing the NVIDIA Ada Lovelace architecture down to $799, with availability starting Jan. 5.
+    
+
+      And DLSS 3 is being adopted by developers faster than any prior NVIDIA tech, with 50 released and upcoming titles, including Witchfire, The Day Before, Warhaven, THRONE AND LIBERTY and Atomic Heart.
+    
+
+      In addition, RTX 4080 performance is coming to the NVIDIA GeForce NOW cloud-gaming service. As a result, Fisher said millions more gamers will have access to the NVIDIA Ada architecture with GeForce NOW's Ultimate membership.
+    
+
+      The new tier will bring NVIDIA Reflex and 240 frames per second streaming to the cloud for the first time, along with full ray tracing and DLSS 3 in games like Portal With RTX.
+    
+
+      Momentum for NVIDIA RTX continues to build, Fisher said. "Creating has grown beyond photos and videos to virtual worlds rendered with 3D cinematic graphics and true-to-life physics," Fisher said. "The RTX platform is powering this growth."
+    
+
+      Ray tracing and AI are defining the next generation of content, and NVIDIA Studio is the platform for this new breed of content creators. The heartbeat of Studio is found in NVIDIA Omniverse, where creators can connect accelerated apps and collaborate in real time.
+    
+    NVIDIA's Stephanie Johnson, vice president of consumer marketing, introduced a new suite of generative AI tools and experimental plug-ins that harness the power of AI.
+    
+      Built with NVIDIA RTX, Omniverse is a platform enabling 3D artists to connect their favorite tools from Adobe, Autodesk, SideFX, Unreal Engine and more. And Omniverse now has a new Connector for Unity, said Stephanie Johnson, vice president of consumer marketing at NVIDIA.
+    
+
+      Johnson introduced a suite of new generative AI tools and experimental plug-ins using the power of AI as the ultimate creative assistant. Audio2Face and Audio2Gesture generate animations from an audio file. The AI ToyBox by NVIDIA Research lets users generate 3D meshes from 2D inputs.
+    
+
+      Companies have used generative AI technology to build Omniverse Connectors and extensions. Move.AI's Omniverse extension, for example, enables video-to-animation. Lumirithmic generates 3D mesh for heads from facial scans. And Elevate3D generates photorealistic 3D visualizations of products from 360-degree video recordings.
+    
+
+      Johnson also announced that NVIDIA RTX Remix, which is built on Omniverse and is "the easiest way to mod classic games," will be entering early access soon. "The modding community can't wait to get their hands on Remix," she said.
+    
+
+NVIDIA Isaac Sim Brings Significantly Improved Features, Tools for Developing Intelligent Robots 
+
+
+      Simulation plays a vital role in the lifecycle of a robotics project, explained Deepu Talla, vice president of embedded and edge computing at NVIDIA. Partners are using NVIDIA Isaac Sim to create digital twins that help speed the training and deployment of intelligent robots.
+    
+    NVIDIA's Deepu Talla, vice president of embedded and edge computing, announced the next release of Isaac Sim, NVIDIA's robotics simulation application and synthetic data generation tool.
+    
+      To revolutionize the way the robotics ecosystem develops the next generation of autonomous robots, Talla announced major updates to the next release of Isaac Sim. This includes improved sensor and lidar support to more accurately model real-world performance, a new conveyor-building tool, a new utility to add people to the simulation environment, a collection of new sim-ready warehouse assets and a host of new popular robots that come pre-integrated.
+    
+
+      For the open-source ROS developer community, this release upgrades support for ROS 2 Humble and Windows, Talla added. And for robotics researchers, NVIDIA is introducing a new tool called Isaac ORBIT, which provides operating environments for manipulator robots. NVIDIA has also improved Isaac Gym for reinforcement learning and updated Isaac Cortex for collaborative robot programming.
+    
+
+      "We are committed to advancing robotics and arguably investing more than anyone else in the world," Talla said. "We are well on the way to having a thousand to million times more virtual robots for every physical robot deployed."
+    
+
+Mercedes-Benz to Create Digital Twins; Foxconn Building EVs on NVIDIA DRIVE; Geforce NOW Streams to Cars
+
+
+
+      The NVIDIA DRIVE platform is open and easy to program, said Ali Kani, vice president of automotive at NVIDIA.
+    
+
+      Hundreds of partners across the automotive ecosystem are now developing software on NVIDIA DRIVE, including 20 of the top 30 manufacturers building new energy vehicles, many of the industry's top tier one manufacturers and software makers, plus eight of the largest 10 trucking and robotaxi companies.
+    
+
+      It's a number that continues to grow, with Kani announcing a partnership with Foxconn, the world's largest technology manufacturer and service provider, to build electric vehicles based on NVIDIA DRIVE Hyperion.
+    
+    NVIDIA's Ali Kani, vice president of automotive, announced a partnership with Foxconn, that GeForce NOW will be "coming to screens in your car" and that Mercedes-Benz is using NVIDIA digital twin technology to plan and build more efficient production facilities.
+    
+      "With Hyperion adoption, Foxconn will manufacture vehicles with leading electric range as well as state-of-the-art AV technology while reducing time to market," Kani said.
+    
+
+      Kani touched on how, as next-generation cars become autonomous and electric, interiors are transformed into mobile living spaces, complete with the same entertainment available at home. GeForce NOW will be "coming to screens in your car," Kani said.
+    
+
+      Kani also announced several DRIVE partners are integrating GeForce NOW, including Hyundai Motor Group, BYD and Polestar.
+    
+
+      While gamers will enjoy virtual worlds from inside their cars, tools such as the metaverse are critical to the development and testing of new autonomous vehicles.
+    
+
+      Kani announced that Mercedes-Benz is using digital twin technology to plan and build more efficient production facilities. "The applications for Omniverse in the automotive market are staggering," Kani said.
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Nvidia Corporation published this content on 03 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 03 January 2023 16:57:02 UTC.
+      
+

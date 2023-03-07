@@ -1,0 +1,19 @@
+
+Comcast today announced it has received a Technology & Engineering Emmy® Award for building and delivering innovative sports viewing experiences for millions of customers across Xfinity, Sky and Peacock. The National Academy of Television Arts and Sciences recognized Comcast for using artificial intelligence and machine learning to provide viewers an easy way to catch up on key moments from live sporting events.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230216005641/en/COMCAST WINS TECHNOLOGY & ENGINEERING EMMY® AWARD FOR SPORTS VIEWING INNOVATION (Photo: Business Wire)
+These innovations are made possible by Comcast’s VideoAITM technology. A core component of Comcast’s global technology platform, VideoAI analyzes video streams in real-time and detects key moments using various audio, visual and textual cues. For sports, these include points/goals, penalties, and other major moments. As the live event unfolds, indexed highlights are compiled as they happen into an interactive experience, giving viewers an easy way to play through all the biggest moments, whether they plan to join live or just want a quick summary of the most important highlights after the event has concluded.
+
+“VideoAI is a transformative technology, giving us the ability to rethink how we deliver innovative entertainment experiences to our global customers,” said Fraser Stirling, Global Chief Product Officer, Comcast. “This incredible honor by the Academy is a tremendous acknowledgement of the work happening across Comcast to drive this innovation forward and ultimately deliver better experiences for our customers.”
+
+As an adaptive and agile technology, VideoAI enables the teams at Xfinity, Sky and Peacock to customize the solution to meet the unique needs of their customers and the sports they serve. The technology currently powers:
+
+Additionally, Comcast Technology Solutions is now offering the technology to customers as part of its product suite, producing actionable metadata to drive a continuously expanding number of use cases, from content discovery to contextual advertising.
+
+About Comcast Corporation
+
+Comcast Corporation (Nasdaq: CMCSA) is a global media and technology company that connects people to moments that matter. We are principally focused on connectivity, aggregation, and streaming with 57 million customer relationships across the United States and Europe. We deliver broadband, wireless, and video through our Xfinity, Comcast Business, and Sky brands; create, distribute, and stream leading entertainment, sports, and news through Universal Filmed Entertainment Group, Universal Studio Group, Sky Studios, the NBC and Telemundo broadcast networks, multiple cable networks, Peacock, NBCUniversal News Group, NBC Sports, Sky News, and Sky Sports; and provide memorable experiences at Universal Parks and Resorts in the United States and Asia. Visit www.comcastcorporation.com for more information.
+
+About The National Academy of Television Arts & Sciences
+
+The National Academy of Television Arts & Sciences (NATAS) is a non-profit service organization dedicated to the advancement of the arts and sciences of television and the promotion of creative leadership for artistic, educational, and technical achievements within the television industry. It recognizes excellence in television with the coveted Emmy® Awards for Children’s & Family, Daytime, News & Documentary, and Sports television programming, as well as achievements in television Technology & Engineering. NATAS membership consists of nearly 18,000 broadcast and media professionals represented in 19 regional chapters across the country. For more information go to www.theemmys.tv
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230216005641/en/

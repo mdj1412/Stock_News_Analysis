@@ -1,0 +1,12 @@
+On April 14, 2022, plaintiff AK Meeting IP LLC (AK Meeting) filed its Amended Complaint, alleging that defendant Cisco Systems, Inc. (Cisco) infringed two of its patents related to a method and system for content sharing and communications between client computers in a computer network. Cisco then filed a 12(c) Motion for Judgment on the Pleadings on July 14, 2022.In response, AK Meeting filed its Second Amended Complaint (SAC). Cisco then filed another 12(c) Motion for Judgment on the Pleadings on October 22, 2022, asserting that the SAC failed to state a plausible claim for one of the patents, the '211 patent. Judge Albright granted Cisco's Motion on December 28, 2022.The court agreed with Cisco that AK Meeting had failed to state a plausible claim. In its SAC, AK Meeting alleged that Cisco's Webex Board connects to Webex Meetings using Webex Virtual Desktop Infrastructure (VDI); as a result, messages are transmitted between the Webex Board to a server using Webex VDI. In its Motion, Cisco contended that Webex Board cannot connect through Webex VDI, so AK Meeting's infringement allegations in the SAC failed.In its Response, AK Meeting alleged that the claims did not require a connection to a virtual desktop. But the court noted that by arguing the claims did not require a connection via virtual desktop, AK Meeting was rejecting the element that distinguished the SAC from earlier allegations, "which [AK Meeting] effectively conceded were deficient when it filed its SAC." Because AK Meeting failed to address Cisco's contention regarding the virtual desktop connection, the distinguishing element, the court granted Cisco's 12(c) Motion and dismissed the claims with respect to the '211 patent with prejudice.The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.
+Ms Marisa C. Thompson
+Winston & Strawn LLP
+35 West Wacker Drive
+Chicago
+IL 60601
+UNITED STATES
+Tel: 3125585600
+Fax: 3125585700
+E-mail: awisinski@winston.com
+URL: www.winston.com
+© Mondaq Ltd, 2023 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com, source Business Briefing

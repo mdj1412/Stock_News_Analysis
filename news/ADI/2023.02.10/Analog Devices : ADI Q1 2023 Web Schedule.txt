@@ -1,0 +1,1402 @@
+
+
+
+        Analog Devices, Inc. Combined Revenue Trends by End Market (in millions)1
+
+
+
+
+
+
+
+              1Q20
+            
+
+
+
+              2Q20
+            
+
+
+
+              3Q20
+            
+
+
+
+              4Q20
+            
+
+
+
+              1Q21
+            
+
+
+
+              2Q21
+            
+
+
+
+              3Q21
+            
+
+
+
+              4Q21
+            
+
+
+
+              1Q22
+            
+
+
+
+              2Q22
+            
+
+
+
+              3Q22
+            
+
+
+
+              4Q22
+            
+
+
+
+              1Q23
+            
+
+
+
+
+
+              Analog Devices
+            
+
+
+
+              $1,304
+            
+
+
+
+              $1,317
+            
+
+
+
+              $1,456
+            
+
+
+
+              $1,526
+            
+
+
+
+              $1,558
+            
+
+
+
+              $1,661
+            
+
+
+
+              $1,759
+            
+
+
+
+              $1,781
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Maxim Integrated
+            
+
+
+
+              $537
+            
+
+
+
+              $526
+            
+
+
+
+              $608
+            
+
+
+
+              $624
+            
+
+
+
+              $620
+            
+
+
+
+              $660
+            
+
+
+
+              $748
+            
+
+
+
+              $754
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Total
+            
+
+
+
+              $1,841
+            
+
+
+
+              $1,843
+            
+
+
+
+              $2,064
+            
+
+
+
+              $2,150
+            
+
+
+
+              $2,178
+            
+
+
+
+              $2,321
+            
+
+
+
+              $2,507
+            
+
+
+
+              $2,535
+            
+
+
+
+              $2,684
+            
+
+
+
+              $2,972
+            
+
+
+
+              $3,110
+            
+
+
+
+              $3,248
+            
+
+
+
+              $3,250
+            
+
+
+
+
+
+              End Markets
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Industrial
+            
+
+
+
+              $840
+            
+
+
+
+              $876
+            
+
+
+
+              $979
+            
+
+
+
+              $996
+            
+
+
+
+              $1,045
+            
+
+
+
+              $1,187
+            
+
+
+
+              $1,245
+            
+
+
+
+              $1,247
+            
+
+
+
+              $1,340
+            
+
+
+
+              $1,498
+            
+
+
+
+              $1,550
+            
+
+
+
+              $1,654
+            
+
+
+
+              $1,690
+            
+
+
+
+
+
+              Auto
+            
+
+
+
+              $353
+            
+
+
+
+              $310
+            
+
+
+
+              $301
+            
+
+
+
+              $403
+            
+
+
+
+              $438
+            
+
+
+
+              $462
+            
+
+
+
+              $5162
+
+
+
+
+              $507
+            
+
+
+
+              $558
+            
+
+
+
+              $639
+            
+
+
+
+              $664
+            
+
+
+
+              $678
+            
+
+
+
+              $718
+            
+
+
+
+
+
+              Comms
+            
+
+
+
+              $352
+            
+
+
+
+              $388
+            
+
+
+
+              $489
+            
+
+
+
+              $407
+            
+
+
+
+              $358
+            
+
+
+
+              $364
+            
+
+
+
+              $390
+            
+
+
+
+              $378
+            
+
+
+
+              $413
+            
+
+
+
+              $475
+            
+
+
+
+              $492
+            
+
+
+
+              $503
+            
+
+
+
+              $488
+            
+
+
+
+
+
+              Consumer
+            
+
+
+
+              $297
+            
+
+
+
+              $269
+            
+
+
+
+              $294
+            
+
+
+
+              $343
+            
+
+
+
+              $337
+            
+
+
+
+              $308
+            
+
+
+
+              $356
+            
+
+
+
+              $402
+            
+
+
+
+              $374
+            
+
+
+
+              $361
+            
+
+
+
+              $404
+            
+
+
+
+              $412
+            
+
+
+
+              $353
+            
+
+
+
+
+
+              QoQ
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Industrial
+            
+
+
+
+              ‐7%
+            
+
+
+
+              4%
+            
+
+
+
+              12%
+            
+
+
+
+              2%
+            
+
+
+
+              5%
+            
+
+
+
+              14%
+            
+
+
+
+              5%
+            
+
+
+
+              0%
+            
+
+
+
+              7%
+            
+
+
+
+              12%
+            
+
+
+
+              3%
+            
+
+
+
+              7%
+            
+
+
+
+              2%
+            
+
+
+
+
+
+              Auto
+            
+
+
+
+              ‐5%
+            
+
+
+
+              ‐12%
+            
+
+
+
+              ‐3%
+            
+
+
+
+              34%
+            
+
+
+
+              9%
+            
+
+
+
+              6%
+            
+
+
+
+              12%
+            
+
+
+
+              ‐2%
+            
+
+
+
+              10%
+            
+
+
+
+              15%
+            
+
+
+
+              4%
+            
+
+
+
+              2%
+            
+
+
+
+              6%
+            
+
+
+
+
+
+              Comms
+            
+
+
+
+              1%
+            
+
+
+
+              10%
+            
+
+
+
+              26%
+            
+
+
+
+              ‐17%
+            
+
+
+
+              ‐12%
+            
+
+
+
+              2%
+            
+
+
+
+              7%
+            
+
+
+
+              ‐3%
+            
+
+
+
+              9%
+            
+
+
+
+              15%
+            
+
+
+
+              4%
+            
+
+
+
+              2%
+            
+
+
+
+              ‐3%
+            
+
+
+
+
+
+              Consumer
+            
+
+
+
+              ‐22%
+            
+
+
+
+              ‐9%
+            
+
+
+
+              9%
+            
+
+
+
+              17%
+            
+
+
+
+              ‐2%
+            
+
+
+
+              ‐9%
+            
+
+
+
+              16%
+            
+
+
+
+              13%
+            
+
+
+
+              ‐7%
+            
+
+
+
+              ‐3%
+            
+
+
+
+              12%
+            
+
+
+
+              2%
+            
+
+
+
+              ‐14%
+            
+
+
+
+
+
+              Total
+            
+
+
+
+              ‐8%
+            
+
+
+
+              0%
+            
+
+
+
+              12%
+            
+
+
+
+              4%
+            
+
+
+
+              1%
+            
+
+
+
+              7%
+            
+
+
+
+              8%
+            
+
+
+
+              1%
+            
+
+
+
+              6%
+            
+
+
+
+              11%
+            
+
+
+
+              5%
+            
+
+
+
+              4%
+            
+
+
+
+              0%
+            
+
+
+
+
+
+              YoY
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Industrial
+            
+
+
+
+              ‐6%
+            
+
+
+
+              ‐7%
+            
+
+
+
+              8%
+            
+
+
+
+              10%
+            
+
+
+
+              24%
+            
+
+
+
+              36%
+            
+
+
+
+              27%
+            
+
+
+
+              25%
+            
+
+
+
+              28%
+            
+
+
+
+              26%
+            
+
+
+
+              24%
+            
+
+
+
+              33%
+            
+
+
+
+              26%
+            
+
+
+
+
+
+              Auto
+            
+
+
+
+              ‐8%
+            
+
+
+
+              ‐19%
+            
+
+
+
+              ‐20%
+            
+
+
+
+              8%
+            
+
+
+
+              24%
+            
+
+
+
+              49%
+            
+
+
+
+              71%
+            
+
+
+
+              26%
+            
+
+
+
+              27%
+            
+
+
+
+              38%
+            
+
+
+
+              29%
+            
+
+
+
+              34%
+            
+
+
+
+              29%
+            
+
+
+
+
+
+              Comms
+            
+
+
+
+              ‐19%
+            
+
+
+
+              ‐13%
+            
+
+
+
+              21%
+            
+
+
+
+              17%
+            
+
+
+
+              2%
+            
+
+
+
+              ‐6%
+            
+
+
+
+              ‐20%
+            
+
+
+
+              ‐7%
+            
+
+
+
+              15%
+            
+
+
+
+              30%
+            
+
+
+
+              26%
+            
+
+
+
+              33%
+            
+
+
+
+              18%
+            
+
+
+
+
+
+              Consumer
+            
+
+
+
+              ‐22%
+            
+
+
+
+              ‐14%
+            
+
+
+
+              ‐12%
+            
+
+
+
+              ‐9%
+            
+
+
+
+              14%
+            
+
+
+
+              14%
+            
+
+
+
+              21%
+            
+
+
+
+              17%
+            
+
+
+
+              11%
+            
+
+
+
+              17%
+            
+
+
+
+              13%
+            
+
+
+
+              2%
+            
+
+
+
+              ‐5%
+            
+
+
+
+
+
+              Total
+            
+
+
+
+              ‐12%
+            
+
+
+
+              ‐11%
+            
+
+
+
+              2%
+            
+
+
+
+              7%
+            
+
+
+
+              18%
+            
+
+
+
+              26%
+            
+
+
+
+              21%
+            
+
+
+
+              18%
+            
+
+
+
+              23%
+            
+
+
+
+              28%
+            
+
+
+
+              24%
+            
+
+
+
+              28%
+            
+
+
+
+              21%
+            
+
+
+
+
+        Notes:
+      
+
+        The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the "sold to" customer information, the "ship to" customer information and the end customer product or application into which our product will be incorporated. As data systems for capturing and tracking this data and the Company's methodology evolve and improve, the categorization of products by end market can vary over time. When this occurs, we reclassify revenue by end market for prior periods. Such reclassifications typically do not materially change the sizing of, or the underlying revenue trends within each end market. The sum and/or computation of the individual amounts may not equal the total due to rounding.
+      
+
+
+These revenue trends are unaudited. For Maxim Integrated Products, the above information represents revenues that would have been reported on a stand‐alone basis aligned to the fiscal quarters of Analog Devices. Revenue prior to August 26, 2021 (the date of acquisition) from Maxim is included for informational and trend comparisons, but has not been included in ADI's income statement.
+
+
+Includes $24.1 million of revenue immediately recognized in the third quarter of fiscal 2021 from an intellectual property licensing agreement.
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Analog Devices Inc. published this content on 10 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 16 February 2023 09:08:04 UTC.
+      
+

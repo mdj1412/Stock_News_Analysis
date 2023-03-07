@@ -1,0 +1,42 @@
+
+
+The company developed filterless air purification technology for small and large spaces using Ansys' best-in-class simulation solutions
+/ Key Highlights
+Praan accessed Ansys simulation through the Ansys Startup Program to develop filterless, large-space air purifiers that ensure near-zero cost of maintenance and provide affordable clean airAnsys simulation enabled Praan to develop its MK One, MK Two, and HIVE products, all of which are redefining the user experience for air purification of large spacesWith support from Ansys Elite Channel Partner CADFEM India, Ansys solutions helped Praan develop the purifiers up to 36X faster than traditional development methods, eliminating the need for multiple, expensive physical prototypesPITTSBURGH, Jan. 5, 2023 /PRNewswire/ -- US and India-based technology startup Praan, Inc. (Praan) developed its latest filterless air purification technology using Ansys' (NASDAQ: ANSS) industry-leading simulation solutions. The company's advanced technology includes filterless purifiers for indoor air in large spaces with near-zero maintenance costs, and an advanced tablet-based activated carbon filter. Praan's technology is currently on display at CES at Ansys' booth, #4401.
+
+
+
+
+
+
+
+To help mitigate the worldwide problem of air pollution, Praan designed the MK One and MK Two for large spaces. The advanced air purification technologies — designed with Ansys® Fluent® computational fluid dynamics — capture polluted air, separate microscopic particulate matter (particle pollution) into a collection chamber, and release cleaner air back into the atmosphere. Additionally, Praan offsets any carbon dioxide emitted during manufacturing through afforestation or direct air capture methods, making all their products net-zero.
+"With Ansys simulation, our team significantly reduced the development time of functional prototypes from four and a half years to 45 days," said Angad Daryani, founder and chief executive officer at Praan. "Without simulation, it would have cost tens of millions of dollars and lots of time. It's just not feasible when building large devices to build multiple physical prototypes, which is why it's essential for us to incorporate Ansys simulation and virtual prototyping into our development and design processes."
+Beyond its strides with filterless technology in industrial markets, Praan also used Ansys simulation to develop the HIVE air purifier for smaller spaces. The HIVE uses an advanced tablet-based activated carbon filter and a recyclable high-efficiency particulate air (HEPA) filter, ensuring complete reuse without the disposal of unsustainable materials. HEPA filtration was instrumental during the COVID-19 pandemic and continues to be a vital tool in mitigating airborne bacteria. For the HIVE, Praan used Ansys simulation solutions to understand fan requirements and develop specifications in two weeks, rather than the estimated four months it would have taken without simulation.
+"Ansys is committed to sustainability, and we are grateful that Ansys' simulation solutions have enabled Praan to contribute to the global clean-air mission," said Walt Hearn, vice president of worldwide sales and customer excellence at Ansys. "By developing advanced air purification technology for small and large spaces, Praan is helping improve air quality in a wide range of environments around the world."
+Visit Ansys at CES in Las Vegas from Jan. 5-8, 2023, at booth #4401 to see Praan's HIVE on display.
+/ About AnsysWhen visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–C
+/ Contacts
+Media
+Mary Kate Joyce                
+724.820.4368
+marykate.joyce@ansys.com 
+Investors
+Kelsey DeBriyn 
+724.820.3927
+kelsey.debriyn@ansys.com 
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/praan-speeds-development-of-sustainable-air-purification-technology-with-ansys-simulation-301714408.html
+SOURCE  Ansys
+
+

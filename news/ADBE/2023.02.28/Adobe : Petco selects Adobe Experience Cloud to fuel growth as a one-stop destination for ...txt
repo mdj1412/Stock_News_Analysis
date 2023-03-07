@@ -1,0 +1,76 @@
+
+
+      Petco selects Adobe Experience Cloud to fuel growth as a one-stop destination for pet parents
+    
+
+      To personalize experiences for millions of customers and drive growth for its comprehensive suite of pet care products and services, Petco has selected Adobe Experience Cloud. Enterprise applications running on Adobe Experience Platform, including Adobe Real-Time Customer Data Platform and Adobe Journey Optimizer, will enable Petco to activate data internally and orchestrate personalized experiences across a mix of online and offline channels. Adobe Experience Cloud also complements Petco's existing investment in Adobe Creative Cloud for enterprise, ensuring that content created for channels including web, mobile, and email are delivered to the most relevant audiences.
+    
+
+
+        In this article
+      
+
+
+          Navigating the journey of pet parenthood
+        
+
+          Connecting with pet parents in moments that count
+        
+
+          Driving interest in omnichannel pet care ecosystem through personalization
+        
+
+
+
+      Navigating the journey of pet parenthood
+    
+
+      Petco has set a new bar for pet health and wellness, delivering innovative products and services focused on improving the lives of pets and pet parents. With more than 1,500 pet care center locations and robust digital services, customers have a one-stop shop for everything from pet nutrition and supplies to on-site veterinary, grooming and training services. As Petco expands its role in the pet parenthood journey, it is focused on building long-term relationships with customers, and continuously meeting their needs as they evolve.
+    
+
+https://blog.adobe.com/en/promotions/products/experience-cloud/experience-platform
+
+
+      Connecting with pet parents in moments that count
+    
+
+      Adobe Experience Platform empowers Petco to accomplish these goals, bringing data across the organization together with strict governance and security controls. Real-Time CDP enables highly customized, one-to-one interactions, and builds real-time profiles that can be activated across any online or offline channel.
+    
+
+      By connecting the dots, teams will gain better insights into the solutions customers need now, as well as how those needs change over time. In key moments - from the first year of pet parenthood to annual checkups - Petco will be able to engage customers with the most relevant and useful offerings for specific needs and life stages.
+    
+
+      Driving interest in omnichannel pet care ecosystem through personalization
+    
+
+      Petco will leverage Adobe Journey Optimizer as an orchestration layer to deliver relevant content that is timely and impactful. Adobe Journey Optimizer enables teams to build one-to-one individual journeys spanning moves across touchpoints - from the website and mobile app to email and physical points-of-sale. And with Offer Decisioning in Adobe Journey Optimizer, Petco can leverage AI and machine learning capabilities to present next-best-offers at different points in the customer journey.
+    
+
+      "Petco has made great progress with their customer experience strategy, delivering a comprehensive set of products and services that customers can access on their own terms," said Stephen Frieder, Chief Revenue Officer, Adobe Experience Cloud. "As the company works to accelerate growth and deepen customer relationships, only Adobe can provide an integrated set of Adobe Experience Cloud applications that personalizes experiences at scale and in real time."
+    
+
+
+https://blog.adobe.com/en/publish/2022/10/24/adobe-to-help-us-bank-accelerate-personalization-in-consumer-banking
+
+
+https://blog.adobe.com/en/publish/2022/03/15/panera-bread-drives-highly-personalized-guest-experiences-with-adobe-real-time-customer-data-platformhttps://blog.adobe.com/en/publish/2023/02/23/qualcomm-selects-adobe-deepen-customer-relationships-real-time-personalization
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Adobe Inc. published this content on 28 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 28 February 2023 14:04:28 UTC.
+      
+

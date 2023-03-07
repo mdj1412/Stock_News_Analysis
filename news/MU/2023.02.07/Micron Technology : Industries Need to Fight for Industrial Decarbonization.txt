@@ -1,0 +1,140 @@
+
+
+
+        Corporate venture funds have outsized role to play in accelerating new sustainability innovation
+      
+
+        Climate change is a pressing global concern affecting society and Micron's operating locations, water availability, supply chains and markets. As semiconductor manufacturing is energy- and emissions-intensive, we have set aggressive targets to reduce our impacts on climate change (including reducing greenhouse gas [GHG] emissions from our global operations by 42% by 2030 and reaching net-zero emissions in our operations and purchased energy by 2050).
+      
+
+        Micron is doing a lot of work to meet these goals and manage risks associated with climate change, including constructing energy- and water-efficient LEED Gold Standard buildings and identifying lower-emitting alternative manufacturing process chemistries. We need to continue the search for additional novel solutions.
+      
+
+        These cannot always be born inside Micron, but our company can still identify and assist in their development. Promising third-party solutions might need help scaling to become viable, and they could reduce the climate impact not just of Micron but also of the entire semiconductor industry.
+      
+
+        In 2021, Micron Ventures - together with other corporate venture capital (CVC) teams of major players in the semiconductor ecosystem - launched a mentorship program and pitch event called Startups for Semiconductor Sustainability with a goal to scale solutions to market faster. This program has four main objectives:
+      
+
+
+          Bring together a bunch of CVCs across the semiconductor industry to create a critical mass of outreach to the startup community.
+        
+
+          Jointly approach the startup community with shared problem statements for the sustainability challenges of our industry.
+        
+
+          Connect compelling startup teams and solutions with industry experts to help with productization, go to market, fundraising, customer intros and more.
+        
+
+          Drive visibility, investment and proof-of-concept activity for new sustainability tech in semiconductor operations.
+        
+
+
+        The first round was a prototype - with excellent results! We made some improvements based on our experiences and feedback from participating startups, and we're excited to launch our second round. The application process is now open!
+      
+
+        Why industrial decarbonization is ripe for disruption
+      
+
+        Insights from the PWC State of Climate Tech Report 2022 show how investment is flowing into sustainability-related activity. In short, sustainability as a whole is super hot, representing more than 25% of VC activity in 2022.
+      
+
+        From my perspective (that is, as a CVC looking to invest in startups that can move the needle for decarbonizing the semiconductor industry), this is the most important data from the report:
+      
+
+
+          85% of the global emissions receive 52% of the global climate tech venture investment.
+        
+
+          Industrial emissions represent 34% of human-caused GHG emissions, yet startups that focus on industrial decarbonization receive only 9% of the VC money aimed at reducing GHG emissions.
+        
+
+
+        That imbalance is why we created Startups for Semiconductor Sustainability.
+      
+
+        Industrial decarbonization - rebuilding humanity's industrial processes in ways that avoid GHG emissions - is a multi-trillion-dollar transition that will take place over the coming decades, yet it is by far the most underserved VC category relative to its impact.
+      
+
+        This gap in support of industrial decarbonization is a massive opportunity for investors and innovators alike. By focusing on problem statements and productized solutions, we can more quickly discover, fund and scale key pieces to accomplish sustainability targets.
+      
+
+        Why CVC is a key partner for industrial decarbonization startups
+      
+
+        There's good reason why VCs don't give industrial decarbonization its fair shake. We can sum it in two words - legacy systems.
+
+
+        Process methods, process tools, abatement systems, water treatment - all these things already exist and are built into the operating model for any industrial operator.
+      
+
+        Approaching industrial customers with new methods to make entrenched legacy systems more sustainable is a tall order for young companies, with very real technology and time-to-market barriers to entry. Success is not impossible, but it does require a couple of things:
+      
+
+
+          Increased risk tolerance for industrial operators and subject matter experts.
+        
+
+          Alignment across organizations to ensure startup programs scale successfully.
+        
+
+
+        Our program is specifically designed to reduce these barriers to entry, providing companies with visibility for new technologies across the organization - from subject matter experts to purchasing to executives. This process requires much work and coordination, but through the growing interest in sustainability, we are able to align interests to accelerate the steps necessary to scale effective solutions.
+      
+
+        And it's not just Micron. Through the program, participating companies - like Intel, Applied Materials, Samsung, Lam Research and others - gain similar visibility into challenges across the semiconductor ecosystem.
+      
+
+        Why now is the time for industrial decarbonization
+      
+
+        Technology innovation is a key component (let's be real: it's a requirement) of global sustainability, but the biggest driver of sustainability adoption to date has been government regulation and incentives.
+      
+
+        That said, government regulation of GHG emissions has proven relatively tricky, and enforcing those regulations is often trickier still.
+      
+
+        However, climate change is an existential threat to human economies and life. The biggest companies and groups in the world driving these economies are now alert to the threats of climate change and understand that -without climate action right now - economic and societal models are threatened.
+      
+
+        In 2020, Micron announced the first of its sustainability targets, including a 42% GHG reduction by 2030 and net-zero operations by 2050. These targets were not driven by policy; they were driven by executive will and customer demand. Google, Microsoft, Amazon, Apple and indeed all the major technology companies on Earth are making aggressive climate pledges, both for themselves and their supply chains, with a strong focus on semiconductor manufacturing and use.
+      
+
+        We believe industrial decarbonization is one of the biggest global market opportunities over the next three decades. And we're in a position to add significant value to accelerate scaling of new sustainable technologies across our operations.
+      
+
+        As investors, we're hungry to identify and invest in the top startups pushing industrial decarbonization. If that's you and your company, we look forward to meeting you!
+      
+
+        See Investing in the Future | Micron's 2022 sustainability report
+
+
+See Startups for Semiconductor Sustainability | SEMI
+
+
+
+
+        Andrew Byrnes
+      
+
+        Andy is with Micron's AI fund investing in some of the world's top startups. He's a recovering startup founder, writer, and solar/battery materials geek, and when he's not thinking about technology innovation and startups, he's probably running or doing something weird with his young'uns. And he's big on words like "young'uns."
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Micron Technology Inc. published this content on 07 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 10 February 2023 20:11:02 UTC.
+      
+

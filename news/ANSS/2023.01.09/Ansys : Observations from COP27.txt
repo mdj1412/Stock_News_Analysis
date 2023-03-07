@@ -1,0 +1,159 @@
+
+
+
+        ANSYS BLOG
+      
+
+        January 9, 2023
+      
+
+
+
+        Observations from COP27: How Engineering Simulation Supports Sustainability
+      
+
+
+
+        For two weeks in November, much of the world's attention was focused on Sharm El Sheikh, Egypt, which hosted COP27, a meeting of the 198 countries that have signed the UN Framework Convention on Climate Change. COP27 is more than a UN meeting - it's a broader gathering of government officials, non-governmnet organizations (NGOs), activists, company leaders, and academics who collaborate and discuss ways to tackle this global problem.
+      
+
+        Given the increasing role of technology in driving down emissions, capturing and storing carbon, and leveraging green materials, the role that Ansys can play in this effort is becoming increasingly important. To assess the potential extent of our role, we have been casting a wide net to collect what our customers are doing under the banner of sustainability. We recognize that the contribution of engineering, and by extension simulation, to this massive global effort is growing. So, when Microsoft, one of our strategic partners, invited us to attend COP27, we were grateful for the opportunity.  
+      
+
+        We learned a lot at COP27. Here we share a few observations of major importance that we took away from the meeting.
+      
+
+
+
+        The author (right) and Ansys Program Director for Healthcare Solutions, Thierry Marchal, attended COP27 in Egypt.
+      
+
+
+
+        The Finances Are Coming
+      
+
+        A common theme at COP27 was the massive shift of capital needed to fund the energy transition required to fight climate change. Ministers, bankers, and technology leaders noted that the movement of funds and interest has been truly remarkable. In the U.S., major investment and build-out opportunities will be dramatically increasing thanks to the recently passed Inflation Reduction Act. More broadly, governments worldwide are increasingly looking to invest alongside private capital to help close the "green premium" gap that exists in moving to renewable energy. Their participation is also key in lowering the risk for companies that are taking the lead in deploying new technologies.
+      
+
+        Where is the money going?
+      
+
+
+          Startups are going to receive a lot of funding, and for good reasons. Our experience in this area shows that nearly 30% of active startups using Ansys software primarily define themselves as developing sustainability technologies.  
+        
+
+          Many medium and large companies that are active in sustainability efforts stand to benefit from this influx of funding, too.
+        
+
+          Academic programs that are starting new sustainability programs, or even, as in the case of Stanford, entire new colleges, will also look to take advantage of this financial movement to train the next generation of climate engineers and scientists.
+        
+
+
+
+
+        "We Have the Technology, We Just Need to Scale"
+      
+
+         Speaker after speaker at COP27 drilled home the point that the most important technology-related action we can take now is to scale up what we already have. This doesn't mean that R&D into new energy or carbon capture technologies should stop, but we should not mistake these future technologies as magical solutions that will absolve us of doing what we can right now with existing technologies. Luckily, Ansys has experience helping our customers with scaling up operations.
+      
+
+
+
+
+          Take, for instance, another kind of global emergency that we recently experienced: the COVID-19 pandemic. Scaling up vaccine production from beaker to bioreactor is critical for inoculating global populations against disease. In most instances, vaccine development begins in a small beaker on a lab bench and must be rapidly scaled up - initially to meet the requirements of clinical trials and subsequently, when approved, to immunize billions of people. Scaling up is a high stakes process: Improperly designed or operated bioreactors can cause months-long delays and cost millions of dollars in wasted raw materials. Engineers use field-tested Ansys computational fluid dynamics (CFD) simulations to scale up bioreactors for vaccine production and other applications.
+        
+
+          Examples of existing sustainability technologies that could benefit from similar production and cost scaling include:
+        
+
+
+            Green hydrogen
+          
+
+            Carbon capture and storage
+          
+
+            Electrification of transportation
+          
+
+            Green steel and concrete
+          
+
+            Large-scale solar plants
+          
+
+            More efficient equipment (HVAC, other)
+          
+
+            New nuclear technologies, like small modular reactors (SMR)
+          
+
+            Offshore wind
+          
+
+
+
+
+          Ansys Program Director for Healthcare Solutions, Thierry Marchal, speaks with a COP27 attendee.
+        
+
+
+
+
+        Beware of the Greenwashing Danger
+      
+
+        "Greenwashing involves making an unsubstantiated claim to deceive consumers into believing that a company's products are environmentally friendly or have a greater positive environmental impact than they actually do," according to Investopedia.
+      
+
+        Concern about avoiding greenwashing was evident at COP27 in an undercurrent of discussion that can be summarized as "talk is cheap, but this all requires action to back it up." At Ansys, we're committed to taking real, intentional action to further our impact. To that end, we're going to focus on the following as distinct next steps:
+      
+
+
+Academic - Ramp up on building training and curriculum materials and focus on specific leading universities through direct engagement, funding, and internships.
+        
+
+Government - Find new ways to engage with key government labs and officials around the world to explore how targeted government investment in simulation can help drive innovation in the right areas to accelerate the work that needs to be done.
+        
+
+Commercial - Engage directly with chief sustainability officers to better understand their perspectives and get their advice about how to optimally deploy simulation within their teams. Ultimately, we want to help these executives achieve their sustainability goals, and we believe simulation can play a major role. This includes a possible large-scale shift to cloud computing, which has a lower carbon footprint compared to on-premises computing and could be of value to those counting scope 2 or 3 emissions.
+        
+
+
+
+
+        COP27 organizers created the Green Zone as a platform for the business community, academia, and other non-government organizations to promote dialogue, awareness, education, and commitments.
+      
+
+
+
+
+Center of Excellence - In support of all the above, Ansys will create a global "center of excellence" focused on sustainability pillars. This center will be dedicated to rapidly delivering our technology to the most impactful areas and tracking its effects. It will also consider recommendations for product roadmaps, training material creation, partnerships or acquisitions, and other projects that Ansys staff can drive in the context of sustainability.
+        
+
+Green Ansys - Ansys should be leading by example by exploiting our technologies and reducing our environmental impact as quickly as possible. Ansys also made an initial commitment to emissions reduction targets and has a global "Green Ansys" team that meets on a regular basis to explore additional ways we can reduce our carbon footprint across all aspects of our business.
+        
+
+
+        Clearly, we don't have all the answers, and this is a constantly evolving field. But we are energized by our first participation in COP27, and we hope that it represents a key moment in the history of Ansys.
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+ANSYS Inc. published this content on 09 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 09 January 2023 20:03:09 UTC.
+      
+

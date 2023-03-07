@@ -1,0 +1,73 @@
+
+Gilead Sciences, Inc. (Nasdaq: GILD) today announced positive data from three retrospective real-world studies which demonstrated that initiation of Veklury® (remdesivir) within the first two days of hospital admission can help reduce mortality and hospital readmission rates among all patients hospitalized with COVID-19, regardless of disease severity. A reduction in mortality was also observed in vulnerable populations, such as people living with cancer or HIV. These studies evaluated routine clinical practice data from more than 800 hospitals throughout the United States to gain insights on patient outcomes as COVID-19 continues to evolve over time. These data will be presented at the 30th Conference on Retroviruses and Opportunistic Infections (CROI).
+
+“Early treatment with remdesivir led to better patient outcomes regardless of the predominant circulating variant of concern. We see this risk reduction consistently across all oxygen levels and disease severity, including in immunocompromised patients. This is indeed a paradigm shift in the way we think about treating our most vulnerable patients,” said Chidinma Chima-Melton, study author and pulmonologist at UCLA Health, California, U.S.A. “Large studies utilizing real world clinical practice data are of great importance given the significant shifts that have occurred in the COVID-19 treatment landscape. These longitudinal analyses demonstrated the value of remdesivir in reducing mortality in all patients with COVID-19, and its positive impact on reducing readmission rates, which is an important consideration for hospitals.”
+
+Mortality Outcomes in Patients Hospitalized with COVID-19
+
+Two studies analyzed clinical practice information from the U.S. Premier Healthcare databases of more than 500,000 adult patients hospitalized with COVID-19. The overall analysis examined all-cause inpatient mortality rates at 14- and 28- days and demonstrated that initiation of Veklury within the first two days of hospital admission was associated with a statistically significant lower risk for mortality in all oxygen levels compared to matched controls that did not receive Veklury during their hospitalization for COVID-19. For patients with no documented use of supplemental oxygen at baseline, treatment with Veklury was associated with a 19% (p<0.001) lower risk of mortality at Day 28. Patients on low-flow or high-flow oxygen also had a 21% (p<0.001) and 12% (p<0.001) lower risk of mortality at Day 28, respectively. Patients on invasive mechanical ventilation/ECMO at baseline had a 26% (p<0.001) reduced risk for mortality at Day 28. These findings were observed throughout all variant time periods, including Omicron, in patients who did not require supplemental oxygen and across all levels of supplemental oxygen use, including those on invasive mechanical ventilation (IMV)/ECMO.
+
+“The real-world evidence presented at CROI is based on an analysis of the clinical practice data of hospitalized patient populations to help assess the treatment effects of Veklury in both the overall patient population, as well as subsets of patients that are considered high-risk for severe disease from COVID-19, like immunocompromised patient populations,” said Frank Duff, MD, Senior Vice President, Virology Therapeutic Area Head, Gilead Sciences. “These analyses demonstrate the consistent efficacy of Veklury across variant time periods of the pandemic, including its effect on mortality and likelihood of hospital readmission.”
+
+The second analysis demonstrated that a reduction in mortality was also associated in vulnerable patient populations, such as patients with immunocompromised conditions, who can experience repeat infections and breakthrough infections. Results demonstrated that at Day 28 mortality results showed that timely initiation of Veklury treatment within two days of hospital admission was associated with an overall 25% significantly lower risk compared to non-Veklury across all variant time periods [pre-Delta (35%), Delta (21%), Omicron (16%)].
+
+Readmission in Patients Hospitalized with COVID-19
+
+A separate analysis found that hospitalized patients with COVID-19 treated with Veklury were also significantly less likely (27%) to be readmitted within 30 days to the same hospital. This finding was consistent across variant time periods of the pandemic. The lower rate of hospital readmission for patients treated with Veklury was observed even in patients who had higher supplemental oxygen requirements during initial hospitalization for COVID-19.
+
+In vitro Antiviral Activity Against Variants
+
+Based on in vitro analyses presented at CROI, Veklury retains potent antiviral activity against recent Omicron subvariants of concern, including XBB, BQ 1.1, BA.2.75, BA.4, BA 4.6 and BA.5. These data support the continued use of Veklury to treat patients with Omicron subvariants of SARS-CoV-2. Gilead continuously evaluates the activity of Veklury against new SARS-CoV-2 variants of concern as they emerge around the world.
+
+About Veklury Clinical and Real-World Evidence Studies
+
+Complementing randomized clinical trials (RCTs), this new real-world evidence (RWE) of hospitalized patients with COVID-19 further demonstrates the value of Veklury to clinicians and patients. The clinical benefits of Veklury in hospitalized patients have been established in multiple randomized, controlled Phase 3 clinical trials, including ACTT-1. In 2020, results from ACTT-1 demonstrated that in the overall study population of hospitalized patients with COVID-19, Veklury-treated patients showed a trend toward reduced mortality compared with placebo (11% vs. 15%, HR:0.73, 95% CI:0.52 to 1.03); however, this result was not statistically significant.
+
+While RCTs remain the best tool for assessing the efficacy and safety of a medicine, RWE provides important data on a treatment’s use in routine clinical practice that can complement data from RCTs. These studies take on greater incremental importance in a pandemic, where clinical management of a disease continues to evolve and can outpace the initiation of new clinical trials, and where frontline healthcare workers are eager to understand the effectiveness of treatments to guide and reinforce treatment decisions in real time. Such studies should be interpreted based on the type and size of the source datasets and the methodologies used to mitigate potential confounding or bias. Evidence from routine clinical practice needs to be considered in the context of all available data across the entire spectrum of patients, including different healthcare settings.
+
+The reduction in mortality associated with Veklury from these real-world analyses are consistent with previous analyses of real-world evidence conducted in 2021 which demonstrated improved survival among COVID-19 patients in the earlier phase of the pandemic. RWE analyses of Veklury from other sources are ongoing and may vary in their results or conclusions.
+
+About Gilead’s COVID-19 Development Program
+
+Veklury (remdesivir) is a nucleotide analog invented by Gilead, building on more than a decade of the company’s antiviral research. Veklury is a foundation for the treatment of hospitalized patients with COVID-19 and is a recommended treatment for reducing disease progression in non-hospitalized patients at high risk of disease progression. Veklury has an established safety profile and minimal known drug interactions in diverse populations. It can help reduce disease progression across a spectrum of disease severity and enable patients to recover faster, freeing up limited hospital resources and saving healthcare systems money.
+
+Veklury is approved in more than 50 countries worldwide. To date, Veklury and generic remdesivir have been made available to nearly 13 million patients around the world, including more than 8 million people in middle- and low-income countries through Gilead’s voluntary licensing program. These licenses currently remain royalty-free, reflecting Gilead’s existing commitment to enabling broad patient access to remdesivir.
+
+There remains a significant need to develop new and effective oral treatment options for people with COVID-19. Gilead is also working to advance an investigational oral nucleoside prodrug, GS-5245, that when metabolized forms the same active metabolite as remdesivir.
+
+U.S. Indication for Veklury
+
+Veklury® (remdesivir 100 mg for injection) is indicated for the treatment of COVID-19 in adults and pediatric patients (≥28 days old and weighing ≥3 kg) who are:
+
+For more information, please see the U.S. full Prescribing Information available at www.gilead.com.
+
+U.S. Important Safety Information for Veklury
+
+Contraindication
+
+Veklury is contraindicated in patients with a history of clinically significant hypersensitivity reactions to Veklury or any of its components.
+
+Warnings and precautions
+
+Adverse reactions
+
+Drug interactions
+
+Dosage and administration
+
+Pregnancy and lactation
+
+About Gilead Sciences
+
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks, uncertainties and other factors, including Gilead’s ability to initiate, progress or complete clinical trials within currently anticipated timelines or at all, and the possibility of unfavorable results from ongoing or additional clinical trials, including those involving Veklury; uncertainties relating to regulatory applications and related filing and approval timelines, and the risk that any regulatory approvals, if granted, may be subject to significant limitations on use; and any assumptions underlying any of the foregoing. These and other risks, uncertainties and factors are described in detail in Gilead’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2022, as filed with the U.S. Securities and Exchange Commission. These risks, uncertainties and other factors could cause actual results to differ materially from those referred to in the forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. The reader is cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties and is cautioned not to place undue reliance on these forward-looking statements. All forward-looking statements are based on information currently available to Gilead, and Gilead assumes no obligation and disclaims any intent to update any such forward-looking statements.
+
+U.S. full Prescribing Information for Veklury is available at www.gilead.com.
+
+Veklury, Gilead and the Gilead logo are registered trademarks of Gilead Sciences, Inc., or its related companies.
+
+For more information about Gilead, please visit the company’s website at www.gilead.com, follow Gilead on Twitter (@Gilead Sciences) or call Gilead Public Affairs at 1-800-GILEAD-5 or 1-650-574-3000.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230217005363/en/

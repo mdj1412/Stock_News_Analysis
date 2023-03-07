@@ -1,0 +1,46 @@
+
+Wall Street Futures were consolidating this morning after a rally in the previous session led by hopes of a slowdown in the Fed’s rate hikes. One of the central bank’s governor Christopher Waller said on Friday he is in favor of a 25-basis-point rate increase at the next meeting.
+
+ 
+I'm not sure that central banks are looking favorably on the current rush to buy risky assets, because it probably comes a bit early in relation to their hidden agenda. Let me explain. In the US, the Fed needs to keep some negative pressure on the economy to ensure that inflation continues to fall and that prices move closer to the economically optimal range of about 2%. If the economy picks up too soon, fueled in particular by the return of positive sentiment in the financial markets, the central bank's efforts so far may have been in vain.
+Equity markets are currently saying "your rate ceiling is about to be hit, we can see a return to a more accommodative monetary policy in the long run". And the bond market is moving in the same direction. Not as exuberantly, of course, but in the same direction. The yield on 10-year US debt, at 3.52% this morning, is a far cry from its October peaks. In fact, if we superimpose the chart of the US 10-year and the Nasdaq, we can see that the technology index has been rising when the bond yield has been falling, and vice versa since October. There is nothing new in this, but the link is particularly clear at the moment.
+The Nasdaq gained more than 2% yesterday, after having already gained more than 2% in the previous session. The index was pulled by Apple (+2.3%) and by the entire semiconductor segment: Nvidia, Qualcomm and Advanced Micro Devices all recovered more than 6%. The S&P500 (+1.2%) and the Dow Jones (+0.8%) benefited by taking the lead. In Europe, green was everywhere, but in more modest proportions.
+The multi-billion dollar question now is whether the Fed feels it needs to put its house in order, so as not to lose its grip again. Last week, attempts to reframe some of the U.S. central bank's pundits failed. And there will be no hawkish outbursts in the days to come, as we have entered the statutory period of silence since Saturday, which precedes the February 1 monetary policy decision. The market is 100% confident that a rate hike limited to 25 basis points will occur. The contrarian spirits have evaporated. But the issue will likely lie in the speech presenting the decision that will follow. Jerome Powell has often been called a "goldilocks" in the past. Not because of his California surfer hairdo, but rather for his ability to stay in the tepid zone, that is, neither too hot nor too cold, like the little bear's bowl in the tale. But the risk at the moment is that Goldilocks will turn into a papa bear and that he will raise his big voice to calm the current speculative ardor.
+In other news, January leading PMI indicators are driving today’s session. For the record, these are highly valued activity indicators for the major economies. They’ve already been published in the eurozone and show an improvement, raising hopes that the EU will avoid a recession. In the US, as I write these lines, contraction is expected to dominate, but any change will be subject to interpretation in terms of the possible consequences for monetary policy. If the data is more robust than expected, it would be reassuring from a macroeconomic point of view, but could lead the stock markets to be more cautious about the evolution of rates. Conversely, worse data would reinforce the scenario of a Fed forced to return to a more accommodative policy, while at the same time raising fears of recession. We are still far from an exact science. 
+On another note, earnings season takes off today with several US heavyweights, including Johnson & Johnson, Danaher and Verizon that published before the Wall Street opening and Microsoft or Texas Instruments after the close.
+Finally, I would like to inform you that this column will take a three-day break, since I will be busy participating in MarketScreener’s corporate seminar!
+ 
+Economic highlights of the day:
+Big session on the flash PMI indicators for January for the major economies, including the euro zone and the United States. We also have the Richmond Fed manufacturing index on the agenda. 
+The dollar is flat against the euro at EUR 0.9204 and is up 0.6% against the pound to 0.8132. The ounce of gold remains steady at USD 1930. So is oil, with North Sea Brent crude at USD 87.98 a barrel and U.S. light crude WTI at USD 81.62. The yield on 10-year US debt rises to 3.52%. Bitcoin is moving around its recent best levels near USD 23,000.
+ 
+In corporate news:
+* 3M Co - The industrial conglomerate said it will cut 2,500 jobs after reporting a drop in quarterly profit, hurt by a charge related to the discontinuation of perfluoroalkyl substances production and slowing demand that weighed on its revenue.
+* General Electric warned Tuesday of lower-than-expected adjusted earnings for 2023, as the group continues to be hurt by difficulties at its renewable energy division. General Electric shares were down 1% in pre-market trading.
+* Johnson & Johnson said Tuesday it expects higher-than-expected annual profit for 2023, as the pharmaceutical company expects solid demand for its products and a recovery in its medical equipment business.
+* Verizon Communications lost more than 2% in pre-market trading as the telecom operator's annual profit forecast missed market expectations as mobile subscriber growth slowed and heavy investments in 5G technology were made.
+* Lockheed Martin - The U.S. defense group reported better-than-expected quarterly results Tuesday but forecast lower-than-expected 2023 profit, hurt by supply issues and higher costs.
+* Aerospace and defense specialist Raytheon Technologies reported a fourth-quarter profit above expectations, helped by strong demand for its jet engines, parts and services.
+* AmerisourceBergen pharmaceutical group plans to rebrand itself as Cencora as part of its international expansion beyond drug distribution.
+* Halliburton reported better-than-expected fourth-quarter results Tuesday as high oil prices supported its drilling business and demand for drilling equipment and services.
+* Intel announced Monday the resignation of its president Omar Ishrak and the appointment of Frank Yeary to replace him.
+* Ford is expected to decide by mid-February how many jobs will be cut in Europe, a spokesman for German union IG Metall said Tuesday.
+* Capri - The U.S. luxury group on Monday named Cedric Wilmotte as chief executive of the Michael Kors brand.
+* Blackstone is in discussions to sell about half of its stake in India's largest real estate investment trust Embassy Office Parks to Bain Capital, sources said, in a deal worth up to $480 million. In addition, JP Morgan is raising its recommendation to "overweight" from "neutral."
+ 
+Analyst recommendations:
+
+AMD: Bernstein downgrades to market perform from outperform.
+Blackstone: J.P. Morgan upgrades to overweight from neutral. PT up 20% to $105.
+Cheesecake Factory: Raymond James downgrades to market perform from outperform.
+EasyJet: Liberum remains Buy with a price target raised from GBp 430 to GBp 500.
+International Consolidated Airlines: Liberum remains Buy with a price target raised from GBp 145 to GBp 220.
+Lowe's: R5 Capital downgrades to Sell from Hold, Cuts Price Target to $184 from $203.
+Lyft: KeyBanc Capital Markets upgrades to overweight from sector weight. PT jumps 56% to $24.
+Martin Marietta: Atlantic Equities downgrades to neutral from overweight. PT inches up 0.3% to $350.
+Shaftesbury: Panmure Gordon upgrades from hold to buy targeting GBp 459.
+Target: Oppenheimer & Co initiated coverage with a recommendation of outperform. PT up 15% to $190.
+Unite Group: Panmure Gordon downgrades from buy to hold targeting GBp 1038.
+VF Corp: Baird downgrades to neutral from outperform. PT up 12% to $34.
+Vulcan Materials: Atlantic Equities downgrades to neutral from overweight. PT up 3.1% to $185.
+

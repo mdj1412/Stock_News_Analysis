@@ -1,0 +1,407 @@
+
+
+
+
+          Fourth Quarter &
+        
+
+          Full Year 2022
+        
+
+          Financial Results
+        
+
+          February 23rd, 2023
+        
+
+
+
+          © 2023 M oderna, Inc. All rights reserved.
+        
+
+
+
+
+
+          Forward-looking statements and disclaimer
+        
+
+          This presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including statements regarding: anticipated sales, including the timing of sales, under advance purchase agreements in
+        
+
+          2023, which may not be realized; expected new contracts for COVID-19 vaccines; Moderna's expectations regarding an endemic,
+        
+
+          commercial market for COVID-19 and its preparations for and ability to effectively compete in such a market; Moderna's assumptions regarding potential 2023 U.S. COVID-19 vaccination volume, including vaccination rate assumptions; the medical burden of endemic COVID-19; Moderna's ability to leverage commercial infrastructure for a potential RSV vaccine launch in 2024; Moderna's plants to file a biologics license application (BLA) for mRNA-1345 (RSV) in the first half of 2023, and anticipated timing for regulatory action; the
+        
+
+          timing of interim data from Moderna's Northern Hemisphere flu efficacy study; Moderna's plans with respect to its personalized cancer vaccine candidate, including its plans to initiate a Phase 3 study in adjuvant melanoma in 2023 and rapidly expand to additional
+        
+
+          tumor types, including non-small cell lung cancer; anticipated publication of full Phase 2 PCV data in 2023; participant enrollment in
+        
+
+          Moderna's clinical trials, including enrollment demographics and timing; the timing of data from Moderna's ongoing clinical trials; early signs of potential clinical benefit for PA; Moderna's capital allocation priorities, including anticipated spending on R&D for 2023; and Moderna's 2023 financial framework. In some cases, forward-looking statements can be identified by terminology such as "will,"
+        
+
+          "may," "should," "could," "expects," "intends," "plans," "aims," "anticipates," "believes," "estimates," "predicts," "potential,"
+        
+
+          "continue," or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words. The forward-looking statements in this presentation are neither promises nor guarantees, and you should not place undue reliance on these forward-looking statements because they involve known and unknown risks, uncertainties, and other factors, many of which are beyond Moderna's control and which could cause actual results to differ materially from those expressed or impli ed by
+        
+
+          these forward-looking statements. These risks, uncertainties, and other factors include, among others, those risks and uncertainties described under the heading "Risk Factors" in Moderna's Annual Report on Form 10-K for the fiscal year ended December 31, 2021
+        
+
+          and Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2022, each filed with the U.S. Securities and Exchange Commission (SEC), and in subsequent filings made by Moderna with the SEC, which are available on the SEC's website at www.sec.gov. Except as required by law, Moderna disclaims any intention or responsibility for updating or revising any forwar d-looking
+        
+
+          statements contained in this presentation in the event of new information, future developments or otherwise. These forward-looking statements are based on Moderna's current expectations and speak only as of the date of this presentation
+        
+
+          Financial figures as of and for the year ended December 31, 2022 remain subject to audit. Financial figures for the quarterly period
+        
+
+          ended December 31, 2022 and as of and for the quarterly period ended September 31, 2022 are unaudited.
+        
+
+
+
+
+
+
+                2
+              
+
+
+
+                © 2023 M oderna, Inc. All rights reserved.
+              
+
+
+
+
+
+
+
+
+          4Q22 earnings call agenda
+        
+
+
+
+          Business Review
+        
+
+          Stéphane Bancel, CEO
+        
+
+          R&D/Clinical Programs
+        
+
+          Stephen Hoge, M.D., President
+        
+
+          Commercial Market
+        
+
+          Arpa Garay, CCO
+        
+
+          Financials
+        
+
+          Jamey Mock, CFO
+        
+
+          Looking Forward
+        
+
+          Stéphane Bancel, CEO
+        
+
+
+
+
+
+
+                3
+              
+
+
+
+                © 2023 M oderna, Inc. All rights reserved.
+              
+
+
+
+
+
+
+
+
+          Fiscal year 2022 financial highlights
+        
+
+          Fiscal year 2022 GAAP financial results
+        
+
+
+
+
+                Revenue:
+              
+
+
+
+                Net income:
+              
+
+
+
+                Earnings
+              
+
+
+
+                Cash and
+              
+
+
+
+
+
+                $19.3 billion
+              
+
+
+
+                $8.4 billion
+              
+
+
+
+                per share:
+              
+
+
+
+                investments:
+              
+
+
+
+
+
+
+
+
+
+                $20.12
+              
+
+
+
+                $18.2 billion
+              
+
+
+
+
+          Capital allocation highlights
+        
+
+
+
+
+                Reinvest in the
+              
+
+
+
+                External investment
+              
+
+
+
+                Return capital to
+              
+
+
+
+
+
+                business
+              
+
+
+
+                opportunities (licenses and/or
+              
+
+
+
+                shareholders
+              
+
+
+
+
+
+• $3.3 billion R&D
+              
+
+
+
+                M&A)
+              
+
+
+
+                Repurchased 23 million
+              
+
+
+
+
+
+
+
+
+
+• $1.1 billion SG&A
+              
+
+
+
+                2022: Metagenomi, Carisma
+              
+
+
+
+                shares for $3.3 billion in 2022
+              
+
+
+
+
+
+                2023: OriCiro, CytomX, LifeEdit
+              
+
+
+
+                (avg. price ~$143/share)
+              
+
+
+
+
+
+• $0.4 billion Capital
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                expenditures
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                4
+              
+
+
+
+                © 2023 M oderna, Inc. All rights reserved.
+              
+
+
+
+
+
+
+
+
+          Moderna 2022
+
+
+
+
+COVID booster (mRNA-1273.214 & mRNA-1273.222)
+        
+
+          Two authorized Omicron-targeting bivalent vaccines; mRNA-1273.222 on market in less than two months
+        
+
+          RSV vaccine (mRNA-1345)
+
+
+          Phase 1 to Phase 3 in 13 months; pivotal Phase 3 trial met primary efficacy endpoint
+        
+
+          Personalized Cancer Vaccine (PCV) (mRNA-4157)
+
+
+          First demonstration of efficacy for an mRNA cancer treatment in a randomized clinical trial
+        
+
+          Propionic acidemia (PA) (mRNA-3927)
+
+
+          Decrease in number of metabolic decompensation events with generally well -tolerated profile
+        
+
+          Inhaled Pulmonary Therapeutics
+        
+
+          First inhaled mRNA candidate enters clinic in partnership with Vertex; marks seventh Moderna modality in human studies
+        
+
+          Environmental, Social, and Governance
+        
+
+          Delivered our first ESG report and hosted inaugural ESG day
+        
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Moderna Inc. published this content on 23 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 23 February 2023 14:03:06 UTC.
+      
+

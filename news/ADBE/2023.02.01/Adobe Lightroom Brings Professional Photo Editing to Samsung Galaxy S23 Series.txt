@@ -1,0 +1,33 @@
+
+Today, Adobe (Nasdaq:ADBE) announced that Samsung Galaxy S23 series smartphones globally will use Adobe Lightroom as the exclusive default photo editor for RAW photos taken with the Expert RAW app. The Expert RAW app, available exclusively on Samsung Galaxy, enables DSLR-style image shooting and editing in RAW and JPEG. Once downloaded, Expert RAW app functionality can also be accessed through the native Camera app on the Galaxy S23 series. For an enhanced Galaxy ecosystem experience, Samsung Galaxy Book3 Ultra and Pro series PCs will automatically transfer Expert RAW images from Galaxy S23 series devices, and allow users to edit images on Adobe Lightroom for professional-level results.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230201005419/en/Adobe Lightroom HSL (Photo: Business Wire)
+Available for smartphones, tablets and PCs, Lightroom empowers users with AI-powered professional, Photoshop-class editing tools including image healing, lens correction and detail enhancement, so anyone can get the best results from the camera they’re carrying, wherever and whenever inspiration strikes. Across every platform, Lightroom edits photos in numerous formats including RAW and JPEG, offering mobile users speed and ease on the go, with added precision and control during editing sessions on larger screens.
+
+As the only photo editor directly integrated with the Expert RAW app, Lightroom enables Galaxy S23 series users to start editing RAW photos with a tap. Built with presets and tutorials for hobbyists and advanced detail enhancement technologies for pros, Lightroom offers every user a world-class photo editing experience. Users will benefit from Lightroom’s image processing, straightforward controls and flexibility, including differentiators such as cloud storage so users can instantly send their RAW photos to the cloud, freeing up precious smartphone space while unlocking synchronized editing across other devices.
+
+“We’re excited to see Samsung enhance the Expert RAW app as a native camera option, with Lightroom as the default and only photo editor,” said Scott Belsky, chief product officer and executive vice president, Creative Cloud at Adobe. “The combination of Expert RAW with Lightroom’s powerful yet accessible editing tools, presets and tutorials give anyone the ability to make professional-level enhancements to their images.”
+
+“Samsung is proud to offer a suite of tools on the Galaxy S23 series that differentiate Galaxy users’ photography experiences, featuring Lightroom as the default Expert RAW editing tool for our Galaxy smartphones,” said Joshua Sungdae Cho, executive vice president and head of visual SW R&D, Mobile Experience Business at Samsung Electronics. “With more power, speed and efficiency, photographers and creators around the world will experience new possibilities and ultimately change how they use smartphones for photography.”
+
+The Magic of RAW
+
+Compressed image formats including JPG and HEIF limit both the quality of photos and users’ ability to edit fine details. New camera technology in Samsung’s Galaxy S23 series delivers the highest resolution and image quality in Galaxy history, including support for higher resolution and uncompressed 16-bit RAW images, as well as superior astrophotography and multi-exposure performance. Shooting in RAW is transformative for mobile photographers, unlocking real-world colors and details that were historically impossible to capture with smartphones.
+
+Lightroom is the industry standard for editing photos, offering powerful, end-to-end editing tools that take advantage of the dynamic range of data available in RAW photos. Using Lightroom’s powerful features – including thousands of one-click image improvement presets, sharpening and smoothing, masking, color correction, noise reduction and automatic version saving – mobile photographers of all skill levels can take full control of their photos wherever they are, and rapidly achieve their visions.
+
+Join the Lightroom Community
+
+Lightroom welcomes users to join an inspiring community, so photographers can take their skills to the next level. Some of Lightroom’s many benefits include:
+
+Availability
+
+Samsung’s Expert RAW app is available for download from the Galaxy Store.
+
+Adobe Lightroom is available for download via the Galaxy Store, Google Play Store and Adobe Creative Cloud app for PCs.
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230201005419/en/

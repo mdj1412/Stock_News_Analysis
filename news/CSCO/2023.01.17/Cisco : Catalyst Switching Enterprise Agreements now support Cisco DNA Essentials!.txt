@@ -1,0 +1,73 @@
+
+
+
+        The role of technology is more important in your business than ever to ensure that critical services are always running. Keeping pace with changing priorities in a dynamic environment is not easy, especially with a complex software landscape. Technology teams often must manage multiple contracts, which can be a complex activity. Cisco is helping alleviate this complexity with our Cisco Enterprise Agreement (EA), a multi-year contract with unified terms and conditions that helps you buy, consume, and manage Cisco technology across the software portfolio.
+      
+
+        If you have a Catalyst Switching environment, you are familiar with our Cisco DNA Software solution that is part of the Networking Portfolio in an EA. We're announcing a change that will make our EAs even more flexible: you can now qualify for an Enterprise Agreement regardless of the mix of Cisco DNA Essentials and Advantage subscriptions in your network. If you're not ready to upgrade to the Cisco DNA Advantage tier but still want to gain the benefits of an EA, you can now do so. With a more flexible entry point, EAs keep pace with your business and can scale rapidly as your business changes.
+      
+
+Networking Portfolio Eligibility Requirements
+
+
+        The Cisco EA includes both Full Commit Suites, which require a minimum commitment and enterprise-wide coverage where applicable, and Partial Commit Suites, which have no minimum or enterprise-wide coverage requirement. To make an EA more accessible, we've lowered its minimum eligibility requirements by reducing the required commitment across an organization as follows:
+      
+
+Term minimum: 3-, 5-year terms as well as a 7-year term for most Network Infrastructure Suites
+Contract value: $100,000 net at program level, after discount and pre-installed base credits at program level
+      
+
+Enterprise Agreement Benefits
+
+
+        Our Enterprise Agreement has numerous financial benefits, such as True Forward, Not-to-Exceed Pricing (NTE), value shift, and ramp:
+      
+
+
+          Unlike other enterprise license agreements requiring a "true-up" every year that charges you for past usage, the Cisco EA allows you to grow without a retroactive bill. Instead, your growth is reviewed against entitlement and included at the next True Forward event, where you pay only on a going-forward basis as part of your predictable billing period.
+        
+
+          NTE guarantees price predictability for products purchased within an EA, for the entire term of the EA regardless of software price increases over time.
+        
+
+          Value shift allows the residual value of under-consumed license value to be transferred to any overconsumed licenses within the same suite.
+        
+
+          The ramp promotions allow you to "ramp" up to full enterprise coverage within a year-which translates into a set price adjustment.
+        
+
+
+        Beyond all the tangible financial benefits, an EA reduces complexity by substantially reducing the number of contracts. All the software in an EA is co-termed, so you don't have to worry about multiple renewal dates. With an EA, you will have full visibility into your Cisco entitlements through a single EA Workspace.
+      
+
+        You may also qualify for a free Cisco DNA Center appliance in an EA: Learn more.
+      
+
+What's next?
+
+
+        We're not stopping at Catalyst Switching. We're taking a phased approach to include all license tiers in the Networking Portfolio in an EA. Essentials availability for Wireless, SD-WAN, Nexus Switching, and Meraki Infrastructure will be available in the next quarter, so stay tuned!
+      
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 17 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 17 January 2023 16:19:08 UTC.
+      
+

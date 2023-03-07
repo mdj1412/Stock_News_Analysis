@@ -1,0 +1,321 @@
+
+
+
+
+4th Quarter
+        
+
+          Earnings Presentation
+        
+
+
+
+
+
+
+                Pat Gelsinger
+              
+
+
+
+                David Zinsner
+              
+
+
+
+
+
+                Executive Vice President and
+              
+
+
+
+
+
+                Chief Executive Officer
+              
+
+
+
+
+
+                Chief Financial Officer
+              
+
+
+
+
+
+
+
+
+
+
+
+
+This presentation contains non-GAAP financial measures. Intel revenue, gross margin, and earnings per share, including year-over-year comparisons, are presented on a non-GAAP basis except with respect to our Q4 2022 and FY 2022 revenue, Q1 2023 revenue outlook, or as otherwise indicated. This presentation also includes a non-GAAP adjusted free cash flow (FCF) measure. The Appendix provides a reconciliation of these measures to the most directly comparable GAAP financial measure. The non-GAAP financial measures disclosed by Intel should not be considered a substitute for, or superior to, the financial measures prepared in accordance with GAAP. Please refer to "Explanation of Non-GAAP Measures" in Intel's quarterly earnings release for a detailed explanation of the adjustments made to the comparable GAAP measures, the ways management uses the non-GAAP measures, and the reasons why management believes the non-GAAP measures provide investors with useful supplemental information.
+        
+
+Statements in this presentation that refer to business outlook, plans, and expectations are forward-looking statements that involve risks and uncertainties. Words such as "accelerate," "achieve," "adjust," "allow," "anticipate," "believe," "committed," "continue," "could," "deliver," "drive," "estimate," "expand," "expect," "focus," "forecast," "future," "goal," "grow," "guide," "improve," "increasing," "manage," "may," "on-track," "opportunity," "outlook," "plan," "positioned," "potential," "progress," "ramp," "refocus," "regain," "roadmap," "sharpen," "should," "support," "will," "would," and variations of such words and similar expressions are intended to identify such forward-looking statements. Statements that refer to or are based on estimates, forecasts, projections, uncertain events or assumptions, including statements relating to Intel's strategy and its anticipated benefits, including our IDM 2.0 strategy, February 2022 Investor Meeting financial model, Smart Capital strategy, the Semiconductor Co-Investment Program, our partnership with Brookfield Asset Management (Brookfield), the transition to an internal foundry model, and updates to our reporting structure; Intel's process and packaging technology, roadmap and schedules, including future node performance and other metrics; manufacturing expansion, financing and investment plans, including the impacts of plans such as our announced investments in the U.S. and abroad; plans, customers, and goals related to Intel's foundry business; financial projections; future dividends; projected costs and yield trends; supply expectations, including regarding industry shortages, constraints, limitations, pricing and sufficiency of future supply; pending transactions, including the acquisition of Tower Semiconductor Ltd., the sale of our NAND memory business, and the wind-down of our Intel Optane memory business; expected completion and impacts of restructuring activities and cost-saving or efficiency initiatives; uncertain events or assumptions, including statements relating to total addressable market, product or customer demand or market opportunity; business plans and financial expectations; future economic conditions, including related to interest rates and inflation, as well as regional or global downturns or recessions; geopolitical conditions, including the impacts of Russia's war on Ukraine; future legislation, including any expectations regarding anticipated financial and other benefits or incentives thereunder; tax- and accounting-related expectations; future responses to and effects of COVID-19, including manufacturing, transportation, and operational restrictions or disruptions; future products, technology, and services, and the expected regulation, availability, production and benefits of such products, technology, and services, including product ramps, and manufacturing plans, goals, timelines, and future progress; future business, social, and environmental performance, goals, measures and strategies; expectations regarding customers, including with respect to designs, wins, orders, and partnerships; projections regarding competitors; and anticipated growth trends in our businesses or the markets relevant to them, including future demand and industry growth, also identify forward-looking statements.
+        
+
+Unless specifically indicated otherwise, the forward-looking statements in this presentation do not reflect the potential impact of any divestitures, mergers, acquisitions, or other business combinations that have not been completed as of the date of this presentation. Such statements involve many risks and uncertainties that could cause actual results to differ materially from those expressed or implied in these forward-looking statements. Important factors that could cause actual results to differ materially are set forth in Intel's earnings release dated January 26, 2023, which is included as an exhibit to Intel's Form 8-K furnished to the SEC on such date, and in Intel's SEC filings, including the company's most recent reports on Forms 10-K and 10-Q, such as changes in product demand or product mix, the complexity of our manufacturing operations, competition, investments in R&D and our business, products, and technologies, vulnerability to product and manufacturing-related risks, the effects of the COVID-19 pandemic, supply chain risks, cybersecurity and privacy risks, investment and transaction risk, evolving regulatory and legal requirements, and the risks of our global operations, among others. Copies of Intel's SEC filings may be obtained by visiting our Investor Relations website at www.intc.com or the SEC's website at www.sec.gov.
+        
+
+All information in this presentation reflects management's views as of January 26, 2023. Intel does not undertake, and expressly disclaims any duty, to update any statement made in this presentation, whether as a result of new information, new developments or otherwise, except to the extent that disclosure may be required by law.
+
+
+
+        2
+      
+
+
+
+        Q4 revenue at the low-end of guided range
+      
+
+        Managing the business through significant industry-wide volatility Persistent economic headwinds expected through at least first half of 2023
+      
+
+        Executing on our commitment to manage costs
+      
+
+        Driving to deliver $3B of cost savings in 2023, $8-10B annually exiting 2025 Managing FY23 net capital intensity ≤35% while preserving critical investments
+      
+
+        Focused on delivering the long-term strategy
+      
+
+        Rebuilding execution; predictable cadence of best-in-class process and products Thoughtful decisions around capital allocation aimed at driving highest ROI
+      
+
+        3
+      
+
+
+
+
+
+
+              Volatility Across All Markets
+            
+
+
+
+              Long-Term Sustainable Demand
+            
+
+
+
+
+
+              ▪ Expect 2023 PC TAM at low end of 270-295 range
+            
+
+
+
+              ▪ Semi ex-memory to decline ~mid single digits
+            
+
+
+
+
+
+              ▪ 1H23 sever consumption TAM down year over year
+            
+
+
+
+              ▪ PC usage remains strong as economy reopens
+            
+
+
+
+
+
+              ▪ Inventory digestion; sell-in well below sell-through
+            
+
+
+
+              ▪ Server TAM expected to return to growth in 2H23
+            
+
+
+
+
+        4
+      
+
+
+
+
+
+
+
+                Process and Manufacturing
+              
+
+
+
+                CCG
+              
+
+
+
+                DCAI
+              
+
+
+
+                NEX
+              
+
+
+
+
+
+
+
+            5 nodes in 4 years: Intel 7 in HVM, Intel 4 ready for manufacturing, Intel 3 on track, Intel 20A, 18A: have taped out with silicon in the fab
+          
+
+
+
+
+
+
+                  Raptor Lake NB introduced
+                
+
+
+
+                  Sapphire Rapids launched
+                
+
+
+
+                  Record FY22 revenue
+                
+
+
+
+
+
+                  Meteor Lake in 2H23
+                
+
+
+
+                  Emerald Rapids in 2H23
+                
+
+
+
+                  Expecting share gains to
+                
+
+
+
+
+
+                  Lunar Lake in 2024
+                
+
+
+
+                  Granite and Sierra in 2024
+                
+
+
+
+                  continue in FY23
+                
+
+
+
+
+            AXG
+          
+
+
+
+
+                  Integrating into CCG and
+                
+
+
+
+                  New Intel 3 customer
+                
+
+
+
+                  Record FY22 revenue
+                
+
+
+
+
+
+                  DCAI to accelerate scale
+                
+
+
+
+                  Lifetime deal value >$4B
+                
+
+
+
+                  Continued path for growth
+                
+
+
+
+
+
+                  Flex series now shipping
+                
+
+
+
+                  Working to close Tower
+                
+
+
+
+                  SuperVision design win
+                
+
+
+
+
+
+
+
+          Success starts with our people and execution follows culture
+        
+
+          5
+        
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Intel Corporation published this content on 26 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 26 January 2023 21:12:33 UTC.
+      
+

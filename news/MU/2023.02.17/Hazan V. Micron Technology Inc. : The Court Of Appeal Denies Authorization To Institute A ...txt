@@ -1,0 +1,14 @@
+IntroductionOn January 27, 2023, in Hazan v. Micron Technology inc. (2023 QCCA 132), the Court of Appeal upheld a judgment by Justice Donald Bisson of the Superior Court of Québec denying authorization to institute a class action regarding an alleged international conspiracy in the production of dynamic random-access memory chips (DRAM). The Court of Appeal once again confirmed the judge's screening role and the application of the colour of right criterion in the specific context of a competition law class action.AnalysisThe Court of Appeal found that the trial judge had not erred in his assessment of the authorization criteria. It upheld the trial judgment and clarified the criteria for a supportable cause of action in competition law matters:Although the trial judge used terms such as "démontre" and "absence de preuve" and examined each allegation in the application for authorization, the Court of Appeal found that he had not engaged in a merits-based analysis. Exercising his discretion, the judge rightly determined that none of the evidence supported the applicant's general and imprecise allegations.The Court of Appeal also denied authorization to file additional evidence, namely an expert report filed before another court, since the applicant had previously failed to appeal judgments denying leave to produce said report. Either way, the Court of Appeal considers that this would not have changed its analysis given the lack of a reviewable error.CommentaryWe believe this decision will have a big impact on future applications for authorization to institute a class action, especially in competition law. This is the first decision since Infineon wholly denying authorization to institute a class action regarding an alleged conspiracy due to lack of sufficient evidence.It confirms that applicants may not make mere allegations unsupported by evidence and must make a prima facie showing of the alleged conspiracy. This decision may deter applicants from trying to institute competition law class actions in situations where public authorities failed to find a conspiracy justifying sanctions or found no grounds for investigation.BLG represented Samsung's entities in this case. About BLGThe content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.
+Ms Karine Chęnevert
+Borden Ladner Gervais LLP
+1000, De La Gauchetičre Street West
+Suite 900
+Montreal
+QC
+H3B 5H4
+CANADA
+Tel: 4163676000
+Fax: 4163676749
+E-mail: info@blg.com
+URL: www.blg.com
+© Mondaq Ltd, 2023 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com, source Business Briefing

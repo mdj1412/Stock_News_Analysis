@@ -1,0 +1,80 @@
+
+
+
+This article first appeared at World Economic Forum.
+
+
+
+
+        The world of work as we once knew it no longer exists. For years, work was a static concept and narrowly defined. That notion has given way to a far more dynamic and rapidly evolving model fueled by the rise in hybrid and remote work, emerging technologies and increasing economical and societal factors.
+      
+
+        At the center of this shift is today's workforce. Companies used to manage their talent with a focus on traditional degrees and linear career progression. But that approach no longer works, given the heightened focus on the employee experience combined with how fast the nature of jobs is evolving. In fact, Dell Technologies predicts that 85% of the jobs in 2030 haven't been invented yet.
+      
+
+
+
+        To navigate the speed and scale of this new reality and help prepare for the jobs of tomorrow, it's imperative for organizations to adopt a skills-based mindset driven by the power of artificial intelligence (AI) and machine learning (ML).
+      
+
+        Here's what today's leaders need to focus on as the changing world of work won't wait.
+      
+
+        Shift the Way You Think About Talent
+      
+
+        Skills-based organizations will lead the future of work. Shifting to a skills-based approach helps organizations hire and retain the right talent and enables them to upskill their existing talent to meet the needs of today's digital world. According to a recent study by Amazon and Workplace Intelligence, almost 80% of employees in the US today are concerned that they lack the skills needed for the jobs of tomorrow, while 58% of employees believe their skills have gone stale since the pandemic.
+      
+
+        Organizations must evolve how they think about the concept of work, moving away from the rigid idea that work is done through structured job roles and responsibilities, instead viewing work as a more fluid compilation of skills to be leveraged as the world around us changes. The resulting impact, as noted by Deloitte, is that skills-based organizations are more agile and more competitive, vital to succeeding in this new landscape.
+      
+
+        Lean In to Innovation
+      
+
+        Fundamental to delivering on this shift to a skills-based approach are technologies, such as AI and ML, which can understand key attributes to help drive automation and provide insights and predictions that help to identify and align skills with jobs, quickly turning employee data into a strategic advantage, while helping businesses adapt to change.
+      
+
+        Forward-looking companies recognize the benefits of these technologies in driving a skills-based workforce. Consulting firm, Booz Allen Hamilton, for example, shared its take on the power of AI to support this shift and its capacity to unlock more access to opportunities for internal candidates, uncover previously unseen skills matches and tap into a more diverse talent pool.
+      
+
+        At Workday, we developed Career Hub. This helps our employees share skills and interests and receive relevant connections, curated learning content and recommended jobs to help them on their career journeys. Using ML, Career Hub provides workers with suggestions to grow their skills and capabilities and encourages them to build a plan as they explore opportunities for continued career development. At a time when the employee experience is becoming a business imperative, offering employees an opportunity for internal mobility and advancement, while also listening to what employees have to say, is mission-critical to retaining talent and driving overall business success.
+      
+
+
+
+        Shifting to a skills-based approach helps organizations hire and retain the right talent and enables them to upskill their existing talent to meet the needs of today's digital world. 
+      
+
+
+
+        Support Smart Policy
+      
+
+        In a fragmented world, technology can be the great equalizer. But progress towards a skills-based workforce cannot be sustained without meaningful policies that embrace responsible approaches to AI and ML. Those policy discussions must include all stakeholders, including the companies developing these technologies, to ensure businesses are prepared for the road ahead.
+      
+
+        AI and ML technology can fundamentally improve the way we work and foster greater equality in accessing opportunity, but in the face of such a profound technological and societal change, it's vital that we commit to an ethical compass. At Workday, we follow four key principles that guide how we develop and utilize AI and ML technologies responsibly and work to address its broader societal impact. One of those principles is putting people first.
+      
+
+        Together, the public and private sectors can work to establish standards and policies that ensure new technologies, such as AI and ML, drive human progress, create job opportunities for our future workforce, and grow our economies. The time to go all in is now.
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Workday Inc. published this content on 20 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 20 January 2023 22:40:01 UTC.
+      
+

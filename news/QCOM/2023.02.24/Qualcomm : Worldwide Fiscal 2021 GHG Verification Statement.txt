@@ -1,0 +1,768 @@
+
+
+
+        Verification Statement
+      
+
+        This verification statement documents that LRQA, Inc.has conducted verification activities in conformance with ISO 14064-3 and The Climate Registry's (TCR) General Verification Protocol for the emissions report described below.
+      
+
+Member Name: Qualcomm, Inc. (Qualcomm)
+
+
+Reporting Year: October 1, 2020through September 30, 2021
+
+
+Reporting Boundary: Complete Self-Defined
+      
+
+        If self-defined specify boundary:
+
+
+        Consolidation Methodology:
+      
+
+        Equity Share and Control ( Financial and/or Operational)
+      
+
+        Control Only: ( Financial and/or Operational)
+      
+
+        Equity Share Only
+      
+
+        Verification Opinion:
+      
+
+        Conformance
+      
+
+        Unable to verify conformance; summarize reason (e.g., "due to data errors" or "due to insufficient supporting evidence"):
+      
+
+LRQAhas conducted a streamlinedverification of Qualcomm'semission report to a reasonablelevel of
+      
+
+        assurance. Based on LRQA'sverification activities and findings, Qualcomm'semissions report is prepared in all material respects in accordance with the reporting criteria identified below.
+      
+
+        GHG reporting criteria against which verification was conducted:
+      
+
+The Climate Registry's General Reporting Protocol Version 3.0,dated May 2019
+
+
+        The Climate Registry's GRP Updates and Clarifications document dated
+      
+
+        Others (specify):
+      
+
+        GHG verification protocols used to conduct the verification:
+      
+
+The Climate Registry's General Verification Protocol Version 2.1, dated June 2014
+
+
+        The Climate Registry's GVP Updates and Clarifications document dated October, 2019 Others (specify):
+      
+
+        Total Entity-Wide Emissions Verified (Control Criteria):
+      
+
+
+
+
+              TCR GVP v. 2.1 - Verification Statement Form
+            
+
+
+
+              Page 1 of 3
+            
+
+
+
+
+
+              Last modified: March 2020
+            
+
+
+
+
+
+
+
+
+
+Total Scope 1 Emissions: 106,659metric tons CO2e, consisting of metric tons of each GHG as follows:
+        
+
+
+70,546CO2 6.2CH4 6.6N2O 1,832HFCs (CO2e) 4,564PFCs (CO2e) 0.12NF3 1.1SF6
+
+
+
+Biogenic Direct CO2 Emissions (stationary and mobile combustion only): N/Ametric tons CO2
+
+
+Total Location-Based Scope 2 Emissions: 264,521metric tons CO2e, consisting of metric tons of each GHG as follows:
+263,757CO2 9.7CH4 1.9N2O
+        
+
+Biogenic Indirect Location-Based CO2 Emissions: N/Ametric tons CO2
+
+
+Total Market-Based Scope 2 Emissions: 171,932metric tons CO2e, consisting of metric tons of each GHG as follows:
+171,192CO2 9.3CH4 1.8N2O
+        
+
+Biogenic Indirect Market-Based CO2 Emissions: N/Ametric tons CO2
+
+
+
+        Total Entity-Wide Emissions Verified (Equity-Share Criteria):
+      
+
+
+Total Scope 1 Emissions: metric tons CO2e, consisting of metric tons of each GHG as follows:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              CO2
+
+
+
+
+
+
+
+
+              CH4
+
+
+
+
+
+
+              N2O
+            
+
+
+
+
+
+              HFCs (CO2e)
+
+
+
+
+
+
+              PFCs (CO2e)
+
+
+
+
+
+
+
+
+              NF3
+
+
+
+
+
+
+              SF6
+
+
+
+
+
+
+              -
+            
+
+
+
+              Biogenic Direct CO2 Emissions (stationary and mobile combustion only):
+            
+
+
+
+
+
+              metric tons CO2
+
+
+
+
+
+
+
+
+              -
+            
+
+
+
+              Total Location-Based Scope 2 Emissions:
+            
+
+
+
+
+
+
+
+
+
+              metric tons CO2e, consisting of metric tons of
+            
+
+
+
+
+
+
+
+
+
+each GHG as follows:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              CO2
+
+
+
+
+
+
+
+
+              CH4
+
+
+
+
+
+
+              N2O
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              -
+            
+
+
+
+              Biogenic Indirect Location-based CO2 Emissions:
+            
+
+
+
+
+
+
+
+
+
+              metric tons CO2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              -
+            
+
+
+
+              Total Market-Based Scope 2 Emissions:
+            
+
+
+
+
+
+              metric tons CO2e, consisting of metric tons of
+            
+
+
+
+
+
+
+
+
+
+each GHG as follows:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              CO2
+
+
+
+
+
+
+
+
+              CH4
+
+
+
+
+
+
+              N2O
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              -
+            
+
+
+
+              Biogenic Indirect Market-Based CO2 Emissions:
+            
+
+
+
+
+
+
+
+              metric tons CO2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Comments:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              TCR GVP v. 2.1 - Verification Statement Form
+            
+
+
+
+              Page 2 of 3
+            
+
+
+
+
+
+              Last modified: March 2020
+            
+
+
+
+
+
+
+
+
+        Attestation:
+      
+
+        6/28/2022
+      
+
+
+
+
+Derek Markolf, Lead Verifier
+            
+
+
+
+              Date
+            
+
+
+
+              Digital Signature Acknowledgement*
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+              6/29/2022
+            
+
+
+
+
+
+
+
+
+
+Heather Moore, Independent Peer Reviewer
+            
+
+
+
+              Date
+            
+
+
+
+              Digital Signature
+            
+
+
+
+
+
+              Acknowledgement*
+            
+
+
+
+
+
+
+
+
+        Authorization:
+      
+
+        I Gail Welchaccept the findings in this Verification Statement and authorize the submission of this verification statement to The Climate Registry on behalf of Qualcomm, Inc..
+      
+
+        6/30/2022
+      
+
+
+
+
+              Member Representative Signature
+            
+
+
+
+              Date
+            
+
+
+
+              Digital Signature Acknowledgement*
+            
+
+
+
+
+        *For digital signature: By checking the "Digital Signature Acknowledgement" box, I agree that this verification statement shall be deemed to be "in writing" and to have been "signed" for all purposes and that any electronic record will be deemed to be in "writing." I will not contest the legally binding nature, validity, or enforceability of this verification statement and any corresponding documents based on the fact that they were entered and executed electronically, and expressly waive any and all rights I may have to assert any such claim.
+      
+
+
+
+
+              TCR GVP v. 2.1 - Verification Statement Form
+            
+
+
+
+              Page 3 of 3
+            
+
+
+
+
+
+              Last modified: March 2020
+            
+
+
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Qualcomm Inc. published this content on 24 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 27 February 2023 17:29:25 UTC.
+      
+

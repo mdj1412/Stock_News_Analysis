@@ -1,0 +1,42 @@
+
+Block 1: Essential News
+
+Amazon accelerates into the cryptosphere
+
+Amazon is reportedly planning to launch a digital asset service, notably based on NFT. The project will mainly focus on blockchain-based video games and related NFT applications.
+
+Coinbase has been fined 3.3 million euro
+
+The Dutch Central Bank (DNB) imposed this fine for operating in non-compliance with local anti-money laundering and anti-terrorist financing law between November 2020 and August 2022. The DNB said Coinbase Europe Limited would have received a competitive advantage due to its late registration. Coinbase has until March 2 to contest the fine, and said it was based on the time it took to obtain registration.
+
+Porsche: A turn off for NFT collection
+
+Huge setback for Porsche in launching its NFT collection. The prestige car brand launched a collection of 7500 NFTs, but the success was very mixed with only 25% of the NFTs sold in 48 hours. The price was set at 0.911 ETH (about $1350) in reference to the brand's 911 model. Due to the dissatisfaction of the community, Porsche suspended the NFT creation process (Mint) and reduced the amount of NFTs in circulation. The failure is attributed to a too high price and a bad communication. The roadmap was not clear and potential investors did not know why they should buy this NFT and what the concrete use cases associated with it would be. It seems that Porsche went a little too fast in the Web3 adventure.
+
+
+Cryptocurrency adoption up 39% in 2022
+
+The number of cryptocurrency holders reached 425 million in 2022. A report from Crypto.com shows that despite challenging market conditions and an anxiety-inducing macroeconomic atmosphere, the crypto ecosystem continues to attract new users. In January 2022, there were 306 million cryptocurrency holders worldwide. In December, that number reached 425 million, a 39% increase. The end of the year showed a particularly sharp increase.
+.
+
+Number of cryptocurrency holders worldwide
+Crypto.com
+Block 2: Crypto Analysis of the Week
+Is Bitcoin, and more broadly the cryptocurrency market, benefiting from the so-called "January effect"? That unique month where returns are on average higher than others and small cap stocks often have an exceptionally strong month.
+We don't know exactly what causes the January effect. But we have some ideas. The end of December marks the end of the fiscal year and a key period for fund managers with their investors and for banks with their regulators. So there is a lot going on at the end of December, which could indirectly influence trading behavior in January.
+Probably one of the most important factors is the tax loss harvest. For individual investors, it may be worthwhile to sell losing securities before the end of the year and thereby realize a tax loss. So the theory suggests that yielding stocks with little momentum - or those that literally got hammered like 2022 - can have a good January as they rebound from a tax sale in December.
+And for bitcoin, the rebound at the beginning of the year is part of a broader trend in the financial markets where we've seen the riskiest, ultra-speculative stocks clearly rebound. Take meme stocks - shares of companies that have often become popular topics on social networks, and see their stock prices rise dramatically from time to time as a result of the crowd - which can be represented by the Roundhill MEME ETF, which includes stocks such as AMC, Robinhood and Gamestop, among others. It rose by 22% at the beginning of the year after being slaughtered in 2022, losing more than 60%, much like bitcoin. We can also look at Cathie Wood's Ark Invest Innovation fund, which is up 25% over the start of the year
+.
+
+Since the beginning of January, bitcoin seems to benefit from the renewed appetite for ultra-risk in traditional finance, as evidenced by the surge of these speculative stocks. More generally, this gives the impression that investors are hoping that 2023 will be more like 2021 than 2022. It makes sense that the January effect will be more pronounced this time around, given how brutal 2022 will be for almost every type of investment. Related to bitcoin and cryptocurrencies, it is prudent to wait a little longer before selling the bear skin permanently.
+Block 3: Tops & Flops
+Cryptocurrencies in terms of capitalization (Click to enlarge)
+
+
+MarketScreener
+
+Block 4: Readings of the week
+ChatGPT is coming to the classrooms. Don't Panic (Wired)
+Most Crypto Criminal Funnels Through Just 5 Exchanges (Wired)
+People Don't Read Books (The Atlantic)
+How could the Crypto Deal business pick up soon? The latest woes of Gemini and DCG (The Information)

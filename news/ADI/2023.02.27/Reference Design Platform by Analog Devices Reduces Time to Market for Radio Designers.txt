@@ -1,0 +1,21 @@
+
+Analog Devices, Inc. (Nasdaq: ADI) today announced it has launched a fully integrated open radio unit (O-RU) reference design platform that enables radio designers to reduce risk and time to market. The platform is a complete solution from the optical fronthaul to RF and allows for hardware and software customization for macro and small cell radio units (RUs). The platform leverages industry-leading technologies that drive advanced 4G and 5G RU requirements and includes support for all sub 6GHz band and power variants, including multi-band applications.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230227005005/en/Reference design platform by Analog Devices reduces time to market for radio designers. (Photo: Business Wire)
+With the timeline for O-RUs becoming more stringent, and operator requirements more demanding and complex, RU developer resources are stretched thin. By leveraging this complete RU solution with comprehensive collateral resources, designers can focus on innovation, enabling their companies to compete for more RU design opportunities.
+
+The ADRV904x-RD O-RU reference design platform includes ADI’s fifth generation 8T8R RadioVerse® SoC with advanced digital front end including field proven digital pre-distortion (DPD). ADI’s fully featured, commercial O-RAN 7.2a IP Stack is hosted on Intel’s Agilex 7 F-series FPGA, delivering superior performance/watt. The platform has been tested with Radisys® Layer 2/3 software running on Intel FlexRan server hardware for 8T8R macro deployment scenarios.
+
+“The design resources required to complete advanced RU designs are significant. ADI, together with Intel and Radisys, is enabling a more robust O-RAN ecosystem by offering a complete RU design platform with confirmed interoperability. We are pleased to work together with Intel and Radisys to accelerate Open RAN’s potential,” said Joe Barry, Vice President of Marketing, Systems & Technology in the Communication and Cloud Business Unit at ADI.
+
+“In the radio market, customers need the ability to build cutting edge systems that fit the dynamic standards we see today. ADI’s ADRV904x-RD O-RU complements our high performance Agilex 7 F-series FPGA in achieving this goal. Our broad silicon portfolio, in combination with ADI’s fifth generation 8T8R RadioVerse SoC with DFE, enables customers to accommodate a broad set of applications with differentiating feature sets,” said Mike Fitton, VP and GM of Intel’s Network Business Division.
+
+“Radisys is pleased to continue the collaboration with Intel and ADI to provide our award winning, Release 17 compliant, Connect RAN 5G software. Ease of integration and performance benchmarking with this advanced open radio design is an important step towards unlocking the full potential of Open RAN,” said Munish Chhabra, SVP and General Manager, Software and Services at Radisys.
+
+Visit ADI's O-RU Radio Platform web page for details. The interoperability proven platform with fully functional end to end calls is on display at Mobile World Congress (MWC) within ADI’s booth (Hall 2, 2B18). For more information, visit ADI's MWC 2023 web page.
+
+About Analog Devices
+
+Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $12 billion in FY22 and approximately 25,000 people globally working alongside 125,000 global customers, ADI ensures today’s innovators stay Ahead of What’s Possible. Learn more at www.analog.com and on LinkedIn and Twitter.
+
+All trademarks and registered trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230227005005/en/

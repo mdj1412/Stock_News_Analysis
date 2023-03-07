@@ -1,0 +1,76 @@
+
+
+
+        As of 2022, the average business deploys over 110 SaaS applications throughout its network, with that number being significantly higher for enterprise companies. The daily life of IT professionals often consists of an endless array of open tabs sprawling across various screens and interfaces to monitor and maintain all those applications.
+      
+
+        Navigating through dozens of these different interfaces each day can be mentally draining, and while it may not be in the Oxford Dictionary yet, app fatigue is a very real thing. Complicated dashboards and over-the-top user interfaces are likely the cause of this phenomenon and the exact opposite of what to expect with Cisco SD-WAN.
+      
+
+        Simplicity is the North Star of Cisco SD-WAN and while complexity creeps into many aspects of both UI and network management - it gets stopped at the door with the Cisco vManage dashboard. Over the last year or so, we've had a concentrated focus on enhancing the interface to simplify processes for IT personnel. In our latest release, we have rolled out a variety of UX and UI enhancements such as template-based automation that enables network operators and IT personnel to centrally automate the configuration, management, and monitoring of the entire SD-WAN fabric - all in a highly visualized and simplified manner. By eliminating the complexity of an often-complicated system, Cisco  vManage provides an easy-to-use dashboard that is backed by some serious technical excellence.
+      
+
+Simplified Hybrid Work Management
+
+
+        Managing a network with scattered employees has proved to be a daunting task over the last few years. Top that with the increasing number of apps and devices the average employee uses, and you are left with a slippery slope when it comes to a hybrid workforce. Cisco recognized this problem and now offers the integration of Cisco Catalyst Wireless Gateway (CG113) with Cisco SD-WAN Remote Access (SD-WAN RA) which extends all the benefits of Cisco SD-WAN to your remote workers. IT managers can also now leverage vManage to automate the management of SD-WAN RA.
+      
+
+Performance for the Most Demanding Situations
+
+
+        Aside from the software enhancements listed above, Cisco is proud to announce a new model in the Catalyst 8500 Series. The Catalyst 8500-20X6C complements our existing edge aggregation platforms with up to 3x greater performance, the highest-speed interfaces in its class, and increased hardware-optimized network services - all driven by Cisco's very own customized QFP 3.0 ASICs. This high-end platform is perfect for large core and campus locations, including colocation facilities that require aggregation points to act as a central connection hub for distributed sites where remote workers reside.
+      
+
+        The speed improvements do not end there, Cisco is also announcing the much-anticipated UCS E-Series M6 compute module which will be orderable in the first half of the calendar year 2023. This module extends the Cisco UCS standalone M6 servers to edge environments with twice the processing horsepower and 10 times greater I/O capacity compared to previous generations. IT teams can seamlessly deploy process-intensive business applications and network services directly into the Catalyst 8300 Series Edge routing platform for remote/branch locations where space and technical expertise may be limited.
+      
+
+        Along with the new features from our Catalyst 8500-20X6C router, we have also released enhancements to increase throughput for on-premises Catalyst 8000V Edge Software. The Catalyst 8000V's new 16 vCPU on-premises image allows you to connect your branch to the cloud using SD-WAN at higher speeds, so you can spend less time deploying multiple routing instances.
+      
+
+Cisco+ Secure Connect with Viptela
+
+
+        To simplify network security and policy management, Cisco's unified SASE solution, Cisco+ Secure Connect, now supports integration with Cisco SD-WAN fabrics using Viptela technology. Cisco SD-WAN customers now have access to fast, secure private applications and internet access, enabling them to deliver a secure experience to their employees anywhere.
+      
+
+        This unified solution converges networking and security to provide customers with a single platform and a streamlined operational model that simplifies and scales the visibility, management, and control over a hybrid work environment. This converged operating model also provides IT teams with enhanced visibility and control over the network, making the experience easy for them to manage.
+      
+
+Innovations Across the Board
+
+
+        Simplicity is truly the focus of all our new product introductions. Between all the fancy hardware and sophisticated subscription-based software on the market, we understand the importance of creating powerful networking products that deliver cutting-edge performance, while simplifying your daily life and this latest release is the epitome of that. Our mission is to shape the future of the Internet by creating unprecedented value and opportunity - and to do so, we continue to respond to what our customers need the most.
+      
+
+Additional Resources
+
+
+View Cisco SD-WAN Routers
+
+
+Read more Cisco SD-WAN blogs
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 13 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 13 February 2023 17:07:00 UTC.
+      
+

@@ -1,0 +1,99 @@
+
+
+feature / log management / cloud siem
+
+
+Editor's note: This post was updated on January 5, 2023, to reflect Executive Order 14028, Improving the Nation's Cybersecurity, which requires Federal agencies to retain logs for 12 months in active storage and 18 months in cold storage.
+
+
+      To have full visibility into modern cloud-based and hybrid environments, organizations need to collect an ever-growing avalanche of log data from a range of highly complex data sources. Indexing logs is key for real-time monitoring and troubleshooting, but it can quickly become expensive at high volumes, which often makes it necessary to choose which logs to index and which to archive. But there are many situations in which organizations require complete access to long-term historical logs, while keeping costs manageable.
+    
+
+      For example, security investigations and compliance audits may require querying logs from the past year or more-for some sectors, these requirements are now a federal mandate. In addition, organizations may want to analyze trends across high-cardinality data sets over long time periods. Additionally, DevOps teams creating postmortems or troubleshooting support issues may need to look back at log data from many months prior to the incident itself. But current logging solutions don't offer a cost-effective way to store and query your complete log data over a long time window, forcing customers to make tradeoffs and lose critical visibility.
+    
+
+      That's why Datadog developed Online Archives, an always-on log warehousing solution that allows you to retain and search all of your log data for 15 months or more for the same amount it costs to index data for one month. Datadog's Online Archives is an alternative to indexing, meaning teams will be able to continue using indexes for real-time log streaming and alerting, and use Online Archives for situations requiring historical investigation and analysis.
+    
+
+      In this post, we'll look at how Datadog's Online Archives can help users:
+    
+
+
+Perform historical analysis and investigations with ease
+
+
+Effortlessly configure log archives and explore the data
+
+
+Adhere to federal regulations
+
+
+
+Perform historical analysis and investigations with ease
+
+
+      Having the ability to store, search and analyze huge amounts of historical log data is vital in a number of different situations that don't necessarily need immediate query responses. These include things like running security investigations across large environments, performing audits to adhere to strict compliance frameworks, meeting regulatory requirements, and running long-term analytics on high-cardinality datasets.
+    
+
+      For example, when you experience a security breach or receive a report of an insider threat, your security team will need to comb through weeks, if not months, of log events to identify malicious activity. An investigation of all the activity from a particular, suspicious IP address may require scanning petabytes of data, assessing the timeline of activity from that IP, and generating reports for other teams (e.g., legal and executive).
+    
+
+      Similarly, businesses and agencies operating in regulated industries-such as financial services, public sector and government, insurance, healthcare, and transportation-have stringent requirements around servicing audit requests. Keeping vast amounts of log data in a queryable state for these requests gets expensive, and any follow-up requests will require you to constantly provide up-to-date reports. Now, these teams can store their logs in Datadog's Online Archives to save money, while still adhering to stringent regulations.
+    
+
+      E-commerce providers, digital content creators, sports and entertainment companies, and businesses using IoT devices frequently need to perform long-term analytics on high cardinality datasets, such as users, IP addresses, device IDs, or items purchased, among others. As an example, a gaming company might want to compare the long-term trends in signups across different platforms for millions of users. Creating custom metrics to track signups requires foresight and will be very expensive. Instead, you can now use Online Archives to run data analysis queries on large, high-cardinality datasets for a fraction of the cost.
+    
+
+      Online Archives addresses all these use cases by keeping logs queryable for 15 months or more, so teams don't spend time spinning up new solutions, moving data between tiers, or worrying about query capacity and associated costs.
+    
+
+Effortless configuration and data exploration
+
+
+      Datadog's Online Archives can warehouse logs regardless of whether they are indexed or not. For indexed logs, you can simply attach a new Online Archive to an existing log index.
+    
+
+      Online Archives are a superset of all your logs routed to an index. Even when you have set exclusion filters on your indexes, logs filtered out will still be available in Online Archives.
+    
+
+      You can query and analyze your logs stored in Online Archives directly from the Log Explorer the same way as you would with other indexed logs.
+    
+
+Use Online Archives to adhere to federal regulations
+
+
+      Federal compliance is also a key driver of log retention needs. An August 2021, Executive Order from The White House requires critical infrastructure owners (e.g., teams in financial services, IT, healthcare, and other key sectors) to retain logs for 12 months in active storage and 18 months in cold storage. Per Executive Order 14028, critical infrastructure owners must report any cyber incidents or ransomware payments. While organizations may be required to report these incidents very quickly-within three days of detection for the most severe breaches-they may need long-term log storage so they can submit evidence for potential audits or inquiries from regulators.
+    
+
+      Online Archives' 15-month log retention period exceeds EO 14028's requirement of 12 months of active storage, and logs in cold storage can always be rehydrated, meeting the 18-month cold storage requirement. Additionally, government agencies, educational institutions, and other public-sector organizations that use AWS GovCloud to adhere to strict security and compliance standards can easily stream GovCloud logs into Datadog by installing the AWS 1-click integration. These GovCloud logs will automatically be available for rehydration and archiving in Datadog.
+    
+
+Start using Online Archives
+
+
+      Datadog's Online Archives offers long-term storage of your log data in a queryable state, enabling you to perform historical log analysis and adhere to compliance regulations without incurring heavy costs.
+    
+
+      Online Archives is available in all Datadog regions including AWS GovCloud; simply install the 1-click AWS integration. Otherwise, you can reach out to your representative at Datadog and request access here.
+    
+
+      If you're new to Datadog and want to monitor your logs, metrics, distributed request traces, and more in one fully unified platform, you can start a 14-day free trial.
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Datadog Inc. published this content on 05 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 05 January 2023 19:07:09 UTC.
+      
+

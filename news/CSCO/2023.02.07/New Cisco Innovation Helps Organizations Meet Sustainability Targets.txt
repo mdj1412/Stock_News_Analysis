@@ -1,0 +1,35 @@
+
+
+Industry-first Carbon Emissions Insights in Webex empowers customers to track and reduce their carbon footprint 
+NEWS SUMMARY:
+Cisco announces Carbon Emissions Insights in Webex Control Hub to help organizations meet their sustainability goalsIt is the first of its kind to provide scope 2 emissions reporting and recommendations for optimizing energy consumption and usage of Cisco Webex devicesAMSTERDAM, Feb. 7, 2023 /PRNewswire/ -- CISCO LIVE -- Cisco (NASDAQ: CSCO) today announces Carbon Emissions Insights in Webex Control Hub that delivers actionable insights to help organizations to meet their sustainability goals. The first of its kind in the collaboration industry, the tool provides scope 2 emissions reporting and recommendations for optimizing energy consumption and usage of Webex devices. This new capability is part of Cisco's larger sustainability commitment, including its goal of reaching net zero greenhouse gas emissions by 2040 and continuing to innovate its products with sustainability as a priority.
+
+
+
+
+
+
+
+According to Gartner, CEOs placed environmental sustainability in their top 10 strategic business priorities for the first time this past year. Of the 80% of CEOs who intend to invest in new or improved products in 2022 and 2023, environmental sustainability was cited as the third largest driver, just behind functional performance and general quality. CEOs also recognize sustainability as a competitive differentiator – in fact, it is on the same level as brand trust among respondents.
+"At Cisco, we're laser-focused on helping to create a more sustainable and positive impact across the globe," says Jeetu Patel, EVP and GM, Security and Collaboration, Cisco. "One of the critical reasons we design products and solutions with circular design principles in mind is to help our customers meet their environment, sustainability and governance goals, and we're the only company to offer a feature of this kind."
+Carbon Emissions Insights in the Webex Control Hub allow companies to:
+Estimate energy usage and related carbon dioxide equivalent (CO2e) emissions from Cisco collaboration devices. The calculations are based on formulas from recognized governmental authorities such as the US Environmental Protection AgencySee emissions trends over time to track progress towards sustainability goalsGuide IT administrators to enable features like Webex's Office Hours to reduce their energy usageCarbon Emissions Insights will be available in Webex Control Hub and enabled by default for IT administrators. The estimated data that it generates can be exported through an API for integration into customer sustainability reporting tools. Carbon Emissions Insights will be available starting this summer.
+Cisco's goal is that 100% of new Cisco products and packaging incorporate Circular Design Principles by 2025, with Cisco collaboration devices playing a large part in this. One example of our commitment to circular design is the Cisco Room Bar, which was released last year with 100% recyclable packaging material to eliminate up to 165,000 pounds of packaging material per year. In addition, starting 2025, Cisco IP Phone 8800 series will include models made with 100 percent Post-Consumer Recycled (PCR) resin, which will reduce virgin plastic use by more than 3 million pounds per year.
+Cisco encourages customers, partners and employees to participate in its Takeback and Reuse Program where 99.9% of Cisco's end-of-use hardware that is returned is reused or recycled.
+For more information, visit www.webex.com and read Cisco's latest Purpose Report.
+About Cisco 
+Cisco (NASDAQ: CSCO) is the worldwide leader in technology that powers the Internet. Cisco inspires new possibilities by reimagining your applications, securing your data, transforming your infrastructure, and empowering your teams for a global and inclusive future. Discover more on The Newsroom and follow us on Twitter at @Cisco.
+Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries. A listing of Cisco's trademarks can be found at www.cisco.com/go/trademarks. Third-party trademarks mentioned are the property of their respective owners. The use of the word partner does not imply a partnership relationship between Cisco and any other company. 
+About Webex by Cisco  
+Webex is a leading provider of cloud-based collaboration solutions which includes video meetings, calling, messaging, events, polling, asynchronous video and customer experience solutions like contact center and purpose-built collaboration devices. Webex's focus on delivering inclusive collaboration experiences fuels our innovation, which leverages AI and Machine Learning, to remove the barriers of geography, language, personality and familiarity with technology. Its solutions are underpinned with security and privacy by design. Webex works with the world's leading business and productivity apps – delivered through a single application and interface. Learn more at webex.com.
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/new-cisco-innovation-helps-organizations-meet-sustainability-targets-301740216.html
+SOURCE  Cisco Systems, Inc.
+
+

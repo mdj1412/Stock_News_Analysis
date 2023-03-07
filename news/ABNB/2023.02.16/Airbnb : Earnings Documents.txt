@@ -1,0 +1,653 @@
+
+
+
+        Corrected Transcript
+      
+
+        14-Feb-2023
+      
+
+        Airbnb, Inc. (ABNB)
+
+
+        Q4 2022 Earnings Call
+      
+
+
+
+
+
+
+              Total Pages: 24
+            
+
+
+
+
+
+              1-877-FACTSET www.callstreet.com
+            
+
+
+
+              Copyright © 2001-2023 FactSet CallStreet, LLC
+            
+
+
+
+
+
+
+
+
+
+              Airbnb, Inc. (ABNB)
+
+
+
+
+              Corrected Transcript
+            
+
+
+
+
+
+              Q4 2022 Earnings Call
+            
+
+
+
+              14-Feb-2023
+            
+
+
+
+
+
+
+
+
+
+
+        CORPORATE PARTICIPANTS
+      
+
+
+
+
+              Ellie Mertz
+            
+
+
+
+              David E. Stephenson
+            
+
+
+
+
+
+              Vice President-Finance, Airbnb, Inc.
+            
+
+
+
+              Chief Financial Officer & Head-Employee Experience, Airbnb, Inc.
+            
+
+
+
+
+
+              Brian Chesky
+            
+
+
+
+
+
+
+
+              Chairman, Chief Executive Officer & Co-Founder, Airbnb, Inc.
+            
+
+
+
+
+
+
+        .....................................................................................................................................................................................................................................................................
+      
+
+        OTHER PARTICIPANTS
+      
+
+
+
+
+              Jed Kelly
+            
+
+
+
+              Chris Kuntarich
+            
+
+
+
+
+
+              Analyst, Oppenheimer & Co., Inc.
+            
+
+
+
+              Analyst, UBS Securities LLC
+            
+
+
+
+
+
+              Richard J. Clarke
+            
+
+
+
+              Kevin Kopelman
+            
+
+
+
+
+
+              Analyst, Bernstein Autonomous LLP
+            
+
+
+
+              Analyst, Cowen and Company
+            
+
+
+
+
+
+              Ronald Josey
+            
+
+
+
+              Stephen Ju
+            
+
+
+
+
+
+              Analyst, Citigroup Global Markets, Inc.
+            
+
+
+
+              Analyst, Credit Suisse Securities (USA) LLC
+            
+
+
+
+
+
+              Mark Mahaney
+            
+
+
+
+              Doug Anmuth
+            
+
+
+
+
+
+              Analyst, Evercore ISI
+            
+
+
+
+              Analyst, JPMorgan Securities LLC
+            
+
+
+
+
+
+              Brian Nowak
+            
+
+
+
+              Nicholas Jones
+            
+
+
+
+
+
+              Analyst, Morgan Stanley & Co. LLC
+            
+
+
+
+              Analyst, JMP Securities LLC
+            
+
+
+
+
+
+              Lee Horowitz
+            
+
+
+
+              Bernie McTernan
+            
+
+
+
+
+
+              Analyst, Deutsche Bank Securities, Inc.
+            
+
+
+
+              Analyst, Needham & Co. LLC
+            
+
+
+
+
+
+              John Colantuoni
+            
+
+
+
+              Thomas White
+            
+
+
+
+
+
+              Analyst, Jefferies LLC
+            
+
+
+
+              Analyst, D.A. Davidson & Co.
+            
+
+
+
+
+
+              Mario Lu
+            
+
+
+
+              Deepak Mathivanan
+            
+
+
+
+
+
+              Analyst, Barclays Capital, Inc.
+            
+
+
+
+              Analyst, Wolfe Research LLC
+            
+
+
+
+
+
+              Justin Post
+            
+
+
+
+
+
+
+
+              Analyst, Bank of America/Merrill Lynch
+            
+
+
+
+
+
+
+
+
+
+
+
+              2
+            
+
+
+
+
+
+              1-877-FACTSET www.callstreet.com
+            
+
+
+
+              Copyright © 2001-2023 FactSet CallStreet, LLC
+            
+
+
+
+
+
+
+
+
+
+              Airbnb, Inc. (ABNB)
+
+
+
+
+              Corrected Transcript
+            
+
+
+
+
+
+              Q4 2022 Earnings Call
+            
+
+
+
+              14-Feb-2023
+            
+
+
+
+
+
+
+
+
+
+
+        MANAGEMENT DISCUSSION SECTION
+      
+
+Operator: Good afternoon, and thank you for joining Airbnb's Earnings Conference Call for the Fourth Quarter of 2022. As a reminder, this conference call is being recorded, and will be available for replay from the Investor Relations section of Airbnb's website following this call.
+      
+
+        I will now hand the call over to Ellie Mertz, VP of Finance. Please go ahead.
+      
+
+        .....................................................................................................................................................................................................................................................................
+      
+
+        Ellie Mertz
+      
+
+        Vice President-Finance, Airbnb, Inc.
+      
+
+        Thank you. Good afternoon, and welcome to Airbnb's fourth quarter of 2022 earnings call. Thank you for joining us today. On the call today, we have Airbnb's Co-Founder and CEO, Brian Chesky; and our Chief Financial Officer, Dave Stephenson.
+      
+
+        Earlier today, we issued a shareholder letter with our financial results and commentary for our fourth quarter of 2022. These items were also posted on the Investor Relations section of Airbnb's website. During the call, we'll make brief opening remarks and then spend the remainder of time on Q&A.
+      
+
+        Before I turn it over to Brian, I would like to remind everyone that we will be making forward-looking statements on this call that involve a number of risks and uncertainties. Actual results may differ materially from those expressed or implied in the forward-looking statements due to a variety of factors. These factors are described under forward-looking statements in our shareholder letter and in our most recent filings with the Securities and Exchange Commission.
+      
+
+        We urge you to consider these factors and remind you that we undertake no obligation to update the information contained on this call to reflect subsequent events or circumstances. You should be aware that these statements should be considered estimates only and are not a guarantee of future performance.
+      
+
+        Also during this call, we will discuss some non-GAAP financial measures. We provided reconciliations to the most directly comparable GAAP financial measures in the shareholder letter posted to our IR website. These non- GAAP measures are not intended to be a substitute for our GAAP results.
+      
+
+        And with that, I will pass the call to Brian.
+      
+
+        .....................................................................................................................................................................................................................................................................
+      
+
+        Brian Chesky
+      
+
+        Chairman, Chief Executive Officer & Co-Founder, Airbnb, Inc.
+      
+
+        All right. Well, thank you very much, Elie, and good afternoon, everyone. Thanks for joining. Before I share our results, I want to tell a quick personal story. As you may have seen, I've started hosting again. Last November, I listed my guest room on Airbnb. My listing is called Beyond the Airbed. And the room guest's stay in is nostalgically themed around the early years of Airbnb. There's memorabilia in the walls.
+      
+
+        From the receipt for the original airbed to old photos of me [ph] heckling (00:02:34) boxes of Obama O's and Cap'n McCain's breakfast cereal. When guests arrive, I had welcome basket waiting for them. And the first night we make dinner together, followed by desert. We bake Chesky's Chips, chocolate chip cookies from my cherished family recipe, that I got off Google.
+      
+
+
+
+
+
+
+              3
+            
+
+
+
+
+
+              1-877-FACTSET www.callstreet.com
+            
+
+
+
+              Copyright © 2001-2023 FactSet CallStreet, LLC
+            
+
+
+
+
+
+
+
+
+
+              Airbnb, Inc. (ABNB)
+
+
+
+
+              Corrected Transcript
+            
+
+
+
+
+
+              Q4 2022 Earnings Call
+            
+
+
+
+              14-Feb-2023
+            
+
+
+
+
+
+
+
+
+
+
+        The next day, we tour the Airbnb office with my golden retriever, Sophie Supernova, and I tell the story of building Airbnb. Now why am I doing this? Well, because I love hosting. Joe and I were the first host on Airbnb 15 years ago. And having guests staying at your home with you is the original idea behind Airbnb. It's been an amazing way to connect with people. But I also believe that companies that make the best products make products for themselves.
+      
+
+        And Airbnb will only be as successful as our host. And the best way to understand our host is to be one. Since I've resumed hosting, I've got new first-hand insights that have informed some of the new products we'll be releasing, including some exciting updates this May as part of our 2023 summer release.
+      
+
+        Now before we get into our quarterly results, I want to recap the full year of 2022. While we're three years out from the start of the pandemic, we are still living with its impact. And we've also seen high inflation, recessionary fears and the war in Ukraine, all of which we're still dealing with in 2023. And yes, through all this, people continue to travel, and 2022 was a record year for Airbnb.
+      
+
+        Revenue of $8.4 billion grew 40% year-over-year, and when you exclude foreign exchange, our revenue increased by 46% year-over-year. Net income was $1.9 billion, which marks 2022 as our first profitable year - full year on a GAAP basis.
+      
+
+        And finally, free cash flow was $3.4 billion. And this $3.4 billion of free cash flow represented a free cash flow margin of over 40%. And because of our strong balance sheet, we are able to begin buying back stock last year, and we repurchased $1.5 billion in shares in just the past five months.
+      
+
+        Now during the height of the pandemic, we made some very difficult choices to reduce our spending, making us a leaner and more focused company, and we've kept this discipline ever since. And over each of the past two years, we've only modestly increased our head count. In fact, compared to 2019, our head count is actually down 5%, while our revenue is up 75%. And every single quarter in 2022 outperformed past comparable periods.
+      
+
+        In Q4, net income was $319 million. Now this is $264 million higher than a year ago. Adjusted EBITDA was $506 million, which is 52% higher than Q4 of 2021. And we generated $455 million of free cash flow, and this is 20% higher than Q4 2021. Now during the quarter, we saw a number of positive business trends.
+      
+
+        First, guest demand in Airbnb remained strong. Nights and experiences booked increased 20% in Q4. We had our highest number of active bookers ever in Q4, demonstrating guest excitement to travel on Airbnb despite evolving macroeconomic uncertainties. And during the quarter, we also continued to see guest booking trips further advance, supporting a strong backlog for Q1.
+      
+
+        Second, guests are increasingly returning to cities and crossing borders. And this is the bread-and-butter of Airbnb before the pandemic. Now, both segments continued to accelerate, while non-urban and domestic travel remained strong, cross-border gross nights book increased 49% compared to last year. High-density urban nights grew 22%. And globally, we saw cross-border travel to all regions increase, despite continued foreign currency volatility.
+      
+
+        Third, the guests continue to book longer stays on Airbnb. During Q4, long-term stays remained stable from a year ago at 21% of total gross nights booked on Airbnb. And finally, we saw tremendous growth in our supply on Airbnb. We ended 2022 with 6.6 million active listings. Now excluding all the Mainland China listings we removed
+      
+
+
+
+
+
+
+              4
+            
+
+
+
+
+
+              1-877-FACTSET www.callstreet.com
+            
+
+
+
+              Copyright © 2001-2023 FactSet CallStreet, LLC
+            
+
+
+
+
+
+
+
+
+
+              Airbnb, Inc. (ABNB)
+
+
+
+
+              Corrected Transcript
+            
+
+
+
+
+
+              Q4 2022 Earnings Call
+            
+
+
+
+              14-Feb-2023
+            
+
+
+
+
+
+
+
+
+
+
+        in July, we grew supply by 900,000 listings, or 16% compared to a year ago, representing an acceleration in growth in listings relative to Q3.
+      
+
+        Now why are listings accelerating in growth? We believe there's probably two factors that drove this growth. First, demand drives supply. Hosts are attracted to supplemental income they can earn on Airbnb, which is often critical during tough times. Second, our product improvements are working. Over the past two years, we've made it more attractive and easier to become a host. Just this past November, we introduced Airbnb Setup, where prospective hosts can connect with Superhosts for free one-to-one guidance all the way through their first reservation. The number of new active hosts recruited with the help of our Superhosts increased by more than 20% compared to prelaunch. But we are not stopping there.
+      
+
+        In 2023, we're focused on three strategic priorities. First, we want to make hosting mainstream. If you're listening to this call, you've likely traveled an Airbnb or you know someone who has. We want hosting on Airbnb to be just as popular, and to achieve this, we'll continue to raise awareness around hosting, make it easier to get started, and provide even better tools for host.
+      
+
+        Second, we are perfecting our core service. We want people to love our service, and that means obsessing over every single detail. And we've listened to our hosts and guests, and based on their feedback, we're making a large number of upgrades to our service this year, including improving customer service, making it easier to find the right home, and delivering greater value and much, much more. And you'll see more of this in the forthcoming
+      
+
+
+in the coming months, especially our summer release.
+
+
+
+        And finally, third, we're expanding beyond the core. We have some pretty big ideas for where to take Airbnb next. And this year, we're going to build the foundation for future products and services that will provide incremental growth for many years to come.
+      
+
+        So with that, Dave and I look forward to answering your questions.
+      
+
+
+
+
+
+
+              5
+            
+
+
+
+
+
+              1-877-FACTSET www.callstreet.com
+            
+
+
+
+              Copyright © 2001-2023 FactSet CallStreet, LLC
+            
+
+
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Airbnb Inc. published this content on 16 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 16 February 2023 16:38:07 UTC.
+      
+

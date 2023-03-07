@@ -1,0 +1,103 @@
+
+
+      The do-it-yourself climate modeling movement is here.
+    
+
+      Researchers from Northwestern University and Argonne National Laboratory have been launching NVIDIA Jetson-driven edge computing Waggle devices across the globe to collect hyper-local climate information. Waggle is an open source sensor platform for edge computing developed by Argonne.
+    
+
+      Working with this, scientists share open-source AI code designed for the edge at an app store within the Sage web portal, funded by the National Science Foundation (NSF).
+    
+
+      The pioneering work is supporting environmental studies around the world. As a result, more and more researchers and scientists are jumping in to study climate issues with edge computing and sensors.
+    
+
+      Waggle's installed base studies everything from micro-local Chicago weather to help understand urban heat islands and their impact on residents, to climate effects on wild rice on the Ojibwe tribe's lands in Wisconsin.
+    
+
+      More recently, the University of Oregon's Hazards Lab began using edge computing with Waggle. This work aims to help understand and identify wildfires as part of the ALERTWildfire system that provides local residents, firefighters and municipalities live data streams from smart cameras.
+    
+
+      The efforts, on several continents, underscore the accessibility of edge computing paired with a digital infrastructure for delivering open AI models for use in these climate-related applications.
+    
+
+      "Many climate models focus on large geographic scales - and therefore the impact can be difficult to understand for specific communities -  but the Department of Energy wants to understand how our changing climate will impact humans, especially in an urban environment," said Pete Beckman, an Argonne distinguished fellow and co-director of the Northwestern University Argonne Institute of Science and Engineering.
+    
+
+      NVIDIA announced at GTC 2021 the Earth-2 AI supercomputer for climate research worldwide.
+    
+
+Waggle Nodes Plus Sage AI
+
+
+      It all began in 2015 with an NSF project called the "Array of Things," or AoT, led by Charlie Catlett, which introduced advanced sensors and edge computing for studying urban environments.
+    
+
+      The AoT was built using the Waggle edge computing platform that had been recently developed internally at Argonne National Laboratory. Waggle brings together powerful edge AI computing like NVIDIA Jetson with industry-standard software toolkits like Kubernetes, PyTorch and TensorFlow to provide a programmable intelligent platform that can support cameras, microphones, software-defined radios, lidar and infrared imagers. To support the rapidly growing AI and sensor landscape, the NVIDIA platform was the obvious choice, offering the largest ecosystem, the most flexibility and industry-leading performance.
+    
+
+      The energy efficiency of Jetson is key, as Waggle nodes are often mounted outside of buildings or on light posts.
+    
+
+      The Sage project began with a grant from the NSF in 2022 to build a national-scale, software-defined sensor network to support AI at the edge.
+    
+
+      Sage nodes are open resources for scientific exploration. Scientists can develop new AI models, upload them to the Sage app store and then deploy them to mountaintops in Oregon or prairies in Illinois.
+    
+
+Monitoring Chicago for Heat Waves
+
+
+      The same core technology is being deployed in Chicago, which uses the Waggle-Sage platform.
+    
+
+      The U.S. Department of Energy wanted to understand what was happening with climate change in the urban environment. It put out a call for proposals for an urban integrated field lab. The effort pairs the supercomputing of the Waggle nodes with the open-source Sage models for hyper-local data analysis.
+    
+
+      Argonne and partners are establishing an urban integrated field lab, dubbed Community Research on Climate and Urban Science (CROCUS), to focus on the Chicago region. The plans are for it to take community input to identify questions and specific areas of urban climate change to study, ensuring that research results directly benefit local residents.
+    
+
+      "How do we build AI systems that are hyperlocal, that can give us real insight into an urban environment?" said Beckman.
+    
+
+Modeling Wild Rice Migration
+
+
+      In Wisconsin, researchers deployed a node with the Ojibwe tribe, in efforts to help understand wild rice, a food source with important cultural significance.
+    
+
+      "Wild rice is a species that is shifting because of climate change, so they want to understand what is happening," said Beckman.
+    
+
+Identifying Birds by Sounds
+
+
+      What else do you get when you combine open AI models, edge computing and researchers on a climate mission?
+    
+
+      A lot of useful applications for many people, including bird identification AI.
+    
+
+      Now, birders can download the Merlin Bird ID app - available for iOS and Android devices - and start identifying birds by the sounds they make. The models have also been moved to some Waggle devices and can identify birds wherever Sage is deployed.
+    
+
+      This AI is music to the ears.
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Nvidia Corporation published this content on 23 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 23 February 2023 17:47:51 UTC.
+      
+

@@ -1,0 +1,34 @@
+
+The US finally folded. For the past two days, we've felt that US macroeconomic statistics were starting to diverge from investors' favorite story (inflation falling + central bank stops raising rates + economy slowing down but not too much + central bank starts cutting rates again + economy picking up). Yesterday, producer prices accelerated upwards beyond what was feared in January. This is enough to shake the prognosis that inflation will no longer be a problem and that monetary policy will become more flexible. In fact, two U.S. central bankers yesterday raised the possibility of a more aggressive rate hike than expected at the next Fed meeting. 50 basis points. Moreover, two of their counterparts are still to speak today. We'll see if they play hawks too.
+Wall Street ended up folding yesterday, after trying in vain to find something positive in the producer price statistics published at 8:30 am. The real stumble took place around 2:00 pm and brought the three main indexes to the lowest of the day. The Nasdaq 100 lost 2% and erased part of its lead for the week. The S&P500 gave up 1.38% and returned to exactly where it closed last Friday. As a result, there is a lot of gossip and chatter about monetary policy, the level of interest rates the Fed will have to raise to ensure that inflation is contained, the damage that this could do to growth, and so on. We haven't gone back three months, but the atmosphere has slowly changed. The market now sees Fed rates capped at 5.2%, whereas a level of 4.9% was almost considered aggressive two weeks ago. The yield on 10-year U.S. debt tightened further to 3.88%, a sign that the bond market is starting to take seriously the beginning of a backlash on macroeconomic statistics. Quite logically, the dollar strengthened against all currencies. The Fed's next rate decision will be on March 22. For now, the market assigns an 82% probability to a 25 basis point rate hike, compared to 18% for a 50 basis point hike, according to the CME FedWatch tool.
+Meanwhile, Beijing announces a "decisive victory" against the coronavirus. Not sure if the "zero covid" policy abandoned in the fall has anything to do with it. China has lost another business leader. Bao Fan, a banker renowned for his operations in the technology sector, has disappeared without leaving an address. His firm, China Renaissance, collapsed this morning in Hong Kong, where the stock lost up to half its value. Finally, China, with new injections of liquidity by the central bank, which is seeking to revive the economic momentum damaged by the restrictions put in place until the end of last year.
+The calendar of company publications is still relatively full, with American heavyweights such as Walmart, The Home Depot, Coinbase and Baidu. On the other hand, the calendar of major macroeconomic indicators is almost empty.
+In Asia Pacific, the week ended lower in Japan (-0.66%), mainland China (-1.1%), Hong Kong (-1%), Seoul (-1%) and Sydney (-0.9%). The collapse of the US indexes has taken its toll. European indexes are also looking bearish. This is the third Friday of the month, synonymous with the clearing session, otherwise known as the three witches' session. It is a day marked by periods of volatility with the expiry of several types of derivatives.
+Let's end with a little heads-up: My colleague Romain Fournier, MarketScreener's Chief Editor, will take over this column after being responsible for it for the last 2 weeks. It has been a pleasure for me to write this section for you every day.
+Economic highlights of the day:
+There will be no major indicator today. Fed central banker Michelle Bowman is scheduled to deliver a public address at 8:45 a.m. All the agenda here.
+The dollar rose to 0.9407 EUR and 0.8379 GBP. The ounce of gold is falling in the wake of the dollar's strengthening, to USD 1,824. Oil is also giving up ground, with North Sea Brent crude at USD 82.81 a barrel and US WTI light crude at USD 76.46. The yield on 10-year US debt is stretching to 3.88%. Bitcoin is falling back to USD 23,800.
+In corporate news:
+* Moderna - The flu vaccine candidate, using messenger RNA technology, generated a strong immune response against A strains of the disease but failed to show it was at least as effective as an existing vaccine against the less common B strains, the U.S. company announced Thursday. Its stock was down 7% in after-hours trading.
+* Boeing announced Thursday that it will integrate its Boeing Capital financing division into its commercial aircraft unit to simplify its corporate structure.
+* Pfizer and Valneva announced the exclusion of a significant percentage of participants enrolled in the U.S. for a Phase III study of a Lyme disease vaccine candidate due to Good Clinical Practice (GCP) violations at some centers run by a third-party company.
+* Applied Materials reported quarterly sales well ahead of expectations, driven by a strong backlog and solid demand for its tools used in automotive and artificial intelligence chip manufacturing.
+* Visa announced the resignation of its chief financial officer, Vasant Prabhu, which will be effective at the end of September.
+* Doordash announced a $750 million share repurchase program Thursday and anticipates a key earnings metric above expectations after strong fourth-quarter growth. The meal delivery group gained as much as 12% in after-hours trading Thursday.
+* Tesla on Friday raised prices in China on some models of its mid-size Model Y SUV, its website shows. 
+
+Analyst recommendations:
+
+Applied Materials: Needham & Co increased price target to $135 from $120. 
+Cohu: Needham & Co raised the target to $40 from $34. Maintains buy rating.
+Crocs: Stifel maintains hold rating. PT up to $133 from $107.
+Dunelm Group: Investec moved to buy from hold. PT set to 1,300 pence
+Epam Systems: Susquehanna Financial cut the target to $410 from $462. Maintains positive rating.
+HubSpot: RBC Capital Markets raised the target to $500 from $380. Maintains outperform rating.
+Materion: KeyBanc Capital Markets maintains overweight rating. Price target upgrades to $130 from $92.
+Paramount Global: Guggenheim Securities raised the target to $26 from $22. Maintains buy rating.
+Reliance Steel & Aluminum: KeyBanc Capital Markets increased price target to $265 from $235.
+Roku: BofA Global Research raised the recommendation to buy from underperform. PT up 20% to $85.
+Tyler Technologies: JMP Securities cut the target to $415 from $465. Maintains market outperform rating.
+Watsco: KeyBanc Capital Markets maintains overweight rating. Price target up to $365 from $335.
+

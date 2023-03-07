@@ -1,0 +1,433 @@
+
+
+
+
+          Intel's Fourth Quarter and Full Year 2022
+        
+
+          Financial Results
+        
+
+
+
+
+            Q4'22 Total Revenue
+          
+
+$14B
+          
+
+            28% YoY
+          
+
+
+
+
+                  Client Computing (CCG)
+                
+
+
+
+$6.6B
+                
+
+
+
+
+
+                  36% YoY
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Datacenter and AI (DCAI)
+                
+
+
+
+$4.3B
+                
+
+
+
+
+
+                  33% YoY
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Network and Edge (NEX)
+                
+
+
+
+$2.1B
+                
+
+
+
+
+
+                  1% YoY
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Accelerated Computing Systems $247M
+
+
+
+
+
+
+                  1% YoY
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  and Graphics (AXG)
+                
+
+
+
+
+
+
+
+
+
+
+
+                  Intel Foundry Services (IFS)
+                
+
+
+
+$319M
+                
+
+
+
+
+
+                  30% YoY
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Mobileye
+                
+
+
+
+$565M
+                
+
+
+
+
+
+                  59% YoY
+                
+
+
+
+
+
+
+
+
+
+
+
+
+            Q4'22 Non-GAAP EPS
+          
+
+$0.10 92% YoY [$0.10 below prior guidance]
+          
+
+
+
+            FY'22 Total Revenue
+          
+
+$63.1B 16% YoY
+
+
+            Revenue Records
+          
+
+            NEX AXG IFS Mobileye
+          
+
+            FY'22 Non-GAAP EPS
+          
+
+$1.84 65% YoY [$0.11 below prior guidance]
+          
+
+            FY'22 Cash and Dividends
+          
+
+
+
+
+                  Non-GAAP adjusted free cash fow
+                
+
+
+
+                  Paid dividends
+                
+
+
+
+
+
+                  -$4.1B
+                
+
+
+
+$6.0B
+                
+
+
+
+
+            "
+          
+
+            Despite the economic and market headwinds, we continued to make good progress on our strategic transformation in Q4, including advancing our product roadmap and improving our operational structure and processes to drive efciencies while delivering at the low-end of our guided range. In 2023, we will continue
+          
+
+            to navigate the short-term challenges while striving to meet our long-term commitments, including delivering leadership products anchored on open and secure platforms, powered by at-scale manufacturing and supercharged by our incredible team.
+          
+
+            Pat Gelsinger, Intel CEO
+          
+
+            "
+          
+
+
+
+
+          Intel Quarterly Financial and Business Report Page 1 of 2
+        
+
+
+
+
+
+          Business Highlights
+        
+
+
+
+
+                Process Leadership
+              
+
+
+
+
+
+
+
+                Execution Milestones
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Continues to execute to 5 nodes in 4 years
+          
+
+            • Intel 7: In high-volume manufacturing for client and server
+          
+
+            • Intel 4: Manufacturing ready; expect Meteor Lake ramp in 2H 2023
+          
+
+            • Intel 3: On track
+          
+
+            • Intel 20A and 18A: Test chips taped out
+          
+
+            Customer and Partner Wins
+          
+
+            Dell Technologies, Google Cloud, HPE, Lenovo, Microsoft Azure, NVIDIA and many others supported the 4th Gen Intel Xeon Scalable processor launch
+          
+
+            • Acer and HP launched Intel Unison on select Intel® Evo™-verifed laptops
+          
+
+            • Amazon Web Services at re:Invent previewed EC2 R7iz instances, powered by 4th Gen Intel Xeon Scalable processors
+          
+
+            • U.S. Defense Advanced Research Projects Agency (DARPA) selected Intel for Phase 1 of the Space-BACN program to accelerate inter-satellite communications
+          
+
+            • IFS added a leading cloud, edge, and datacenter solutions provider as a customer to Intel 3
+          
+
+
+
+            • Launched 4th Gen Intel® Xeon® Scalable processors (formerly code-named Sapphire Rapids)
+          
+
+            • Introduced Intel® Xeon® CPU Max Series (formerly code-named Sapphire Rapids HBM) and Intel® Data Center GPU Max Series (formerly code-named Ponte Vecchio)
+          
+
+            • Announced the world's fastest desktop and mobile processors with the new 13th Gen Intel® Core™
+          
+
+            i9-13900KS1 and the new fagship Intel Core i9- 13980HX2
+
+
+            • Ramped more than 60 design wins since the introduction of Intel® Unison™
+          
+
+            • Powered on Emerald Rapids with top OEM and CSP customers on CentOS and Windows Server 2019; sampling and remains on track to launch in 2H 2023
+          
+
+            • Shipped Intel® Data Center GPU Flex Series to multiple key customers around the world enabling large scale cloud gaming and media delivery deployments
+          
+
+            Strategic Achievements
+          
+
+            • Achieved in partnership with ASUS a new world record for overclocking, pushing the 13th Gen Intel Core i9-13900K to 9.008 GHz
+          
+
+            • Generated 13.5 nm wavelength light with frst high- volume EUV scanner in Europe, a key milestone toward high-volume production of Intel 4
+          
+
+            • Announced the evolution of AXG's structure to accelerate and scale its impact
+          
+
+            • Signed purchase agreement to become a landowner in Magdeburg, Germany, and signed Bechtel as general contractor for Intel's new Ohio site
+          
+
+            • Elected Lip-Bu Tan and Barbara Novick to Intel's board of directors, and appointed Frank Yeary as independent chair
+          
+
+
+
+
+          Footnotes:
+        
+
+
+At 6.0 GHz Max Turbo Frequency, 13th Gen Intel Core i9-13900KS is the fastest desktop processor (as of January 2023).
+          
+
+At 5.6GHz, 13th Gen Intel Core i9-13980HX is the fastest mobile processor (as of December 2022).
+          
+
+
+          Abbreviations:
+        
+
+          =Record revenue; Q4 (fourth-quarter); YoY (year-over-year); GAAP (general accepted accounting principles); EPS (earnings per share); FY (full-year).
+        
+
+          Q4'22 non-GAAP EPS ($0.10) is Q4'22 GAAP EPS (-$0.16) after adjustment for acquisition-related adjustments (+$0.09), share-based compensation (+$0.18), Optane inventory impairment (+$0.04), restructuring and other charges (+$0.11), gain on equity investments, net (-$0.04), gain from divestiture (-$0.01), tax reform (-$0.06) and income tax efects (-$0.05). FY'22 non-GAAP EPS ($1.84) is FY'22 GAAP EPS ($1.94) after adjustment for acquisition-related adjustments (+$0.37), share-based compensation (+$0.76), patent settlement (+$0.05), Optane inventory impairment (+$0.18), gain on equity investments, net (-$1.04), gain from divestiture (-$0.28), tax reform (-$0.20) and income tax efects (+$0.06). FY'22 non-GAAP adjusted free cash fow (-$4.1B) is FY'22 GAAP cash from operations ($15.4B) after adjustment for additions to property, plant and equipment, net of proceeds from capital grants and partner contributions (-$23.7B), payments on fnance leases (-$0.4B) and proceeds from McAfee equity sale (+$4.6M). For a full explanation of these non-GAAP measures, see Intel's Q4 and FY'22 earnings release at intc.com. Year-over-year comparisons, including for Intel Q4 and FY'22 revenue, exclude NAND memory business from 2021 results. We completed the frst closing of the divestiture on December 29, 2021. Year-over-year comparisons also exclude share-based compensation and gains/losses on equity investments. Graphic omits intersegment and All Other revenue. For the three months and year ended December 31, 2022, the impact of non-controlling interest to our non-GAAP adjustments is insignifcant and thus is not included in our reconciliation of non-GAAP measures.
+        
+
+
+
+          Intel Quarterly Financial and Business Report Page 2 of 2
+        
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Intel Corporation published this content on 26 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 26 January 2023 21:12:33 UTC.
+      
+

@@ -1,0 +1,186 @@
+
+
+
+        In today's security climate, NetOps and SecOps teams are witnessing increased attack surface area as applications and workloads move far beyond the boundaries of their data center. These applications/workloads move to, and reside in multi-cloud architecture, adding complexity to connectivity, visibility, and control. In the multi-cloud world, the SecOps teams use a distributed security model that is expensive, difficult to deploy, and complex to manage.
+      
+
+        Cisco has partnered with Alkira to help secure your multi-cloud environment. Combining Alkira's simplified cloud connection through their cloud network-as-a-service platform (SaaS-like model) with Cisco's industry-leading security controls, we can deliver a centralized security model for multi-cloud architecture that is easy to deploy, manage, and increases visibility and control.
+      
+
+        Cisco Secure Firewall Threat Defense Virtual provides unmatched security controls such as stateful firewalling, Snort3 IPS, URL filtering, malware defense, application visibility and control, and more. Additionally, with the purchase of Secure Firewall Threat Defense Virtual, you will receive license entitlement to Cisco SecureX, our open XDR and orchestration platform, helping you accelerate threat detection, investigation, and remediation.
+      
+
+        Cisco Secure Firewall Management Center (FMC) is required for managing Secure Firewall Threat Defense Virtual, helping administrators enforce consistent access policies, rapidly troubleshoot security events, and view summarized reports across the deployment.
+      
+
+        Secure Firewall Threat Defense Virtual is available on Alkira's service marketplace through Bring-Your-Own-License (BYOL) and Pay-As-You-Go licensing options. Customers can seamlessly deploy and insert Secure Firewall in their Alkira Cloud Exchange Points (CXP).
+      
+
+        Benefits of this integrated architecture include:
+      
+
+
+Simplified network and security architecture: Leverage fully automated insertion and service-chaining of Secure Firewall in a centralized security model for a streamlined network and security architecture.
+        
+
+Deeper visibility and control in multi-cloud environments: Enjoy simplified firewall insertion in a centralized security model to achieve both north-south and east-west traffic inspection capability for multi-cloud environments.
+        
+
+Unified security policy: Uniformly enforce firewall security policy across on-premises, cloud, and multi-cloud environments.
+        
+
+Greater visibility: Cloud-agnostic security controls offer deeper visibility and control across all platforms
+        
+
+Auto-scale: Cisco Secure Firewall provides a flexible architecture that can automatically scale with the network load to meet demand. The auto-scaled firewall instance receives the configuration and licenses automatically (Cisco Secure Firewall Threat Defense auto-scale coming in Q2CY23).
+        
+
+
+        The Cisco Secure Firewall Threat Defense brings the following capabilities to the environment:
+      
+
+
+          Stateful Firewall Inspection
+        
+
+          Application Visibility & Control
+        
+
+          Next-Generation Intrusion Prevention System (IPS)
+        
+
+          URL Filtering
+        
+
+          Malware Defense
+        
+
+          Encrypted Traffic Visibility
+        
+
+
+        Figure 1 shows a multi-cloud environment inter-connected using Alkira Cloud Exhange Platform (CXP). In the above architecture, Cisco provides seamless insertion of security controls and enables the following use cases for firewall insertion:
+      
+
+
+Multicloud Security: Cisco Secure Firewall Threat Defense provides a centralized security model that enables better security controls, visibility, and network segmentation. This deployment offers north-south (N/S) and east-west (E/W) traffic inspection models.
+        
+
+Branch Security: Alkira Cloud Exchange Platform (CXP) connects branches and Cisco Secure Firewall Threat Defense protects N/S and E/W branch traffic.
+        
+
+Secure Internet Edge: Deployment of Cisco Secure Firewall inside CXP enables secure Internet edge for inbound and outbound Internet traffic.
+        
+
+Cloud DMZ: Enforce ingress firewall security policy for application traffic between remote users and Internet-facing applications deployed in the on-premises data centers or cloud environments.
+        
+
+Shared Application Services: Enforce firewall security policy for cross-segment application traffic in cases of business partner integration, mergers, acquisitions, and divestitures.
+        
+
+
+Firewall Insertion made easy
+
+
+        Using Alkira's customer portal, Cisco Secure Firewall Threat Defense Virtual can be easily inserted in the traffic path within minutes. Figure 2 shows how automation & orchestration eliminates additional configuration required in the legacy insertion model.
+      
+
+Management Options
+
+
+        Cisco Secure Firewall Threat Defense Virtual is managed using Cisco Secure Firewall Management Center (FMC). Customers can use on-premises FMC or build a virtual FMC instance in the cloud. Cisco and Alkira support both models of deployment.
+      
+
+Insertion models
+
+
+        Cisco Secure Firewall Threat Defense Virtual protects the following traffic flows in Alkira CXP:
+      
+
+
+          Cloud to cloud (intra & Inter-cloud)
+        
+
+          Cloud to on-premises
+        
+
+          Cloud to Internet
+        
+
+          On-premises to cloud
+        
+
+          On-premises to Internet
+        
+
+          Internet to on-premises
+        
+
+          Branch to branch
+        
+
+          Branch to Internet
+        
+
+          Internet to branch
+        
+
+
+        Alkira and Cisco's partnership simplifies the deployment of enterprise-grade security in the cloud while enabling multi-cloud visibility and end-to-end threat defense for customers.
+      
+
+        Additional Resources:
+      
+
+Cisco Secure Firewall Threat Defense
+
+
+Cisco Secure Firewall Data Sheet
+
+
+Cisco Secure Firewall Management Center
+
+
+Alkira
+
+
+Alkira Service Marketplace
+
+
+Alkira blog on Cisco Secure Firewall Threat Defense
+
+
+We'd love to hear what you think. Ask a Question, Comment Below, and Stay Connected with Cisco Secure on social!
+
+
+Cisco Secure Social Channels
+
+
+Instagram
+Facebook
+Twitter
+LinkedIn
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 02 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 02 February 2023 13:10:01 UTC.
+      
+

@@ -1,0 +1,24 @@
+
+
+SANTA CLARA, Calif., Feb. 24, 2023 /PRNewswire/ -- Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced it will showcase its latest products at MWC Barcelona 2023, the world's largest wireless industry tradeshow.
+When:MWC Barcelona will be held February 27-March 3, 2023.
+Where:Marvell will be in booth 2F34 in Hall 2 at the Fira Gran Via in Barcelona, Spain.
+Demonstrations:Marvell's 5G solutions are designed to deliver high performance, power efficiency, and security for carrier networks. The company's advanced IP portfolio, connectivity, compute and security features make it a trusted partner for building and securing wireless networks that are both high-performing and sustainable. Visit Marvell's booth to see the following demonstrations and product displays:
+OCTEON® 10 Fusion 5G baseband, advancing traditional and vRAN, DU and RU massive MIMO5G compute and AI acceleration from edge to core with OCTEON 10 DPUMarvell® DSP-powered 50G to 400G modules, transforming fronthaul to metro transportPrestera®-powered high-performance carrier switches for disaggregated cell site gatewayLiquidSecurity® 2 hardware security module for cloud-optimized, post-quantum 5G data protectionMarvell's vRAN collaborations with 5G inline acceleration technology will also be showcased at Nokia's stand 3A20 in Hall 3 and Samsung Networks booth. In addition, 5G vRAN accelerators powered by Marvell's new OCTEON 10 Fusion processor will be on display in the following customer and partner stands:
+Arm stand 2160 in Hall 2Dell Technologies stand 3M30 in Hall 3Nokia stand 3A20 in Hall 3VMware stand 3M11 in Hall 3Vodafone stand  3E11 in Hall 3News Highlights: 
+Marvell Unveils OCTEON 10 Fusion Processor Family to Advance 5G Networks: Marvell launched its next generation OCTEON® 10 Fusion family of baseband processors for 5G base stations—the industry's first in 5nm process technology
+Analog Devices and Marvell Showcase Next-Generation 5G Massive MIMO Radio Unit Platform at Mobile World Congress 2022: Analog Devices and Marvell announced their next-generation 5G massive MIMO (mMIMO) reference design platform with support for Open RAN.
+A No-Compromise Approach to Open, Cloud-Native 5G RAN: Listen to what leading operators are saying about inline vRAN accelerators.
+OCTEON 10 Recognized as "Best Embedded Processor" in Analysts' Choice Awards, Powered by TechInsights: The Marvell® OCTEON® 10 DPU was awarded the 2022 Analysts' Choice Awards for "Best Embedded Processor" in TechInsight's Microprocessor Report. 
+About MarvellTo deliver the data infrastructure technology that connects the world, we're building solutions on the most powerful foundation: our partnerships with our customers. Trusted by the world's leading technology companies for over 25 years, we move, store, process and secure the world's data with semiconductor solutions designed for our customers' current needs and future ambitions. Through a process of deep collaboration and transparency, we're ultimately changing the way tomorrow's enterprise, cloud, automotive, and carrier architectures transform—for the better.
+Marvell and the M logo are trademarks of Marvell or its affiliates. Please visit www.marvell.com for a complete list of Marvell trademarks. Other names and brands may be claimed as the property of others.
+This press release contains forward-looking statements within the meaning of the federal securities laws that involve risks and uncertainties. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate or imply future events or achievements. Actual events or results may differ materially from those contemplated in this press release. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and no person assumes any obligation to update or revise any such forward-looking statements, whether as a result of new information, future events or otherwise. 
+For further information, contact:Kim Markle, Influencer Relationspr@marvell.com
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/marvell-to-showcase-comprehensive-5g-ran-transport-and-core-network-solutions-at-mwc-barcelona-2023-301755214.html
+SOURCE  Marvell
+
+

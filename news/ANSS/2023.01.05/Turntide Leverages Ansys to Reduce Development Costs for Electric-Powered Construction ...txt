@@ -1,0 +1,46 @@
+
+
+Ansys simulation solutions are key to developing Turntide's zero-emissions electric powertrain components and battery systems
+/ Key Highlights
+Turntide uses a suite of Ansys tools to develop and test electrification solutions for off-highway vehicles such as construction and agricultural machinesAnsys electromagnetic simulation solutions helped Turntide engineers reduce development costs by about 25%PITTSBURGH, Jan. 5, 2023 /PRNewswire/ -- Turntide Technologies (Turntide), developer of electrification and sustainable operations technologies, is leveraging Ansys (NASDAQ: ANSS) solutions to produce electric vehicle powertrain components that help its customers transform commercial and industrial vehicles from gas and diesel engines to clean, quiet battery electric machines — a significant step towards achieving global net-zero goals.
+
+
+
+
+
+
+
+While many automakers electrify passenger vehicles, Turntide is focused on supplying electrification solutions for commercial and industrial vehicles, such as construction equipment, agricultural machines, trains, marine and freight movers. These vehicles present greater sustainability challenges than passenger vehicles because of their heavy-duty loads, work cycles, and vibration. Timely, cost-effective simulation is essential to develop the solution components.
+Turntide uses a suite of Ansys tools to design and test components for construction equipment such as front wheel loaders or mini excavators. These simulations show the impact of extreme scenarios including weather, vibration, impact, and corrosive exposure to salt, sand and chemicals and provide performance and safety data.
+"Typically, testing a product prototype for electromagnetic compatibility at an accredited test facility costs more than $34,000 over a two-week period," said Biswadip Shome, senior director, simulation and analysis at Turntide. "Instead of performing prototype-based trial and error solutioning, which is not only time consuming but also expensive, a physics-based simulation using Ansys toolsets provides a significant business advantage. We estimate that we save about 25% on development costs by using simulation."
+Critical simulations for inverters, one of the most important components for electric vehicles, are conducted for shock and vibration to ensure the printed circuit board assembly can endure rugged environments, and thermal systems are simulated to evaluate coolant pressure drops and effectiveness in harsh climates.
+"It's astounding to see the energy and carbon emissions savings that Turntide is achieving by using Ansys simulation to develop electric powertrains," said Walt Hearn, vice president of worldwide sales and customer excellence at Ansys. "We are proud to be part of their success story." 
+Visit Ansys at CES in Las Vegas from Jan. 5-8, 2023, at booth #4401 to see Turntide's batteries and inverters on display and learn more.
+/ About Turntide Technologies 
+Turntide Technologies (Turntide) invents and scales breakthrough technologies to accelerate electrification and sustainable operations for energy-intensive industries. Turntide's full stack, integrated, open systems support commercial and industrial electric vehicles, building operations, and agriculture to optimize how the world uses energy. Turntide enables companies to lead their industries by attacking energy waste at every level and operating smarter for accelerated growth. For more information, visit https://turntide.com/ or follow the company on LinkedIn and YouTube.
+/ About Ansys
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–C
+/ Contacts
+Media
+Mary Kate Joyce
+724.820.4368
+marykate.joyce@ansys.com
+Investors
+Kelsey DeBriyn
+724.820.3927
+kelsey.debriyn@ansys.com 
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/turntide-leverages-ansys-to-reduce-development-costs-for-electric-powered-construction-vehicles-301714132.html
+SOURCE  Ansys
+
+

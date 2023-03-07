@@ -1,0 +1,194 @@
+
+
+
+        Fourth Quarter 2022 Buyside Call | February 10, 2023
+
+
+        C O R P O R A T E P A R T I C I P A N T S
+      
+
+Dan Schulman, President and Chief Executive Officer
+      
+
+Gabrielle Rabinovitch, Acting CFO and SVP, Investor Relations and Treasurer
+      
+
+        C O N F E R E N C E C A L L H O S T
+      
+
+        Ramsey El-Assal, Barclays
+
+
+        P R E S E N T A T I O N
+      
+
+        Ramsey El-Assal
+      
+
+        Hi everyone. Thank you so much for joining us. We are honored to welcome Dan Schulman, President, CEO, and Gabrielle Rabinovitch, Acting CFO, SVP of Investor Relations and Treasurer. Dan, I won't be saying my goodbyes today because I think we'll have plenty of time to do that in the months ahead. Thank you so much for joining us today. With that we can jump right in.
+      
+
+        I wanted to, Dan, start with a question for you. You shared a lot of new information with the market yesterday on the earnings call. From your perspective, what are the key messages or takeaways that you think are most important to highlight for investors?
+      
+
+        Dan Schulman
+      
+
+        Well first of all, Ramsey, thanks for hosting the call and thanks everybody for joining us as well. I think the key message is we're doing what we said we're going to do now. If you look at fourth quarter [of FY'22], we delivered on our guidance for revenue. We overdelivered on [non-GAAP] EPS. We are overdelivering on our cost controls as well. I thought we pulled together what is a conservative, but prudent, set of guidance for 2023. We've raised our [non-GAAP] EPS [growth guidance] from 15% to 18%, on top of a higher 2022 [non-GAAP] EPS result. We have high confidence in that because we've designed our cost structure around a worst case revenue scenario, at least from our perspective. We're taking up our [2023 non-GAAP] margin expansion [guidance] by 25 bps from 100bps to 125bps. I thought we guided a pretty strong Q1'23 at 9% [FXN] revenue growth and 24% [non-GAAP] EPS growth at the midpoint.
+      
+
+        I think it's possible that we might be criticized for being conservative and only giving quarterly guidance. But I think on the flip side, if we went out there and were too high or too low, people could criticize
+      
+
+
+
+        Fourth Quarter 2022 Buyside Call | February 10, 2022
+      
+
+        either way. I think we're just trying to be prudent on this and make sure that what we say we're going to do, we deliver on that.
+      
+
+        There's still a lot of moving parts out there and clearly there are green shoots. Inflation is coming down and that is likely to lead to discretionary spend going up. The heart of e-commerce where we compete is all around discretionary spend. That's very possible upside for us. It looks like the chance of recession is decreasing certainly here in the US and if it happens, it'll be mild, but even in Europe as well. China is reopening, and you know that's been a real depressant on our results over the last couple of years. That seems to be turning as well right now. I think our checkout products are beginning to make an impact. We've been spending a lot of effort and time, over the last year plus on checkout and we are beginning to see nice share growth. I think as I look at Q1'23, it's still early, but it's clearly an encouraging start. Braintree, despite lapping [a strong FY'22], is continuing to do quite well. And probably most encouraging, branded [checkout volume] is up quite nicely from Q4 as well. I think we're off to an encouraging start. We've tried to be conservative in the way that we're thinking about the year ahead. But we feel good about it right now. It definitely feels like the right approach.
+      
+
+        Ramsey El-Assal
+      
+
+        Given the news that you shared yesterday about your pending retirement, what are your priorities through the end of the year? What do you focus on at this point between now and then?
+      
+
+        Dan Schulman
+      
+
+        Well, it's in many ways the same set of priorities. We're doing an excellent job right now I believe in managing our cost structure, but also assuring that we have more than enough resources against our key priorities. That is just essential from my perspective. You cannot cost cut your way to greatness. We need to have the best value propositions in the market. I feel like we are making real progress right now on both checkout and on Braintree, our unbranded [solution]. I'm very excited about the potential of PayPal Complete Payments (PPCP) that we talked about, that goes after a new market for us. It's not just the unbranded part on that platform, but all of the latest checkout experiences as well. I'm going to spend a lot of time on our digital wallet emphasis. I think we're doing some really good things on the consumer side, but there are places that still need to improve. Both John Kim and I are spending a lot of time on that.
+      
+
+        I mentioned this yesterday. I want to be sure that when I leave PayPal, that we have a really solid year that we've completed. That we have a solid runway ahead of us as we go into 2024. I think we have a really good shot at doing that. I'm really pleased with the way we performed last year. I'm really pleased the way that the year is starting off.
+      
+
+        There are a lot of relationships that we have externally and internally. Those are with regulators around the world. There are weeks depending on what's happening, where I talk to a regulator from somewhere around the world two or three times a day. Government officials are more and more important in what we are doing as we think about what the future of what the financial system might look like. Our partnerships with Financial Institutions and networks and tech companies around the world are crucial. We have big relationships with a lot of customers now. You look at our Braintree customer list, it's a who's who of apps around the world.
+      
+
+        Page 2 of 10
+
+
+
+
+        Fourth Quarter 2022 Buyside Call | February 10, 2022
+      
+
+        I want to spend a lot of time with employees, with our key employees, making sure that we have continuity as we move forward. When the new CEO is named, I will spend a reasonable amount of time on a transition. Reasonable enough that they get a full transition, but not too much that they feel like they're smothered. I'm very flexible on that. So, the same basic set of priorities but a lot of incremental on relationships that have been developed over the last eight and a half years, and making sure we transition that in a very smooth and orderly manner.
+      
+
+        Ramsey El-Assal
+      
+
+        Great. It seems like e-commerce right now is kind of pressured in a few different ways, but two important ways. There's the traditional economic cycle in terms of macro weakness, inflation. But it also feels like post pandemic there's this shift of consumer spending to services away from goods. I'm just wondering if you're seeing evidence of that second goods to services shift, and whether you have any thoughts about separate from the broader economic cycle, that might revert back to a more normal pattern as time passes?
+      
+
+        Dan Schulman
+      
+
+        That's a good question. Traditionally e-commerce has grown in the mid-teens.Pre-pandemic if you look at 2015 to 2019, it was growing in the mid-teens - some years low teens, some years higher. That shot up to 30% plus in 2020 and that's when all of us were saying it's been a three to five year pull forward of e-commerce. It sure looked that way. You had something like 24% or 25% penetration of retail sales going through e-commerce during 2020. In 2021 that dropped down to about 9% or so growth. You had the percent of retail penetration go down a full hundred [basis points] and that basically stayed the same. In 2022 you had e-commerce growth somewhere in the mid single digits, maybe low single digits overall globally. In the holiday period at the end of last year, it looked like global e-commerce was probably flat to slightly up. A bit better than what, for instance, the Salesforce data would've said.
+      
+
+        As we come out of this year and we go into 2024, [we believe e-commerce growth] probably reverts back to double digits, maybe even low teens for a couple of different reasons. One, inflation is clearly cooling. My anticipation is that by the end of the year with what all the central banks are doing right now, that you'll see inflation come down meaningfully. Will it get to the 2% target or not, who knows, but will it come down I think. I think when that comes down, you will see an increase in discretionary spending. And Ramsey, to your point, you'll also start to see a shift from services back into goods. We're beginning to see a little bit of that in our results, in the early part of Q1. I think it's too early to make a call on that right this second. China is opening, [and could] make a big difference in cross border. [China] is a huge player in the cross-border industry. In our results, China [total payment volume] was down [between] 30%-40% [in FY'22], you could really see the impact of what was going on. That's turning right now. Again, too early for me to make a call on it. But it's changing and that can make a difference. Cross- border we think will begin to pick up.
+      
+
+        I think things start to normalize, and you probably begin to see the percent of retail sales that comes through e-commerce begin to tick up slowly again. We've got the right margin structure in place. I think we've got a lot of the right product sets in place. When [e-commerce] makes that turn, we'll be in a very good position to take advantage of it. And I think it starts to make that turn perhaps by the end of this year, but certainly as you go into 2024.
+      
+
+        Page 3 of 10
+
+
+
+
+        Fourth Quarter 2022 Buyside Call | February 10, 2022
+      
+
+        Ramsey El-Assal
+      
+
+        I wanted to ask about your revenue expectations in 2023 and what are the biggest swing factors that'll determine where you land relative to your internal targets? Are the risks sort of purely weighted to the macro? Or are there key products, offerings, partnerships, other operational factors that might have an impact on where you land relative to your expectations?
+      
+
+        Dan Schulman
+      
+
+        There are two different things that we talked about. I think that's important. The mid single digit [FXN] revenue [planning assumption] is not our revenue expectation for the year. It is what we designed our cost structure around. The worst thing that you can do is design your cost structure around an optimistic revenue forecast. If you do that, then you're constantly cutting, chasing. You don't have the right resources in the right place. We wanted to come into the year with a really firm cost structure that we knew we could count on, make sure we staffed our initiatives, and that we had high confidence in our [non-GAAP] EPS target that we shared with you.
+      
+
+        Our growth is tied to the growth of e-commerce. We're one of the major players in all of e-commerce. That's why we think we have a pretty good view of what's happening in e-commerce growth and market share and that kind of thing. If ecommerce is better than what we expect, [we believe we are well positioned to] have a good year. We are being conservative because there are moving pieces. We'll see how the economy does, we'll see if inflation comes down. We'll see what happens with the war in Europe. China reopening looks good right now, but we'll see how that progresses. But that's really the big swings that would happen.
+      
+
+        Product is on track and it's been a while since I've been able to say that with a lot of confidence around it, especially on the merchant side on checkout. I'm really pleased with even the pilots around PPCP. But product takes time. As I mentioned [on the Q4 earnings call] we went from 20% of our top 100 merchants on our best checkout integrations a couple years ago, to one-third [in 2022], to hopefully around 50% or so this year. It builds over time and it's a cumulative effect. A lot of our long tail will start to come through mobile SDK [Software Developer Kit], developer portals, and PPCP going forward. That takes time, but it builds and it's absolutely crucial as we think about the future.
+      
+
+        Big sales can move revenue up by a full point or more sometimes, but you really can't bake those into your forecast because it's hard to tell exactly when they'll come in. It's hard to tell sometimes if they will come in. We're pretty conservative about looking at big sales, one way or another. I think when we look at our guide, Q1 is off to a good start across the board. As I mentioned I'm really encouraged with the branded start, but still early. Too often we see change as we look at things. They seem to be going a certain way, and then they can change somewhat meaningfully both ways. So I think our guide, maybe we could be criticized for being too conservative, but I think that's the right place for us to be as we think ahead.
+      
+
+        Ramsey El-Assal
+      
+
+        You mentioned that the first quarter's off to a great start. Maybe you could drill down a little bit in terms of what specifically is driving that strength relative to Q4? How does the strength starting the year factor
+      
+
+        Page 4 of 10
+
+
+
+
+        Fourth Quarter 2022 Buyside Call | February 10, 2022
+      
+
+        into the full year framework? Or if you could dimensionalize the shape of the year relative to Q1 in terms of what's embedded in in your framework?
+      
+
+        Gabrielle Rabinovitch
+      
+
+        We've seen a continuation of strong unbranded processing trends in our business through the start of Q1. In addition to that, we've seen strengthening on the branded side of our business. From the standpoint of what our more cautious or prudent framework contemplates, were clearly starting the year with a much stronger start than we had anticipated. We're operating in a more benign environment than the operating environment that's contemplated by our planning assumption, to ensure that we can continue to deliver as we move through the year.
+      
+
+        [With respect to] the guide for 9% top line growth on an FX neutral basis for Q1, we do expect to see some deceleration as we move through the year. We'd expect the back half revenue growth rate be slightly lower than the first half growth rate. That's in part due to the fact that we expect some deceleration on Braintree. Braintree had a few exceptionally strong years and we added some merchants last year where just the lapping dynamics of now growing over those adds will result in some deceleration. In addition to that, the shape of the curve on our expectations for interest income on customer stored balance means that the incremental lift we expect to get in the first half of the year will be greater than in the back half of the year. And then finally, there were some pricing changes that we made last year that benefited the first half to a greater extent than the back half. For our own internal planning, we do expect some deceleration [in revenue growth in H2'23].
+      
+
+        At the same time, to Dan's point, so much of our overall performance is going to be driven by the overall discretionary e-commerce environment. To the extent that we continue to see a more constructive and benign environment there, and continue to see consumer strength, we would expect to have a great year and come out far ahead of what that planning assumption would contemplate.
+      
+
+        Ramsey El-Assal
+      
+
+        I wanted to ask about checkout market share. It's obviously an area where there's a ton of focus from investors. Can you talk about how you feel you're performing relative to the market, and does your guidance make assumptions around share changes for example?
+      
+
+        Dan Schulman
+      
+
+        Well again, we only gave guidance for Q1. The mid single digit [FXN revenue growth planning assumption for FY'23] that people seem to be focused on was only our internal [plan] to establish our cost structure. Clearly our revenue expectations as we think about the year include growing at or above the rate of e-commerce. I want to separate those two things out, Ramsey again. As I think about market share, because it's obviously the thing that everybody is talking about, without an industry standard metric there's always going to be some people who think we're doing better than we might be doing and some people who think we're doing worse than we might be doing. We try very hard to be very objective on this. We have a team inside the company that does nothing but this.
+      
+
+        We spend a ton of time and were very upfront. We know where we're losing [some share] in different parts of the world. I talked about that yesterday [on the Q4'22 earnings call]. I'm not worried about
+      
+
+        Page 5 of 10
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+PayPal Holdings Inc. published this content on 14 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 14 February 2023 19:21:08 UTC.
+      
+

@@ -1,0 +1,121 @@
+
+
+
+Last fiscal year, Cisco set a goal to reach net zero across its value chain by 2040. As technical leads at Cisco, we share our thoughts on how CX can help our customers along their sustainability journey.
+
+
+- Co-authored by Marisol Palmero,  Esther Roure Vila, and  Snezana Mitrovic
+
+
+        Sustainability is broadly recognized as not just an urgent need to combat climate change and protect the environment but also a business driver and digital transformation accelerator. As technical leads at Cisco who care deeply about the future of our planet, the first questions we asked were:
+      
+
+What do people mean when they talk about "sustainability"?
+How do we ensure that the world continues to be a habitable place where people can thrive?
+
+
+        One of the earliest descriptions of sustainability comes from the 1987 Brundtland Report, which defined the concept as meeting "the needs of the present generation without compromising the ability of future generations to meet their needs." This understanding evolved further among global environmental leaders and advocates, who recognized that sustainability is an undertaking requiring interdependencies between people, planet and profit. In other words, in addition to economic growth, this approach focuses also on environmental and social needs while defining the governance required to determine accountability and execution throughout the process.
+      
+
+        With the global community recognizing the need to collaborate across these dimensions to advance sustainability, the United Nations (UN) sought to clarify the specific outcomes we were aiming for. In 2015, the UN established 17 Sustainable Development Goals (SDGs). The 17 SDGs set forth a framework to build a better world for people and our planet by 2030 and are designed to be applied by governments and organizations worldwide. The success of the SDGs requires global cooperation and ambitious commitments-ideas that square with our own commitments to inclusivity and creating opportunity for all.
+      
+
+        As a large worldwide corporation - with the purpose to power an inclusive future for all through technological innovation - Cisco has the potential to make an impact. Many of our environmental, social and governance (ESG) priorities align with the Sustainable Development Goals, and we hold ourselves accountable by setting public goals and reporting annually on our progress. With last summer's record-breaking temperatures hitting locations around the world, sustainability continues to be a priority for leaders in government and business. Several of the SDGs address these issues, including Goal 13: Climate Action - which focuses on how companies can develop sustainable practices to combat climate change and its impacts.
+      
+
+        In September 2021, we set our most ambitious and important goal yet: to reach net zero across our value chain by 2040 by prioritizing deep emissions reductions across all scopes of emissions. As a team focused on customer experience, we can make a sizable impact driving these commitments. To understand how requires some explanation of how Greenhouse Gas Emissions (GHG) are measured.
+      
+
+The three scopes of company's GHG emissions
+
+
+        To make progress towards becoming net zero - which means a state where we add no incremental greenhouse gases to the atmosphere - organizations must address the three scopes of emissions defined by the Greenhouse Gas Protocol:
+      
+
+
+Scope 1: Direct Emissions - These include emissions from the fuels that companies buy and burn within their operations. Examples are natural gas used to heat buildings, back-up generators that run on diesel, and gasoline used in company-owned vehicles.
+        
+
+Scope 2: Indirect emissions - These address emissions from the generation of purchased or acquired electricity, steam, heating, and cooling.
+        
+
+Scope 3:  Value Chain - This includes indirect emissions that occur in the value chain of the company, such as employee business travel and commuting, transportation and distribution of products, supplier emissions, and use of products. Scope 3 emissions constitute approximately 75% of Cisco's total emissions, which include our customers' use of our routers, servers, or access points. (Ref.: Cisco Purpose Report 2021, page 75, chart 21)
+        
+
+
+        According to Cisco's commitment to Net Zero, we will reach net zero emissions across our value chain by 2040 by reducing our absolute Scope 1, 2, and 3 emissions by 90% compared to fiscal 2019 and neutralizing any remaining emissions by removing an equal amount from the atmosphere.
+      
+
+        CX can make an impact on the "use of sold products" category within Scope 3 as we help customers make more efficient use of their solutions. Optimizing for Cisco's Scope 3 also helps our customers reduce their Scope 1 and 2 emissions. For instance, by designing our products to be more efficient when it comes to energy usage and cooling, our customers can reduce their energy consumption and resulting GHG emissions. Then, with the help of CX, customers can assess their environments and increase efficiencies further. This is how we create a virtuous cycle!
+      
+
+The role of Cisco CX
+
+
+        As members of Cisco's CX  team, our job is to help our customers get to their business outcomes faster. This is why reducing Scope 3 emissions is an area where we can add significant value and make an impact. The first step for Cisco and our customers is to gain visibility into the emissions per scope in the enterprise and determine whether there are any interdependencies. You can only address what you can measure.
+      
+
+Energy usage measurement tailored to the customer
+
+
+        Often energy usage is only measuring the power required to turn on individual hardware. But it's important to measure how the device is being used, how other devices are using or impacting it, and the value that the device's usage is driving for the customer.
+      
+
+        For example, when thinking about throughput, how do we report energy efficiency, per network device? How does adding encryption increase the power used for a networking device, and how useful is this for secure communication? Running a feature requires more power, but it's also important to evaluate whether doing so increases efficiency for the enterprise in a positive way. Each device is part of a larger solution, and products do not work in isolation - they work as an ecosystem designed to create business value. Sustainability does not have a one-size-fits-all solution, and trade-offs may need to be made based on customer needs.
+      
+
+Driving circularity through product lifecycle visibility
+
+
+        In addition to tailoring sustainability measurements to customers' specific needs and goals, CX also has a great vantage point into understanding how to address our products' lifecycles.
+      
+
+        Sustainability is directly linked with the lifecycle of a product or solution. In a linear economy, a company mines raw materials that they then use to manufacture a product that is sold then discarded after use. In a circular economy, we maintain assets at their highest and best use for as long as possible. Instead of being thrown away, products are optimized to facilitate return, remanufacture, reuse, and recycling. A circular economy looks beyond the common "take-make-waste" model and aims to redefine growth by focusing on positive society-wide benefits.
+      
+
+Creating positive impact
+
+
+        Our team is positioned to help our customers innovate and use our products more sustainably, contribute to the overall circular economy, and find new ways of using technology to create a positive impact. Often, devices just sit there, consuming resources. We help find and create solutions that will help all our customers on their journey to net zero, which in turn benefits society at large. For example, Zero Touch Provisioning (ZTP) increases efficiency by reducing the number of manual tasks, the need for travel and overall time to market, which translates to reduced GHG emissions. Additionally, IoT sensors and Power over Ethernet (PoE) in smart building solutions are key to remotely monitoring critical infrastructure for temperature, humidity, water leaks, and even door access. They can improve uptime, reduce damage to business assets, and optimize power consumption. We believe that there are numerous opportunities to explore and pursue, and that Cisco CX can help you along this journey.
+      
+
+Defining, measuring, and advancing sustainability for our customers
+
+
+        There's much more that can be done. In upcoming blogs, we'll focus on how we believe our team can help Cisco's customers define and measure how efficiently they are using our products. As former U.S. President John F. Kennedy once said, "By defining our goal more clearly, by making it seem more manageable and less remote, we can help all people to see it, to draw hope from it, and to move irresistibly toward it."
+      
+
+        Our team can provide a consultative approach, tailored to each customer's environment and needs. That includes power usage measurements through technologies like telemetry, artificial intelligence, and machine learning. With this data-driven intelligence available to customers around the world, we can help our increasingly digital future be more sustainable, inclusive, and resilient.
+      
+
+Join us at Cisco Live! EMEA to discover how CX can help you with your sustainability journey.
+
+
+Register for one of our expert-led sessions:
+
+
+Find out more about CISCO's commitment to net zero emissons by reading the 2022 Cisco Purpose Report
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 20 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 24 January 2023 00:19:11 UTC.
+      
+

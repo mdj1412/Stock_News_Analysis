@@ -1,0 +1,79 @@
+
+
+DHAKA, Bangladesh, January 19, 2023 - Fiber@Home Limited, the largest nationwide transport (transmission) service provider in Bangladesh, has partnered with Cisco (NASDAQ: CSCO) to accelerate the conversion of their network to 400G, enabling them to seamlessly deploy an automated transport 5G-ready network across Bangladesh and support increased bandwidth demand from businesses of all sizes.
+    
+
+      Fiber@Home is using Cisco platforms for this expansion to enhance and optimize the overall customer experience, becoming the first customer in the country to adopt Cisco's Routed Optical Networking technology.
+    
+
+      As the world continues to evolve digitally, Fiber@Home is witnessing disruptive growth and adopting new technology to more efficiently build and cost-effectively manage critical IP networking infrastructure, as well as support future innovations, including the evolution of enterprise services, 5G, and IoT.
+    
+
+      Additionally, Fiber@Home aims to optimize its CapEx and OpEx by implementing new architectures on platforms ready for mass-scale networking and through automation. The company is focusing on deploying the Cisco® Network Services Orchestrator (NSO) software platform on its current network as a foundation for infrastructure programmability and automating operations and customer-facing services.
+    
+
+      "This new 400G wavelength network will offer a fourfold increase in maximum data transfer speed compared to 100G, enabling Fiber@Home to provide stable critical connectivity to our customers. The Cisco Routed Optical Networking solution streamlines and strengthens our network capacity, providing a superior customer experience while also optimizing Fiber@Home's capex and opex utilization," said Moynul Haque Siddiqui, Chairman, Fiber@Home.
+    
+
+      The upgrade to 400G will support the exponential demand for data in Bangladesh by both businesses and consumers, by converging Fiber@Home's IP and optical networks onto Cisco's unified platform.
+    
+
+      In addition to increasing data transfer speed with this collaboration, Fiber@Home will have the unique ability to enhance capacity while reducing footprint and power for a lower carbon impact. The network modelling of the solution shows up to 40-45% power reduction and real estate optimization. With IOS XR7 modularity, programmability minimizes human intervention during set-up and operation, thus reducing onsite operations. Fewer truck rolls, fewer maintenance windows, less packaging, and more recycling will help Fiber@Home's achieve their CO2 emission goals without compromising on technological innovation.
+    
+
+      "Visionary service providers like Fibre@Home recognize the value of a network that can be scaled in response to the dynamics needs of consumers and businesses. By converging their IP and optical networks, in addition to greater wavelength utilization, Fiber@Home will be able to optimize their power consumption, resulting in a much lower carbon impact, and streamline their hardware, leading to a reduction of 50% in operational costs. This partnership is a step towards bringing fast, reliable, and sustainable internet services to the people of Bangladesh," said, Anand Bhaskar, Managing Director, Service Provider Business, Cisco India & SAARC.
+    
+
+About Fiber@Home
+
+
+      Imagine a regular day without cellphones, cable TV or internet? Not possible. Fiber@Home plays a major part in the communications sector in Bangladesh in providing better services, especially Telecommunications. We build, develop, operate and maintain a nationwide optical fiber-based transmission backbone to enable a common connectivity platform for different service providers like mobile operators, cable TV operators, ISPs, etc., thus helping to create a Digital Bangladesh. This common infrastructure will use national resources optimally in the growing need of Information & Communication Technology and Telecommunication sector.
+    
+
+      Fiber@Home has undertaken a project to cover Bangladesh by laying out optical fiber network with a view to facilitate the country's ever-expanding TELCO, ISP, PSTN, BWA (WiMax), and cable TV sector. Fiber@Home was duly awarded the NTTN (Nationwide Telecommunication Transmission Network) License from the BTRC on 7 January 2009. It is the first ever company to receive such a license in Bangladesh. For more information, go to https://www.fiberathome.net/ .
+    
+
+About Cisco
+
+
+      Cisco (NASDAQ: CSCO) is the worldwide leader in technology that powers the Internet. Cisco inspires new possibilities by reimagining your applications, securing your data, transforming your infrastructure, and empowering your teams for a global and inclusive future. Discover more on The Network and follow us on Twitter at @Cisco.
+    
+
+      Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries. A listing of Cisco's trademarks can be found at www.cisco.com/go/trademarks.
+    
+
+      Supporting resources:
+    
+
+      For more information about Cisco Routed Optical Networking
+
+
+      For more information about Cisco service provider news and activities, visit the SP360 blog or follow us on Twitter @CiscoSP360
+
+
+      Follow us on our LinkedIn page for targeted updates and announcements
+    
+
+      Subscribe to Cisco's SP360 feed
+    
+
+      RSS feed for Cisco: http://newsroom.cisco.com/rss-feeds
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 20 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 20 January 2023 16:30:06 UTC.
+      
+

@@ -1,0 +1,37 @@
+WASHINGTON, Feb 8 (Reuters) - U.S. Treasury Department
+officials highlighted several challenges facing financial firms
+that are increasingly turning to cloud computing services to
+support a range of their activities, warning in a report on
+Wednesday that failure to address them could leave lingering
+vulnerabilities.The risk was particularly acute for small and medium-sized
+financial institutions, the department said.Deputy Secretary of the Treasury Wally Adeyemo said while
+"there is no question that providing consumers with secure and
+reliable financial services means greater demand for cloud-based
+technologies,” there needed to be "safe and effective migration"
+as banks and other financial companies adopt cloud services."Treasury found that cloud services could help financial
+institutions become more resilient and secure, but that there
+were some significant challenges that could detract from these
+benefits," department officials wrote in their report assessing
+current cloud adoption in the financial industry.Those issues include financial firms' exposure to potential
+cyber incidents, an industry-wide reliance on a small number of
+cloud providers and a lack of technology workers able to help
+financial institutions deploy cloud services, among other
+challenges, department officials said.The report also noted that the patchwork global rules made
+it "nearly impossible" for larger firms to consistently adopt
+cloud systems globally.For example, financial firms and cloud service providers
+in the European Union are facing stricter rules, and will need
+to show how quickly they could recover from a cyber attack under
+a law due to take effect at the end of 2024.Treasury officials recommended steps that could help the
+sector adopt cloud computing, adding that it "neither endorses
+nor discourages cloud service adoption by the sector."The banking industry was generally supportive of the report.
+The Bank Policy Institute, which represents larger banks, said
+in a statement it welcomed collaboration with government
+officials on bolstering cloud adoption and addressing risks.The department was establishing a working group to address
+the challenges raised in the report and said it would work with
+U.S. financial regulators, the industry and international
+partners to address the risks.Technology companies that provide cloud computing services
+include Amazon Inc's Amazon Web Services, Alphabet
+Inc's Google, Microsoft Corp and Oracle Corp
+.
+(Reporting by Susan Heavey and Pete Schroeder
+Editing by Bernadette Baum and Marguerita Choy)

@@ -1,0 +1,31 @@
+
+
+Award-winning Synopsys DSO.ai Solution Transforms Customer Capability with Significant Productivity and Performance Gains, and Cloud Scalability 
+Key Highlights:
+Chip design ecosystem working with Synopsys achieves first 100 commercial tape-outs across a range of applications and advanced nodesSTMicroelectronics achieves the first-ever commercial design tape-out using AI on the cloud, realizing a 3x productivity uplift for power, performance and area (PPA) using Synopsys DSO.ai on Microsoft AzureSK hynix reduced die size by up to 5% on the most advanced process technologiesSynopsys DSO.ai uses reinforcement learning to enhance PPA in very large solution spaces, saving months of manual effortMOUNTAIN VIEW, Calif., Feb. 7, 2023 /PRNewswire/ -- Synopsys, Inc. (Nasdaq: SNPS) reaches scale for AI-driven chip designs as major semiconductor customers register the first 100 commercial tape-outs with the company's award-winning Synopsys DSO.ai™ autonomous design system. Recent customers, including STMicroelectronics and SK hynix, have all seen significant uplifts in productivity and PPA, and are now charting a new design course using reinforcement learning-enabled design tools on cloud and on-premise.
+
+
+
+
+
+
+
+By using Synopsys DSO.ai (Design Space Optimization AI) the companies are setting a blistering pace for the development of advanced-node chips through the key design phases. Results from customers since the launch of Synopsys DSO.ai speak for themselves: more than 3x productivity increases, up to 25% lower total power and significant reduction in die size, with reduced use of overall resources.
+STMicroelectronics (ST), a global semiconductor leader serving customers across the spectrum of electronics applications, is using cloud-based versions of DSO.ai to generate extra momentum on the most intensive design phases. STMicroelectronics taped-out using Synopsys DSO.ai coupled with Synopsys Fusion Compiler™ and Synopsys IC Compiler™ II physical implementation tools.
+"Using the Synopsys DSO.ai design system on Microsoft Azure, we increased PPA exploration productivity by more than 3x, allowing us fast implementation of a new Arm core, while exceeding power, performance and area goals," said Philippe d'Audigier, system-on-chip hardware design director at STMicroelectronics. "We look forward to accelerating our collaboration with Synopsys and Microsoft as we explore more opportunities for new industry-leading chip designs for key projects, including ST's industrial MPUs."
+Pushing Silicon Performance and Productivity 
+Traditional design space exploration has been a highly labor-intensive effort, typically requiring months of experimentation. Using AI technology, Synopsys DSO.ai searches design spaces autonomously to discover optimal PPA solutions, massively scaling the exploration of choices in chip design workflows and automating many menial tasks.
+"Delivering high-performance, robust memory products at industry-leading volumes demands intensive optimization, which has traditionally been highly human intensive," said Junhyun Chun, head of SoC (System on Chip) at SK hynix. "Synopsys DSO.ai brings a huge amount of design team efficiency, giving our engineers more time to create differentiated features for our next generation of products. It's also driving fantastic results as demonstrated in a recent project where DSO.ai delivered a 15% cell area reduction and a 5% die shrink."
+"AI's ability to explore broader design spaces is accelerating our customers' relentless drive towards better PPA and higher productivity with fewer engineering resources," said Shankar Krishnamoorthy, GM for the EDA Group at Synopsys. "We've monitored the first 100 commercial tape-outs by customers using Synopsys DSO.ai and the results are compelling. Whether they're designing in the cloud, on-premise or a hybrid of the two, it's clear that in every case, designers are seeing significant gains from optimized designs delivering better results and faster time-to-market. The cloud-side is particularly exciting as deploying Synopsys AI technology at scale in data centers ushers an exciting new era for designers everywhere."
+"Microsoft is committed to democratizing advanced chip design, so it was a natural move for us to host the Synopsys DSO.ai design system on Azure," said Jean Boufarhat, corporate vice president, engineering, Azure Hardware and Infrastructure at Microsoft. "With AI-powered chip design on Azure, companies can leverage cloud-scaling to boost productivity and optimize very large solution spaces like high-performance computing."
+Learn more about Synopsys DSO.ai and read our blog here.
+About Synopsys
+Synopsys, Inc. (Nasdaq: SNPS) is the Silicon to Software™ partner for innovative companies developing the electronic products and software applications we rely on every day. As an S&P 500 company, Synopsys has a long history of being a global leader in electronic design automation (EDA) and semiconductor IP and offers the industry's broadest portfolio of application security testing tools and services. Whether you're a system-on-chip (SoC) designer creating advanced semiconductors, or a software developer writing more secure, high-quality code, Synopsys has the solutions needed to deliver innovative products. Learn more at www.synopsys.com.
+Editorial Contact: 
+Jim BradySynopsys, Inc.(408) 482-4719Jimbrady@synopsys.com
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ai-designed-chips-reach-scale-with-first-100-commercial-tape-outs-using-synopsys-technology-301739936.html
+SOURCE  Synopsys, Inc.
+
+

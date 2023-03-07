@@ -1,0 +1,43 @@
+
+Equity markets posted another weekly gain, but the party was spoiled by a complicated Friday session in the US. Going into the details, quite a bit has happened in the last few sessions, of which I will focus on citing the most important here.
+Firstly, The Fed's first monetary policy decision of 2023 was in line with expectations, with a small rate hike. But Jerome Powell was less combative than expected, which increased investors' risk appetite, who believe that the US central bank is moving towards a more favorable policy. 
+Secondly, big American technology groups such as Apple, Alphabet, and Amazon have published mediocre quarterly results. Don't worry about them, they are still raking in billions. But they are not so proud of it because the sales figures are not so good. I would like to remind you that it is complicated to make a turnover look better than it really is. But it is quite easy to make earnings per share match market expectations with a minimum of accounting ingenuity and a few well-intentioned share buybacks.
+Thirdly, the monthly US employment report published on Friday highlighted the saying "good news for the economy is not necessarily good news for the financial markets". Because the US economy is still going strong, at least from the point of view of the labor market where job creation is explosive and the unemployment rate is at a low point (for a more nuanced view, read a paper by economist James Knightley here). Written like that, it sounds like good news. And it probably is. But not from the point of view of US central bankers, who fear that this momentum could undermine their efforts to slash inflation in a sustainable way. At this stage, there are no signs of a price-wage spiral (rising prices lead to rising wages, which lead to rising prices, which... you get the idea). At least not in the same proportions: wages are rising, but less than prices. However, the statistic dampened the optimism seen in Tuesday, Wednesday and Thursday's sessions. Bond yields accelerated sharply on the 10-year US bond, which is a sign of the return of some tension on the path of monetary policy. But let's not get carried away: these yields are still a long way from the levels of the fall of 2022 when uncertainty about the evolution of inflation was at its peak.
+The equity and bond markets feel that the central banks are getting closer to the end of their rate hike cycle. However, some doubts remain and investors are navigating with the statistics that confirm or refute these doubts. Among the main unknowns are 
+
+The precise level of the rate peak
+How long rates will remain at the peak level (and by implication the question of when the first drop in the cycle will occur)
+And the profound economic consequences of current rate levels (on real estate, corporate financing, household consumption, etc.)
+
+Returning to last week's performance, Western equity markets posted gains generally between 1 and 2%, rising to over 3% for the Nasdaq 100, the major index that best symbolizes risk appetite. The French CAC40 performed well, gaining nearly 2%. The Parisian index was up thanks to technology companies and its exposure to luxury goods, which is an excellent mirror of the Chinese recovery.
+Let's talk about China because Hong Kong and Shanghai are down sharply this morning. This is due to the renewed geopolitical tension between Washington and Beijing after the case of the Chinese observation balloon that drifted in the sky of the United States last week. The discovery of the balloon was initially surprising, but then China explained that it was a civilian balloon that had gone astray, which nobody believed. The balloon was eventually shot down: America could not afford to let a Chinese craft roam in its airspace. Beijing took offense. This is the typical action-reaction game of this kind of situation. Nevertheless, this affair comes at a bad time, since the two powers had planned to hold high-level talks.
+In other news over the weekend, India will ban betting and lending apps linked to China. The EU is imposing a cap on Russian diesel exports and a massive earthquake hit southern Turkey and Syria. The macroeconomic calendar will be mostly filled with Asia this week, but it seems that investors are more concerned with the Fed boss' speech tomorrow at 6 pm. Will he get a clear message across after seeming to miss the point last week? That is the question. On the corporate front, the list is still particularly long this week. I'll mention a few to get you in the mood: Linde, BP Plc, BNP Paribas, Carlsberg (Tuesday), Walt Disney, TotalEnergies, CVS Health, Uber, AP Moller Maersk, Adyen, Societe Generale, Akzo, Amundi (Wednesday), AbbVie, PepsiCo, AstraZeneca, L'Oréal, Philip Morris, Unilever, S&P Global, PayPal, Siemens, Vinci, Compass, KBC, Legrand, Crédit Agricole (Thursday). Finally, there were a few capital transactions, including the "unsolicited" takeover offers of Newcrest by Newmont Corporation (that's in gold mining) and of Life Storage by Public Storage (that's in personal storage).
+Economic highlights of the day:
+German factory orders in December (3:00 am) and Eurozone retail sales in December (5:00am) will enliven the session. All the agenda here.
+ 
+The dollar is up 0.2% to EUR 0.9288 and down 0.07% to GBP 0.8298. The ounce of gold is down to 1872 USD. Oil is also under pressure, with North Sea Brent crude at USD 80.18 a barrel and US WTI light crude at USD 73.70. The yield on 10-year US debt rebounds to 3.55%. Bitcoin is falling back to around USD 22,800.
+
+In corporate news:
+
+Newmont said it has made a $16.9 billion bid for Australian miner Newcrest Mining to build a global gold conglomerate.
+Chevron has entered into negotiations with Algeria to undertake energy exploration activities in the North African country. 
+Dell will cut about 6,650 jobs, or about 5 percent of the computer giant's global workforce, due to declining demand for its personal computers.
+Oracle plans to invest $1.5 billion in Saudi Arabia in the coming years to build its cloud presence in the country.
+Public Storage, the largest U.S. operator of self-storage properties, announced Sunday that it had made an unsolicited $11 billion bid for rival Life Storage Inc.
+Carlyle has hired Harvey Schwartz, a former Goldman Sachs executive, as the private equity firm's next chief executive.
+Tesla raised U.S. prices for its best-selling Model Y vehicle by $1,000 after the government raised the price cap on crossover electric vehicles eligible for tax credits.
+Rogers - Starboard Value has amassed a significant stake in the electronic materials company and is seeking seats on the group's board.
+Southwest Airlines - The airline's chief operating officer, Andrew Watterson, will testify on Feb. 9 before the U.S. Senate Commerce Committee after the group's operational problems in December led to the cancellation of more than 16,000 flights.
+
+Analyst recommendations:
+
+Hartford Financial Services Group: Piper Sandler raised the target to $96 from $83. Maintains overweight rating.
+Lear: Evercore upgrades to inline from outperform. PT up 2.7% to $145.
+M/I Homes: Wedbush raised the target to $73 from $63. Maintains outperform rating.
+NVR: KeyBanc Capital Markets starts NVR at Sector Perform with $6,000 Price Target.
+Pool: Stifel downgrades to hold from buy targeting $360.
+RH: Telsey Advisory Group cut the recommendation to market perform from outperform. Price Target down 4% to $330.
+Saia: Benchmark Company maintains buy rating to $320 from $230. Maintains buy rating.
+Tesla: Guggenheim raised to $105 from $89.
+
+

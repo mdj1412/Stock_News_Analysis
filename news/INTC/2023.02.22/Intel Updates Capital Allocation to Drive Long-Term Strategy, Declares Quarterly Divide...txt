@@ -1,0 +1,176 @@
+
+Intel Corporation today announced that its board of directors has reset its dividend policy, reducing the quarterly dividend to $0.125 per share (or $0.50 annually) on the company’s common stock. The dividend will be payable on June 1, 2023, to stockholders of record on May 7, 2023. Intel also reaffirmed its first-quarter 2023 business outlook provided at its most recent earnings call, including revenue of between $10.5 billion and $11.5 billion; gross margin of 34.1% on a GAAP basis and 39% on a non-GAAP basis; tax rate of (84%) on a GAAP basis and 13% on a non-GAAP basis; and earnings per share of $(0.80) on a GAAP basis and $(0.15) on a non-GAAP basis.1
+
+The decision to decrease the quarterly dividend reflects the board’s deliberate approach to capital allocation and is designed to best position the company to create long-term value. The improved financial flexibility will support the critical investments needed to execute Intel’s transformation during this period of macroeconomic uncertainty. Since first initiated in 1992, Intel’s dividend has delivered more than $80 billion in cash returns to the company’s stockholders, and the board is committed to maintaining a competitive dividend.
+
+“Prudent allocation of our owners’ capital is important to enable our IDM 2.0 strategy and sustain our momentum as we rebuild our execution engine,” said Pat Gelsinger, CEO of Intel. “We remain on track to deliver five nodes in four years and continue to expand the IFS (Intel Foundry Services) customer base. We are well into the ramp of 13th Gen Intel® Core™ and 4th Gen Intel® Xeon® Scalable processors, and we look forward to the launch of Meteor Lake and Emerald Rapids in 2023 and Granite Rapids and Sierra Forest in 2024.”
+
+In addition to its prudent capital allocation, Intel continues to take decisive actions to advance its strategy, optimize its cost structure and provide transparency to its stakeholders. These actions include:
+
+“We are well on our way to meeting our commitment to reduce $3 billion in costs this year as we look to deliver $8 to $10 billion in savings exiting 2025," said David Zinsner, chief financial officer of Intel. "While we will continue to prudently manage cash and capital outlays in the near term, we are setting the foundation for significant operating leverage and free cash flow growth when we emerge from this period of outsized investments."
+
+Webcast
+
+Intel will hold a public webcast at 5:45 a.m. PDT today to discuss this news. Please visit https://edge.media-server.com/mmc/p/pqmxigih to register for the webcast. The webcast replay will also be available on Intel's Investor Relations website at intc.com.
+
+About Intel
+
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, go to newsroom.intel.com and intel.com.
+
+Forward-Looking Statements
+
+Intel’s business outlook and other statements in this release that refer to future plans and expectations are forward-looking statements that involve a number of risks and uncertainties. Words such as "access," "adjust," "advance, " "allow," "believes," "committed," "continues," "deliver," "drive," "establish, " "evaluate, " "execute, " "expand," "expects," "focus," "future," "guidance," "improve," "intend, " "invest, " "look, " "manage," "meet, " "on track," "optimize, " "outlook," "plan," "positioned," "potential," "prioritize, " "progress," "provide, " "ramp," "set, " "sharpen," "support," "take, " "unleash, " "will," and variations of such words and similar expressions are intended to identify such forward-looking statements. Statements that refer to or are based on estimates, forecasts, projections, uncertain events or assumptions, including statements relating to Intel's strategy and its anticipated benefits, including our IDM 2.0 strategy, Smart Capital strategy, SCIP, the transition to an internal foundry model, and updates to our reporting structure; manufacturing expansion, financing, and investment plans; plans, customers, and goals related to Intel’s foundry business; projected costs; pending or anticipated transactions; expected completion and impacts of restructuring activities and cost-saving or efficiency initiatives; market opportunity; business plans and financial expectations; future macroeconomic and geopolitical conditions, including regional or global downturns or recessions; tax- and accounting-related expectations; future products, technology, and services, and the expected regulation, availability, production, and benefits of such products, technology, and services, including product ramps, manufacturing goals, plans, timelines, and future progress, future process nodes and technologies, process performance parity and leadership expectations, future product architectures, and future GPU and IPU products; future business, social, and environmental performance, goals, measures, and strategies; availability, uses, sufficiency, and cost of capital resources and sources of funding, including future capital and R&D investments, and expected returns to stockholders such as stock repurchases and dividends; expectations regarding customers, including with respect to designs, wins, orders, and partnerships; projections regarding competitors; and anticipated trends in our businesses or the markets relevant to them, including with respect to future demand and industry growth, also identify forward-looking statements. All forward-looking statements included in this release are based on management's expectations as of the date of this release and, except as required by law, Intel disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. Unless specifically indicated otherwise, the forward-looking statements in this release do not reflect the potential impact of any divestitures, mergers, acquisitions, or other business combinations that have not been completed as of the date of this release. Forward-looking statements involve many risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such statements. Detailed information regarding the risk factors that could affect Intel’s business and results is included in Intel’s SEC filings, including the company’s most recent reports on Forms 10-K and 10-Q, particularly the “Risk Factors” sections of those reports. Copies of these filings may be obtained by visiting our Investor Relations website at www.intc.com or the SEC’s website at www.sec.gov.
+
+Intel Corporation
+Reconciliations of GAAP Outlook to Non-GAAP Outlook
+
+Set forth below are reconciliations of the non-GAAP financial measure to the most directly comparable US GAAP financial measure. These non-GAAP financial measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with US GAAP, and the financial outlook prepared in accordance with US GAAP and the reconciliations from this business outlook should be carefully evaluated.
+
+ 
+
+ 
+
+Q1 2023 Outlook
+
+ 
+
+ 
+
+Approximately
+
+GAAP gross margin
+
+ 
+
+34.1
+
+%
+
+Acquisition-related adjustments
+
+ 
+
+3.3
+
+%
+
+Share-based compensation
+
+ 
+
+1.6
+
+%
+
+Non-GAAP gross margin
+
+ 
+
+39.0
+
+%
+
+GAAP tax rate
+
+ 
+
+(84)
+
+%
+
+Income tax effects
+
+ 
+
+97
+
+%
+
+Non-GAAP tax rate
+
+ 
+
+13
+
+%
+
+ 
+
+ 
+
+ 
+
+GAAP earnings (loss) per share—diluted1
+
+ 
+
+$
+
+(0.80)
+
+ 
+
+Acquisition-related adjustments
+
+ 
+
+0.11
+
+ 
+
+Share-based compensation
+
+ 
+
+0.20
+
+ 
+
+Restructuring and other charges
+
+ 
+
+(0.03)
+
+ 
+
+(Gains) losses on equity investments, net
+
+ 
+
+(0.01)
+
+ 
+
+(Gains) losses from divestiture
+
+ 
+
+(0.01)
+
+ 
+
+Income tax effects
+
+ 
+
+0.39
+
+ 
+
+Non-GAAP earnings (loss) per share—diluted
+
+ 
+
+$
+
+(0.15)
+
+ 
+
+For more information on these adjustments, please see our disclosure in the “Explanation of Non-GAAP Measures” section of our most recent earnings release on INTC.com or as furnished with the SEC on Jan. 26, 2023.
+
+1The impact of non-controlling interest to our non-GAAP adjustments in Q1 2023 is expected to be insignificant and thus is not included in our reconciliation of non-GAAP measures. Outlook contemplates the change in depreciable life from 5 to 8 years, described in our most recent earnings release, and a fixed long-term projected non-GAAP tax rate.
+
+© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230222005387/en/

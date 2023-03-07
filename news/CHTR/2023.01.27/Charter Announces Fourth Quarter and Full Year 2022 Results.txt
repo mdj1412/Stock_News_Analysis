@@ -1,0 +1,1270 @@
+
+
+STAMFORD, Conn., Jan. 27, 2023 /PRNewswire/ -- Charter Communications, Inc. (along with its subsidiaries, the "Company" or "Charter") today reported financial and operating results for the three and twelve months ended December 31, 2022.
+
+
+
+
+
+
+
+Fourth quarter total residential and small and medium business ("SMB") Internet customers increased by 105,000. As of December 31, 2022, Charter served a total of 30.4 million residential and SMB Internet customers, with 344,000 total Internet customers added in 2022.Fourth quarter total residential and SMB mobile lines increased by 615,000. As of December 31, 2022, Charter served a total of 5.3 million mobile lines, with 1.7 million mobile lines added in 2022.As of December 31, 2022, Charter had a total of 32.2 million residential and SMB customer relationships, which excludes mobile-only relationships.Fourth quarter revenue of $13.7 billion grew by 3.5% year-over-year, driven by mobile revenue growth of 38.7%, advertising sales revenue growth of 24.6% and commercial revenue growth of 3.3%.Net income attributable to Charter shareholders totaled $1.2 billion in the fourth quarter. For the year ended December 31, 2022, net income attributable to Charter shareholders totaled $5.1 billion.Fourth quarter Adjusted EBITDA1 of $5.5 billion grew by 1.9% year-over-year.For the year ended December 31, 2022, revenue of $54.0 billion grew by 4.5% year-over-year. Full year 2022 Adjusted EBITDA totaled $21.6 billion, 4.8% higher than in 2021.For the year ended December 31, 2022, capital expenditures totaled $9.4 billion and included $3.0 billion of line extensions, reflecting Charter's commitment to its rural construction initiative.Full year 2022 net cash flows from operating activities totaled $14.9 billion, compared to $16.2 billion in the prior year. The year-over-year decline was primarily due to higher cash taxes.Full year 2022 free cash flow1 of $6.1 billion decreased from $8.7 billion in the prior year, due to capital expenditures associated with Charter's rural construction initiative and higher cash taxes.During the fourth quarter, Charter purchased 3.6 million shares of Charter Class A common stock and Charter Communications Holdings, LLC ("Charter Holdings") common units for approximately $1.3 billion. For the year ended December 31, 2022, Charter purchased 23.8 million shares of Charter Class A common stock and Charter Holdings common units for approximately $11.7 billion."We continued to execute well in 2022, growing customer relationships, revenue and EBITDA," said Chris Winfrey, President and CEO of Charter. "In 2023 and the coming years, we remain focused on three core initiatives — network evolution, footprint expansion and operational execution. Each of these initiatives will deliver benefits for a growing base of customers, our employees and local communities, with long-term value creation for our shareholders." 
+1.
+Adjusted EBITDA and free cash flow are non-GAAP measures defined in the "Use of Adjusted EBITDA and Free Cash Flow Information" section and are reconciled to net income attributable to Charter shareholders and net cash flows from operating activities, respectively, in the addendum of this news release.
+ 
+Key Operating Results
+Approximate as of
+December 31, 2022 (a)
+December 31, 2021 (a)
+Y/Y Change
+Footprint (b)
+Estimated Passings
+55,573
+54,521
+1.9 %
+Customer Relationships (c)
+Residential
+29,988
+29,926
+0.2 %
+SMB
+2,207
+2,143
+3.0 %
+Total Customer Relationships
+32,195
+32,069
+0.4 %
+Residential
+42
+103
+(61)
+SMB
+12
+17
+(5)
+Total Customer Relationships Quarterly Net Additions
+54
+120
+(66)
+Total Customer Relationship Penetration of Estimated Passings (d)
+57.9 %
+58.8 %
+(0.9) ppts
+Monthly Residential Revenue per Residential Customer (e)
+$               114.20
+$               114.14
+0.1 %
+Monthly SMB Revenue per SMB Customer (f)
+$               163.44
+$               164.59
+(0.7) %
+Residential Customer Relationships Penetration
+Single Play Penetration (g)
+49.1 %
+46.7 %
+2.4 ppts
+Double Play Penetration (g)
+33.1 %
+33.0 %
+0.1 ppts
+Triple Play Penetration (g)
+17.8 %
+20.4 %
+(2.6) ppts
+% Residential Non-Video Customer Relationships
+51.7 %
+49.2 %
+2.5 ppts
+Internet
+Residential
+28,412
+28,137
+1.0 %
+SMB
+2,021
+1,952
+3.5 %
+Total Internet Customers
+30,433
+30,089
+1.1 %
+Residential
+92
+172
+(80)
+SMB
+13
+18
+(5)
+Total Internet Quarterly Net Additions
+105
+190
+(85)
+Video
+Residential
+14,497
+15,216
+(4.7) %
+SMB
+650
+617
+5.3 %
+Total Video Customers
+15,147
+15,833
+(4.3) %
+Residential
+(145)
+(71)
+(74)
+SMB
+1
+13
+(12)
+Total Video Quarterly Net Additions
+(144)
+(58)
+(86)
+Voice
+Residential
+7,697
+8,621
+(10.7) %
+SMB
+1,286
+1,282
+0.3 %
+Total Voice Customers
+8,983
+9,903
+(9.3) %
+Residential
+(232)
+(163)
+(69)
+SMB
+(1)
+9
+(10)
+Total Voice Quarterly Net Additions
+(233)
+(154)
+(79)
+Mobile Lines (h)
+Residential
+5,116
+3,448
+48.4 %
+SMB
+176
+116
+51.5 %
+Total Mobile Lines
+5,292
+3,564
+48.5 %
+Residential
+600
+363
+237
+SMB
+15
+17
+(2)
+Total Mobile Lines Quarterly Net Additions
+615
+380
+235
+Enterprise (i)
+Enterprise Primary Service Units ("PSUs")
+284
+272
+4.4 %
+Enterprise Quarterly Net Additions
+2
+3
+(1)
+Footnotes - In thousands, except per customer and penetration data. See footnotes to unaudited summary of operating statistics on page 6 of the addendum of this news release. The footnotes contain important disclosures regarding the definitions used for these operating statistics.  All percentages are calculated using whole numbers. Minor differences may exist due to rounding.
+As of December 31, 2022, Charter had 30.0 million residential customer relationships.
+Fourth quarter residential Internet customers increased by 92,000, compared to an increase of 172,000 customers during the fourth quarter of 2021. Spectrum Internet® delivers the fastest speeds in Charter's footprint.1 Charter offers Spectrum Internet products with speeds up to 1 Gbps across its entire footprint. Charter's Advanced WiFi, a managed WiFi service that provides customers an optimized home network while providing greater control of their connected devices with enhanced security and privacy, is available to nearly all Spectrum Internet customers. In October 2022, Charter introduced Spectrum One, which brings together Spectrum Internet, Advanced WiFi and Unlimited Spectrum MobileTM, to offer consumers faster, more reliable and secure online connections on their favorite devices at home and on the go in a high-value package.
+Residential video customers decreased by 145,000 in the fourth quarter of 2022, compared to a decline of 71,000 in the fourth quarter of 2021. As of December 31, 2022, Charter had 14.5 million residential video customers.
+During the fourth quarter of 2022, residential wireline voice customers declined by 232,000, compared to a decline of 163,000 in the fourth quarter of 2021. As of December 31, 2022, Charter had 7.7 million residential wireline voice customers.
+Fourth quarter 2022 residential revenue per residential customer (excluding mobile) totaled $114.20, and increased by 0.1% compared to the prior year period, given promotional rate step-ups and rate adjustments, partly offset by a higher mix of non-video customer relationships and a higher mix of lower priced video packages within Charter's video customer base.
+SMB customer relationships grew by 12,000 in the fourth quarter of 2022, while fourth quarter 2021 SMB customer relationships grew by 17,000. Enterprise PSUs grew by 2,000 in the fourth quarter of 2022 versus 3,000 added in the fourth quarter of 2021.
+During the fourth quarter of 2022, Charter added 615,000 mobile lines, compared to growth of 380,000 during the fourth quarter of 2021. Spectrum Mobile is available to all new and existing Spectrum Internet customers. Spectrum Mobile customers can choose "Unlimited" or "By the Gig" data plans. Spectrum Mobile offers the fastest overall speeds,2 with plans that include 5G access and taxes and fees and do not require contracts. Spectrum One and Spectrum Mobile are central to Charter's converged network strategy to provide consumers a differentiated connectivity experience with highly competitive, simple data plans and pricing.
+1. Based on Ookla's Speedtest Global Index median fixed download speeds for Q4 2022, which indicates that Spectrum Internet continues to deliver faster speeds than its competitors.
+2. Fastest Overall Speed claim based on Global Wireless Solutions' combined cellular and WiFi speed test results in Spectrum service area where WiFi is available. Cellular speeds vary by location.
+Fourth Quarter Financial Results
+(in millions)
+Three Months Ended December 31, 
+2022
+2021
+% Change
+Revenues:
+Internet
+$      5,637
+$      5,424
+3.9 %
+Video
+4,251
+4,406
+(3.5) %
+Voice
+379
+396
+(4.3) %
+Residential revenue
+10,267
+10,226
+0.4 %
+Small and medium business
+1,080
+1,054
+2.4 %
+Enterprise
+674
+643
+4.9 %
+Commercial revenue
+1,754
+1,697
+3.3 %
+Advertising sales
+558
+448
+24.6 %
+Mobile
+876
+632
+38.7 %
+Other
+219
+209
+4.9 %
+Total Revenues
+$    13,674
+$    13,212
+3.5 %
+Net income attributable to Charter shareholders
+$      1,196
+$      1,610
+(25.7) %
+Net income attributable to Charter shareholders margin
+8.7 %
+12.2 %
+Adjusted EBITDA1
+$      5,482
+$      5,379
+1.9 %
+Adjusted EBITDA margin
+40.1 %
+40.7 %
+Capital Expenditures
+$      2,920
+$      2,072
+40.9 %
+% Total Revenues
+21.4 %
+15.7 %
+Net cash flows from operating activities
+$      3,787
+$      4,226
+(10.4) %
+Free cash flow1
+$      1,136
+$      2,285
+(50.3) %
+1. 
+See page 1 of the addendum for a GAAP reconciliation of Adjusted EBITDA and free cash flow.
+Revenues
+Fourth quarter revenue increased by 3.5% year-over-year to $13.7 billion, driven primarily by growth in mobile, advertising sales and commercial revenues.
+Residential revenue totaled $10.3 billion in the fourth quarter, an increase of 0.4% year-over-year.
+Internet revenue grew by 3.9% year-over-year to $5.6 billion, driven by growth in Internet customers during the last year, promotional rate step-ups, reduced bundled discounts and rate adjustments, partly offset by lower bundled revenue allocation.
+Video revenue totaled $4.3 billion in the fourth quarter, a decrease of 3.5% compared to the prior year period, driven by a higher mix of lower priced video packages within Charter's video customer base and a decline in video customers during the last year, partly offset by promotional rate step-ups and video rate adjustments that pass through programmer rate increases.
+Voice revenue totaled $379 million in the fourth quarter, a decrease of 4.3% compared to the fourth quarter of 2021, driven by a decline in wireline voice customers over the last twelve months, partly offset by voice rate adjustments.
+Commercial revenue increased by 3.3% year-over-year to $1.8 billion, driven by SMB and enterprise revenue growth of 2.4% and 4.9% year-over-year, respectively. Fourth quarter 2022 SMB revenue growth was driven by customer relationship growth. Enterprise revenue excluding wholesale increased by 9.1% year-over-year, mostly reflecting PSU growth.
+Fourth quarter advertising sales revenue of $558 million increased by 24.6% compared to the year-ago quarter, primarily driven by higher political revenue. Excluding political revenue in both periods, advertising sales revenue decreased by 3.4% year-over-year, due to lower local and national advertising revenue, partly offset by higher advanced advertising revenue.
+Fourth quarter mobile revenue totaled $876 million, an increase of 38.7% year-over-year, driven by mobile line growth.
+Operating Costs and Expenses
+Fourth quarter programming costs decreased by $95 million, or 3.3% as compared to the fourth quarter of 2021, reflecting fewer video customers and a higher mix of lower cost packages within Charter's video customer base, partly offset by contractual programming rate increases and renewals.
+Regulatory, connectivity and produced content expenses decreased by $31 million, or 5.3% year-over-year, primarily driven by lower regulatory and franchise fees and lower video CPE sold to customers.
+Costs to service customers increased by $108 million, or 5.8% year-over-year. The year-over-year increase in costs to service customers was primarily driven by adjustments to job structure, pay and benefits to build a more skilled and longer tenured workforce, higher fuel and freight costs and higher bad debt, partly offset by productivity improvements. Costs to service customers excluding bad debt increased by 4.9% year-over-year.
+Marketing expenses increased by $55 million, or 6.9% year-over-year, due to higher staffing levels and wages as Charter focuses on providing better service to new and existing customers.
+Fourth quarter mobile costs totaled $982 million, an increase of 35.7% year-over-year, and were comprised of device costs, customer acquisition costs and service and operating costs.
+Other expenses increased by $64 million, or 6.6% as compared to the fourth quarter of 2021, primarily due to higher labor costs and higher advertising sales expense related to higher political revenue.
+Net Income Attributable to Charter Shareholders
+Net income attributable to Charter shareholders totaled $1.2 billion in the fourth quarter of 2022, compared to $1.6 billion in the fourth quarter of 2021. The year-over-year decrease in net income attributable to Charter shareholders was primarily driven by higher income tax expense, higher interest expense, net and the change in other income (expense), net, partly offset by higher Adjusted EBITDA. 
+Net income per basic common share attributable to Charter shareholders totaled $7.79 in the fourth quarter of 2022 compared to $9.17 during the same period last year. The decrease was primarily the result of the factors described above, partly offset by the benefit of a 12.6% decrease in basic weighted average common shares outstanding versus the prior year period.
+Adjusted EBITDA
+Fourth quarter Adjusted EBITDA of $5.5 billion grew by 1.9% year-over-year, reflecting growth in revenue and operating expenses of 3.5% and 4.6%, respectively.
+Capital Expenditures
+Capital expenditures totaled $2.9 billion in the fourth quarter of 2022, compared to $2.1 billion during the fourth quarter of 2021. The increase was primarily driven by higher spend on line extensions, which totaled $928 million in the fourth quarter of 2022, compared to $451 million in the prior year quarter, driven by Charter's rural construction initiative. Fourth quarter capital expenditures excluding line extensions totaled $2.0 billion, compared to $1.6 billion in the fourth quarter of 2021, driven by investment in network evolution, higher customer premise equipment spend on Advanced WiFi equipment and timing of spend.
+Cash Flow and Free Cash Flow
+During the fourth quarter of 2022, net cash flows from operating activities totaled $3.8 billion, compared to $4.2 billion in the prior year quarter. The year-over-year decrease in net cash flows from operating activities was primarily due to higher cash taxes.
+Free cash flow in the fourth quarter of 2022 totaled $1.1 billion, compared to $2.3 billion during the same period last year. The year-over-year decrease in free cash flow was primarily driven by a decrease in net cash flows from operating activities and an increase in capital expenditures.
+Liquidity & Financing
+As of December 31, 2022, total principal amount of debt was $97.4 billion and Charter's credit facilities provided approximately $4.0 billion of additional liquidity in excess of Charter's $645 million cash position.
+Share Repurchases
+During the three months ended December 31, 2022, Charter purchased 3.6 million shares of Charter Class A common stock and Charter Holdings common units for approximately $1.3 billion.
+Full Year Financial Results
+(in millions)
+Year Ended December 31,
+2022
+2021
+% Change
+Revenues:
+Internet
+$    22,222
+$    21,094
+5.3 %
+Video
+17,460
+17,630
+(1.0) %
+Voice
+1,559
+1,598
+(2.5) %
+Residential revenue
+41,241
+40,322
+2.3 %
+Small and medium business
+4,301
+4,170
+3.1 %
+Enterprise
+2,677
+2,573
+4.0 %
+Commercial revenue
+6,978
+6,743
+3.5 %
+Advertising sales
+1,882
+1,594
+18.1 %
+Mobile
+3,042
+2,178
+39.7 %
+Other
+879
+845
+4.0 %
+Total Revenues
+$    54,022
+$    51,682
+4.5 %
+Net income attributable to Charter shareholders
+$      5,055
+$      4,654
+8.6 %
+Net income attributable to Charter shareholders margin
+9.4 %
+9.0 %
+Adjusted EBITDA1
+$    21,616
+$    20,630
+4.8 %
+Adjusted EBITDA margin
+40.0 %
+39.9 %
+Capital Expenditures
+$      9,376
+$      7,635
+22.8 %
+% Total Revenues
+17.4 %
+14.8 %
+Net cash flows from operating activities
+$    14,925
+$    16,239
+(8.1) %
+Free cash flow1
+$      6,102
+$      8,684
+(29.7) %
+Revenues
+For the year ended December 31, 2022, revenues increased to $54.0 billion, 4.5% higher than in 2021, driven primarily by growth in residential, mobile and advertising sales revenues.
+Operating Costs and Expenses
+Operating costs and expenses totaled $32.4 billion in 2022, an increase of $1.4 billion, or 4.4% compared to the prior year ended December 31, 2021, primarily driven by increases in mobile, costs to service customers and marketing expenses. 
+Net Income Attributable to Charter Shareholders
+Net income attributable to Charter shareholders totaled $5.1 billion for the year ended December 31, 2022, compared to $4.7 billion in 2021. The year-over-year increase in net income attributable to Charter shareholders was primarily driven by higher Adjusted EBITDA, partly offset by higher income tax expense.
+Net income per basic common share attributable to Charter shareholders totaled $31.30 for the year ended December 31, 2022, compared to $25.34 during the same period last year. The increase was primarily the result of the factors described above in addition to a 12.1% decrease in weighted average common shares outstanding versus the prior year period.
+Adjusted EBITDA
+Adjusted EBITDA totaled $21.6 billion for the year ended December 31, 2022, an increase of 4.8% compared to 2021, reflecting growth in revenue and operating expenses of 4.5% and 4.4%, respectively. 
+Capital Expenditures
+Capital expenditures totaled $9.4 billion for the year ended December 31, 2022, compared to $7.6 billion in 2021. The increase was primarily driven by higher spend on line extensions, which totaled $3.0 billion in 2022, driven by Charter's rural construction initiative. For the full year 2022, capital expenditures excluding line extensions totaled $6.4 billion.
+Charter currently expects full year 2023 capital expenditures, excluding line extensions, to be between $6.5 billion and $6.8 billion. Charter expects 2023 line extensions capital expenditures to approximate $4 billion. The actual amount of capital expenditures in 2023 will depend on a number of factors including, but not limited to, the pace of Charter's network evolution and rural construction initiatives, supply chain timing and growth rates in Charter's residential and commercial businesses.
+Cash Flow and Free Cash Flow
+For the year ended December 31, 2022, net cash flows from operating activities totaled $14.9 billion, compared to $16.2 billion in 2021. The year-over-year decrease in net cash flows from operating activities was primarily due to higher cash taxes, higher cash paid for interest and the payment of litigation settlements, partly offset by an increase in Adjusted EBITDA.
+Free cash flow for the year ended December 31, 2022 was $6.1 billion, compared to $8.7 billion during the same period last year. The year-over-year decrease in free cash flow was driven by a decrease in net cash flows from operating activities and an increase in capital expenditures.
+Share Repurchases
+During the year ended December 31, 2022, Charter purchased 23.8 million shares of Charter Class A common stock and Charter Holdings common units, or 12.0% of fully diluted shares outstanding (including as-exchanged Charter Holdings common units) as of December 31, 2021, for approximately $11.7 billion.
+Webcast
+Charter will host a webcast on Friday, January 27, 2023 at 8:30 a.m. Eastern Time (ET) related to the contents of this release.
+The webcast can be accessed live via the Company's investor relations website at ir.charter.com. Participants should go to the webcast link no later than 10 minutes prior to the start time to register. The webcast will be archived at ir.charter.com two hours after completion of the webcast.
+Additional Information Available on Website
+The information in this press release should be read in conjunction with the financial statements and footnotes contained in the Company's Annual Report on Form 10-K for the year ended December 31, 2022, which will be posted on the "Results & SEC Filings" section of the Company's investor relations website at ir.charter.com, when it is filed with the Securities and Exchange Commission (the "SEC"). A slide presentation to accompany the conference call and a trending schedule containing historical customer and financial data will also be available in the "Results & SEC Filings" section.
+Use of Adjusted EBITDA and Free Cash Flow Information
+The Company uses certain measures that are not defined by U.S. generally accepted accounting principles ("GAAP") to evaluate various aspects of its business. Adjusted EBITDA and free cash flow are non-GAAP financial measures and should be considered in addition to, not as a substitute for, net income attributable to Charter shareholders and net cash flows from operating activities reported in accordance with GAAP. These terms, as defined by Charter, may not be comparable to similarly titled measures used by other companies. Adjusted EBITDA and free cash flow are reconciled to net income attributable to Charter shareholders and net cash flows from operating activities, respectively, in the Addendum to this release.
+Adjusted EBITDA is defined as net income attributable to Charter shareholders plus net income attributable to noncontrolling interest, net interest expense, income taxes, depreciation and amortization, stock compensation expense, other income (expenses), net and other operating (income) expenses, net, such as special charges and (gain) loss on sale or retirement of assets. As such, it eliminates the significant non-cash depreciation and amortization expense that results from the capital-intensive nature of the Company's businesses as well as other non-cash or special items, and is unaffected by the Company's capital structure or investment activities. However, this measure is limited in that it does not reflect the periodic costs of certain capitalized tangible and intangible assets used in generating revenues and the cash cost of financing. These costs are evaluated through other financial measures.     
+Free cash flow is defined as net cash flows from operating activities, less capital expenditures and changes in accrued expenses related to capital expenditures.   
+Management and Charter's board of directors use Adjusted EBITDA and free cash flow to assess Charter's performance and its ability to service its debt, fund operations and make additional investments with internally generated funds. In addition, Adjusted EBITDA generally correlates to the leverage ratio calculation under the Company's credit facilities or outstanding notes to determine compliance with the covenants contained in the facilities and notes (all such documents have been previously filed with the SEC). For the purpose of calculating compliance with leverage covenants, the Company uses Adjusted EBITDA, as presented, excluding certain expenses paid by its operating subsidiaries to other Charter entities. The Company's debt covenants refer to these expenses as management fees, which were $355 million and $352 million for the three months ended December 31, 2022 and 2021, respectively, and $1.4 billion and $1.3 billion for the years ended December 31, 2022 and 2021, respectively.
+About Charter
+Charter Communications, Inc. (NASDAQ:CHTR) is a leading broadband connectivity company and cable operator serving more than 32 million customers in 41 states through its Spectrum brand. Over an advanced communications network, the Company offers a full range of state-of-the-art residential and business services including Spectrum Internet®, TV, Mobile and Voice.
+For small and medium-sized companies, Spectrum Business® delivers the same suite of broadband products and services coupled with special features and applications to enhance productivity, while for larger businesses and government entities, Spectrum Enterprise provides highly customized, fiber-based solutions. Spectrum Reach® delivers tailored advertising and production for the modern media landscape. The Company also distributes award-winning news coverage and sports programming to its customers through Spectrum Networks. More information about Charter can be found at corporate.charter.com.
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
+This communication includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, regarding, among other things, our plans, strategies and prospects, both business and financial.  Although we believe that our plans, intentions and expectations as reflected in or suggested by these forward-looking statements are reasonable, we cannot assure you that we will achieve or realize these plans, intentions or expectations.  Forward-looking statements are inherently subject to risks, uncertainties and assumptions including, without limitation, the factors described under "Risk Factors" from time to time in our filings with the SEC.  Many of the forward-looking statements contained in this communication may be identified by the use of forward-looking words such as "believe," "expect," "anticipate," "should," "planned," "will," "may," "intend," "estimated," "aim," "on track," "target," "opportunity," "tentative," "positioning," "designed," "create," "predict," "project," "initiatives," "seek," "would," "could," "continue," "ongoing," "upside," "increases," "grow," "focused on" and "potential," among others.  Important factors that could cause actual results to differ materially from the forward-looking statements we make in this communication are set forth in our annual report on Form 10-K, and in other reports or documents that we file from time to time with the SEC, and include, but are not limited to:
+our ability to sustain and grow revenues and cash flow from operations by offering Internet, video, voice, mobile, advertising and other services to residential and commercial customers, to adequately meet the customer experience demands in our service areas and to maintain and grow our customer base, particularly in the face of increasingly aggressive competition, the need for innovation and the related capital expenditures;the impact of competition from other market participants, including but not limited to incumbent telephone companies, direct broadcast satellite ("DBS") operators, wireless broadband and telephone providers, digital subscriber line ("DSL") providers, fiber to the home providers and providers of video content over broadband Internet connections;general business conditions, unemployment levels and the level of activity in the housing sector and economic uncertainty or downturn;our ability to obtain programming at reasonable prices or to raise prices to offset, in whole or in part, the effects of higher programming costs (including retransmission consents and distribution requirements);our ability to develop and deploy new products and technologies including consumer services and service platforms;any events that disrupt our networks, information systems or properties and impair our operating activities or our reputation;the effects of governmental regulation on our business including subsidies to consumers, subsidies and incentives for competitors, costs, disruptions and possible limitations on operating flexibility related to, and our ability to comply with, regulatory conditions applicable to us;the ability to hire and retain key personnel;our ability to procure necessary services and equipment from our vendors in a timely manner and at reasonable costs including in connection with our network evolution and rural construction initiatives;the availability and access, in general, of funds to meet our debt obligations prior to or when they become due and to fund our operations and necessary capital expenditures, either through (i) cash on hand, (ii) free cash flow, or (iii) access to the capital or credit markets; andour ability to comply with all covenants in our indentures and credit facilities, any violation of which, if not cured in a timely manner, could trigger a default of our other obligations under cross-default provisions.All forward-looking statements attributable to us or any person acting on our behalf are expressly qualified in their entirety by this cautionary statement.  We are under no duty or obligation to update any of the forward-looking statements after the date of this communication.
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+UNAUDITED RECONCILIATION OF NON-GAAP MEASURES TO GAAP MEASURES
+(dollars in millions)
+Three Months Ended December 31, 
+Year Ended December 31,
+2022
+2021
+2022
+2021
+Net income attributable to Charter shareholders
+$             1,196
+$             1,610
+$             5,055
+$             4,654
+Plus:  Net income attributable to noncontrolling interest
+189
+224
+794
+666
+Interest expense, net
+1,227
+1,034
+4,556
+4,037
+Income tax expense
+419
+224
+1,613
+1,068
+Depreciation and amortization
+2,192
+2,280
+8,903
+9,345
+Stock compensation expense
+110
+98
+470
+430
+Other (income) expenses, net
+149
+(91)
+225
+430
+Adjusted EBITDA
+$             5,482
+$             5,379
+$           21,616
+$           20,630
+Net cash flows from operating activities
+$             3,787
+$             4,226
+$           14,925
+$           16,239
+Less:  Purchases of property, plant and equipment
+(2,920)
+(2,072)
+(9,376)
+(7,635)
+Change in accrued expenses related to capital expenditures
+269
+131
+553
+80
+Free cash flow
+$             1,136
+$             2,285
+$             6,102
+$             8,684
+The above schedule is presented in order to reconcile Adjusted EBITDA and free cash flow, non-GAAP measures, to the most directly comparable GAAP measures in accordance with Section 401(b) of the Sarbanes-Oxley Act.
+ 
+UNAUDITED ALTERNATIVE PRESENTATION OF ADJUSTED EBITDA
+(dollars in millions)
+Three Months Ended December 31, 
+Year Ended December 31,
+2022
+2021
+% Change
+2022
+2021
+% Change
+REVENUES:
+Internet
+$        5,637
+$        5,424
+3.9 %
+$      22,222
+$      21,094
+5.3 %
+Video
+4,251
+4,406
+(3.5) %
+17,460
+17,630
+(1.0) %
+Voice
+379
+396
+(4.3) %
+1,559
+1,598
+(2.5) %
+Residential revenue
+10,267
+10,226
+0.4 %
+41,241
+40,322
+2.3 %
+Small and medium business
+1,080
+1,054
+2.4 %
+4,301
+4,170
+3.1 %
+Enterprise
+674
+643
+4.9 %
+2,677
+2,573
+4.0 %
+Commercial revenue
+1,754
+1,697
+3.3 %
+6,978
+6,743
+3.5 %
+Advertising sales
+558
+448
+24.6 %
+1,882
+1,594
+18.1 %
+Mobile
+876
+632
+38.7 %
+3,042
+2,178
+39.7 %
+Other
+219
+209
+4.9 %
+879
+845
+4.0 %
+Total Revenues
+13,674
+13,212
+3.5 %
+54,022
+51,682
+4.5 %
+COSTS AND EXPENSES:
+Programming
+2,800
+2,895
+(3.3) %
+11,620
+11,844
+(1.9) %
+Regulatory, connectivity and produced content
+561
+592
+(5.3) %
+2,303
+2,494
+(7.7) %
+Costs to service customers
+1,971
+1,863
+5.8 %
+7,772
+7,393
+5.1 %
+Marketing
+846
+791
+6.9 %
+3,339
+3,071
+8.7 %
+Mobile
+982
+724
+35.7 %
+3,385
+2,489
+36.0 %
+Other expense (a)
+1,032
+968
+6.6 %
+3,987
+3,761
+6.0 %
+Total operating costs and expenses (a)
+8,192
+7,833
+4.6 %
+32,406
+31,052
+4.4 %
+Adjusted EBITDA
+$        5,482
+$        5,379
+1.9 %
+$      21,616
+$      20,630
+4.8 %
+(a)
+Other expense excludes stock compensation expense.  Total operating costs and expenses excludes stock compensation expense, depreciation and amortization and other operating (income) expenses, net.
+All percentages are calculated using whole numbers. Minor differences may exist due to rounding.
+ 
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+UNAUDITED CONSOLIDATED STATEMENTS OF OPERATIONS
+(dollars in millions, except per share data)
+Three Months Ended December 31, 
+Year Ended December 31,
+2022
+2021
+2022
+2021
+REVENUES
+$           13,674
+$           13,212
+$           54,022
+$           51,682
+COSTS AND EXPENSES:
+Operating costs and expenses (exclusive of items shown separately below)
+8,302
+7,931
+32,876
+31,482
+Depreciation and amortization
+2,192
+2,280
+8,903
+9,345
+Other operating expenses, net
+140
+45
+281
+329
+10,634
+10,256
+42,060
+41,156
+Income from operations
+3,040
+2,956
+11,962
+10,526
+OTHER INCOME (EXPENSES):
+Interest expense, net
+(1,227)
+(1,034)
+(4,556)
+(4,037)
+Other income (expense), net
+(9)
+136
+56
+(101)
+(1,236)
+(898)
+(4,500)
+(4,138)
+Income before income taxes
+1,804
+2,058
+7,462
+6,388
+Income tax expense
+(419)
+(224)
+(1,613)
+(1,068)
+Consolidated net income 
+1,385
+1,834
+5,849
+5,320
+Less: Net income attributable to noncontrolling interests
+(189)
+(224)
+(794)
+(666)
+Net income attributable to Charter shareholders
+$             1,196
+$             1,610
+$             5,055
+$             4,654
+EARNINGS PER COMMON SHARE ATTRIBUTABLE TO CHARTER SHAREHOLDERS:
+Basic
+$               7.79
+$               9.17
+$             31.30
+$             25.34
+Diluted
+$               7.69
+$               8.93
+$             30.74
+$             24.47
+Weighted average common shares outstanding, basic 
+153,523,976
+175,623,846
+161,501,355
+183,669,369
+Weighted average common shares outstanding, diluted
+155,554,890
+180,417,622
+164,433,596
+193,042,948
+ 
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(dollars in millions)
+December 31,
+2022
+2021
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents
+$                    645
+$                    601
+Accounts receivable, net
+2,921
+2,579
+Prepaid expenses and other current assets
+451
+386
+Total current assets
+4,017
+3,566
+INVESTMENT IN CABLE PROPERTIES:
+Property, plant and equipment, net
+36,039
+34,310
+Customer relationships, net
+2,772
+4,060
+Franchises
+67,363
+67,346
+Goodwill
+29,563
+29,562
+Total investment in cable properties, net
+135,737
+135,278
+OTHER NONCURRENT ASSETS
+4,769
+3,647
+Total assets
+$              144,523
+$              142,491
+LIABILITIES AND SHAREHOLDERS' EQUITY 
+CURRENT LIABILITIES:
+Accounts payable and accrued liabilities
+$               10,555
+$                 9,461
+Current portion of long-term debt
+1,510
+2,997
+Total current liabilities
+12,065
+12,458
+LONG-TERM DEBT
+96,093
+88,564
+DEFERRED INCOME TAXES
+19,058
+19,096
+OTHER LONG-TERM LIABILITIES
+4,758
+4,217
+SHAREHOLDERS' EQUITY:
+Controlling interest
+9,119
+14,050
+Noncontrolling interests
+3,430
+4,106
+Total shareholders' equity 
+12,549
+18,156
+Total liabilities and shareholders' equity
+$              144,523
+$              142,491
+ 
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+UNAUDITED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in millions)
+Three Months Ended December 31, 
+Year Ended December 31,
+2022
+2021
+2022
+2021
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Consolidated net income 
+$             1,385
+$             1,834
+$             5,849
+$             5,320
+Adjustments to reconcile consolidated net income to net cash flows from operating activities:
+Depreciation and amortization
+2,192
+2,280
+8,903
+9,345
+Stock compensation expense
+110
+98
+470
+430
+Noncash interest income, net
+(5)
+(3)
+(17)
+(23)
+Deferred income taxes
+(78)
+158
+87
+826
+Other, net
+142
+(98)
+29
+181
+Changes in operating assets and liabilities, net of effects from acquisitions and dispositions:
+Accounts receivable
+(80)
+71
+(342)
+(35)
+Prepaid expenses and other assets
+(106)
+(40)
+(202)
+(167)
+Accounts payable, accrued liabilities and other
+227
+(74)
+148
+362
+Net cash flows from operating activities
+3,787
+4,226
+14,925
+16,239
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of property, plant and equipment
+(2,920)
+(2,072)
+(9,376)
+(7,635)
+Change in accrued expenses related to capital expenditures
+269
+131
+553
+80
+Other, net
+(117)
+(51)
+(291)
+(199)
+Net cash flows from investing activities
+(2,768)
+(1,992)
+(9,114)
+(7,754)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Borrowings of long-term debt
+4,115
+5,713
+25,643
+20,976
+Repayments of long-term debt
+(3,652)
+(2,495)
+(19,311)
+(12,146)
+Payments for debt issuance costs
+—
+(26)
+(71)
+(102)
+Purchase of treasury stock
+(1,032)
+(4,597)
+(10,277)
+(15,431)
+Proceeds from exercise of stock options 
+—
+1
+5
+44
+Purchase of noncontrolling interest
+(223)
+(734)
+(1,602)
+(2,234)
+Distributions to noncontrolling interest
+(55)
+(4)
+(111)
+(75)
+Other, net
+(7)
+43
+(43)
+83
+Net cash flows from financing activities
+(854)
+(2,099)
+(5,767)
+(8,885)
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 
+165
+135
+44
+(400)
+CASH AND CASH EQUIVALENTS, beginning of period
+480
+466
+601
+1,001
+CASH AND CASH EQUIVALENTS, end of period
+$                645
+$                601
+$                645
+$                601
+CASH PAID FOR INTEREST
+$             1,258
+$             1,005
+$             4,509
+$             4,043
+CASH PAID FOR TAXES
+$                439
+$                  58
+$             1,321
+$                157
+ 
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+UNAUDITED SUMMARY OF OPERATING STATISTICS
+(in thousands, except per customer and penetration data)
+Approximate as of
+December 31, 2022 (a)
+September 30, 2022 (a)
+December 31, 2021 (a)
+Footprint (b)
+Estimated Passings 
+55,573
+55,288
+54,521
+Customer Relationships (c)
+Residential 
+29,988
+29,946
+29,926
+SMB
+2,207
+2,195
+2,143
+Total Customer Relationships 
+32,195
+32,141
+32,069
+Residential 
+42
+4
+103
+SMB
+12
+13
+17
+Total Customer Relationships Quarterly Net Additions
+54
+17
+120
+Total Customer Relationship Penetration of Estimated Passings (d)
+57.9 %
+58.1 %
+58.8 %
+Monthly Residential Revenue per Residential Customer (e)
+$         114.20
+$         115.16
+$         114.14
+Monthly SMB Revenue per SMB Customer (f)
+$         163.44
+$         164.89
+$         164.59
+Residential Customer Relationships Penetration
+Single Play Penetration (g)
+49.1 %
+48.5 %
+46.7 %
+Double Play Penetration (g)
+33.1 %
+33.1 %
+33.0 %
+Triple Play Penetration (g)
+17.8 %
+18.4 %
+20.4 %
+% Residential Non-Video Customer Relationships
+51.7 %
+51.1 %
+49.2 %
+Internet
+Residential
+28,412
+28,320
+28,137
+SMB
+2,021
+2,008
+1,952
+Total Internet Customers
+30,433
+30,328
+30,089
+Residential
+92
+61
+172
+SMB
+13
+14
+18
+Total Internet Quarterly Net Additions
+105
+75
+190
+Video
+Residential
+14,497
+14,642
+15,216
+SMB
+650
+649
+617
+Total Video Customers
+15,147
+15,291
+15,833
+Residential
+(145)
+(211)
+(71)
+SMB
+1
+7
+13
+Total Video Quarterly Net Additions
+(144)
+(204)
+(58)
+Voice 
+Residential
+7,697
+7,929
+8,621
+SMB
+1,286
+1,287
+1,282
+Total Voice Customers
+8,983
+9,216
+9,903
+Residential
+(232)
+(271)
+(163)
+SMB
+(1)
+—
+9
+Total Voice Quarterly Net Additions
+(233)
+(271)
+(154)
+Mobile Lines (h)
+Residential
+5,116
+4,516
+3,448
+SMB
+176
+161
+116
+Total Mobile Lines
+5,292
+4,677
+3,564
+Residential
+600
+382
+363
+SMB
+15
+14
+17
+Total Mobile Lines Quarterly Net Additions
+615
+396
+380
+Enterprise (i)
+Enterprise Primary Service Units ("PSUs")
+284
+282
+272
+Enterprise Quarterly Net Additions
+2
+5
+3
+(a)
+We calculate the aging of customer accounts based on the monthly billing cycle for each account.  On that basis, at December 31, 2022, September 30, 2022 and December 31, 2021, customers included approximately 144,100, 151,700 and 128,300 customers, respectively, whose accounts were over 60 days past due, approximately 52,800, 55,500 and 26,800 customers, respectively, whose accounts were over 90 days past due and approximately 214,100, 149,300 and 43,200 customers, respectively, whose accounts were over 120 days past due.  Bad debt expense associated with these past due accounts has been reflected in our consolidated statements of operations.  The increase in past due accounts is predominately due to pre-existing and incremental unsubsidized services, including video services, for those customers participating in government assistance programs.  These customers are downgraded to a fully subsidized Internet-only service.
+(b)
+Passings represent our estimate of the number of units, such as single family homes, apartment and condominium units and SMB and enterprise sites passed by our cable distribution network in the areas where we offer the service indicated.  These estimates are based upon the information available at this time and are updated for all periods presented when new information becomes available. 
+(c)
+Customer relationships include the number of customers that receive one or more levels of service, encompassing Internet, video and voice services, without regard to which service(s) such customers receive.  Customers who reside in residential multiple dwelling units ("MDUs") and that are billed under bulk contracts are counted based on the number of billed units within each bulk MDU.  Total customer relationships exclude enterprise and mobile-only customer relationships.
+(d)
+Penetration represents residential and SMB customers as a percentage of estimated passings.  Penetration excludes mobile-only customers.
+(e)
+Monthly residential revenue per residential customer is calculated as total residential quarterly revenue divided by three divided by average residential customer relationships during the respective quarter and excludes mobile revenue and customers.
+(f)
+Monthly SMB revenue per SMB customer is calculated as total SMB quarterly revenue divided by three divided by average SMB customer relationships during the respective quarter and excludes mobile revenue and customers.
+(g)
+Single play, double play and triple play penetration represents the number of residential single play, double play and triple play cable customers, respectively, as a percentage of residential customer relationships, excluding mobile.
+(h)
+Mobile lines include phones and tablets which require one of our standard rate plans (e.g., "Unlimited" or "By the Gig").  Mobile lines exclude wearables and other devices that do not require standard phone rate plans.
+(i)
+Enterprise PSUs represents the aggregate number of fiber service offerings counting each separate service offering at each customer location as an individual PSU.
+ 
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+UNAUDITED CAPITAL EXPENDITURES
+(dollars in millions)
+Three Months Ended December 31, 
+Year Ended December 31,
+2022
+2021
+2022
+2021
+Customer premise equipment (a)
+$                603
+$                471
+$             2,209
+$             1,967
+Scalable infrastructure (b)
+613
+454
+1,791
+1,677
+Line extensions (c)
+928
+451
+2,990
+1,642
+Upgrade/rebuild (d)
+310
+222
+845
+706
+Support capital (e)
+466
+474
+1,541
+1,643
+Total capital expenditures
+$             2,920
+$             2,072
+$             9,376
+$             7,635
+Of which:  Commercial services
+$                401
+$                362
+$             1,511
+$             1,445
+Capital expenditures included in total related to:
+Capital expenditures, excluding line extensions
+$             1,992
+$             1,621
+$             6,386
+$             5,993
+Line extensions (c)
+928
+451
+2,990
+1,642
+Total capital expenditures
+$             2,920
+$             2,072
+$             9,376
+$             7,635
+Capital expenditures included in total related to:
+Core cable (f)
+$             2,132
+$             1,945
+$             7,209
+$             7,153
+Mobile
+111
+127
+376
+482
+Rural construction initiative (g)
+677
+—
+1,791
+—
+Total capital expenditures
+$             2,920
+$             2,072
+$             9,376
+$             7,635
+(a)
+Customer premise equipment includes costs incurred at the customer residence to secure new customers and revenue generating units, including customer installation costs and customer premise equipment (e.g., digital receivers and cable modems).
+(b)
+Scalable infrastructure includes costs, not related to customer premise equipment, to secure growth of new customers and revenue generating units, or provide service enhancements (e.g., headend equipment).
+(c)
+Line extensions include network costs associated with entering new service areas (e.g., fiber/coaxial cable, amplifiers, electronic equipment, make-ready and design engineering).
+(d)
+Upgrade/rebuild includes costs to modify or replace existing fiber/coaxial cable networks, including betterments.
+(e)
+Support capital includes costs associated with the replacement or enhancement of non-network assets due to technological and physical obsolescence (e.g., non-network equipment, land, buildings and vehicles).
+(f)
+Core cable represents total capital expenditures excluding mobile and rural construction initiative capital expenditures.
+(g)
+The rural construction initiative subcategory includes expenditures associated with our Rural Construction Initiative (for which separate reporting was initiated in 2022), excluding customer premise equipment and installation.
+ 
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/charter-announces-fourth-quarter-and-full-year-2022-results-301732145.html
+SOURCE  Charter Communications, Inc.
+
+

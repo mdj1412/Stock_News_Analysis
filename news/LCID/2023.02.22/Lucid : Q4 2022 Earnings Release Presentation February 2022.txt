@@ -1,0 +1,520 @@
+
+
+
+
+          FOURTH QUARTER EARNINGS RELEASE
+        
+
+          Fourth Quarter 2022 Earnings Release
+        
+
+          February 22, 2023
+        
+
+
+
+          LUCID GROUP, INC.
+        
+
+
+
+
+        FOURTH QUARTER EARNINGS RELEASE
+      
+
+        Forward Looking Statements
+      
+
+        This presentation includes "forward-looking statements" within the meaning of the "safe harbor" provisions of the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of words such as "estimate," "plan," "project," "forecast," "intend," "will," "shall," "expect," "anticipate," "believe," "seek," "target," "continue," "could," "may," "might," "possible," "potential," "predict" or other similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These forward-looking statements include, but are not limited to, statements regarding financial and operating outlook and guidance, amount of reservations and related potential sales, future capital expenditures and other operating expenses, ability to control costs, expectations and timing related to commercial product launches, including the Gravity SUV and the various Air models, production and delivery volumes, expectations regarding market opportunities and demand for Lucid's products, the range and performance of Lucid's vehicles, plans and expectations regarding Lucid's software, product recalls, estimate of the length of time Lucid's existing cash, cash equivalents and investments will be sufficient to fund planned operations, plans and expectations regarding its future capital raises and funding strategy, the timing of deliveries, future manufacturing capabilities and facilities, studio and service center openings, ability to mitigate supply chain and logistics risks, plans regarding the Phase 2 expansion of Lucid's AMP-1 factoring, including timing, installed capacity and potential benefits, ability to vertically integrate production processes, future sales channels and strategies, future market launches and international expansion, including plans for the European and Middle Eastern markets and the AMP-2 manufacturing facility in Saudi Arabia, the potential success of Lucid's direct-to-consumer sales strategy and future vehicle programs, and the promise of Lucid's technology. These statements are based on various assumptions, whether or not identified in this presentation, and on the current expectations of Lucid's management. These forward-looking statements are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and may differ from these forward-looking statements. Many actual events and circumstances are beyond the control of Lucid. These forward-looking statements are subject to a number of risks and uncertainties, including changes in domestic and foreign business, market, financial, political and legal conditions, including a potential global economic recession or other downturn and the ongoing conflict between Russia and Ukraine; risks related to changes in overall demand for Lucid's products and services and cancellation of reservations and orders for Lucid's vehicles; risks related to prices and availability of commodities, Lucid's supply chain, logistics, inventory management and quality control, and Lucid's ability to complete the tooling of its manufacturing facilities over time and scale production of the Lucid Air and other vehicles; risks related to the uncertainty of Lucid's projected financial information; risks related to the timing of expected business milestones and commercial product launches; risks related to the expansion of Lucid's manufacturing facility, the construction of new manufacturing facilities and the increase of Lucid's production capacity; Lucid's ability to manage expenses and control costs; risks related to future market adoption of Lucid's offerings; the effects of competition and the pace and depth of electric vehicle adoption generally on Lucid's future business; changes in regulatory requirements, governmental incentives and fuel and energy prices; Lucid's ability to rapidly innovate; Lucid's ability to enter into or maintain partnerships with original equipment manufacturers, vendors and technology providers; Lucid's ability to effectively manage its growth and recruit and retain key employees, including its chief executive officer and executive team; risks related to potential vehicle recalls; Lucid's ability to establish and expand its brand, and capture additional market share, and the risks associated with negative press or reputational harm; Lucid's ability to effectively utilize zero emission vehicle credits and obtain and utilize certain tax and other incentives; Lucid's ability to issue equity or equity-linked securities in the future; Lucid's ability to pay interest and principal on its indebtedness; future changes to vehicle specifications which may impact performance, pricing and other expectations; the outcome of any potential litigation, government and regulatory proceedings, investigations and inquiries; and the impact of the global COVID-19 pandemic on Lucid's supply chain, projected results of operations, financial performance or other financial metrics, or on any of the foregoing risks; and those factors discussed under the heading "Risk Factors" in Part II, Item 1A of Lucid's Quarterly Report on Form 10-Q for the quarter ended September 30, 2022, as well as other documents Lucid has filed or will file with the Securities and Exchange Commission. If any of these risks materialize or Lucid's assumptions prove incorrect, actual results could differ materially from the results implied by these forward-looking statements. There may be additional risks that Lucid currently does not know or that Lucid currently believes are immaterial that could also cause actual results to differ from those contained in the forward-looking statements. In addition, forward-looking statements reflect Lucid's expectations, plans or forecasts of future events and views as of the date of this presentation. Lucid anticipates that subsequent events and developments will cause Lucid's assessments to change. However, while Lucid may elect to update these forward-looking statements at some point in the future, Lucid specifically disclaims any obligation to do so. These forward-looking statements should not be relied upon as representing Lucid's assessments as of any date subsequent to the date of this presentation. Accordingly, undue reliance should not be placed upon the forward-looking statements.
+      
+
+        Trademarks
+      
+
+        This presentation contains trademarks, service marks, trade names and copyrights of Lucid Group, Inc. and its subsidiaries and other companies, which are the property of their respective owners.
+      
+
+        Non-GAAP Financial Measures and Key Business Metrics
+      
+
+        Consolidated financial information has been presented in accordance with US GAAP ("GAAP") as well as on a non-GAAP basis to supplement Lucid's consolidated financial results. Lucid's non-GAAP financial measures include Adjusted EBITDA and Free Cash Flow which are discussed below.
+      
+
+        Adjusted EBITDA is defined as net loss before (1) interest expense, (2) interest income, (3) provision for (benefit from) income taxes, (4) depreciation and amortization, (5) change in fair value of forward contracts, (6) change in fair value of convertible preferred stock warrant liability, (7) change in fair value of common stock warrant liability, (8) transaction costs expensed and (9) stock-based compensation. Adjusted EBITDA is a performance measure that Lucid believes provides useful information to Lucid's management and investors about Lucid's profitability. Free Cash Flow is defined as net cash used in operating activities less capital expenditures. Free Cash Flow is a performance measure that Lucid believes provides useful information to Lucid's management and investors about the amount of cash generated by the business after necessary capital expenditures.
+      
+
+        These non-GAAP financial measures facilitate management's internal comparisons to Lucid's historical performance. Management believes that it is useful to supplement its GAAP financial statements with this non-GAAP
+      
+
+        information because management uses such information internally for its operating, budgeting, and financial planning purposes. Management also believes that presentation of the non-GAAP financial measures provides useful information to Lucid's investors regarding measures of Lucid's financial condition and results of operations that Lucid uses to run the business and therefore allows investors to better understand Lucid's performance. However, these non-GAAP financial and key performance measures have limitations as analytical tools, and you should not consider them in isolation or as substitutes for analysis of Lucid's results as reported under GAAP.
+      
+
+        Non-GAAP information is not prepared under a comprehensive set of accounting rules and therefore, should only be read in conjunction with financial information reported under GAAP when understanding Lucid's operating performance. In addition, other companies, including companies in Lucid's industry, may calculate non-GAAP financial measures and key performance measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of Lucid's non-GAAP financial measures and key performance measures as tools for comparison. A reconciliation between GAAP and non-GAAP financial information is presented at the end of the presentation.
+      
+
+
+
+
+              LUCID GROUP, INC.
+            
+
+
+
+              2
+            
+
+
+
+
+
+
+
+          FOURTH QUARTER EARNINGS RELEASE
+        
+
+
+
+          Contents
+        
+
+
+
+
+                Mission
+              
+
+
+
+                4
+              
+
+
+
+
+
+                A Year in Review
+              
+
+
+
+                5
+              
+
+
+
+
+
+                Lucid Core Strengths
+              
+
+
+
+                6
+              
+
+
+
+
+
+                Lucid Air - Leading Technology Across the Model Line
+              
+
+
+
+                7
+              
+
+
+
+
+
+                Vertically Integrated Production
+              
+
+
+
+                9
+              
+
+
+
+
+
+                Studio and Service Network
+              
+
+
+
+                10
+              
+
+
+
+
+
+                Track Record of Prudent Liquidity Management
+              
+
+
+
+                11
+              
+
+
+
+
+
+                Financial Highlights
+              
+
+
+
+                12
+              
+
+
+
+
+
+                Outlook
+              
+
+
+
+                13
+              
+
+
+
+
+
+                Imagery
+              
+
+
+
+                14
+              
+
+
+
+
+
+                Financials
+              
+
+
+
+                23
+              
+
+
+
+
+
+                Appendix
+              
+
+
+
+                27
+              
+
+
+
+
+
+
+
+
+
+                LUCID GROUP, INC.
+              
+
+
+
+                3
+              
+
+
+
+
+
+
+
+
+          FOURTH QUARTER EARNINGS RELEASE
+        
+
+
+
+          Lucid's mission is to inspire the adoption of sustainable energy by creating advanced technologies and the most captivating luxury electric vehicles centered around the human experience.
+        
+
+
+
+
+
+
+                LUCID GROUP, INC.
+              
+
+
+
+                4
+              
+
+
+
+
+
+
+
+
+
+            FOURTH QUARTER EARNINGS RELEASE
+          
+
+            A Year In Review
+          
+
+            We achieved record production in Q4 and 2022, demonstrating our ability to overcome significant challenges throughout the year. We fulfilled our promise to deliver Air variants across a spectrum of range & performance and delivered our first vehicles into Europe and Saudi Arabia.
+          
+
+            We continued to validate our revolutionary technology with Lucid Air recording the fastest time of any production car in both the Goodwood Festival of Speed timed Shootout and the Laguna Seca Corkscrew Hillclimb, while continuing to receive accolades for our industry-leading range, charge time, & performance.
+          
+
+            In 2023, we look to build on our successes and continue our mission to inspire the adoption of sustainable energy while focusing on growth and tenaciously driving cost control and efficiencies.
+          
+
+            Other Key Accomplishments in 2022:
+          
+
+
+Signed agreement to monetize our revolutionary powertrain technology with our groundbreaking new electric drive unit for motorsports - now the standard front drive unit in a leading electric racing series
+
+
+Lucid Air earned the highest possible rating of five stars in the rigorous Euro NCAP crash testing process
+
+
+Released UX 2.0, our most extensive software update, comprising tens of millions of new lines of source code delivered seamlessly over-the-air
+            
+
+Signed our first vehicle emissions credit deal
+
+
+Completed a $594.3 million "at-the-market" equity offering, $915 million from an affiliate of the Public Investment Fund via private placement, and a $1.0 billion asset-backed revolving credit facility (potential for up to another $500 million)
+            
+
+
+
+
+            KEY STATISTICS
+          
+
+            Quarter-to-date as of Dec 31, 2022; unless otherwise stated
+          
+
+
+
+
+                  Lucid Air Customer Deliveries
+                
+
+
+
+                  1,932
+                
+
+
+
+
+
+                  Production
+                
+
+
+
+                  3,493
+                
+
+
+
+
+
+                  Reservations(1)
+
+
+
+
+                  28,000+
+                
+
+
+
+
+
+                  (as of 2/21/23)
+                
+
+
+
+
+
+
+
+                  Potential Sales(1, 2)
+
+
+
+
+                  $2.7B+
+                
+
+
+
+
+
+                  (as of 2/21/23)
+                
+
+
+
+
+
+
+
+                  KSA Purchase Commitments
+                
+
+
+
+                  Up to 100,000
+                
+
+
+
+
+
+                  Installed Annual Production Capacity
+                
+
+
+
+                  34,000
+                
+
+
+
+
+
+                  Studios / Service Centers
+                
+
+
+
+                  35
+                
+
+
+
+
+
+                  Number of Employees
+                
+
+
+
+                  ~7,200
+                
+
+
+
+
+
+                  Total Liquidity
+                
+
+
+
+                  ~$4.9B
+                
+
+
+
+
+
+                  Capital Expenditures
+                
+
+
+
+                  ~$290M
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                Note: (1) Includes reservations that have been converted to orders; excludes up to 100,000
+              
+
+
+
+
+
+
+
+
+
+                purchase commitment by the government of Saudi Arabia; (2) Based on product mix assumptions
+              
+
+
+
+
+
+
+
+                LUCID GROUP, INC.
+              
+
+
+
+                on reservations of 28,000+
+              
+
+
+
+                5
+              
+
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Lucid Group Inc. published this content on 22 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 22 February 2023 21:50:09 UTC.
+      
+

@@ -1,0 +1,197 @@
+
+Gilead Sciences, Inc. (Nasdaq: GILD) today announced the upcoming presentation of new clinical and real-world data from the company’s HIV, COVID-19 and viral hepatitis research and development programs at the 30th Conference on Retroviruses and Opportunistic Infections (CROI) from February 19-22. Seventy abstracts, including late-breaking data, demonstrate Gilead’s continued expertise and leadership in virology with a commitment to advance the next wave of scientific discovery to treat, prevent, cure and help eradicate viral diseases.
+
+“Positioning people at the center of the research and development process is helping us to fuel the next wave of innovation in virology,” said Frank Duff, MD, Senior Vice President, Virology Therapeutic Area Head, Gilead Sciences. “Our scientific advances are grounded in collaboration with community and research partners around the world and highlight the importance of developing innovative solutions for the unmet and evolving needs of those most affected by viral diseases. The data selected for presentation at CROI include real-world evidence in the treatment of COVID-19, the investigational evaluation of existing therapies for HIV/hepatitis B co-infection, and new HIV treatment, prevention, and cure data evaluating long-acting options as well as novel combination therapies.”
+
+HIV Research
+
+Gilead is committed to continuous scientific discovery to provide solutions for the evolving needs of people affected by HIV around the world, with the goal of ending the HIV epidemic for everyone, everywhere. At CROI 2023, Gilead will share new findings on HIV treatment and prevention strategies, as well as the latest updates from the company’s continued pursuit of an HIV cure.
+
+HIV treatment research and development data include proof-of-concept Phase 1b data on the safety and efficacy profile of lenacapavir in combination with investigational broadly neutralizing antibodies (bNAbs) – teropavimab and zinlirvimab – dosed twice-yearly in virologically suppressed adults for the treatment of HIV.
+
+Insights from Gilead’s cure research program include new data from multiple collaborative studies evaluating novel combination therapies aimed at targeting the HIV viral reservoir and enhancing the immune response to maintain virologic control in the absence of antiretroviral therapy. The findings support the continued investigational evaluation of broadly neutralizing antibodies, vaccine candidates, and toll-like receptor agonists.
+
+Additionally, Gilead will present data from a pre-clinical in vivo assessment of a single subcutaneous administration of lenacapavir for pre-exposure prophylaxis (PrEP). As part of the company’s HIV prevention research program, Gilead will also present the results of a multinational pooled analysis of real-world adherence to PrEP and HIV incidence in cisgender women.
+
+COVID-19 Research
+
+Gilead will present data that reinforce the critical role Veklury® (remdesivir) plays as the antiviral standard of care for the treatment of hospitalized patients with COVID-19. Real-world insights on Veklury’s use will provide important, up-to-date evidence from large, hospitalized populations – including patients with immunocompromised conditions – across different periods of the pandemic and different variants of concern. A separate study will evaluate the likelihood of all cause readmission among hospitalized patients who received Veklury compared to those who did not.
+
+Additionally, Gilead will present a new in vitro analysis that evaluates the antiviral activity of Veklury against common variants of concern, and data assessing the resistance profile of Veklury and other antiviral compounds.
+
+Viral Hepatitis Research
+
+Gilead will present new data from the ALLIANCE trial, which is an ongoing Phase 3 trial evaluating Biktarvy® (bictegravir 50 mg/emtricitabine 200 mg/tenofovir alafenamide 25 mg tablets, B/F/TAF) versus dolutegravir (50 mg, DTG) + emtricitabine 200 mg/tenofovir disoproxil fumarate 300 mg, F/TDF, DTG+F/TDF, in adults with HIV-1/HBV co-infection who are initiating treatment. The sub-analysis of Week 48 results complements the initial data presented at the 24th International AIDS Conference (AIDS 2022), with a focus on the HBV outcomes in this coinfected population.
+
+Accepted abstracts at the 30th Conference on Retroviruses and Opportunistic Infections include:
+
+HIV Research
+
+Long-Acting HIV Treatment Research
+
+Lenacapavir with bNAbs – teropavimab and zinlirvimab – dosed every 6 months in people with HIV
+
+Susceptibility screening to – teropavimab and zinlirvimab – in ART-suppressed patients
+
+Population PK analysis to guide dosing window following lenacapavir SC administration
+
+Antiviral activity of lenacapavir against HIV-2 isolates
+
+Long-acting lenacapavir in a combination regimen for treatment naïve PWH: week 80
+
+Week 52 subgroup efficacy of lenacapavir in heavily treatment-experienced PWH
+
+Six-month outcome of F/TAF cobicistat-boosted darunavir in children 14 to <25kg
+
+HIV Prevention Research
+
+8+ years pooled analysis: Adherence and HIV incidence in 6000 women on F/TDF for PrEP
+
+Lenacapavir protects against rectal sHIV acquisition in macaque model
+
+HIV Cure Research
+
+The impact of 3BNC117, 10-1074 and lefitolimod on HIV-1 persistence – the TITAN trial
+
+Vesatolimod pharmacodynamic response is associated with time to HIV rebound
+
+Heterologous ChAd/samRNA vaccine induces robust T-cell responses in macaques
+
+A placebo controlled randomized trial of the HTI immunogen vaccine and vesatolimod (late-breaker)
+
+Rebound dynamics following immunotherapy with an HIV vaccine, TLR9 agonist, and bNAbs (late-breaker)
+
+COVID-19 Research
+
+Remdesivir is Associated with Reduced Readmission After COVID-19 Hospitalization
+
+Remdesivir Reduces Mortality in Hospitalized COVID-19 Patients Across Variant Eras
+
+Remdesivir Reduces Mortality in Immunocompromised Patients Hospitalized For COVID-19
+
+Pharmacokinetic Analysis Informs the Dose of Remdesivir in Severe Renal Impairment
+
+Incidence of Diagnosed Long COVID Symptoms in Patients Previously Hospitalized for COVID-19
+
+Remdesivir Resistance Analyses From the PINETREE Study in Outpatients With COVID-19
+
+Remdesivir Retains Potent Activity Against SARS-COV-2 Omicron Subvariants
+
+Viral Hepatitis Research
+
+Predictors of Hepatitis B treatment response in people with HIV/HBV coinfection
+
+For more information, including a complete list of abstracts and their corresponding oral and poster sessions, please visit https://www.croiconference.org.
+
+Teropavimab, zinlirvimab, lefitolimod, vesatolimod, GS-5423, GS-2872, VRC07-523LS are investigational compounds and are not approved by the U.S. Food and Drug Administration or any other regulatory authority for any use. Their safety and efficacy are unknown.
+
+The use of lenacapavir for HIV prevention is investigational and the safety and efficacy of lenacapavir for this use have not been established. Gilead is studying the safety and efficacy of lenacapavir for HIV prevention in multiple ongoing clinical studies.
+
+The use of Biktarvy in individuals with HIV-1/HBV coinfection is investigational, and the safety and efficacy of Biktarvy for this use have not been established.
+
+Please see below for the U.S. Indication and Important Safety Information for Veklury and Sunlenca. Please also see below for U.S. Indication and Important Safety Information, including Boxed Warning, for Biktarvy.
+
+There is currently no cure for HIV or AIDS.
+
+About Biktarvy
+
+Biktarvy is a complete HIV treatment that combines three powerful medicines to form the smallest 3-drug, integrase strand transfer inhibitor (INSTI)-based single-tablet regimen (STR) available, offering simple once-daily dosing with or without food, with a limited drug interaction potential and a high barrier to resistance. Biktarvy combines the novel, unboosted INSTI bictegravir, with the Descovy® (emtricitabine 200 mg/tenofovir alafenamide 25 mg tablets, F/TAF) backbone. Biktarvy is a complete STR and should not be taken with other HIV medicines.
+
+About Sunlenca®
+
+Sunlenca (300 mg tablet and 463.5 mg/1.5 mL injection) [(lenacapavir)] is a first-in-class, long-acting HIV capsid inhibitor approved in the United States, the United Kingdom, Canada and the European Union, for the treatment of HIV infection, in combination with other antiretroviral(s), in people with multi-drug resistant HIV who are heavily treatment-experienced. Sunlenca tablets are approved for oral loading during initiation of Sunlenca treatment, prior to or at the time of the first long-acting lenacapavir injection depending on initiation option. Sunlenca is the only HIV treatment option administered twice-yearly. The multi-stage mechanism of action of Sunlenca’s active pharmaceutical agent, lenacapavir, is distinguishable from other currently approved classes of antiviral agents. While most antivirals act on just one stage of viral replication, Sunlenca is designed to inhibit HIV at multiple stages of its lifecycle and has no known cross resistance exhibited in vitro to other existing drug classes.
+
+Lenacapavir is an investigational agent being evaluated as a long-acting option in multiple ongoing and planned early and late-stage clinical studies in Gilead's prevention and treatment research program. Lenacapavir is being developed as a foundation for future HIV therapies with the goal of offering both long-acting oral and injectable options with several dosing frequencies, in combination or as monotherapy, that help address individual patient needs and preferences.
+
+About Veklury
+
+Veklury (remdesivir) is a nucleotide analog invented by Gilead, building on more than a decade of the company’s antiviral research. Veklury is a foundation for the treatment of hospitalized patients with COVID-19 and is a recommended treatment for reducing disease progression in non-hospitalized patients at high risk of disease progression. Veklury has an established safety profile and minimal known drug interactions in diverse populations. It can help reduce disease progression across a spectrum of disease severity and enable patients to recover faster, freeing up limited hospital resources and saving healthcare systems money.
+
+Veklury is approved in more than 50 countries worldwide. To date, Veklury and generic remdesivir have been made available to nearly 13 million patients around the world, including more than 8 million people in middle- and low-income countries through Gilead’s voluntary licensing program. These licenses currently remain royalty-free, reflecting Gilead’s existing commitment to enabling broad patient access to remdesivir.
+
+There remains a significant need to develop new and effective oral treatment options for people with COVID-19. Gilead is also working to advance an oral nucleoside prodrug inhibitor of the SARS-CoV-2 polymerase, GS-5245, which once metabolized targets SARS-CoV-2 virus replication via an identical mechanism as remdesivir.
+
+U.S. Indication for Biktarvy
+
+Biktarvy is indicated as a complete regimen for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and pediatric patients weighing at least 14 kg who have no antiretroviral treatment history or to replace the current antiretroviral regimen in those who are virologically-suppressed (HIV-1 RNA less than 50 copies per mL) on a stable antiretroviral regimen with no history of treatment failure and no known substitutions associated with resistance to the individual components of Biktarvy.
+
+U.S. Important Safety Information for Biktarvy
+
+BOXED WARNING: POST TREATMENT ACUTE EXACERBATION OF HEPATITIS B
+
+Contraindications
+
+Warnings and precautions
+
+Adverse reactions
+
+Drug interactions
+
+Dosage and administration
+
+Pregnancy and lactation
+
+U.S. Indication for Sunlenca
+
+Sunlenca, a human immunodeficiency virus type 1 (HIV-1) capsid inhibitor, in combination with other antiretroviral(s), is indicated for the treatment of HIV-1 infection in heavily treatment-experienced adults with multidrug resistant HIV-1 infection failing their current antiretroviral regimen due to resistance, intolerance, or safety considerations.
+
+U.S. Important Safety Information for Sunlenca
+
+Contraindications
+
+Warnings and precautions
+
+Adverse reactions
+
+Drug interactions
+
+Dosage and administration
+
+Pregnancy and lactation
+
+U.S. Indication for Veklury
+
+Veklury (remdesivir 100 mg for injection) is indicated for the treatment of COVID-19 in adults and pediatric patients (≥28 days old and weighing ≥3 kg) with positive results of SARS-CoV-2 viral testing, who are:
+
+For more information, please see the U.S. full Prescribing Information available at www.gilead.com.
+
+U.S. Important Safety Information for Veklury
+
+Contraindication
+
+Veklury is contraindicated in patients with a history of clinically significant hypersensitivity reactions to Veklury or any of its components.
+
+Warnings and precautions
+
+Adverse reactions
+
+Drug interactions
+
+Dosage and administration
+
+Dose preparation and administration:
+
+Pregnancy and lactation
+
+About Gilead Sciences
+
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases and address unmet needs in virology, oncology and inflammation.
+
+Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.
+
+Gilead has a long history in virology and has pioneered inventions once thought impossible, including antiviral treatments for people and communities affected by some of the most challenging public health concerns including HIV, viral hepatitis and COVID-19.
+
+Gilead helps people and communities across the full continuum of care in virology by developing bold advances that treat, prevent, cure and eradicate viral diseases and collaborating with community and research partners around the world. Gilead is deploying decades of antiviral expertise to provide solutions that help address the unmet and evolving needs of those impacted by viral diseases.
+
+Our work in virology has helped to transform the global health landscape and we are committed to advancing person-centered science and actionable education programs that make a difference for people and communities affected by viral diseases.
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks, uncertainties and other factors, including Gilead’s ability to initiate, progress or complete clinical trials or studies within currently anticipated timelines or at all, and the possibility of unfavorable results from ongoing and additional clinical trials or studies, including those involving Biktarvy, Veklury, lefitolimod, lenacapavir, vesatolimod, GS-5423, GS-2872 and VRC07-523LS; uncertainties relating to regulatory applications and related filing and approval timelines, and; the risk that any regulatory approvals, if granted, may be subject to significant limitations on use; and any assumptions underlying any of the foregoing. These and other risks, uncertainties and factors are described in detail in Gilead’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2022, as filed with the U.S. Securities and Exchange Commission. These risks, uncertainties and other factors could cause actual results to differ materially from those referred to in the forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. The reader is cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, and is cautioned not to place undue reliance on these forward-looking statements. All forward-looking statements are based on information currently available to Gilead, and Gilead assumes no obligation and disclaims any intent to update any such forward-looking statements.
+
+U.S. Prescribing Information for Biktarvy, including BOXED WARNING, U.S. full Prescribing Information for Sunlenca, and U.S. full Prescribing Information for Veklury are available at www.gilead.com.
+
+Biktarvy, Sunlenca, Veklury, Gilead and the Gilead logo are registered trademarks of Gilead Sciences, Inc., or its related companies. All other trademarks are the property of their respective owner(s).
+
+For more information about Gilead, please visit the company’s website at www.gilead.com, follow Gilead on Twitter (@Gilead Sciences) and LinkedIn, or call Gilead Public Affairs at 1-800-GILEAD-5 or 1-650-574-3000.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230213005677/en/

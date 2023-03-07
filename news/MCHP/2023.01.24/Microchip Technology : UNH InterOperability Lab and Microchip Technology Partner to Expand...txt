@@ -1,0 +1,48 @@
+
+
+CHANDLER, Ariz., Jan. 24, 2023 - The University of New Hampshire InterOperability Laboratory (UNH-IOL), an independent provider of broad-based testing and standards conformance services for the networking industry, today announced they have expanded testing for the 1000BASE-T1 PCS and PHY Control market to help further compliance for the automotive industry. By partnering with Microchip Technology, who created a development test platform that is compatible with OPEN Alliance Test Plans for 1000BASE-T1 conformance testing, the automotive industry is even closer to having a complete compliance for chip manufacturers. The enhancements of the testing will allow manufacturers the ability to go to market with greater confidence in their products.
+    
+
+      Aided by Microchip's test tool development, complete coverage of conformance testing for physical link training (PHY Control) and coding sublayer (PCS) requirements is now available, which will drive improved interoperability across the industry.
+
+
+      "To advance Ethernet in-vehicle networking, multi-vendor, standards-compliant devices are a necessity," said Charles Forni, Vice President of Microchip's USB and Networking business unit. "Microchip is pleased to partner with UNH-IOL to enable the test capability to deliver interoperable devices, providing the market with added choice and flexibility for Single Pair Ethernet."
+
+
+      The UNH-IOL has been a key player in the automotive industry supporting the adoption and standardization of in-vehicle Ethernet technologies for many years, contributing to various standards bodies and industry alliances, including IEEE®, Avnu Alliance and OPEN Alliance. The new capability enables testing based on the OPEN Alliance TC12 test plans and clearer definitions of the tests inside the OPEN Alliance TC12 test plans authored by UNH-IOL staff.
+
+
+      "IEEE conformance validation of Single Pair Ethernet is essential for automotive OEMs and semiconductor vendors alike." said Bob Noseworthy, Principal Engineer at UNH-IOL. "Microchip's support in enabling this capability is greatly appreciated."
+
+
+      By providing high-quality test plans and access to test equipment for automotive networks, UNH-IOL enables businesses to improve products and accelerate market readiness. To participate and learn more about the UNH-IOL's current Automotive Testing including Microchip's new 1000BASE-T1 Single-Pair Ethernet testing station, visit the IOL website.
+
+
+Resources
+
+
+      High-res images available through Flickr or editorial contact (feel free to publish):
+
+
+
+        Application image: www.flickr.com/photos/microchiptechnology/52645329963/sizes/l
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Microchip Technology Incorporated published this content on 24 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 24 January 2023 17:01:55 UTC.
+      
+

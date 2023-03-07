@@ -1,0 +1,69 @@
+
+
+      Zolaz debuts new cloud gaming service built on Adobe Experience Manager
+    
+
+      Video games make up a big share of the entertainment content that people engage with on their mobile phones and other screens. Seeking to tap into this lucrative market and help its customers make the most of its high-speed broadband and 5G data services, Singaporean telecommunications firm M1 Limited decided to offer a streaming gaming service.
+    
+
+      Unlike many firms that partner with big companies to offer gaming, M1 saw the chance to control its own destiny by building its own branded service. Zolaz is M1's new on-demand, subscription gaming service that takes advantage of innovations in cloud infrastructure and fast network speeds to offer customers an added service to increase revenue and brand loyalty.
+    
+
+https://blog.adobe.com/en/promotions/products/experience-cloud/experience-manager
+
+
+      Data insights to match gamers preferences
+    
+
+      For an additional monthly fee, Zolaz customers get unlimited play on more than 450 games across any connected device for up to five simultaneous players. Zolaz publicizes individual game titles and handles subscription signups on its website, built with Adobe Experience Manager. Integration with Adobe Analytics enables the company to recommend games or promotional offers to customers based on their behavior, location, and other factors.
+    
+
+      For example, consumers that play a strategy or role-playing game will see cross-promotions for other popular games in that category. With many categories, including action-adventure, racing, puzzles, sports, and local multi-player games, Zolaz can target its gaming entertainment options for all tastes and age groups.
+    
+
+      "We are focused on delivering the best hyper-personalized experiences for customers at every touch point, with tailored products and propositions that match their lifestyles and preferences," says Li-Na Wang, director of product management and platform services for M1. "Our core business is in connecting customers, but we also want to create ongoing engagement with customers by offering popular services at a great value."
+    
+
+      The company launched the Zolaz website in just eight weeks with the help of Adobe Professional Services. The team leveraged out-of-the box components and templates to enable Zolaz to quickly and independently author and update gaming website content. An integrated subscription workflow also makes signing up for the service seamless for customers.
+    
+
+      "We can go to market faster because our team can make content updates independently and efficiently. The tools are so easy to use; changes that might otherwise take a couple of weeks are now done in just a few days," says Wang. "Adobe Experience Manager really improves our productivity. We can manage our dynamic content in real time, so we are more responsive to changing customer preferences."
+    
+
+      Advancing digital native lifestyles
+    
+
+      A gaming tournament held at M1's flagship store at Peranakan Place celebrated the debut of Zolaz, with extra publicity thanks to participation by a pair of well-known TikTok creators. Zolaz plans to introduce at least one new game every week, aided by partnerships with DigiPen Institute of Technology Singapore and Republic Polytechnic to publish student-developed games.
+    
+
+      "Zolaz allows us to engage customers by connecting and enhancing the value of their experiences with all of our company's services," Wang says. "With the help of Adobe, we can influence and control that destiny by setting a high bar for enjoyable gaming experiences that highlight our service's high performance. Our goal is to make Zolaz top of mind for people wanting to enjoy the amazing benefits of a next-gen digital lifestyle."
+    
+
+
+https://blog.adobe.com/en/publish/2023/01/23/buro-happold-orchestrates-future-communities-creative-sustainable-solutions
+
+
+https://blog.adobe.com/en/publish/2023/01/18/embracing-creativity-digital-literacy-with-adobe-express-in-new-mexicos-public-schools
+
+
+https://blog.adobe.com/en/publish/2022/12/13/yamamoto-brings-3d-in-house-adobe-substance-3d-stager
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Adobe Inc. published this content on 24 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 24 January 2023 14:06:01 UTC.
+      
+

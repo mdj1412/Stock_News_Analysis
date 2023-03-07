@@ -1,0 +1,56 @@
+
+
+News Summary:
+This 10-year goal for the EMEA region is part of Cisco's global commitment to empower 25 million people with digital skills for long-term inclusion and economic resilience.New partnership with Randstad, a global HR services company, aims to re-skill and upskill 300,000 people.Founded in 1997, Cisco Networking Academy is celebrating its 25th anniversary with 17.5 million students trained and continues to be one of the longest-standing IT skills-to-jobs programs in the world.AMSTERDAM, Feb. 7, 2023 /PRNewswire/ -- CISCO LIVE -- Today, Cisco announced its goal to train 10 million people in digital and cybersecurity skills, over the next 10 years, across Europe, the Middle East, and Africa (EMEA).
+
+
+
+
+
+
+
+The number of people to be trained is part of Cisco's 10-year ambition to empower 25 million people with digital skills worldwide through Cisco's Networking Academy. This flagship program is celebrating its 25th anniversary this year and, so far, has reached 17.5 million students across 190 countries. Since starting operations in EMEA, it has spread to 120 countries in the region and trained over 6.3 million students, through 5,800 partnerships, with educational institutions and organizations offering Networking Academy courses. 
+The future of innovation, growth, and global competitiveness depends on building a strong digital economy which in turn is dependent upon a digitally skilled workforce (or something like). According to the World Economic Forum, by 2025, advances in technology and automation will eliminate 85 million jobs while creating 97 million new jobs globally. Cisco aspires to equip millions of people around the world with the technical and digital skills required for these new jobs by empowering the workforce of the future through the Networking Academy.  
+"We need a global workforce equipped with digital skills to develop sustainable and secure businesses, and more equitable societies. Building a local pool of next-generation talent is critical to long-term social inclusion and economic resilience," said Guy Diedrich, SVP and Chief Innovation Officer, Cisco. "It takes an entire ecosystem working together to achieve this. Through Cisco Networking Academy partnering with local organisations, we have impacted the lives of 17.5 million students over the past 25 years." 
+"Digital skills are in short supply across the Europe, Middle East, and Africa region, which should be a cause for concern for all of us," commented Wendy Mars, President of Cisco EMEA. "Without access to a strong talent pool, it will be harder to continue the digital transformation at pace. I'm proud of the achievements of the Cisco Networking Academy to date and look forward to welcoming many more skilled people from diverse backgrounds to the industry." 
+To this end, Cisco is launching a partnership with Randstad, a global leader in the HR services industry, to help talent develop their digital skills, preparing them to navigate the rapidly digitizing labour market. Cisco and Randstad aim to re-skill and upskill 300,000 people in cybersecurity, programming and infrastructure automation. The partnership is currently running in The Netherlands and Italy with more countries to follow through 2023.  
+Chris Heutink, Randstad's COO commented: "We are very proud to partner with Cisco to equip the talent of tomorrow with the skills they need to succeed in a fast-changing world of work. Through partnerships such as this one we are supporting talent to turn the skills they gained into opportunities, by combining skilling with access to the labour market." 
+Notes to the editor 
+Cisco Networking Academy – 25 years training the workforce of the future 
+Cisco Networking Academy is one of the world's longest running skills-to-jobs programs, offering tech education through strong public-private partnerships, a high-quality curriculum, and inclusive workforce development programs. 
+In partnership with educational institutions, government leadership, and community-based organizations around the world, Cisco Networking Academy leverages Cisco's industry expertise to deliver a cloud-based curriculum and tools, focused on information and communication technologies shaping the future — such as security, networking, collaboration, and Internet of Things (IoT). Courses are designed to equip learners with the skills required by industry, using gamification, assessments, and problem-solving to support learner success.
+Supporting a continuum of learning, from curiosity to careers, courses align to industry-recognized certifications and prepare learners with transferable, vendor-neutral, job-ready skills. Over the years, 94% of students surveyed in EMEA who took Cisco certification-aligned courses, obtained a job and/or educational opportunity. 
+Cisco Networking Academy has a long history of promoting diversity in the tech field and providing learning opportunities to students of all backgrounds.  
+Meaningful impact through improved access with learner centric platform 
+The Cisco Networking Academy has built a new Skills For All platform to ensure best in class content is accessible to as many learners as possible.  
+Highlights of the new platform include:  
+A learner-centric platform to allow learners anywhere, anytime to begin their upskilling journey, whether the goal is basic skill acquisition or the beginning of a learning journey ending in certification and job-readiness. The platform is user friendly and accessible, allowing learners the flexibility to ensure that schedules and constraints, linked to everyday challenges, are not a barrier to digital upskilling. Delivering meaningful impact has always been part of Cisco Networking Academy's vision. That means ensuring that underserved and underprivileged populations are provided with opportunities to partake in learning pathways that could transform their lives. European Year of Skills
+By 2030, the EU aims to equip at least 80 percent of its citizens with basic digital skills and have at least 20 million information and communications technology (ICT) specialists employed. Currently, only 54 percent of Europeans aged between 16 and 74 have basic digital skills.
+Cisco's announcement comes as the Union kicks off its European Year of Skills, announced by President Ursula von der Leyen in her latest State of the Union address. In the European Union, Cisco will aim to train 2.6 million people in digital and cybersecurity skills, over the next 10 years, through the Networking Academy and the diverse ecosystem of 2,882 academies on which the program relies. 
+Examples of Networking Academy partnerships in Europe 
+France: Through the Networking Academy program, Cisco will offer students, job seekers, and people looking to change career, access to new skills in cybersecurity, networking and IT. Cisco and Plaine Commune, as well as La Maison de l'Emploi du Territoire de Plaine Commune (Employment organization of "Plaine Commune") will collaborate for three years to offer everyone (with a particular focus on attracting women) the possibility to acquire the essential skills to live and work in tomorrow's society. 
+Germany: Networking Academy collaborates with the REDI School in Germany to certify migrant and refugee women using Cisco Networking Academy pathways. Women who achieve certification can access job openings within Cisco and across its partner ecosystem. This solution has been successfully deployed during the migrant crisis in 2015 and in the ongoing conflict in Ukraine. 
+Greece: In Greece, an ongoing program, in partnership with Scientific College of Greece and KEDE (Federation of Greek Municipalities), aims to provide 200 candidates from 8 Greek municipalities (citizens and members of their administrations) with the chance to participate in a full cybersecurity certification pathway, free of charge. 
+Italy: In Turin, Italy, through our partnership with the municipality of Turin, the Cisco Networking Academy provided municipal workers with basic training in cybersecurity thanks to our Introduction to Cybersecurity course, bolstering the cyber-readiness of the local administration. 
+Poland: Cisco Networking Academy, together with its education partner, the University of Information Technology and Management (UITM), in Rzeszów, launched the Start IT - Cisco4Ukraine program to train 10,000 people over the next 2 years. It has been designed for Ukrainian refugees who want to build digital skills, reskill, or upskill. 
+Spain: In Spain, the Cisco Networking Academy has collaborated with several partners to train women, unemployed people, and groups at risk of digital social exclusion. In collaboration with Escuela de Organización Industrial (EOI), they offered basic training for long-lasting unemployed people and those under 30 years of age. Networking Academy partner, Human Age Institute, a part of Manpower, recently finalized its Woman Rethinking Digital program to train women in cybersecurity essentials. 
+UK: In 2022, the Cisco Networking Academy, in partnership with Glasgow Caledonian University and Scotland Women in Technology, offered a free cybersecurity learning pathway for women of all educational backgrounds, aimed at providing candidates with jobs within the tech ecosystem in Scotland on completion. 
+About Cisco 
+Cisco (NASDAQ: CSCO) is the worldwide leader in technology that powers the Internet. Cisco inspires new possibilities by reimagining your applications, securing your data, transforming your infrastructure, and empowering your teams for a global and inclusive future. Discover more on The Newsroom and follow us on Twitter at @Cisco. 
+Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries. A listing of Cisco's trademarks can be found at www.cisco.com/go/trademarks. 
+
+
+
+
+
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/cisco-to-train-10-million-people-with-digital-skills-over-10-years-across-emea-301740370.html
+SOURCE  Cisco Systems, Inc.
+
+

@@ -1,0 +1,29 @@
+
+Comcast Business today announced that it has teamed with Celona Inc. to provide Sonoma County Fairgrounds – the home to the renowned Sonoma County Fair – with an advanced private wireless network solution to enhance the fair experience and help improve back-of-house operations across the fairgrounds.
+
+For more than 84 years, the Sonoma County Fair has grown to become one of the most popular in the state, famous for its top-quality horse racing, stunning flower show, and constant innovations in family entertainment. After experiencing slow connectivity that resulted in a poor vendor and customer experience, the fairgrounds recognized the need to upgrade its network to support the tens of thousands of people that flood the property each year.
+
+“We are very happy with the quality of service we’ve received and how quickly Comcast Business was able to install and deploy this private wireless network,” said Rebecca Bartling, CEO, Sonoma County Fairgrounds. “This state-of-the-art network will bolster our back-of-house operations, as well as our relationships with the vendors, who are critical to ensuring the annual, two-week long Sonoma County Fair is a success.”
+
+Enterprises, government agencies and venues of all types, can now benefit from private cellular networks for wireless performance demanded by today’s applications, while enabling them to support their rapidly expanding ecosystem of connected devices.
+
+Offering extended wireless coverage, enhanced broadband speeds and capacity along with increased reliability and low latency, private wireless networks satisfy application requirements.
+
+“Congested cellular and Wi-Fi networks are pain points for outdoor venues across the country,” said Brian Epstein, Head of Strategic Wireless Solutions, Comcast Business. “Private wireless network technologies provide a 'HOV lane' for the fairgrounds and dedicated spectrum for priority operations to ensure events like the Sonoma County Fair deliver a rich experience for patrons and vendors.”
+
+Working with Sonoma County Fairgrounds, Comcast Business designed and deployed a dedicated private cellular wireless network that coupled Comcast CBRS spectrum Priority Access Licenses (PALs) with Celona’s 5G LAN products and technology.
+
+Comcast Business partnered closely with Celona on the private wireless deployment, leveraging its enterprise 5G LAN system that fully integrates 4G/5G core software, outdoor CBRS access points, and cloud-based orchestration and management within a unified platform. The combination of these technologies allows for fast and simplified deployment of private cellular networks with improved monitoring and management of the overall infrastructure.
+
+The private wireless network was used to support back-of house operations for the fairgrounds, including point of sale (PoS) systems for ticket purchases, parking, concessions and more. This allowed the Fairgrounds to provide network reliability by using Comcast Business’s dedicated spectrum, while delivering the wireless connectivity and bandwidth required for each application.
+
+“We view private wireless technology as completely transformational for the enterprise,” said Rob Mustarde, VP of Worldwide Sales at Celona. “With 5G LANs, organizations can now bring deterministic wireless connectivity and performance to challenging use cases that conventional wireless was simply not designed to address within a familiar framework that directly adapts to their existing network investments.”
+
+About Comcast Business
+Comcast Business offers a suite of Connectivity, Communications, Networking, Cybersecurity, Wireless, and Managed Solutions to help organizations of different sizes prepare for what’s next. Powered by the nation’s largest Gig-speed broadband network, and backed by 24/7 customer support, Comcast Business is the nation’s largest cable provider to small and mid-size businesses and one of the leading service providers to the Enterprise market. Comcast Business has been consistently recognized by industry analysts and associations as a leader and innovator, and one of the fastest growing providers of Ethernet services.
+
+For more information, call 866-429-3085. Follow on Twitter @ComcastBusiness and on other social media networks at http://business.comcast.com/social.
+
+About Comcast Corporation
+Comcast Corporation (Nasdaq: CMCSA) is a global media and technology company that connects people to moments that matter. We are principally focused on connectivity, aggregation, and streaming with 57 million customer relationships across the United States and Europe. We deliver broadband, wireless, and video through our Xfinity, Comcast Business, and Sky brands; create, distribute, and stream leading entertainment, sports, and news through Universal Filmed Entertainment Group, Universal Studio Group, Sky Studios, the NBC and Telemundo broadcast networks, multiple cable networks, Peacock, NBCUniversal News Group, NBC Sports, Sky News, and Sky Sports; and provide memorable experiences at Universal Parks and Resorts in the United States and Asia. Visit www.comcastcorporation.com for more information.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230118005167/en/

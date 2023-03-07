@@ -1,0 +1,22 @@
+Feb 17 (Reuters) - Microsoft said on Friday it
+will limit chat sessions on its new Bing search engine powered
+by generative artificial intelligence (AI) to five questions per
+session and 50 questions per day."As we mentioned recently, very long chat sessions can
+confuse the underlying chat model in the new Bing. To address
+these issues, we have implemented some changes to help focus the
+chat sessions," Microsoft said in the blog post.Microsoft's decision comes days after some media outlets
+reported that answers from the new Bing search engine were
+potentially dangerous and that the technology might not be ready
+for prime time.Early search results and conversations with Microsoft's Bing
+and Google's chatbot, called Bard, have shown they can be
+unpredictable.This week, when a Reuters reporter asked the new version of
+Bing outfitted with AI for the price of car air filters, Bing
+included advertisements for filters sold by auto parts website
+Parts Geek, not merely specific answers to the question.The new Bing, which has a wait list of millions of people
+for access, is a potentially lucrative opportunity for
+Microsoft. The company said during an investor and press
+presentation last week that every percentage point of market
+share it gains in the search advertising market could bring in
+another $2 billion of ad revenue.
+(Reporting by Jose Joseph in Bengaluru; Editing by Sandra Maler
+and William Mallard)

@@ -1,0 +1,27 @@
+OAKLAND, Calif., Feb 23 (Reuters) - Tel Aviv-based
+blockchain chip startup Chain Reaction on Thursday said it
+raised $70 million which will be used to expand its engineering
+team as it develops its next chip and rolls out its first one to
+the market this year.Alon Webman, co-founder and CEO of Chain Reaction, told
+Reuters that the company will start mass producing its
+blockchain chip Electrum in the first quarter this year. He said
+the chip is designed to carry out blockchain operations called
+"hashing" very fast and power efficiently and also can be used
+for mining digital currencies like bitcoin.Webman said he was confident the company could gain market
+share in the blockchain chip segment which he expects will
+support its more ambitious goal of creating a so-called "fully
+homomorphic encryption" chip that allows users to work on data
+while it's encrypted.He aims to launch that chip as early as end-2024.He said many industries such as defence and governments
+can't completely move to the cloud due to security issues.
+"Today if you have data (which) is encrypted into the cloud and
+in order to do any data operation or data analytics, do A.I.,
+you have to decrypt the data," said Webman. "The moment the data
+is decrypted, it can be attacked by a malicious user to read it,
+to steal it, or even to change it."Webman said he has been involved in designing over 30 chips.
+He is the co-founder of Mellanox Technologies Ltd., a datacenter
+networking chip company that U.S. chip supplier Nvidia Corp
+bought for nearly $7 billion in 2020.The latest funding round was led by Morgan Creek Digital, a
+venture capital firm specializing in blockchain technology, AI,
+and digital assets, and brings the total raised to $115 million.
+(Reporting By Jane Lanhee Lee; Editing by Emelia
+Sithole-Matarise)

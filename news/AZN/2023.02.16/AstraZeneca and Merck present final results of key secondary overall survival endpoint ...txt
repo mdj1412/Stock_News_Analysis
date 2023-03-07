@@ -1,0 +1,323 @@
+
+Results from the final prespecified overall survival (OS) analysis of the PROpel Phase III trial in metastatic castration-resistant prostate cancer (mCRPC) showed LYNPARZA® (olaparib), jointly developed and commercialized by AstraZeneca and Merck & Co., Inc., known as MSD outside the US and Canada in combination with abiraterone and prednisone or prednisolone demonstrated median OS of 42.1 months versus 34.7 months for abiraterone plus placebo. This result represents a 7.4-month absolute difference in median OS versus a standard of care (47.9% maturity, hazard ratio [HR] of 0.81, 95% confidence interval [CI] 0.67-1.00; p=0.0544).
+
+While this numerical increase in median OS did not achieve statistical significance, this clinical activity builds on the meaningful survival gains achieved for patients in this setting treated with abiraterone alone, a current standard of care. Results will be presented today in an oral presentation at the 2023 American Society of Clinical Oncology (ASCO) Genitourinary (GU) Cancers Symposium (#LBA16).
+
+In the primary analysis presented at ASCO GU 2022, and published in The New England Journal of Medicine Evidence, PROpel met its primary endpoint of radiographic progression-free survival (rPFS), showing that LYNPARZA in combination with abiraterone significantly reduced the risk of disease progression or death by 34% versus abiraterone alone (HR 0.66; 95% CI 0.54-0.81; p<0.0001).
+
+Noel Clarke, Urological Surgeon and Professor of Urological Oncology at Manchester’s Christie/Salford Royal Hospitals and Manchester University, and a senior investigator in the PROpel trial, said: “From the primary radiographic progression-free survival analysis presented at ASCO GU last year to the updated overall survival data presented today, the data reinforce the therapeutic potential of olaparib plus abiraterone and prednisone for patients with metastatic castration-resistant prostate cancer in the overall trial population and across subgroups. The results of PROpel are important for patients and the oncology community alike, providing support for this combination as a potential and critically needed new treatment option in metastatic castration-resistant prostate cancer.”
+
+Susan Galbraith, Executive Vice President, Oncology R&D, AstraZeneca, said: “Both PARP, the target of LYNPARZA, and the androgen receptor are important for providing DNA repair in prostate cancer. The results in the overall trial population from PROpel illustrate how the combination of LYNPARZA and abiraterone can exploit the dependency of the androgen receptor’s role in DNA repair on PARP to provide greater anticancer activity than abiraterone alone. Based on the totality of the data, it is notable to see this combination delivering a meaningful benefit in a broad population of patients in this setting, which is further underscored by the recent indication approved in the EU.”
+
+Dr Eliav Barr, Head, Global Clinical Development and Chief Medical Officer, Merck & Co, Inc. Research Laboratories, said: “Prostate cancer is the second most commonly diagnosed cancer in patients assigned male at birth, and mortality is estimated to almost double over the next 20 years. With limited treatment options for these patients, we recognize the critical need for therapies that can delay disease progression. We are proud of our collaboration with AstraZeneca as we work together to advance pending regulatory reviews and bring a new treatment option to the prostate cancer community.”
+
+Summary of results on key secondary OS endpoint across subgroups
+
+ 
+
+LYNPARZA + abiraterone
+
+Placebo + abiraterone
+
+ITT
+
+ 
+
+ 
+
+Number of patients (n)
+
+399
+
+397
+
+Median OS in months
+
+42.1
+
+34.7
+
+HR (95% CI)
+
+0.81 (0.67, 1.00)
+
+HRRm
+
+ 
+
+ 
+
+Number of patients (n)
+
+111
+
+115
+
+Median OS in months
+
+NR
+
+28.5
+
+HR (95% CI)
+
+0.66 (0.45, 0.95)
+
+Non-HRRm
+
+ 
+
+ 
+
+Number of patients (n)
+
+279
+
+273
+
+Median OS in months
+
+42.1
+
+38.9
+
+HR (95% CI)
+
+0.89 (0.70, 1.14)
+
+BRCAm
+
+ 
+
+ 
+
+Number of patients (n)
+
+47
+
+38
+
+Median OS in months
+
+NR
+
+23.0
+
+HR (95% CI)
+
+0.29 (0.14, 0.56)
+
+Non-BRCAm
+
+ 
+
+ 
+
+Number of patients (n)
+
+343
+
+350
+
+Median OS in months
+
+39.6
+
+38.0
+
+HR (95% CI)
+
+0.91 (0.73, 1.13)
+
+*18 patients with unknown HRRm status were excluded from subgroup analysis. NR, not reached
+
+The safety and tolerability of LYNPARZA plus abiraterone was in line with that observed in prior clinical trials and the known profiles of the individual medicines. At the time of this updated analysis, there were no new long-term safety issues identified.
+
+The most common adverse events (AEs) in the LYNPARZA plus abiraterone arm (greater than or equal to 20% of patients) were anemia (49.7%), fatigue (38.7%), nausea (30.7%), back pain (21.6%) and diarrhea (20.6%). Approximately 83% of patients treated with LYNPARZA plus abiraterone who experienced AEs remained on treatment at the time of data cut-off.
+
+LYNPARZA in combination with abiraterone was approved by the European Commission in December 2022 for the treatment of mCRPC in adult men for whom chemotherapy is not clinically indicated and is currently undergoing regulatory review in other countries.
+
+IMPORTANT SAFETY INFORMATION
+
+CONTRAINDICATIONS
+
+There are no contraindications for LYNPARZA.
+
+WARNINGS AND PRECAUTIONS
+
+Myelodysplastic Syndrome/Acute Myeloid Leukemia (MDS/AML): Occurred in approximately 1.5% of patients exposed to LYNPARZA monotherapy, and the majority of events had a fatal outcome. The median duration of therapy in patients who developed MDS/AML was 2 years (range: <6 months to >10 years). All of these patients had previous chemotherapy with platinum agents and/or other DNA-damaging agents, including radiotherapy.
+
+Do not start LYNPARZA until patients have recovered from hematological toxicity caused by previous chemotherapy (≤Grade 1). Monitor complete blood count for cytopenia at baseline and monthly thereafter for clinically significant changes during treatment. For prolonged hematological toxicities, interrupt LYNPARZA and monitor blood count weekly until recovery.
+
+If the levels have not recovered to Grade 1 or less after 4 weeks, refer the patient to a hematologist for further investigations, including bone marrow analysis and blood sample for cytogenetics. Discontinue LYNPARZA if MDS/AML is confirmed.
+
+Pneumonitis: Occurred in 0.8% of patients exposed to LYNPARZA monotherapy, and some cases were fatal. If patients present with new or worsening respiratory symptoms such as dyspnea, cough, and fever, or a radiological abnormality occurs, interrupt LYNPARZA treatment and initiate prompt investigation. Discontinue LYNPARZA if pneumonitis is confirmed and treat patient appropriately.
+
+Venous Thromboembolic Events (VTE): Including severe or fatal pulmonary embolism (PE) occurred in patients treated with LYNPARZA. VTE occurred in 7% of patients with metastatic castration-resistant prostate cancer who received LYNPARZA plus androgen deprivation therapy (ADT) compared to 3.1% of patients receiving enzalutamide or abiraterone plus ADT in the PROfound study. Patients receiving LYNPARZA and ADT had a 6% incidence of pulmonary embolism compared to 0.8% of patients treated with ADT plus either enzalutamide or abiraterone. Monitor patients for signs and symptoms of venous thrombosis and pulmonary embolism, and treat as medically appropriate, which may include long-term anticoagulation as clinically indicated.
+
+Embryo-Fetal Toxicity: Based on its mechanism of action and findings in animals, LYNPARZA can cause fetal harm. A pregnancy test is recommended for females of reproductive potential prior to initiating treatment.
+
+Females
+
+Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment and for 6 months following the last dose.
+
+Males
+
+Advise male patients with female partners of reproductive potential or who are pregnant to use effective contraception during treatment and for 3 months following the last dose of LYNPARZA and to not donate sperm during this time.
+
+ADVERSE REACTIONS—First-Line Maintenance BRCAm Advanced Ovarian Cancer
+
+Most common adverse reactions (Grades 1-4) in ≥10% of patients who received LYNPARZA in the first-line maintenance setting for SOLO-1 were: nausea (77%), fatigue (67%), abdominal pain (45%), vomiting (40%), anemia (38%), diarrhea (37%), constipation (28%), upper respiratory tract infection/influenza/nasopharyngitis/bronchitis (28%), dysgeusia (26%), decreased appetite (20%), dizziness (20%), neutropenia (17%), dyspepsia (17%), dyspnea (15%), leukopenia (13%), urinary tract infection (13%), thrombocytopenia (11%), and stomatitis (11%).
+
+Most common laboratory abnormalities (Grades 1-4) in ≥25% of patients who received LYNPARZA in the first-line maintenance setting for SOLO-1 were: decrease in hemoglobin (87%), increase in mean corpuscular volume (87%), decrease in leukocytes (70%), decrease in lymphocytes (67%), decrease in absolute neutrophil count (51%), decrease in platelets (35%), and increase in serum creatinine (34%).
+
+ADVERSE REACTIONS—First-Line Maintenance Advanced Ovarian Cancer in Combination with Bevacizumab
+
+Most common adverse reactions (Grades 1-4) in ≥10% of patients treated with LYNPARZA/bevacizumab and at a ≥5% frequency compared to placebo/bevacizumab in the first-line maintenance setting for PAOLA-1 were: nausea (53%), fatigue (including asthenia) (53%), anemia (41%), lymphopenia (24%), vomiting (22%), and leukopenia (18%). In addition, the most common adverse reactions (≥10%) for patients receiving LYNPARZA/bevacizumab irrespective of the frequency compared with the placebo/bevacizumab arm were: diarrhea (18%), neutropenia (18%), urinary tract infection (15%), and headache (14%).
+
+In addition, venous thromboembolic events occurred more commonly in patients receiving LYNPARZA/bevacizumab (5%) than in those receiving placebo/bevacizumab (1.9%).
+
+Most common laboratory abnormalities (Grades 1-4) in ≥25% of patients for LYNPARZA in combination with bevacizumab in the first-line maintenance setting for PAOLA-1 were: decrease in hemoglobin (79%), decrease in lymphocytes (63%), increase in serum creatinine (61%), decrease in leukocytes (59%), decrease in absolute neutrophil count (35%), and decrease in platelets (35%).
+
+ADVERSE REACTIONS—Maintenance Recurrent Ovarian Cancer
+
+Most common adverse reactions (Grades 1-4) in ≥20% of patients who received LYNPARZA in the maintenance setting for SOLO-2 were: nausea (76%), fatigue (including asthenia) (66%), anemia (44%), vomiting (37%), nasopharyngitis/upper respiratory tract infection (URI)/influenza (36%), diarrhea (33%), arthralgia/myalgia (30%), dysgeusia (27%), headache (26%), decreased appetite (22%), and stomatitis (20%).
+
+Study 19: nausea (71%), fatigue (including asthenia) (63%), vomiting (35%), diarrhea (28%), anemia (23%), respiratory tract infection (22%), constipation (22%), headache (21%), decreased appetite (21%), and dyspepsia (20%).
+
+Most common laboratory abnormalities (Grades 1-4) in ≥25% of patients who received LYNPARZA in the maintenance setting (SOLO-2/Study 19) were: increase in mean corpuscular volume (89%/82%), decrease in hemoglobin (83%/82%), decrease in leukocytes (69%/58%), decrease in lymphocytes (67%/52%), decrease in absolute neutrophil count (51%/47%), increase in serum creatinine (44%/45%), and decrease in platelets (42%/36%).
+
+ADVERSE REACTIONS—Adjuvant Treatment of gBRCAm, HER2-Negative, High-Risk Early Breast Cancer
+
+Most common adverse reactions (Grades 1-4) in ≥10% of patients who received LYNPARZA in the adjuvant setting for OlympiA were: nausea (57%), fatigue (including asthenia) (42%), anemia (24%), vomiting (23%), headache (20%), diarrhea (18%), leukopenia (17%), neutropenia (16%), decreased appetite (13%), dysgeusia (12%), dizziness (11%), and stomatitis (10%).
+
+Most common laboratory abnormalities (Grades 1-4) in ≥25% of patients who received LYNPARZA in the adjuvant setting for OlympiA were: decrease in lymphocytes (77%), increase in mean corpuscular volume (67%), decrease in hemoglobin (65%), decrease in leukocytes (64%), and decrease in absolute neutrophil count (39%).
+
+ADVERSE REACTIONS—gBRCAm, HER2-Negative Metastatic Breast Cancer
+
+Most common adverse reactions (Grades 1-4) in ≥20% of patients who received LYNPARZA in the metastatic setting for OlympiAD were: nausea (58%), anemia (40%), fatigue (including asthenia) (37%), vomiting (30%), neutropenia (27%), respiratory tract infection (27%), leukopenia (25%), diarrhea (21%), and headache (20%).
+
+Most common laboratory abnormalities (Grades 1-4) in ≥25% of patients who received LYNPARZA in the metastatic setting for OlympiAD were: decrease in hemoglobin (82%), decrease in lymphocytes (73%), decrease in leukocytes (71%), increase in mean corpuscular volume (71%), decrease in absolute neutrophil count (46%), and decrease in platelets (33%).
+
+ADVERSE REACTIONS—First-Line Maintenance gBRCAm Metastatic Pancreatic Adenocarcinoma
+
+Most common adverse reactions (Grades 1-4) in ≥10% of patients who received LYNPARZA in the first-line maintenance setting for POLO were: fatigue (60%), nausea (45%), abdominal pain (34%), diarrhea (29%), anemia (27%), decreased appetite (25%), constipation (23%), vomiting (20%), back pain (19%), arthralgia (15%), rash (15%), thrombocytopenia (14%), dyspnea (13%), neutropenia (12%), nasopharyngitis (12%), dysgeusia (11%), and stomatitis (10%).
+
+Most common laboratory abnormalities (Grades 1-4) in ≥25% of patients who received LYNPARZA in the first-line maintenance setting for POLO were: increase in serum creatinine (99%), decrease in hemoglobin (86%), increase in mean corpuscular volume (71%), decrease in lymphocytes (61%), decrease in platelets (56%), decrease in leukocytes (50%), and decrease in absolute neutrophil count (25%).
+
+ADVERSE REACTIONS—HRR Gene-mutated Metastatic Castration-Resistant Prostate Cancer
+
+Most common adverse reactions (Grades 1-4) in ≥10% of patients who received LYNPARZA for PROfound were: anemia (46%), fatigue (including asthenia) (41%), nausea (41%), decreased appetite (30%), diarrhea (21%), vomiting (18%), thrombocytopenia (12%), cough (11%), and dyspnea (10%).
+
+Most common laboratory abnormalities (Grades 1-4) in ≥25% of patients who received LYNPARZA for PROfound were: decrease in hemoglobin (98%), decrease in lymphocytes (62%), decrease in leukocytes (53%), and decrease in absolute neutrophil count (34%).
+
+DRUG INTERACTIONS
+
+Anticancer Agents: Clinical studies of LYNPARZA with other myelosuppressive anticancer agents, including DNA-damaging agents, indicate a potentiation and prolongation of myelosuppressive toxicity.
+
+CYP3A Inhibitors: Avoid coadministration of strong or moderate CYP3A inhibitors when using LYNPARZA. If a strong or moderate CYP3A inhibitor must be coadministered, reduce the dose of LYNPARZA. Advise patients to avoid grapefruit, grapefruit juice, Seville oranges, and Seville orange juice during LYNPARZA treatment.
+
+CYP3A Inducers: Avoid coadministration of strong or moderate CYP3A inducers when using LYNPARZA.
+
+USE IN SPECIFIC POPULATIONS
+
+Lactation: No data are available regarding the presence of olaparib in human milk, its effects on the breastfed infant or on milk production. Because of the potential for serious adverse reactions in the breastfed infant, advise a lactating woman not to breastfeed during treatment with LYNPARZA and for 1 month after receiving the final dose.
+
+Pediatric Use: The safety and efficacy of LYNPARZA have not been established in pediatric patients.
+
+Hepatic Impairment: No adjustment to the starting dose is required in patients with mild or moderate hepatic impairment (Child-Pugh classification A and B). There are no data in patients with severe hepatic impairment (Child-Pugh classification C).
+
+Renal Impairment: No dosage modification is recommended in patients with mild renal impairment (CLcr 51-80 mL/min estimated by Cockcroft-Gault). In patients with moderate renal impairment (CLcr 31-50 mL/min), reduce the dose of LYNPARZA to 200 mg twice daily. There are no data in patients with severe renal impairment or end-stage renal disease (CLcr ≤30 mL/min).
+
+INDICATIONS
+
+LYNPARZA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated:
+
+First-Line Maintenance BRCAm Advanced Ovarian Cancer
+
+For the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA-mutated (gBRCAm or sBRCAm) advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for LYNPARZA.
+
+First-Line Maintenance HRD-Positive Advanced Ovarian Cancer in Combination with Bevacizumab
+
+In combination with bevacizumab for the maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy and whose cancer is associated with homologous recombination deficiency (HRD)-positive status defined by either:
+
+Select patients for therapy based on an FDA-approved companion diagnostic for LYNPARZA.
+
+Maintenance Recurrent Ovarian Cancer
+
+For the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer, who are in complete or partial response to platinum-based chemotherapy.
+
+Adjuvant Treatment of gBRCAm, HER2-Negative, High-Risk Early Breast Cancer
+
+For the adjuvant treatment of adult patients with deleterious or suspected deleterious gBRCAm, human epidermal growth factor receptor 2 (HER2)-negative high-risk early breast cancer who have been treated with neoadjuvant or adjuvant chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for LYNPARZA.
+
+gBRCAm, HER2-Negative Metastatic Breast Cancer
+
+For the treatment of adult patients with deleterious or suspected deleterious gBRCAm, human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer who have been treated with chemotherapy in the neoadjuvant, adjuvant, or metastatic setting. Patients with hormone receptor (HR)-positive breast cancer should have been treated with a prior endocrine therapy or be considered inappropriate for endocrine therapy. Select patients for therapy based on an FDA-approved companion diagnostic for LYNPARZA.
+
+First-Line Maintenance gBRCAm Metastatic Pancreatic Cancer
+
+For the maintenance treatment of adult patients with deleterious or suspected deleterious gBRCAm metastatic pancreatic adenocarcinoma whose disease has not progressed on at least 16 weeks of a first-line platinum-based chemotherapy regimen. Select patients for therapy based on an FDA-approved companion diagnostic for LYNPARZA.
+
+HRR Gene-mutated Metastatic Castration-Resistant Prostate Cancer
+
+For the treatment of adult patients with deleterious or suspected deleterious germline or somatic homologous recombination repair (HRR) gene-mutated metastatic castration-resistant prostate cancer (mCRPC) who have progressed following prior treatment with enzalutamide or abiraterone. Select patients for therapy based on an FDA-approved companion diagnostic for LYNPARZA.
+
+Please see complete Prescribing Information, including Medication Guide.
+
+Notes
+
+Prostate cancer
+
+Prostate cancer is the second most commonly diagnosed cancer in men and the fifth leading cause of cancer death in men globally, with an incidence of 1.4 million and 375,000 deaths in 2020.1,2,3 In the United States, it is estimated that there were 268,490 new cases and 34,500 deaths in 2022.4,5 Overall survival for patients with mCRPC is approximately three years in clinical trial settings, and even shorter in the real-world.6 Approximately half of patients with mCRPC may receive only one line of active treatment, with diminishing benefit of subsequent therapies.7-12
+
+Metastatic castration-resistant prostate cancer
+
+Metastatic prostate cancer is associated with a significant mortality rate.14 Development of prostate cancer is often driven by male sex hormones called androgens, including testosterone.15
+
+In patients with mCRPC, their prostate cancer grows and spreads to other parts of the body despite the use of androgen-deprivation therapy to block the action of male sex hormones.16 Approximately 10-20% of men with advanced prostate cancer will develop castration-resistant prostate cancer (CRPC) within five years, and at least 84% of these men will have metastases at the time of CRPC diagnosis.16 Of patients with no metastases at CRPC diagnosis, 33% are likely to develop metastases within two years.16
+
+Despite the advances in mCRPC treatment in the past decade with taxane and new hormonal agent (NHA) treatment, there is high unmet need in this population.16-19
+
+PROpel
+
+PROpel is a randomized, double-blind, multi-center Phase III trial testing the efficacy, safety, and tolerability of LYNPARZA versus placebo when given in addition to abiraterone, as well as prednisone or prednisolone, in men with mCRPC who had not received prior chemotherapy or NHAs in the mCRPC setting.
+
+The primary endpoint is rPFS and secondary endpoints include overall survival, time to secondary progression or death, and time to first subsequent therapy.
+
+In the PROpel Phase III trial, LYNPARZA is combined with abiraterone, an NHA which targets the androgen receptor (AR) pathway. AR signaling engages a transcriptional program that is critical for tumor cell growth and survival in prostate cancer.20,21 In addition, the AR also plays a role in repairing DNA damage in prostate cancer cells, including damage not normally repaired by HRR. Preclinical models have suggested a number of potential mechanisms that could account for increased combination efficacy in both HRR deficient and HRR proficient prostate cancer. 22,23,24,26,27 Recent data provides evidence that PARP facilitates AR-DNA binding in the presence of DNA damage (AZ internal data on file) and that combined inhibition of PARP with LYNPARZA and AR activity with an NHA results in enhanced DNA damage and anti-tumor activity in non-HRRm prostate cancer models.22,24
+
+For more information about the trial please visit ClinicalTrials.gov.
+
+LYNPARZA
+
+LYNPARZA® (olaparib) is a first-in-class PARP inhibitor and the first targeted treatment to block DNA damage response (DDR) in cells/tumors harboring a deficiency in HRR, such as those with mutations in BRCA1 and/or BRCA2, or those where deficiency is induced by other agents (such as NHAs).
+
+Inhibition of PARP with LYNPARZA leads to the trapping of PARP bound to DNA single-strand breaks, stalling of replication forks, their collapse and the generation of DNA double-strand breaks and cancer cell death.
+
+LYNPARZA is currently approved in a number of countries across multiple tumor types including maintenance treatment of platinum-sensitive relapsed ovarian cancer and as both monotherapy and in combination with bevacizumab for the 1st-line maintenance treatment of BRCA-mutated (BRCAm) and homologous recombination repair deficient (HRD)-positive advanced ovarian cancer, respectively; for gBRCAm, HER2-negative metastatic breast cancer (in the EU and Japan this includes locally advanced breast cancer); for gBRCAm, HER2-negative high-risk early breast cancer (in Japan this includes all BRCAm HER2-negative high-risk early breast cancer); for gBRCAm metastatic pancreatic cancer; and HRR gene-mutated metastatic castration-resistant prostate cancer (BRCAm only in the EU and Japan). In China, LYNPARZA is approved for the treatment of BRCA-mutated metastatic castration-resistant prostate cancer as well as a 1st-line maintenance therapy in BRCA-mutated advanced ovarian cancer.
+
+LYNPARZA, which is being jointly developed and commercialized by AstraZeneca and Merck, has been used to treat over 75,000 patients worldwide. LYNPARZA has a broad clinical trial development program, and AstraZeneca and Merck & Co, Inc. are working together to understand how it may affect multiple PARP-dependent tumors as a monotherapy and in combination across multiple cancer types. LYNPARZA is the foundation of AstraZeneca's industry-leading portfolio of potential new medicines targeting DDR mechanisms in cancer cells.
+
+The AstraZeneca and Merck strategic oncology collaboration
+
+In July 2017, AstraZeneca and Merck & Co., Inc., Kenilworth, NJ, US, known as MSD outside the US and Canada, announced a global strategic oncology collaboration to co-develop and co-commercialize LYNPARZA, the world’s first PARP inhibitor, and selumetinib, a mitogen-activated protein kinase (MEK) inhibitor, for multiple cancer types.
+
+Working together, the companies will develop LYNPARZA and selumetinib and other potential new medicines as monotherapies and as combinations. The companies will also develop LYNPARZA and selumetinib in combination with their respective PD-L1 and PD-1 medicines independently.
+
+AstraZeneca in oncology
+
+AstraZeneca is leading a revolution in oncology with the ambition to provide cures for cancer in every form, following the science to understand cancer and all its complexities to discover, develop and deliver life-changing medicines to patients.
+
+The Company's focus is on some of the most challenging cancers. It is through persistent innovation that AstraZeneca has built one of the most diverse portfolios and pipelines in the industry, with the potential to catalyze changes in the practice of medicine and transform the patient experience.
+
+AstraZeneca has the vision to redefine cancer care and, one day, eliminate cancer as a cause of death.
+
+About AstraZeneca
+
+AstraZeneca is a global, science-led biopharmaceutical company that focuses on the discovery, development, and commercialization of prescription medicines in Oncology, Rare Diseases, and Biopharmaceuticals, including Cardiovascular, Renal & Metabolism, and Respiratory & Immunology. Based in Cambridge, UK, AstraZeneca operates in over 100 countries and its innovative medicines are used by millions of patients worldwide. Please visit www.astrazeneca-us.com and follow the Company on Twitter @AstraZenecaUS.
+
+References
+
+US-72847 Last Updated 02/23
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230216005538/en/

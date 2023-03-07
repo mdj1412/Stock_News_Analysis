@@ -1,0 +1,96 @@
+
+
+
+Cisco UCS with 4th Gen Intel Xeon Scalable Processors
+
+
+        Cisco and Intel have enjoyed a long history of co-innovation and collaboration spanning many major technology shifts including 5G, IoT, and data center transformation. In this last area, Cisco and Intel have worked together since 2009 to redefine the server computing category through groundbreaking capabilities in the Cisco Unified Computing System (UCS). In 2021, Cisco and Intel jointly delivered the UCS M6 servers in April followed quickly by the introduction of the highly modular and future-ready UCS X-Series in June.
+      
+
+        Today, we are resetting the bar again with the 7th generation of UCS C-Series and X-Series servers that will be powered by 4th Gen Intel Xeon Scalable processors. There are actually two elements of what Cisco and Intel are delivering. One, we are providing our customers with greater flexibility and more performance for modern workloads with new C-Series and X-Series servers. Two, we are delivering application acceleration without compromise by supporting the Intel Data Center GPU Flex Series in our UCS X-Series Fabric technology, enabling customers to support a wider range of rapidly evolving, increasingly compute-intensive workloads.
+      
+
+        Jonathan Davidson, EVP and General Manager of Cisco Networking,
+        congratulates Intel on its launch of its 4th Gen Intel Xeon Scalable processors
+      
+
+Addressing IT's Top-of-Mind Concerns
+
+
+        With our announcement, we are directly addressing two primary concerns that virtually every enterprise IT organization is grappling with today. The first is the reality that enterprise workloads are becoming increasingly dynamic and is necessitating widescale modernization of IT infrastructure. Additionally, Cisco research revealed that more than half of the customers we surveyed are moving their workloads between on and off-prem environments on a weekly basis. This requires solutions that can transform both infrastructure and operations to securely support the demands of workloads such as artificial intelligence (e.g., machine learning), data analytics (e.g., big data), storage (e.g., SDS), and efficient computing (e.g., virtual desktop infrastructure).
+      
+
+        The second concern is the increasing scrutiny of IT organizations are facing to be more sustainable in their operations through more energy-efficient infrastructure and advanced monitoring and management systems. In fact, Gartner listed sustainability as its top strategic technology trend for 2023 noting that companies must "invest more in innovative solutions that are designed to address ESG demand to meet sustainability goals."
+      
+
+[Link]
+
+
+UCS and Intersight Rise to the Challenge Again
+
+
+        This new class of next-generation UCS servers along with the simplified IT operations made possible by Cisco Intersight help customers solve both issues. We are giving customers more options across the UCS portfolio with two-socket 1RU/2RU rack servers and two & four-socket X-Series modular compute nodes, all based on the new 4th Gen Intel Xeon Scalable CPUs.
+      
+
+[Link]
+
+
+        We are also taking advantage of the future-ready and modular architecture of the UCS X-Series by continuing to disaggregate technologies and eliminate historical forced upgrades/forklifts when adopting new technologies. The ability to support 2-socket and 4-socket, M6 and M7 generation compute nodes, and a variety of GPUs in PCIe nodes all in the same chassis is a proof point that the flexibility of the UCS X-Series modular design offers tremendous investment protection. This flexibility enables UCS to support advanced technologies such as DDR5, PCIe 5.0, Compute Express Link 1.1 (CXL), and now the Intel Data Center GPU Flex Series. Powered and managed by Intersight, the UCS X-Series can support modern workloads efficiently on a blade-server architecture that has historically been only practical on rack-based servers.
+      
+
+        This combination of density, performance, modularity, and simplified manageability will deliver a number of compelling operational and sustainability benefits including:
+      
+
+
+          Ability to "do more with less" by reducing the number of systems with up to a 4-to-1 consolidation ratio compared to previous generation UCS servers while supporting more and newer types of workloads.
+        
+
+          Ability to reduce components, devices, and cabling through the new UCS X-Series Fabric architecture that can deliver up to 64 percent better performance and 31 percent lower power usage to previous models for greater efficiency and sustainability.
+        
+
+          Ability to achieve sustainability from policies & management at scale through Cisco Intersight that provides customers with global control of sustainability policies as well as fine-tuned visibility and control of other operations.
+        
+
+
+[Link]
+
+
+For more information: Catch us at Cisco Live! Amsterdam
+
+
+        The new UCS C-Series and X-Series servers will be orderable for customers starting in February. We will be sharing more information through solution demos and speaking sessions at Cisco Live Amsterdam (Feb. 6 through 10, 2023). Here's a partial list of the resources that will be available to attendees, both in-person and virtual:
+      
+
+        For now, I'd like to personally thank and congratulate our valued partners at Intel for their momentous launch of the new 4th Gen Intel Xeon Scalable Processors that are powering our latest UCS platforms. It's another great example of how our two companies are delivering breakthrough innovations and unprecedented value for customers everywhere.
+      
+
+Join our WEBINAR:
+
+
+January 17, 2023
+10:00 AM Pacific Time
+        (San Francisco, GMT-08:00)
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 10 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 10 January 2023 18:14:13 UTC.
+      
+

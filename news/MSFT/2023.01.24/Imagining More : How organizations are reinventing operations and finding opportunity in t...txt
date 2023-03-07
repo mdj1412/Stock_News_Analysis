@@ -1,0 +1,72 @@
+
+[Link]Photo credit: Yuichiro Chino/Getty Images
+    
+In a rapidly shifting economy, organizations are relying on cloud technologies and intelligent platforms to drive cost efficiencies, while continuing to innovate across their businesses. To provide resiliency and scalability of operations, leaders are collaborating with their customers and partners to design new solutions for the emerging trends and challenges of today's world. This co-innovation approach results in shared success and new opportunities, from accelerating the pace of digital transformation and reducing the cost of innovation to elevating employee and customer experiences. 
+
+Microsoft has long adopted a data-driven, co-innovation approach to help organizations anticipate industry needs and lead through uncertainty. To build upon our industry strategy and help transform the future of financial markets, we are excited to partner with the London Stock Exchange Groupto accelerate its own digital transformation and bring intuitive next-generation productivity, data and analytics and modelling solutions to its global customers. Alstomis digitizing railway solutions to make mobility more sustainable, collaborating with Microsoft to further develop cloud solutions in a highly regulated market. To prepare students for the workforce and teach them to create enterprise-grade applications with low-code, the Project Management Instituteand Microsoft are introducing the Power Platform University Hub. Lockheed Martinis working with Microsoft to power the next generation of defense technologies for the U.S. Department of Defense, advancing AI, machine learning and simulation capabilities. As part of our continued commitment to democratizing AI as a technology platform, Azure OpenAI Serviceis now generally available and being used by companies like Al Jazeera, KPMG and Moveworks to improve experiences for end-users and streamline operational efficiencies. And just this morning, we announced the next phase of our partnership with OpenAI to ensure the benefits of AI are shared responsibly and broadly with the world.[Link]Continued and accelerated innovation is the only path forward.
+
+From ideas to action: Unleashing the potential of co-innovation 
+
+
+Sweden-based Lynk & Coand Microsoft are teaming up to boost the in-car experience by building a custom app that lets users join Microsoft Teams meetings on the go. Australian startup Forcite Helmetshas created a smart helmet to give motorcyclists a safer, more dynamic riding experience by hosting its trip-routing and hazard-warning system on Azure and expanding internationally with support from the Microsoft for Startupsprogram. The National Australia Bankis improving the employee experience with tech support by working closely with Microsoft engineers and architects to develop a secure chatbot with Azure Cognitive Services, saving $1.2 million within 7 months of deployment. Through a collaboration with Microsoft, New Mexico's Special Supplemental Nutrition Program for Women, Infants, and Childrenis simplifying access to services for the communities it serves with Dynamics 365 and Power BI, reaching more than 30,000 people since going live. In pursuit of a new data strategy and data platform, Amadeusis creating a data mesh together with Microsoft cloud architects and cloud-scale analytics experts. Working toward a shared vision of driving Africa's growth, MTN Groupis developing joint go-to-market plans with Microsoft to accelerate digitization, digital education, sustainability and financial inclusion.
+
+[Link]The Microsoft Cloud is empowering organizations of all sizes to innovate for impact.
+    
+The power of data-driven operations: Finding new ways to do more with less
+
+
+Grupo Bimbois already seeing significant improvements in productivity and operational efficiency with Power BIand is using Azure Synapse Analytics to handle large volumes of data with ease. To deliver treatments faster, Bayerdeveloped a data engineering and data science platform, using AI and machine learning to evaluate data from clinical trials more efficiently. Hong Kong-based AIAhas achieved a cost savings benefit of more than 20% from migrating to Azure and is now adding AI, virtualization and other advanced capabilities. After making efforts to streamline financial management and month end processes, the New York City Department of Environmental Protectionhas reduced the number of consultants needed to support its in-house IT team by 50%. The University of Torontois seeing its payroll run almost two times faster and financial month end run about three times faster since moving all of its SAP workloads to Azure. SouthAfrica-based Exxaro Resourcesis driving productivity gains and new efficiencies with Azure IoT, tracking everything from truck activity on field sites to driver fatigue. Animal Supply Companyis automating routine invoicing tasks, delivering more than $500,000 in annual cost savings and freeing up 50% of its invoicing experts' time with the help of Azure AI. U.K.-based Waverton Investment Managementhas upgraded its digital infrastructure with Microsoft, already reducing its carbon footprint by 60% and planning to be fully on Azure by the end of 2023. The Arnott's Groupis deploying Microsoft Sustainability Manager to achieve its sustainability targets ahead of schedule, improving visibility into emissions activities and the ability to report progressin near real time.
+
+[Link]Organizations are realizing gains with Microsoft's data and AI capabilities.
+    
+Industry modernization: Enhancing supply chains and customer experiences
+
+
+Canada-based GoodLeaf Farmsis automating its farm operations and producing more healthful and abundant crops by streamlining its data with Azure and Power Platform. Belgium-based company HB Antwerpis developing a blockchain ledger on Azure so that conscious-minded buyers can know where their diamonds come from. U.S. food production company Conagra Brandsis digitizing its supply chain on Azure, increasing operational output of goods by 30% and production capacity by 20% at one of its facilities. Singapore-based Integrated Health Information Systemsis fostering stronger interactions by empowering patients and care teams with its Health Discovery Plus platform that securely runs on Azure. Global tire manufacturer Bridgestoneis improving customer services by centralizing demand forecasting data on its analytics platform that is also crucial to environmental, social and corporate governance (ESG) reporting. 
+
+
+
+        YouTube Video
+      
+
+        Click here to load media
+      
+
+
+The future of collaboration: Empowering employees in their remote work experiences
+
+
+Organizations like the GC GROUP, U.S. Bank, Piraeus BankandSasuchanare integrating Viva Connections with Microsoft Teams to make it easier for employees to learn and connect. Brazil-based Globois improving collaboration and communication with Microsoft Teams and training employees to use Power Platform tools. Nissin Foods Groupis adopting Microsoft 365 and Surface devices to make working from anywhere comfortable, highly secure and easy. In Indonesia, more than 9,600 Bank BTPNemployees have the flexibility to work productively from anywhere, including other branches, while minimizing unwanted cyber incidents. Telecommunications and digital services provider Sparkis onboarding new employees significantly quicker through self-service capabilities on Microsoft 365 and Dynamics 365. Hungary-based Groupama Biztosítóis simplifying communication and collaboration for its 1,500 company agents with Teams Phone, achieving enterprise-level security and 70% cost savings on telephony.
+
+[Link]Employers are making remote work secure and enjoyable with Microsoft Teams, Surface, and Viva.
+    
+The industrial metaverse: Optimizing everyday processes with mixed reality
+
+
+Hokkaido Electric Power Co., Inc.is improving its remote training and field monitoring assistance at power stations by integrating HoloLens 2 with Microsoft Teams. To support critical business continuity, Canada-based J.D. Irving, Limitedis connecting engineers and technicians with Dynamics 365 Remote Assist to immediately evaluate issues with sawmill machinery. Boeingis evolving the way it is building airplanes, shifting focus from paper-based 2D blueprints to 3D work instructions and augmented reality using HoloLens 2. Toyota Motor North Americais using HoloLens 2 and Dynamics 365 Guides as a training tool for its employees, cutting defects in half during a pilot project. Norway-based energy company Equinoris embracing the industrial metaverse to design offshore windfarms and simulate their effectiveness before implementing them in the physical world. BMW China Training Academyis providing futuristic in-store experiences and making it easier for salespeople to learn new car features intuitively and quickly. 
+
+[Link]Industry leaders are creating immersive experiences with metaverse technologies.
+    
+As our current environment evolves, leaders will continue finding ways to maximize the value of their digital investments to stay ahead of competitors and keep pace with industry expectations by seeking a comprehensive, trusted cloud partner to meet their unique business needs. Empowered by the Microsoft Cloud, organizations are leveraging data and AI capabilities to accelerate the pace of innovation and operate more efficiently to achieve their goals. We are incredibly proud to continue on this path of co-innovation to serve customers big and small as they advance business, societal and sustainability outcomes around the world.
+
+
+      Tags: AI, Azure, co-innovation, Dynamics 365, HoloLens, hybrid work, metaverse, Microsoft 365, mixed reality, Power Platform, Security, supply chain, Surface, Teams, Viva
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Microsoft Corporation published this content on 23 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 24 January 2023 21:04:38 UTC.
+      
+

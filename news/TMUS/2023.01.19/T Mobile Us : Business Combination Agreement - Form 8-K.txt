@@ -1,0 +1,344 @@
+
+8-K
+    
+
+        UNITED STATES
+      
+
+        SECURITIES AND EXCHANGE COMMISSION
+      
+
+        WASHINGTON, DC 20549
+      
+
+
+
+        FORM 8-K
+
+
+
+
+        CURRENT REPORT
+      
+
+        Pursuant to Section 13 or 15(d)
+      
+
+        of the Securities Exchange Act of 1934
+      
+
+        Date of report (Date of earliest event reported): January 19, 2023
+      
+
+
+
+T-MOBILE US, INC.
+
+
+        (Exact Name of Registrant as Specified in Charter)
+      
+
+
+
+
+
+
+
+
+
+Delaware
+
+
+
+
+1-33409
+
+
+
+
+20-0836269
+
+
+
+
+
+              (State or other jurisdiction of
+            
+
+              incorporation or organization)
+            
+
+
+
+
+
+              (Commission
+            
+
+              File Number)
+            
+
+
+
+
+
+              (I.R.S. Employer
+            
+
+              Identification No.)
+            
+
+
+
+
+        12920 SE 38th Street
+      
+
+        Bellevue, Washington
+      
+
+        (Address of principal executive offices)
+      
+
+        98006-1350
+      
+
+        (Zip Code)
+      
+
+        Registrant's telephone number, including area code: (425) 378-4000
+
+
+        (Former Name or Former Address, if Changed Since Last Report):
+      
+
+
+
+        Check the appropriate box below if the Form 8-Kfiling is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+      
+
+
+
+            ☐
+          
+
+
+              Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+            
+
+
+
+
+
+
+            ☐
+          
+
+
+              Soliciting material pursuant to Rule 14a-12under the Exchange Act (17 CFR 240.14a-12)
+
+
+
+
+
+
+
+            ☐
+          
+
+
+Pre-commencementcommunications pursuant to Rule 14d-2(b)under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+
+
+
+
+            ☐
+          
+
+
+Pre-commencementcommunications pursuant to Rule 13e-4(c)under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+
+
+        Securities registered pursuant to Section 12(b) of the Act:
+      
+
+
+
+
+
+
+
+
+              Title of each class
+            
+
+
+
+
+
+              Trading
+              Symbol
+            
+
+
+
+
+
+              Name of each exchange
+            
+
+              on which registered
+            
+
+
+
+
+            Common Stock, par value $0.00001 per share
+          
+
+
+
+            TMUS
+          
+
+
+
+            The NASDAQ Stock Market LLC
+          
+
+
+
+        Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2of the Securities Exchange Act of 1934 (§ 240.12b-2of this chapter).
+      
+
+        Emerging growth company  ☐
+      
+
+        If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+      
+
+
+
+        Item 8.01 - Other Events.
+      
+
+        On January 5, 2023, T-MobileUS, Inc. (the "Company," "we," or "our") identified that a bad actor was obtaining data through a single Application Programming Interface ("API") without authorization. We promptly commenced an investigation with external cybersecurity experts and within a day of learning of the malicious activity, we were able to trace the source of the malicious activity and stop it. Our investigation is still ongoing, but the malicious activity appears to be fully contained at this time, and there is currently no evidence that the bad actor was able to breach or compromise our systems or our network.
+      
+
+        Our systems and policies prevented the most sensitive types of customer information from being accessed, and as a result, based on our investigation to date, customer accounts and finances were not put at risk directly by this event. The API abused by the bad actor does not provide access to any customer payment card information (PCI), social security numbers/tax IDs, driver's license or other government ID numbers, passwords/PINs or other financial account information, so none of this information was exposed. Rather, the impacted API is only able to provide a limited set of customer account data, including name, billing address, email, phone number, date of birth, T-Mobileaccount number and information such as the number of lines on the account and plan features. The preliminary result from our investigation indicates that the bad actor(s) obtained data from this API for approximately 37 million current postpaid and prepaid customer accounts, though many of these accounts did not include the full data set.
+      
+
+        We currently believe that the bad actor first retrieved data through the impacted API starting on or around November 25, 2022. We are continuing to diligently investigate the unauthorized activity. In addition, we have notified certain federal agencies about the incident, and we are concurrently working with law enforcement. Additionally, we have begun notifying customers whose information may have been obtained by the bad actor in accordance with applicable state and federal requirements.
+      
+
+        As we have previously disclosed, in 2021, we commenced a substantial multi-year investment working with leading external cybersecurity experts to enhance our cybersecurity capabilities and transform our approach to cybersecurity. We have made substantial progress to date, and protecting our customers' data remains a top priority. We will continue to make substantial investments to strengthen our cybersecurity program.
+      
+
+        We may incur significant expenses in connection with this incident.
+      
+
+        Although we are unable to predict the full impact of this incident on customer behavior in the future, including whether a change in our customers' behavior could negatively impact our results of operations on an ongoing basis, we presently do not expect that it will have a material effect on the Company's operations.
+      
+
+        Forward-Looking Statements
+      
+
+        This Current Report on Form 8-K includesforward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are forward-looking statements. These forward-looking statements are generally identified by the words "anticipate," "believe," "estimate," "expect," "intend," "may," "could" or similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties and may cause actual results to differ materially from the forward-looking statements. In particular, the preliminary nature of our investigation into this cyber incident, which is still ongoing, may uncover additional facts presently not known to us, which may cause us to reassess the impacts and scope of the cyber incident on our customers and on the Company's business and operations. Further, our ability to fully assess and remedy the cybersecurity incident, and the legal, reputational and financial risks resulting from this or other cyber incidents, could also cause our results to differ materially from the forward-looking statements made above. Other important factors that could affect future results and cause those results to differ materially from those expressed in the forward-looking statements include, among others, the following: natural disasters, public health crises, including adverse impact caused by the COVID-19pandemic; competition, industry consolidation and changes in the market for wireless services; disruption, data loss or other security breaches, such as the criminal cyberattack we became aware of in August 2021 and including risks related to the cybersecurity incident discussed above; our inability to take advantage of technological developments on a timely basis; our inability to retain or motivate key personnel, hire qualified personnel or maintain our corporate culture; system failures and business disruptions, allowing for unauthorized use of or interference with our network
+      
+
+
+
+        and other systems; the scarcity and cost of additional wireless spectrum, and regulations relating to spectrum use; the impacts of the actions we have taken and conditions we have agreed to in connection with the regulatory proceedings and approvals of the Transactions (as defined below), including the acquisition by DISH Network Corporation ("DISH") of the prepaid wireless business operated under the Boost Mobile and Sprint prepaid brands (excluding the Assurance brand Lifeline customers and the prepaid wireless customers of Shentel and Swiftel Communications, Inc.), including customer accounts, inventory, contracts, intellectual property and certain other specified assets (the "Prepaid Business"), and the assumption of certain related liabilities (collectively, the "Prepaid Transaction"), the complaint and proposed final judgment (the "Consent Decree") agreed to by us, Deutsche Telekom AG ("DT"), Sprint Corporation, now known as Sprint LLC ("Sprint"), SoftBank Group Corp. ("SoftBank") and DISH with the U.S. District Court for the District of Columbia, which was approved by the Court on April 1, 2020, the proposed commitments filed with the Secretary of the Federal Communications Commission ("FCC"), which we announced on May 20, 2019, certain national security commitments and undertakings, and any other commitments or undertakings entered into, including but not limited to, those we have made to certain states and nongovernmental organizations (collectively, the "Government Commitments"), and the challenges in satisfying the Government Commitments in the required time frames and the significant cumulative costs incurred in tracking and monitoring compliance; adverse economic, political or market conditions in the U.S. and international markets, including those caused by the COVID-19pandemic; our inability to manage the ongoing commercial and transition services arrangements entered into in connection with the Prepaid Transaction, and known or unknown liabilities arising in connection therewith; the timing and effects of any future acquisition, disposition, investment, or merger involving us; any disruption or failure of our third parties (including key suppliers) to provide products or services for the operation of our business; our substantial level of indebtedness and our inability to service our debt obligations in accordance with their terms or to comply with the restrictive covenants contained therein; changes in the credit market conditions, credit rating downgrades or an inability to access debt markets; restrictive covenants including the agreements governing our indebtedness and other financings; the risk of future material weaknesses we may identify while we continue to work to integrate the two companies following the Transactions, or any other failure by us to maintain effective internal controls, and the resulting significant costs and reputational damage; any changes in regulations or in the regulatory framework under which we operate; laws and regulations relating to the handling of privacy and data protection; unfavorable outcomes and increased costs from existing or future legal proceedings, including these proceedings and inquiries relating to the criminal cyberattack we became aware of in August 2021; the possibility that we may be unable to adequately protect our intellectual property rights or be accused of infringing the intellectual property rights of others; our offering of regulated financial services products and exposure to a wide variety of state and federal regulations; new or amended tax laws or regulations or administrative interpretations and judicial decisions affecting the scope or application of tax laws or regulations; our exclusive forum provision as provided in our Certificate of Incorporation; interests of our significant stockholders that may differ from the interests of other stockholders; future sales of our common stock by DT and SoftBank and our inability to attract additional equity financing outside the United States due to foreign ownership limitations by the FCC; our stock repurchase program may not be fully consummated, and may not enhance long-term stockholder value; failure to realize the expected benefits and synergies of the merger with Sprint, pursuant to the Business Combination Agreement with Sprint and the other parties named therein (as amended, the "Business Combination Agreement") and the other transactions contemplated by the Business Combination Agreement (collectively, the "Transactions") in the expected time frames or in the amounts anticipated; any delay and costs of, or difficulties in, integrating our business and Sprint's business and operations, and unexpected additional operating costs, customer loss and business disruptions, including challenges in maintaining relationships with employees, customers, suppliers or vendors; unanticipated difficulties, disruption, or significant delays in our long-term strategy to migrate Sprint's legacy customers onto T-Mobile'sexisting billing platforms; and other risks as disclosed in our most recent annual report on Form 10-K,10-Qand other filings with the Securities and Exchange Commission. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law.
+      
+
+
+
+        SIGNATURES
+      
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+T-MOBILEUS, INC.
+          
+
+
+
+
+
+
+
+            January 19, 2023
+          
+
+
+
+
+
+
+
+
+              /S/ Peter Osvaldik
+            
+
+
+
+
+
+
+
+
+
+
+            Peter Osvaldik
+          
+
+
+
+
+
+
+
+
+
+            Executive Vice President and Chief Financial Officer
+          
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+T-Mobile US Inc. published this content on 19 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 19 January 2023 21:10:44 UTC.
+      
+

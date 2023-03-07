@@ -1,0 +1,51 @@
+
+
+Product development teams achieve more with new capabilities from Ansys
+/ Key Highlights
+With the newly launched Ansys 2023 R1, engineers can simulate more complex products faster than ever via new cloud options and optimized use of multiple graphics processing units (GPUs)The new release amplifies the benefits of simulation by supporting collaborative, model-based systems engineering (MBSE) workflowsExpanded integration of artificial intelligence/machine (AI/ML) and other advanced technologies boost efficiency and improve the user experiencePITTSBURGH, Jan. 26, 2023 /PRNewswire/ -- The software and service improvements in Ansys (NASDAQ: ANSS) 2023 R1 concentrate and amplify the incredible advantages that engineering simulation provides to multidisciplinary engineering and R&D teams. Ansys 2023 R1 enables organizations to accelerate past complexity and integration challenges to design the next generation of world-changing products by taking advantage of performance improvements, cross-discipline workflow integrations, and innovative capabilities.
+
+
+
+
+
+
+
+"Simulation enables design teams to advance in the right direction by quickly and confidently making decisions that define market leaders," said Shane Emswiler, vice president of products at Ansys. "Our latest advancements help engineers magnify their success through greater precision, streamlined workflows, and cloud scalability."
+Enhance Simulation PerformanceThe Structures product collection delivers new features and capabilities that allow users to perform more predictively accurate, efficient, and customizable simulation analyses. For example, a new capability within Ansys® Mechanical™ enables users to leverage AI/ML to determine the computational spend and time required to run a simulation.
+Ansys 2023 R1 also empowers users to run large, high-fidelity simulations more efficiently by overcoming hardware capacity limitations with high-performance computing (HPC) and by employing enhanced solver algorithms that take advantage of GPUs.
+The full release of the multi-GPU solver in Ansys® Fluent® computational fluid dynamics (CFD) software unleashes the power of multiple GPUs for a broad spectrum of applications — substantially reducing solve time and total power consumption. This full release adds support for species transport, non-stiff reacting flows, and enhanced numeric for large eddy simulation (LES).
+Ansys Gateway powered by AWS enables developers, designers, and engineers to manage their complete Ansys simulation and computer-aided design engineering (CAD/CAE) projects from anywhere on virtually any device via a web browser. The new release allows design teams to create or resize virtual machines and HPC clusters quickly, while streamlining access for teams via AWS cloud subscriptions and flexible single sign-on features for access to company environments.
+Integrate and Automate WorkflowsAnsys 2023 R1 also builds on the capabilities of materials, simulation process and data management (SPDM), optimization, and MBSE to improve engineering efficiency by supporting intelligent workflow automation and collaboration. The Ansys Connect product collection boasts user experience improvements, new integrations, and ease-of-use features to connect the latest processes, tools, and data more readily for different engineering teams.
+"We believe that the integration of Ansys simulation tools and MBSE gives us visibility into the entire design process, reducing development costs, improving engineering efficiency, driving innovation, and designing competitive products," said Takeo Hashimoto, general manager of the MBSE Design Center at Hitachi Industry & Control Solutions. "With Ansys tools and Hitachi Industry & Control Solutions' MBSE-focused engineering, we will support autonomous development in the automotive field and help customers solve their manufacturing issues in a more connected society."
+Engineers can boost efficiency faster with "one-click" Ansys® optiSLang™ optimization of simulation toolchains to perform design studies that enable engineers to quickly explore optimal designs. Those same optimization algorithms run trade studies for MBSE in Ansys ModelCenter. Fluent users can also use optimizations from optiSLang along with smarter collaboration and data management using Ansys Minerva's SPDM solution.
+Innovate Across the Product Development ProcessIn semiconductors, Ansys continues to deliver 3D-IC multiphysics leadership with Ansys® RedHawk-SC™ and RedHawk-SC Electrothermal included in TSMC's 3Dblox™ Reference Flow for power integrity, signal integrity, and thermal reliability signoff. A new thermal analysis methodology for RedHawk-SC Electrothermal uses half as much memory so that complex designs can be handled more efficiently. New performance and predictive accuracy improvements are obtained with updated RTL power predictability in Ansys® PowerArtist™. A 30% reduction in RedHawk-SC's database size enables engineers to solve complex designs more efficiently, and 2X faster transient simulations in RedHawk-SC speed time to solution.
+Ansys® Granta™ features material eco-data and tools that are now available on the cloud, which help optimize material selection for more cost-effective, sustainable products.
+In the Ansys Electronics collection, users can accelerate finite-sized antenna array simulations by adapting individual 3D component cells in parallel. This remarkable technology is unmatched in the industry and will empower organizations designing antennas for satellite communications, automotive radar, and aerospace applications.
+"Kymeta develops exciting and innovative product offerings in our pursuit of global satellite and cellular broadband communications on the move, and Ansys plays a key role in enabling technology introduction of new antenna and mechanical hardware ranging from microelectronics to thermomechanical structures," said Paul Klassen, vice president of engineering at Kymeta. "We use the extensive toolset in Mechanical, Fluent, and HFSS to explore optimal designs, and are incorporating Granta and Sherlock into our product development process while optimizing designs for harsh vibration and thermal environments in industrial, commercial, and consumer applications."
+To learn more about Ansys 2023 R1, please visit: ansys.com/products/release-highlights.
+/ About Ansys
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS-T
+/ Contacts
+Media       
+Mary Kate Joyce
+724.820.4368
+marykate.joyce@ansys.com 
+Investors     
+Kelsey DeBriyn
+724.820.3927
+kelsey.debriyn@ansys.com 
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/new-ansys-2023-release-amplifies-product-design-and-engineering-success-for-customers-across-industries-301731495.html
+SOURCE  Ansys
+
+

@@ -1,0 +1,132 @@
+
+
+
+        I grew up 228 miles northwest of New York City in a rural village dotted with small farms. It was in this environment that I felt closest to planet Earth. I spent summers barefoot, with my toes between blades of grass. At night I could hear the small chorus frogs (also known as the spring peeper) while fireflies danced in the field behind our house. My third-grade teacher would take us on long walks in the woods, sharing her knowledge about every insect, animal, and plant we saw. My mom carefully tended her garden, growing lots of healthy vegetables for us to eat and composting leftover scraps.
+      
+
+        I didn't feel a distinct separation between nature and our home life because we could open our windows or doors and instantly experience singing birds, swaying trees, and rolling hills. When I went away to college and moved to a more urban environment, I felt pulled away from that oneness with Earth. I now had to make an effort to spend time outside or walk in the woods. And when I started my career, sometimes I felt like I didn't have the time or energy to immerse myself in nature. I still did some small acts of kindness for Earth, like recycling, unplugging devices I wasn't using, or taking cloth bags to the grocery store. As the news about climate change grew worse, I started to feel guilty. I had the privilege of enjoying all the beauty and resources that planet Earth offers us but didn't take enough actions to improve her health.
+      
+
+        Now working on sustainability communications, I'm working more closely with issues around the climate crisis. At the same time, I also see dedicated people working hard to make a difference for the planet. Collaborating with these amazing individuals across Cisco is not only inspiring but motivating as well. There is the saying that "actions speak louder than words," so instead of continuing to profess my love for Earth, I want to share five actions Cisco is taking to help create a more sustainable and regenerative future for our planet:
+      
+
+Cisco's net zero goal
+
+
+        According to the U.S. Environmental Protection Agency ( "EPA"), heat is retained in the atmosphere because greenhouse gas ("GHG") emissions trap some of Earth's outgoing energy. This trapped heat alters climate and weather patterns, which can lead to more frequent and more severe natural disasters like hurricanes, floods, and droughts.
+      
+
+        Net zero is a state where we add no incremental GHGs to the atmosphere. In September 2021, Cisco set a goal to reach net zero GHG emissions across its value chain by reducing our absolute Scope 1, 2, and 3 emissions 90% by 2040 compared to our 2019 fiscal year, and neutralizing any remaining emissions by removing an equal amount from the atmosphere. And, we have near-term targets that support the net zero goal that you can learn more about in Cisco´s 2022 Purpose Report and related supplemental information located on our environmental, social, and governance ("ESG") Reporting Hub.
+      
+
+        Cisco's 2040 net zero goal and near-term targets are approved by the Science Based Targets initiative ("SBTi") under its Net-Zero Standard. SBTi validation means we must prioritize deep emissions reductions required by climate science, and can use offsets for no more than 10 percent of our emissions reduction.
+      
+
+Improving product energy efficiency
+
+
+        As a large, global company, we want to do our part to decrease the GHG emissions associated with our business and help our customers do the same.
+      
+
+        Because many of our products operate 24/7 and stay in use for several years, the majority of our emissions result from our customers' use of our products. Cisco is looking into how our products can use less energy while performing at the same standard. According to the U.S. Office of Energy Efficiency & Renewable Energy, one of the easiest and most cost-effective ways to address climate change is through energy efficiency.
+      
+
+        To reduce the emissions associated with the use of our products, we are making improvements in four key areas: power; thermal (i.e., the heat they generate); high-speed interconnects and Application-Specific Integrated Circuits ("ASICs"); and integration into our customer facilities (read more in our Purpose Report and ESG Reporting Hub).
+      
+
+Reducing our use of plastics
+
+
+        According to the United Nations Environmental Programme ("UNEP"), around "7 billion of the 9.2 billion tonnes of plastic produced from 1950-2017 became plastic waste, ending up in landfills or dumped."
+      
+
+        Virgin plastics are made from materials that have never been used or processed. In fiscal year 2021, we exceeded our goal to decrease use of virgin plastics in products by 20% compared to a fiscal year 2018 base year. Building on the momentum and key learnings from this goal, we recently set a new goal that by our fiscal year 2025, 50% of the plastic used in our products (by weight) will be made of recycled content. The plastics included in this goal exclude those contained in commodity components sourced from suppliers (e.g., plastic screws, fans, and cables).
+      
+
+        As part of our journey to minimize the use of virgin plastic, our teams are sourcing more recycled plastic parts and designing our products to reduce the need for plastic parts more generally. For example, select models of our 8800 Series IP phones consist of 68% recycled plastic, and some products in our Catalyst series of network switches were designed without bezels, the plastic cosmetic surface on the outside of a device.
+      
+
+Increasing our use of renewable electricity
+
+
+        According to the UN, the main cause of climate change is society's reliance on energy generated from fossil fuels, and renewable energy like wind and solar can help us tackle the climate crisis.
+      
+
+        Cisco operations account for only 1% of our total GHG emissions. However, we remain committed to reducing GHG emissions in our operations by procuring renewable electricity and improving the efficiency of our offices, laboratories, and data centers.
+      
+
+        Increasing our use of renewable electricity is a fundamental part of our strategy. In fiscal year 2022, 89% of our global electricity came from renewable energy sources, including 100% in the United States, Canada, and several European countries. We are ramping up both our onsite and offsite renewable energy efforts, targeting approximately 5 MW of new onsite solar and securing over 500 MW of new long-term renewable energy contracts by the end of fiscal year 2025. We are actively evaluating long-term power purchase agreements ("PPAs") in India and Europe that would collectively add over 100 MW of new solar and wind developments to these regions.
+      
+
+Making it easy to return products for reuse and recycling
+
+
+        According to the UNEP, "The world produces as much as 50 million tonnes of electronic and electrical waste (e-waste) a year, weighing more than all commercial airliners ever made. Only 20% of this is formally recycled."
+      
+
+        Cisco has had programs for over two decades to facilitate product returns for reuse and recycling, offer comprehensive service and repair, and remanufacture used equipment for sale through Cisco Refresh. These programs can create a second life for equipment, saving the resources required for new manufacturing and reducing waste.
+      
+
+        In fiscal year 2022, Cisco Capital launched Cisco Green Pay, a circular IT payment solution that makes it easier for customers to build a sustainable technology strategy. It provides a path for customers of all sizes to acquire Cisco sustainable solutions. The program offers predictable payments for five years, with a 5% incentive on equipment at the outset, while Cisco retains ownership. This and our other long-standing programs focused on product return and reuse help us make progress toward our PACE Capital Equipment pledge.
+      
+
+Steps you can take to show planet Earth that you care
+
+
+         Want to give planet Earth some love today and every day? Here are ten actions from ActNow, a UN campaign for individual action on climate change, that you can take:
+      
+
+
+Save energy at home by using LED light bulbs, washing laundry with cold water, and switching to energy-efficient appliances.
+        
+
+Walking, biking, or taking public transit will reduce GHG emissions, and carpooling is also an option when you need to use a vehicle.
+        
+
+Eating more vegetables can significantly lower your environmental impact since plant-based foods can be produced with less energy, land, and water.
+        
+
+Consider how you travel, especially since airplanes burn large amounts of fossil fuels. When you can, meet virtually or avoid long-distance trips.
+        
+
+Throw away less food because food that ends up in a landfill produces methane, a potent GHG. It is best to only buy what you need and compost leftovers.
+        
+
+Reduce, reuse, repair and recycle when you can because electronics, clothing, and other things we buy cause carbon emissions at each point in their production.
+        
+
+Change your home's energy source by installing solar panels on your roof or asking your utility company for other renewable options.
+        
+
+Switch to an electric vehicle ("EV") to help reduce air pollution since EVs cause significantly less GHG emissions.
+        
+
+Make your money count by purchasing from companies that use resources responsibly and are committed to reducing emissions and waste.
+        
+
+Speaking up and getting neighbors, colleagues, friends, and family to take action is one of the simplest and most effective ways to make a difference.
+        
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 13 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 13 February 2023 14:07:03 UTC.
+      
+

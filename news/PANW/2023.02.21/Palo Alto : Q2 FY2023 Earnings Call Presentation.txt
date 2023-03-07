@@ -1,0 +1,351 @@
+
+
+
+
+          Q2 Fiscal Year 2023 Earnings Call
+        
+
+
+
+          February 21, 2023
+        
+
+
+
+
+        Safe Harbor
+      
+
+        This presentation contains "forward-looking" statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act that are based on our management's beliefs and assumptions and on information currently available to management, including statements related to our ﬁnancial guidance for the third quarter of ﬁscal 2023 and ﬁscal year 2023 regarding total revenue, total billings, Next-Gen Security ARR, product revenue, non-GAAP operating margin, non-GAAP EPS, GAAP net income, GAAP proﬁtability and non-GAAP adjusted free cash ﬂow margin, our modeling points, and our expectations regarding supply chain conditions, product growth, free cash ﬂow margins, improvements in our operational efﬁciency, use of cash for share repurchases, and managing stock-based compensation expense. Many of these assumptions relate to matters that are beyond our control and changing rapidly.
+      
+
+        There are a signiﬁcant number of factors that could cause actual results to differ materially from forward-looking statements made in this presentation, including: developments and changes in general market, political, economic, and business conditions; the duration and global impact of COVID-19; risks associated with managing our growth; risks associated with new products and subscription and support offerings, including the discovery of software bugs; shifts in priorities or delays in the development or release of new subscription offerings, or the failure to timely develop and achieve market acceptance of new products and subscriptions as well as existing products and subscription and support offerings; rapidly evolving technological developments in the market for security products and subscription and support offerings; our customers' purchasing decisions and the length of sales cycles; our competition; our ability to attract and retain new customers; our ability as an organization to acquire and integrate other companies, products or technologies in a successful manner; the effects of supply chain constraints and the global chip and component shortages and other factors affecting the manufacture, delivery and cost of certain of our products; our ability to obtain adequate supply of our products from our third-party manufacturing partners; our debt repayment obligations; and our share repurchase program, which may not be fully consummated or enhance shareholder value, and any share repurchases which could affect the price of our common stock. Further information on these and other factors that could affect the forward-looking statements we make in this presentation can be found in the documents that we ﬁle with or furnish to the U.S. Securities and Exchange Commission, including Palo Alto Networks' most recent Quarterly Report on Form 10-Q ﬁled for the quarter ended October 31, 2022, which is available on our website at investors.paloaltonetworks.com and on the SEC's website at www.sec.gov. Additional information will also be set forth in other ﬁlings that we make with the SEC from time to time. All forward-looking statements in this presentation are based our current beliefs and on information available to us as of the date hereof, and we do not assume any obligation to update the forward-looking statements provided to reﬂect events that occur or circumstances that exist after the date on which they were made or to update the reasons why actual results could differ materially from those anticipated in the forward-looking statements, even if new information becomes available in the future.
+      
+
+        All information in this presentation is as of February 21, 2023. This presentation contains non-GAAP ﬁnancial measures and key metrics relating to the company's past and expected future performance. We have not reconciled diluted non-GAAP net income per share guidance to GAAP net income per diluted share, non-GAAP operating margin to GAAP operating margin or adjusted free cash ﬂow margin guidance to GAAP net cash from operating activities because we do not provide guidance on GAAP net income (loss) or net cash from operating activities and would not be able to present the various reconciling cash and non-cash items between GAAP and non-GAAP ﬁnancial measures, including share-based compensation expense, without unreasonable effort.
+      
+
+2 | © 2023 Palo Alto Networks, Inc. All rights reserved.
+      
+
+
+
+
+          Q2 Results
+        
+
+
+
+
+            Balanced
+          
+
+            Top Line
+          
+
+            Performance
+          
+
+            Delivered
+          
+
+            Accelerated
+          
+
+            Proﬁtability
+          
+
+
+
+            Total Billings1Remaining Performance Obligation
+
+
+
+
+
+                  $2.03B
+                
+
+
+
+                  $8.8B
+                
+
+
+
+
+
+                  +26% y/y
+                
+
+
+
+                  +39% y/y
+                
+
+
+
+
+
+                  NGS ARR2
+
+
+
+
+                  Total Revenue
+                
+
+
+
+
+
+                  $2.33B
+                
+
+
+
+                  $1.66B
+                
+
+
+
+
+
+                  +63% y/y
+                
+
+
+
+                  +26% y/y
+                
+
+
+
+
+
+                  Operating Income (non-GAAP)
+
+
+
+
+EPS (non-GAAP)
+                
+
+
+
+
+
+                  $377M
+                
+
+
+
+                  $1.05
+                
+
+
+
+
+
+                  +55% y/y
+                
+
+
+
+                  +$0.28 vs. Q2 Guidance3
+
+
+
+
+
+
+                  Adj. Free Cash Flow (non-GAAP)
+
+
+
+
+                  GAAP Net Income
+                
+
+
+
+
+
+                  $685M
+                
+
+
+
+                  GAAP Proﬁtable
+                
+
+
+
+
+
+                  +55% y/y
+                
+
+
+
+                  GAAP Net Income is positive for trailing 12 months
+                
+
+
+
+
+
+
+
+
+
+
+
+
+Total billings is a key ﬁnancial metric calculated as total revenue plus change in total deferred revenue, net of total acquired deferred revenue.
+
+
+
+
+ARR = Annualized Recurring Revenue. Next-Gen Security ARR is annualized allocated revenue of all active contracts as of the ﬁnal day of the reporting period for Prisma and Cortex offerings inclusive of the VM-Series and related services, and certain cloud-delivered security services.
+3 Refers to EPS (non-GAAP) of $0.77, the midpoint of Q2'FY23 guidance provided on November 17, 2022. Reconciliations of historical non-GAAP measures can be found in the Appendix.
+            Fiscal year ending on July 31.
+          
+
+
+4 | © 2023 Palo Alto Networks, Inc. All rights reserved.
+        
+
+
+
+
+
+          Heads down execution in a tough macro environment
+        
+
+
+
+
+            Macro Factors
+          
+
+
+
+            Our Execution Focus
+          
+
+
+
+            FY23 guidance updates
+          
+
+
+
+
+
+            Sustained Cybersecurity Demand
+          
+
+            Increased Deal
+          
+
+            Scrutiny
+          
+
+            Trends fueling shift to software
+          
+
+            Some inﬂationary pressures easing
+          
+
+
+
+            Investing for proﬁtable growth
+          
+
+            Staying ahead of longer sales cycles
+          
+
+            Positioning for consolidation
+          
+
+            Maintaining focus on efﬁciency
+          
+
+
+
+            Billings
+          
+
+            NGS ARR
+          
+
+            Revenue
+          
+
+            Op Margin (non-GAAP)
+
+
+            Raising Adj. FCF
+          
+
+Margin (non-GAAP)
+          
+
+
+
+            $9.10B-$9.20B
+          
+
+            was $8.95B - $9.10B
+          
+
+            $2.75B-$2.80B
+          
+
+            was $2.65B - $2.70B
+          
+
+            $6.85B - $6.91B
+          
+
+            21.5%-22.0%
+          
+
+            was 19.5%-20.0%
+          
+
+            36.5%-37.5%
+          
+
+            was 34.5%-35.5%
+          
+
+
+
+
+          Fiscal year ending on July 31.
+        
+
+5 | © 2023 Palo Alto Networks, Inc. All rights reserved.
+        
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Palo Alto Networks Inc. published this content on 21 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 21 February 2023 22:37:34 UTC.
+      
+

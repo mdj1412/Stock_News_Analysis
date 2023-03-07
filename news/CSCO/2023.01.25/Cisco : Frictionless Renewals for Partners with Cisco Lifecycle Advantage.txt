@@ -1,0 +1,73 @@
+
+
+
+        I lead the Cisco Digital Experience partner go-to-market for the Americas. One of our roles is to provide our partners with the tools they need to more successfully engage our mutual customers throughout the product lifecycle: from purchase to renewals. The main tool in our arsenal is Lifecycle Advantage, which serves up digital content that partners use to engage their customers in a more automated way.
+      
+
+        This capability is especially important when it comes to helping partners close renewals. For many partners, the renewal business can be particularly difficult to scale. This is especially true with smaller customers, as many partners simply don't have the people to manually keep up with every customer's renewal opportunity.
+      
+
+        With Lifecycle Advantage, Cisco automatically sends out co-branded partner notifications, informing customers of contracts and services that are expiring. Partners add in their own price quotes. Along with these notifications, Cisco also automatically sends recommended offerings based on customers' transaction history, helping partners to also upsell additional business.
+      
+
+        Cisco sends these notifications out on behalf of our partners, as it's Cisco's view that the partner owns the account-maintaining the contractual and commercial relationship with the customer. When the renewal occurs, the partner receives full credit for selling the renewal. Many other vendors bypass the partner and interact directly with the customer, ultimately treating the partner more like an agent to justify a much smaller referral fee.
+      
+
+        Automating eCommerce workflow with Commerce Automation eStorefronts
+      
+
+        Previously, when it came time for the customer to purchase the renewal, the only option was to essentially request to purchase by clicking a button saying something like "notify partner to order". In other words, the payment step of the overall renewal workflow was still manual.
+      
+
+        This all changed with Cisco's release of Commerce Automation eStorefronts, which is available to all Cisco partners as part of Lifecycle Advantage. Customers can now simply pay for the renewal-for instance, with a credit card-without any manual interaction with the partner.
+      
+
+        If the partner has an eCommerce system, then the Commerce Automation eStorefront can connect through open APIs. For partners without an eCommerce system, Cisco has worked with a third-party vendor to bring partners a low-cost eCommerce system that only takes a few days to set up.
+      
+
+        No matter which option partners choose, no money is exchanged through Cisco. Cisco is also not charging partners a fee to participate with Commerce Automation, nor any percentage of the transaction. And if the customer has a question, Cisco provides free, first-line support.
+      
+
+        Lifting the operational burden
+      
+
+        As a partner-first company, Cisco is committed to our partners' success. With this motivation in mind, Lifecycle Advantage with Commerce Automation lifts a huge operational burden off our partners' shoulders when it comes to selling and closing renewals.
+      
+
+        All Cisco partners are welcome to explore how to improve their productivity and increase bandwidth to devote to selling.  I encourage you to learn more about Lifecycle Advantage and Commerce Automation.
+      
+
+        Connect and collaborate with Cisco experts and peers in the Lifecycle Advantage Partner Community.
+      
+
+        Visit Cisco.com for videos, case studies and other materials to help you take advantage of all the resources available to help you serve your customers and grow your business.
+      
+
+        We'd love to hear what you think. Ask a Question, Comment Below, and Stay Connected with #CiscoPartners on social!
+      
+
+Cisco Partners Facebook  |  @CiscoPartners Twitter  |  Cisco Partners LinkedIn
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 25 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 25 January 2023 16:20:04 UTC.
+      
+

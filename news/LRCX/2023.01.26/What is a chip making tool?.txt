@@ -1,0 +1,42 @@
+WASHINGTON, Jan 26 (Reuters) - Sophisticated and
+expensive machinery used to make semiconductors, more
+widely-known as "chip-making tools", are in the news again, amid
+talks where the United States will urge Japanese and Dutch
+officials to crack down on shipments of the prized equipment to
+China.Below is more information about these machines.WHAT ARE CHIP-MAKING TOOLS?A single chip factory can contain 1,000 or more tools, each
+tuned to a different step in the process. One
+critical chipmaking step, called lithography, involves tools
+that can be the size of double-decker buses, weighing more than
+200 tonnes. They produce beams of focused light that create the
+microscopic circuitry on computer chips used in everything from
+phones and laptops to cars and AI.The biggest and most sophisticated lithography machines
+require three Boeing 747s to carry them in sections and can cost
+as much as $160 million.WHICH FIRMS MAKE THEM?While American firms such as Applied Materials, KLA
+and LAM Research are dominant players in the
+chip manufacturing equipment industry, they face competition
+from Japanese rivals like Tokyo Electron. And certain
+parts of the process, such as lithography, are dominated by
+Dutch firm ASML and Japan's Nikon and Canon
+, with no meaningful U.S. competitors.Since 2000, ASML has rapidly taken market share from
+Japanese competitors, which now mainly focus on older
+technology. ASML controls more than 90% of the lithography
+market. No competitor is attempting to build the most
+sophisticated EUV system, citing high development costs.Shortages of ASML’s machines are a bottleneck for
+chipmakers, which have plans to spend more than $100 billion in
+the coming years to build extra fabrication plants to meet
+demand.WHY DOES THE U.S. WANT TO LIMIT CHINA'S ACCESS TO THEM?American officials have said they want to limit China's
+progress in making advanced semiconductors because such work is
+key to China's efforts to modernise its military. They want to
+slow China's military progress because they are concerned about
+a direct confrontation if China moves to take Taiwan, the
+democratic island off its coast that China claims is part of its
+territory.WHAT IS THE U.S. DOING TO LIMIT CHINA'S ACCESS?In October, the United States annnounced a sweeping set of
+export controls, including measures tightly restricting Chinese
+access to U.S. chipmaking technology, in a bid to slow Beijing's
+technological and military advances.The raft of measures, if effective, could hobble China's
+chip manufacturing industry by forcing American and foreign
+companies that use U.S. technology to cut off support for some
+of China's leading factories and chip designers.But to be effective, the United States needs the Netherlands
+and Japan to jump on board with similar restrictions.
+(Reporting by Chris Sanders and Stephen Nellis; Editing by
+Sharon Singleton)

@@ -1,0 +1,15 @@
+
+
+Workday Recruiting, paired with HackerRank's deep expertise in developer skills, helps to accelerate innovation at companies across the globe
+MOUNTAIN VIEW, Calif., Feb. 28, 2023 /PRNewswire/ -- HackerRank, the developer skills company and a Workday (NASDAQ: WDAY) Access software partner, today announced that it has achieved Workday Certified Integration status. HackerRank provides customers with a seamless integration that connects Workday Recruiting with HackerRank's technical skill assessments.
+Workday Recruiting is an end-to-end talent acquisition application which helps organizations manage their entire recruiting lifecycle in a unified system.
+The HackerRank integration with Workday Recruiting helps recruiters accurately and fairly assess the technical skills of talent from anywhere in the world. Recruiters can now send and view technical skill assessment results all within Workday, allowing them to move more quickly and intentionally as they fill technical skill gaps with developer talent.
+"HackerRank achieving Workday Certified Integration status is an important milestone on our journey to accelerate the world's innovation through skills-based hiring," said Jesse Sims, Vice President of Global Alliances at HackerRank. "Through our certified integration with Workday Recruiting, we're able to help customers maximize strategies that prioritize skills over pedigree, support hiring teams in search of today's hardest-to-find technical skills, and champion developers across the globe as they land career opportunities behind the innovation of tomorrow."
+"Screening candidates through HackerRank has helped us rapidly and accurately identify the skills of candidates, and therefore find and hire the technical talent our team needs to innovate," said Jon Duggins, Director of Talent Acquisition at DraftKings. "Integrating HackerRank with Workday Recruiting was a seamless experience that fostered a better experience for our hiring and recruiting teams, as well as supported a faster time-to-hire. HackerRank has been a supportive and proactive partner for DraftKings."
+More information on HackerRank's integration can be found on the Workday Marketplace, which provides easy access to solutions built by Workday and its software and content partners. 
+To learn more, visit https://www.hackerrank.com/integrations/hackerrank-workday-integration/.
+About HackerRankTrusted by over 40% of the global developer population, HackerRank is the leading developer skills company, helping businesses attract, evaluate, hire and upskill the best technical talent from around the world. Over 3,000 customers across industries, including over 25% of the Fortune 100, rely on HackerRank to raise their hiring bars. The HackerRank developer community has over 21 million members who trust HackerRank to advance and showcase their coding skills. For more information, visit www.hackerrank.com.
+ View original content:https://www.prnewswire.com/news-releases/hackerrank-completes-workday-certified-integration-301757138.html
+SOURCE  HackerRank
+
+

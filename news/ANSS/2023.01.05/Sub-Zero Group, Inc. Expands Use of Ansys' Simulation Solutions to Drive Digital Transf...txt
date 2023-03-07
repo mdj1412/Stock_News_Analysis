@@ -1,0 +1,33 @@
+
+
+Sub-Zero Group and Ansys enter into a new multiyear agreement to advance simulation-driven product development, improve designs, and reduce physical prototyping 
+/ Key Highlights
+Sub-Zero Group integrates Ansys simulation solutions into early R&D stages to optimize designs, workflows, and efficiencyAnsys simulation helps Sub-Zero Group accelerate development timelines by nearly 20% and reduce physical prototypes by 50%PITTSBURGH, Jan. 5, 2023 /PRNewswire/ -- Building on a longstanding relationship, Ansys (NASDAQ: ANSS) signed a multiyear agreement with Sub-Zero Group, Inc. (Sub-Zero Group) to expand Sub-Zero Group's use of Ansys' simulation solutions and digitally transform its research and development (R&D) processes to optimize designs, efficiency, and product quality. The industry-leading manufacturer of premium kitchen appliance brands Sub-Zero, Wolf, and Cove, Sub-Zero Group implements Ansys' industry-leading simulation tools to inform designs from early stages, reduce physical prototypes by up to 50%, and accelerate development by nearly 20%.
+
+
+
+
+
+
+
+Historically, Sub-Zero Group integrated simulation as a late-stage verification method. Today, Ansys helps Sub-Zero Group create and maintain an infrastructure that includes automated and semi-automated workflows in which simulation is used to ideate and fine-tune designs before a physical prototype is ever made. Further, by shifting to virtual prototyping and testing, Sub-Zero Group improves sustainability by decreasing material usage and manufacturing time, which preserves energy and eliminates unnecessary waste.
+"By incorporating Ansys' simulation solutions earlier in our R&D processes, we are now beginning with the end in mind," said Terry Hoffman, senior director at Sub-Zero Group. "With simulation front and center from early-stage design, we can see the bigger picture and better inform our development process, accelerate timelines, reduce physical prototyping, and, ultimately, enhance product quality and safety. Essentially, Ansys simulation enables us to deliver our brand promise of producing world-class kitchen appliances."
+Under the agreement, Sub-Zero Group will continue to leverage tools such as Ansys® Mechanical™ for structural analyses, Ansys® Fluent® for computational fluid dynamics, and developing Ansys® HFSS™ capabilities to understand electromagnetic phenomena. From noise to thermal stresses, connectivity, and more, Ansys simulation provides Sub-Zero Group with insight into areas that could not be fully explored with physical testing alone.
+"Ansys is proud to collaborate with Sub-Zero Group to drive digital transformation and sustainable product development by encouraging simulation as an active part of development," said Walt Hearn, vice president of worldwide sales and customer excellence at Ansys. "Simulation integration not only saves time and cost but provides critical insight to optimize product performance, safety, and efficiency."
+To speak with Ansys executives and subject matters and learn more about how customers are leveraging Ansys solutions, visit Ansys at CES in Las Vegas from Jan. 5-8, 2023, at booth #4401.
+/ About AnsysWhen visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–C
+/ Contacts
+Media
+Mary Kate Joyce 724.820.4368 marykate.joyce@ansys.com 
+Investors
+Kelsey DeBriyn 724.820.3927 kelsey.debriyn@ansys.com 
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/sub-zero-group-inc-expands-use-of-ansys-simulation-solutions-to-drive-digital-transformation-and-sustainable-product-development-301714147.html
+SOURCE  Ansys
+
+

@@ -1,0 +1,27 @@
+March 2 (Reuters) - Apple Inc has blocked an update
+to email app BlueMail, which uses a customized version of
+OpenAI's GPT-3 language model, the co-founder of the app
+developer told Reuters on Thursday."Apple has blocked the BlueMail update and continues to
+treat BlueMail unfairly and to discriminate against us," Blix's
+Ben Volach said."Other GPT-powered apps seem not to be restricted," he
+added.Apple, which rejected the app update last week, asked the
+company to revise the app's age rating for those over 17 or
+implement content filtering, as BlueMail may produce content not
+appropriate for all audiences, according to a document viewed by
+Reuters."We want fair­ness. If we're re­quired to be 17-plus, then
+oth­ers should also have to," Volach tweeted, adding that many
+other apps that advertise ChatGPT-like features listed on
+Apple's app store do not have age restrictions.Apple, which was looking into the complaint, said developers
+have the option to challenge a rejection through the App Review
+Board process."It suggests to us that the company may scrutinize apps with
+ChatGPT functionality in the same way it does others where there
+are concerns about the quality of the user experience and
+appropriate nature of the content or service provided by the
+app," D.A. Davidson analyst Thomas Forte said.OpenAI's ChatGPT, which can generate content in response to
+user prompts, has captivated the tech industry.Microsoft and Alphabet Inc's Google both
+announced their own AI chatbots earlier in February.While AI-powered chatbots are a nascent field, early search
+results and conversations have made headlines with their
+unpredictability.
+(Reporting by Akash Sriram and Samrhitha Arunasalam in
+Bengaluru; Editing by Saumyadeb Chakrabarty, Maju Samuel and
+Krishna Chandra Eluri)

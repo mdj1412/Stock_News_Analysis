@@ -1,0 +1,1736 @@
+
+
+Revenue of $1.08 billion for Q4 2022, down 10% from Q4 2021, and down 7% on a constant currency basisRevenue of $4.58 billion for fiscal year 2022, up 1% from fiscal year 2021, and up 3% on a constant currency basisGAAP diluted loss per share of $(0.89) for Q4 2022, compared to GAAP diluted earnings per share of $0.71 for Q4 2021Non-GAAP diluted earnings per share of $0.14 for Q4 2022, compared to non-GAAP diluted earnings per share of $0.75 for Q4 2021GAAP diluted loss per share of $(28.00) for fiscal year 2022, compared to GAAP diluted earnings per share of $5.04 for fiscal year 2021, and included $(24.93) per diluted share due to goodwill impairment related to the GRAIL segment and $(0.55) per diluted share due to an increase in tax expense from R&D capitalization requirements that were not repealed in Q4 2022Non-GAAP diluted earnings per share of $2.12 for fiscal year 2022, compared to non-GAAP diluted earnings per share of $5.90 for fiscal year 2021, and included $(0.55) per diluted share due to an increase in tax expense from R&D capitalization requirements that were not repealed in Q4 2022 and an increase in GRAIL's non-GAAP operating loss due to a full year of consolidated results in 2022 compared to a partial year in 2021For fiscal year 2023, expect revenue to grow 7% to 10% compared to fiscal year 2022, GAAP diluted earnings per share of $0.03 to $0.28, and non-GAAP diluted earnings per share of $1.25 to $1.50SAN DIEGO, Feb. 7, 2023 /PRNewswire/ -- Illumina, Inc. (Nasdaq: ILMN) today announced its financial results for the fourth quarter and fiscal year 2022, which include consolidated financial results for GRAIL.
+"Our fourth quarter operating results were in line with our expectations, with ongoing traction across our product portfolio amid a challenging macroeconomic environment," said Francis deSouza, Chief Executive Officer. "Illumina's continued focus on innovation across multiple new products, including the NovaSeq X, the most powerful, most sustainable, and most cost-effective sequencer ever developed, have been met with strong customer interest. Our order book is exceeding expectations and we have begun shipping instruments. GRAIL ended the year with accelerating consumer excitement for its Galleri test; more than 4,500 health providers ordered the test in 2022, contributing to more than 60,000 tests ordered to date."
+Fourth quarter consolidated results
+GAAP
+Non-GAAP (a)
+Dollars in millions, except per share amounts
+Q4 2022
+Q4 2021
+Q4 2022
+Q4 2021
+Revenue
+$  1,083
+$  1,198
+$  1,083
+$  1,198
+Gross margin
+62.1 %
+68.2 %
+66.6 %
+71.5 %
+Research and development ("R&D") expense
+$     346
+$     350
+$     339
+$     350
+Selling, general and administrative ("SG&A") expense
+$     432
+$     426
+$     351
+$     361
+Legal contingency and settlement
+$       21
+$       —
+$       —
+$       —
+Operating (loss) profit
+$    (127)
+$       41
+$       31
+$     146
+Operating margin
+(11.7) %
+3.4 %
+2.9 %
+12.2 %
+Tax rate
+16.8 %
+(30.4) %
+29.3 %
+15.6 %
+Net (loss) income
+$    (140)
+$     112
+$       22
+$     117
+Diluted (loss) earnings per share
+$   (0.89)
+$    0.71
+$    0.14
+$    0.75
+(a) See the tables included in "Results of Operations - Non-GAAP" section below for reconciliations of these GAAP and non-GAAP financial measures.
+Capital expenditures for free cash flow purposes were $88 million for Q4 2022. Cash flow provided by operations was $147 million, compared to $282 million in the prior year period. Free cash flow (cash flow provided by operations less capital expenditures) was $59 million for the quarter, compared to $212 million in the prior year period. Depreciation and amortization expenses were $107 million for Q4 2022. At the close of the quarter, the company held $2,037 million in cash, cash equivalents and short-term investments, compared to $1,339 million as of January 2, 2022. Cash as of the close of the quarter included $991 million in net proceeds from the term notes issued on December 13, 2022.
+Fourth quarter segment resultsIllumina has two reportable segments, Core Illumina and GRAIL.
+Core Illumina
+GAAP
+Non-GAAP (a)
+Dollars in millions
+Q4 2022
+Q4 2021
+Q4 2022
+Q4 2021
+Revenue (b)
+$  1,065
+$  1,193
+$  1,065
+$  1,193
+Gross margin
+65.9 %
+71.0 %
+67.3 %
+71.6 %
+R&D expense
+$     264
+$     274
+$     257
+$     274
+SG&A expense
+$     347
+$     351
+$     271
+$     306
+Legal contingency and settlement
+$       21
+$        —
+$       —
+$       —
+Operating profit
+$       70
+$     222
+$     190
+$     274
+Operating margin
+6.6 %
+18.6 %
+17.8 %
+22.9 %
+(a) See Table 3 included in "Results of Operations - Non-GAAP" section below for reconciliations of these GAAP and non-GAAP financial measures.
+(b) Core Illumina revenue for Q4 2022 was down 11% from Q4 2021, and down 8% on a constant currency basis. Amounts for Q4 2022 and Q4 2021 included intercompany revenue of $5 million, which is eliminated in consolidation.
+GRAIL
+GAAP
+Non-GAAP (a)
+In millions
+Q4 2022
+Q4 2021
+Q4 2022
+Q4 2021
+Revenue
+$      23
+$         10
+$      23
+$         10
+Gross (loss) profit
+$     (26)
+$        (30)
+$        8
+$           3
+R&D expense
+$      85
+$         76
+$      85
+$         76
+SG&A expense
+$      86
+$         76
+$      81
+$         55
+Operating loss
+$   (197)
+$      (182)
+$   (159)
+$      (128)
+(a) See Table 3 included in "Results of Operations - Non-GAAP" section below for reconciliations of these GAAP and non-GAAP financial measures.
+Fiscal year 2022 consolidated results
+GAAP
+Non-GAAP (a)
+Dollars in millions, except per share amounts
+2022
+2021 (b)
+2022
+2021 (b)
+Revenue
+$  4,584
+$  4,526
+$  4,584
+$  4,526
+Gross margin
+64.8 %
+69.7 %
+68.6 %
+71.3 %
+R&D expense
+$  1,321
+$  1,185
+$  1,313
+$     989
+SG&A expense
+$  1,297
+$  2,092
+$  1,346
+$  1,140
+Legal contingency and settlement
+$     619
+$       —
+$       —
+$       —
+Goodwill impairment (c)
+$  3,914
+$       —
+$       —
+$       —
+Operating (loss) profit
+$ (4,179)
+$    (123)
+$     487
+$  1,096
+Operating margin
+(91.2) %
+(2.7) %
+10.6 %
+24.2 %
+Tax rate
+(1.6) %
+13.8 %
+26.0 %
+17.3 %
+Net (loss) income
+$ (4,404)
+$    762
+$    336
+$    892
+Diluted (loss) earnings per share
+$ (28.00)
+$   5.04
+$   2.12
+$   5.90
+(a) See the tables included in "Results of Operations - Non-GAAP" section below for reconciliations of these GAAP and non-GAAP financial measures.
+(b) Consolidated financial results for GRAIL are included in 2021 for the period after the acquisition.
+(c) The company recognized $3.91 billion in goodwill impairment related to the GRAIL segment in 2022, primarily due to the negative impact of current capital market conditions and higher discount rates, including a standalone risk premium, on the fair value calculation of the GRAIL segment.
+Capital expenditures for free cash flow purposes were $286 million for fiscal year 2022. Cash flow provided by operations was $392 million, compared to $545 million in the prior year. Free cash flow (cash flow provided by operations less capital expenditures) was $106 million for the year, compared to $337 million in the prior year. Depreciation and amortization expenses were $394 million for fiscal year 2022.
+Fiscal year 2022 segment resultsFollowing the acquisition of GRAIL on August 18, 2021, we have two reportable segments, Core Illumina and GRAIL.  GRAIL financial results are reflected for the period after the acquisition.
+Core Illumina
+GAAP
+Non-GAAP (a)
+Dollars in millions
+2022
+2021
+2022
+2021
+Revenue (b)
+$  4,553
+$  4,519
+$  4,553
+$  4,519
+Gross margin
+68.2 %
+70.7 %
+69.1 %
+71.3 %
+R&D expense
+$  1,004
+$     885
+$     996
+$     885
+SG&A expense
+$  1,003
+$  1,502
+$  1,069
+$  1,064
+Legal contingency and settlement
+$     619
+$       —
+$       —
+$       —
+Operating profit
+$     481
+$     808
+$  1,081
+$  1,273
+Operating margin
+10.6 %
+17.9 %
+23.8 %
+28.2 %
+(a) See Table 3 included in "Results of Operations - Non-GAAP" section below for reconciliations of these GAAP and non-GAAP financial measures.
+(b) Core Illumina revenue for 2022 was up 1% from 2021, and up 3% on a constant currency basis. Amounts for 2022 and 2021 included intercompany revenue of $24 million and $5 million, respectively, which is eliminated in consolidation.
+GRAIL
+GAAP
+Non-GAAP (a)
+In millions
+2022
+2021
+2022
+2021
+Revenue
+$         55
+$         12
+$         55
+$         12
+Gross (loss) profit
+$      (117)
+$        (41)
+$         17
+$           3
+R&D expense
+$       330
+$       300
+$       330
+$       104
+SG&A expense
+$       296
+$       590
+$       279
+$         76
+Goodwill impairment (b)
+$    3,914
+$          —
+$          —
+$          —
+Operating loss
+$   (4,657)
+$      (931)
+$      (592)
+$      (177)
+(a) See Table 3 included in "Results of Operations - Non-GAAP" section below for reconciliations of these GAAP and non-GAAP financial measures.
+(b) The company recognized $3.91 billion in goodwill impairment related to the GRAIL segment in 2022, primarily due to the negative impact of current capital market conditions and higher discount rates, including a standalone risk premium, on the fair value calculation of the GRAIL segment.
+Key announcements by Illumina since Illumina's last earnings release
+Partnered with Amgen, a global biopharmaceutical company, to whole-genome sequence a cohort of approximately 35,000 DNA samples made up of DNA from African Americans, who are currently underrepresented in research for the clinical applications of genomics, including drug target discoveryAchieved the highest score out of 72 companies in its industry in the S&P Global Corporate Sustainability Assessment, also known as the Dow Jones Sustainability Index (DJSI)Opened an over 9,100-square-foot state-of-the-art Solutions Center in Dubai, United Arab Emirates to offer Illumina's partners and customers broad genomic capabilitiesAnnounced a comprehensive, high-accuracy long-read view of the genome for as low as $600 with Illumina Complete Long Read Prep with Enrichment, available in the second half of 2023Appointed Joydeep Goswami as Chief Financial OfficerA full list of recent Illumina announcements can be found in the company's News Center.
+Key announcements by GRAIL since Illumina's last earnings release
+Launched research use only, methylation-based solution for cancer prognosis, minimal residual disease and recurrence monitoring and biomarker discoveryExpanded partnership with Point32Health to offer Galleri® to Harvard Pilgrim Health Care members on the Maine Health Insurance Marketplace, the second phase of a pilot focusing on collecting real-world evidence to assess the impact of Galleri® on health care resource utilization and patient-reported outcomesAnnounced findings from a fundamental substudy of the Circulating Cell-free Genome Atlas (CCGA) study, demonstrating that methylation had the most promising combination of cancer detection and prediction of cancer signal origin when compared with other evaluated approachesA full list of recent GRAIL announcements can be found in GRAIL's Newsroom.
+Financial outlook and guidanceThe non-GAAP financial guidance discussed below reflects certain pro forma adjustments to assist in analyzing and assessing our core operational performance, including our Core Illumina and GRAIL segments. Please see our Reconciliation of Consolidated Non-GAAP Financial Guidance included in this release for a reconciliation of these GAAP and non-GAAP financial measures.
+For fiscal year 2023, the company expects consolidated revenue growth of 7% to 10% compared to fiscal year 2022. We expect GAAP diluted earnings per share of $0.03 to $0.28 and non-GAAP diluted earnings per share of $1.25 to $1.50. The GAAP and non-GAAP diluted earnings per share guidance ranges assume that the existing R&D capitalization requirements are not repealed in fiscal year 2023 and, as a result, reflect an impact of approximately $75 million.
+The company expects Core Illumina revenue growth of 6% to 9% compared to fiscal year 2022. GRAIL revenue is expected to be in the range of $90 million to $110 million.
+Conference call informationThe conference call will begin at 2 p.m. Pacific Time (5 p.m. Eastern Time) on Tuesday, February 7, 2023. Interested parties may access the live teleconference through the Investor Info section of Illumina's website under the "Company" tab at www.illumina.com. Alternatively, individuals can access the call by dialing 844.394.5144 or +1.773.305.6867 outside North America, both using conference ID 5339523. To ensure timely connection, please dial in at least ten minutes before the scheduled start of the call.
+A replay of the conference call will be posted on Illumina's website after the event and will be available for at least 30 days following.
+Statement regarding use of non-GAAP financial measuresThe company reports non-GAAP results for diluted earnings per share, net income, gross margin, operating expenses, including research and development expense, selling general and administrative expense, legal contingencies and settlement, and goodwill impairment, operating income (loss), operating margin, gross profit (loss), other income (expense), tax provision, constant currency revenue growth, and free cash flow (on a consolidated and, as applicable, segment basis for our Core Illumina and GRAIL segments) in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. The company's financial measures under GAAP include substantial charges such as amortization of acquired intangible assets among others that are listed in the itemized reconciliations between GAAP and non-GAAP financial measures included in this press release, as well as the effects of currency translation. Management has excluded the effects of these items in non-GAAP measures to assist investors in analyzing and assessing past and future operating performance, including in the non-GAAP measures related to our Core Illumina and GRAIL segments. Additionally, non-GAAP net income and diluted earnings per share are key components of the financial metrics utilized by the company's board of directors to measure, in part, management's performance and determine significant elements of management's compensation.
+The company encourages investors to carefully consider its results under GAAP, as well as its supplemental non-GAAP information and the reconciliation between these presentations, to more fully understand its business. Reconciliations between GAAP and non-GAAP results are presented in the tables of this release.
+Use of forward-looking statementsThis release may contain forward-looking statements that involve risks and uncertainties. Among the important factors to which our business is subject that could cause actual results to differ materially from those in any forward-looking statements are: (i) changes in the rate of growth in the markets we serve; (ii) the volume, timing and mix of customer orders among our products and services; (iii) our ability to adjust our operating expenses to align with our revenue expectations; (iv) our ability to manufacture robust instrumentation and consumables; (v) the success of products and services competitive with our own; (vi) challenges inherent in developing, manufacturing, and launching new products and services, including expanding or modifying manufacturing operations and reliance on third-party suppliers for critical components; (vii) the impact of recently launched or pre-announced products and services on existing products and services; (viii) our ability to further develop and commercialize our instruments, consumables, and products, including Galleri, the cancer screening test developed by GRAIL, to deploy new products, services, and applications, and to expand the markets for our technology platforms; (ix) the risks and costs associated with our ongoing inability to integrate GRAIL due to the interim measures imposed on us by the European Commission as a result of their prohibition of our acquisition of GRAIL; (x) the risks and costs associated with the integration of GRAIL's business if we are ultimately able to integrate GRAIL; (xi) the risk that disruptions from the consummation of our acquisition of GRAIL and associated legal or regulatory proceedings, including related appeals, or obligations will harm our business, including current plans and operations; (xii) the risk of incurring fines associated with the consummation of our acquisition of GRAIL and the possibility that we may be required to divest all or a portion of the assets or equity interests of GRAIL on terms that could be materially worse than the terms on which we acquired GRAIL; (xiii) our ability to obtain approval by third-party payors to reimburse patients for our products; (xiv) our ability to obtain regulatory clearance for our products from government agencies; (xv) our ability to successfully partner with other companies and organizations to develop new products, expand markets, and grow our business; (xvi) uncertainty, or adverse economic and business conditions, including as a result of slowing or uncertain economic growth, COVID-19 pandemic mitigation measures, or armed conflict; (xvii) the application of generally accepted accounting principles, which are highly complex and involve many subjective assumptions, estimates, and judgments and (xviii) legislative, regulatory and economic developments, together with other factors detailed in our filings with the Securities and Exchange Commission, including our most recent filings on Forms 10-K and 10-Q, or in information disclosed in public conference calls, the date and time of which are released beforehand. We undertake no obligation, and do not intend, to update these forward-looking statements, to review or confirm analysts' expectations, or to provide interim reports or updates on the progress of the current quarter.
+About IlluminaIllumina is improving human health by unlocking the power of the genome. Our focus on innovation has established us as a global leader in DNA sequencing and array-based technologies, serving customers in the research, clinical and applied markets. Our products are used for applications in the life sciences, oncology, reproductive health, agriculture and other emerging segments. To learn more, visit www.illumina.com and connect with us on Twitter, Facebook, LinkedIn, Instagram, and YouTube.
+About GRAILGRAIL is a healthcare company whose mission is to detect cancer early, when it can be cured. GRAIL is focused on alleviating the global burden of cancer by developing pioneering technology to detect and identify multiple deadly cancer types early. The company is using the power of next-generation sequencing, population-scale clinical studies, and state-of-the-art computer science and data science to enhance the scientific understanding of cancer biology, and to develop its multi-cancer early detection blood test. GRAIL is headquartered in Menlo Park, CA with locations in Washington, D.C., North Carolina, and the United Kingdom. GRAIL, LLC, is a wholly-owned subsidiary of Illumina, which currently must be held and operated separately and independently from Illumina pursuant to interim measures ordered by the European Commission, which prohibited our acquisition of GRAIL on September 6, 2022. For more information, please visit www.grail.com.
+ 
+Illumina, Inc.
+Condensed Consolidated Balance Sheets
+(In millions)
+January 1,2023
+January 2,2022
+ASSETS
+(unaudited)
+Current assets:
+Cash and cash equivalents
+$         2,011
+$         1,232
+Short-term investments
+26
+107
+Accounts receivable, net
+671
+648
+Inventory, net
+568
+431
+Prepaid expenses and other current assets
+285
+295
+Total current assets
+3,561
+2,713
+Property and equipment, net
+1,091
+1,024
+Operating lease right-of-use assets
+653
+672
+Goodwill
+3,239
+7,113
+Intangible assets, net
+3,285
+3,250
+Other assets
+423
+445
+Total assets
+$       12,252
+$       15,217
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable
+$            293
+$            332
+Accrued liabilities
+1,232
+761
+Term notes, current portion
+500
+—
+Convertible senior notes, current portion
+748
+—
+Total current liabilities
+2,773
+1,093
+Operating lease liabilities
+744
+774
+Term notes
+1,487
+993
+Convertible senior notes
+—
+702
+Other long-term liabilities
+649
+915
+Stockholders' equity
+6,599
+10,740
+Total liabilities and stockholders' equity
+$       12,252
+$       15,217
+ 
+Illumina, Inc.
+Condensed Consolidated Statements of Operations
+(In millions, except per share amounts)
+(unaudited)
+Three Months Ended
+Year Ended
+January 1,2023
+January 2,2022
+January 1,2023
+January 2,2022
+Revenue:
+Product revenue
+$            913
+$         1,065
+$        3,953
+$        3,968
+Service and other revenue
+170
+133
+631
+558
+Total revenue
+1,083
+1,198
+4,584
+4,526
+Cost of revenue:
+Cost of product revenue (a)
+279
+277
+1,144
+1,060
+Cost of service and other revenue (a)
+84
+64
+295
+241
+Amortization of acquired intangible assets
+48
+40
+173
+71
+Total cost of revenue
+411
+381
+1,612
+1,372
+Gross profit
+672
+817
+2,972
+3,154
+Operating expense:
+Research and development (a)
+346
+350
+1,321
+1,185
+Selling, general and administrative (a)
+432
+426
+1,297
+2,092
+Legal contingency and settlement
+21
+—
+619
+—
+Goodwill impairment
+—
+—
+3,914
+—
+Total operating expense
+799
+776
+7,151
+3,277
+(Loss) income from operations
+(127)
+41
+(4,179)
+(123)
+Other (expense) income, net
+(41)
+45
+(157)
+1,007
+(Loss) income before income taxes
+(168)
+86
+(4,336)
+884
+(Benefit) provision for income taxes
+(28)
+(26)
+68
+122
+Net (loss) income
+$          (140)
+$            112
+$      (4,404)
+$           762
+(Loss) earnings per share:
+Basic
+$         (0.89)
+$           0.72
+$      (28.00)
+$          5.07
+Diluted
+$         (0.89)
+$           0.71
+$      (28.00)
+$          5.04
+Shares used in computing (loss) earnings per share:
+Basic
+158
+157
+157
+150
+Diluted
+158
+157
+157
+151
+(a) Includes stock-based compensation expense for stock-based awards:
+Three Months Ended
+Year Ended
+January 1,2023
+January 2,2022
+January 1,2023
+January 2,2022
+Cost of product revenue
+$                6
+$                1
+$            26
+$            23
+Cost of service and other revenue
+1
+1
+6
+4
+Research and development
+40
+33
+153
+276
+Selling, general and administrative
+51
+62
+181
+638
+Stock-based compensation expense before taxes
+$              98
+$              97
+$           366
+$           941
+ 
+Illumina, Inc.
+Condensed Consolidated Statements of Cash Flows
+(In millions)
+(unaudited)
+Three Months Ended
+Year Ended
+January 1,2023
+January 2,2022
+January 1,2023
+January 2,2022
+Net cash provided by operating activities
+$            147
+$            282
+$           392
+$           545
+Net cash used in investing activities
+(102)
+—
+(591)
+(1,069)
+Net cash provided by (used in) financing activities
+956
+(129)
+1,000
+(51)
+Effect of exchange rate changes on cash and cash equivalents
+10
+(1)
+(22)
+(3)
+Net increase (decrease) in cash and cash equivalents
+1,011
+152
+779
+(578)
+Cash and cash equivalents, beginning of period
+1,000
+1,080
+1,232
+1,810
+Cash and cash equivalents, end of period
+$         2,011
+$         1,232
+$        2,011
+$        1,232
+Calculation of free cash flow:
+Net cash provided by operating activities
+$            147
+$            282
+$           392
+$           545
+Purchases of property and equipment
+(88)
+(70)
+(286)
+(208)
+Free cash flow (a)
+$              59
+$            212
+$           106
+$           337
+(a) Free cash flow, which is a non-GAAP financial measure, is calculated as net cash provided by operating activities reduced by purchases of property and equipment. Free cash flow is useful to management as it is one of the metrics used to evaluate our performance and to compare us with other companies in our industry. However, our calculation of free cash flow may not be comparable to similar measures used by other companies.
+ 
+Illumina, Inc.
+Results of Operations - Revenue by Segment
+(Dollars in millions)
+(unaudited)
+Three Months Ended
+Year Ended
+January 1, 2023
+January 2, 2022
+% Change
+January 1, 2023
+January 2, 2022
+% Change
+Consolidated revenue
+$      1,083
+$      1,198
+(10) %
+$      4,584
+$      4,526
+1 %
+Less: Hedge gains
+21
+6
+53
+10
+Consolidated revenue, excluding hedge effect
+1,062
+1,192
+4,531
+4,516
+Less: Exchange rate effect
+(46)
+—
+(137)
+—
+Consolidated constant currency revenue (a)
+$      1,108
+$      1,192
+(7) %
+$      4,668
+$      4,516
+3 %
+Core Illumina revenue
+$      1,065
+$      1,193
+(11) %
+$      4,553
+$      4,519
+1 %
+Less: Hedge gains
+21
+6
+53
+10
+Core Illumina revenue, excluding hedge effect
+1,044
+1,187
+4,500
+4,509
+Less: Exchange rate effect
+(46)
+—
+(137)
+—
+Core Illumina constant currency revenue (a)
+$      1,090
+$      1,187
+(8) %
+$      4,637
+$      4,509
+3 %
+(a) Constant currency revenue growth, which is a non-GAAP financial measure, is calculated using comparative prior period foreign exchange rates to translate current period revenue, net of the effects of hedges.
+ 
+Illumina, Inc.
+Results of Operations - Non-GAAP
+(In millions, except per share amounts)
+(unaudited)
+TABLE 1: CONSOLIDATED RECONCILIATION BETWEEN GAAP AND NON-GAAP DILUTED EARNINGS (LOSS) PER SHARE:
+Three Months Ended
+Year Ended
+January 1,2023
+January 2,2022
+January 1,2023
+January 2,2022
+GAAP (loss) earnings per share - diluted
+$         (0.89)
+$           0.71
+$       (28.00)
+$          5.04
+Cost of revenue (b)
+0.31
+0.25
+1.10
+0.47
+R&D expense (b)
+0.04
+—
+0.05
+1.30
+SG&A expense (b)
+0.51
+0.41
+(0.31)
+6.30
+Legal contingency and settlement (b)
+0.14
+—
+3.94
+—
+Goodwill impairment (b)
+—
+—
+24.93
+—
+Other expense (income), net (b)
+0.26
+(0.34)
+0.78
+(6.78)
+GILTI and U.S. foreign tax credits (c)
+(0.01)
+—
+0.38
+—
+Incremental non-GAAP tax expense (d)
+(0.31)
+(0.23)
+(0.83)
+(0.31)
+Income tax provision (benefit) (e)
+0.09
+(0.05)
+0.11
+(0.12)
+Effect of dilutive shares (f)
+—
+—
+(0.03)
+—
+Non-GAAP earnings per share - diluted (a)
+$           0.14
+$           0.75
+$          2.12
+$          5.90
+GAAP diluted shares
+158
+157
+157
+151
+Non-GAAP dilutive shares (f)
+—
+—
+2
+—
+Non-GAAP diluted shares
+158
+157
+159
+151
+ 
+TABLE 2: CONSOLIDATED RECONCILIATION BETWEEN GAAP AND NON-GAAP NET INCOME (LOSS):
+Three Months Ended
+Year Ended
+January 1,2023
+January 2,2022
+January 1,2023
+January 2,2022
+GAAP net (loss) income
+$          (140)
+$            112
+$       (4,404)
+$           762
+Cost of revenue (b)
+49
+40
+173
+71
+R&D expense (b)
+7
+—
+8
+196
+SG&A expense (b)
+81
+65
+(48)
+952
+Legal contingency and settlement (b)
+21
+—
+619
+—
+Goodwill impairment (b)
+—
+—
+3,914
+—
+Other expense (income), net (b)
+41
+(53)
+124
+(1,024)
+GILTI and U.S. foreign tax credits (c)
+(1)
+—
+60
+—
+Incremental non-GAAP tax expense (d)
+(51)
+(38)
+(129)
+(47)
+Income tax provision (benefit) (e)
+15
+(9)
+19
+(18)
+Non-GAAP net income (a)
+22
+117
+336
+892
+Add: Interest expense on convertible notes, net of tax (g)
+—
+—
+2
+—
+Non-GAAP net income for diluted earnings per share
+$             22
+$            117
+$           338
+$           892
+All amounts in tables are rounded to the nearest millions, except as otherwise noted. As a result, certain amounts may not recalculate using the rounded amounts provided.
+(a) Non-GAAP net income and diluted earnings per share exclude the effects of the pro forma adjustments as detailed above. Non-GAAP net income and diluted earnings per share are key components of the financial metrics utilized by the company's board of directors to measure, in part, management's performance and determine significant elements of management's compensation. Management has excluded the effects of these items in these measures to assist investors in analyzing and assessing our past and future operating performance.
+(b) Refer to our Itemized Reconciliations between GAAP and Non-GAAP Results of Operations below for the components of these amounts.
+(c) Amounts represent the impact of GRAIL pre-acquisition net operating losses on GILTI and the utilization of U.S. foreign tax credits.
+(d) Incremental non-GAAP tax expense reflects the tax impact of the non-GAAP adjustments listed.
+(e) Amounts represent the difference between book and tax accounting related to stock-based compensation cost.
+(f) In loss periods, GAAP basic loss per share and diluted loss per share are identical since the effect of potentially dilutive shares is anti-dilutive and therefore excluded. For non-GAAP diluted earnings per share, the impact of potentially dilutive shares from our convertible senior notes and equity awards is included and is calculated based on the sum of weighted-average common shares and potentially dilutive shares outstanding during 2022.
+(g) Amounts represent interest expense on our 2023 Convertible Senior Notes, net of any income tax effects, which is added back to the numerator used to calculate non-GAAP diluted earnings per share, for purposes of the if-converted method, upon the adoption of ASU 2020-06, as it would have a dilutive effect on the calculation of non-GAAP diluted earnings per share.
+ 
+Illumina, Inc.
+Results of Operations - Non-GAAP (continued)
+(Dollars in millions)
+(unaudited)
+TABLE 3: ITEMIZED RECONCILIATION BETWEEN GAAP AND NON-GAAP RESULTS OF OPERATIONS AS A PERCENT OF REVENUE:
+Three Months Ended
+January 1, 2023
+Core Illumina
+GRAIL
+Eliminations
+Consolidated
+GAAP gross profit (loss) (b)
+$   702
+65.9 %
+$           (26)
+$              (4)
+$    672
+62.1 %
+Amortization of acquired intangible assets
+14
+1.3 %
+34
+—
+48
+4.4 %
+Restructuring (p)
+1
+0.1 %
+—
+—
+1
+0.1 %
+Non-GAAP gross profit (a)
+$   717
+67.3 %
+$               8
+$              (4)
+$    721
+66.6 %
+GAAP R&D expense
+$   264
+24.7 %
+$             85
+$              (3)
+$    346
+31.9 %
+Acquisition-related expenses (f)
+(1)
+(0.1) %
+—
+—
+(1)
+(0.1) %
+Restructuring (p)
+(6)
+(0.5) %
+—
+—
+(6)
+(0.5) %
+Non-GAAP R&D expense
+$   257
+24.1 %
+$             85
+$              (3)
+$    339
+31.3 %
+GAAP SG&A expense
+$   347
+32.6 %
+$             86
+$              (1)
+$    432
+39.9 %
+Amortization of acquired intangible assets
+—
+—
+(1)
+—
+(1)
+(0.1) %
+Contingent consideration liabilities (e)
+(25)
+(2.4) %
+—
+—
+(25)
+(2.3) %
+Acquisition-related expenses (f)
+(27)
+(2.5) %
+(4)
+—
+(31)
+(2.9) %
+Restructuring (p)
+(24)
+(2.3) %
+—
+—
+(24)
+(2.2) %
+Non-GAAP SG&A expense
+$   271
+25.4 %
+$             81
+$              (1)
+$    351
+32.4 %
+GAAP legal contingency and settlement
+$     21
+2.0 %
+$             —
+$              —
+$      21
+1.9 %
+Legal contingency and settlement (d)
+(21)
+(2.0) %
+—
+—
+(21)
+(1.9) %
+Non-GAAP legal contingency and settlement
+$      —
+—
+$             —
+$              —
+$       —
+—
+GAAP operating profit (loss)
+$     70
+6.6 %
+$          (197)
+$              —
+$   (127)
+(11.7) %
+Cost of revenue
+15
+1.4 %
+34
+—
+49
+4.5 %
+R&D costs
+7
+0.6 %
+—
+—
+7
+0.6 %
+SG&A costs
+77
+7.2 %
+4
+—
+81
+7.6 %
+Legal contingency and settlement
+21
+2.0 %
+—
+—
+21
+1.9 %
+Non-GAAP operating profit (loss) (a)
+$   190
+17.8 %
+$          (159)
+$              —
+$      31
+2.9 %
+GAAP other (expense) income, net
+$    (42)
+(3.9) %
+$               1
+$              —
+$     (41)
+(3.8) %
+Strategic investment related loss, net (i)
+42
+3.9 %
+—
+—
+42
+3.9 %
+Gain on Helix contingent value right (j)
+(1)
+(0.1) %
+—
+—
+(1)
+(0.1) %
+Non-GAAP other (expense) income, net (a)
+$      (1)
+(0.1) %
+$               1
+$              —
+$       —
+—
+All amounts in tables are rounded to the nearest millions, except as otherwise noted. As a result, certain amounts may not recalculate using the rounded amounts provided. Percentages of revenue are calculated based on the revenue of the respective segment.
+ 
+Illumina, Inc.
+Results of Operations - Non-GAAP (continued)
+(Dollars in millions)
+(unaudited)
+TABLE 3 (CONTINUED): ITEMIZED RECONCILIATION BETWEEN GAAP AND NON-GAAP RESULTS OF OPERATIONS AS A PERCENT OF REVENUE:
+Three Months Ended
+January 2, 2022
+Core Illumina
+GRAIL
+Eliminations
+Consolidated
+GAAP gross profit (loss) (b)
+$   847
+71.0 %
+$    (30)
+$              —
+$   817
+68.2 %
+Amortization of acquired intangible assets
+7
+0.6 %
+33
+—
+40
+3.3 %
+Non-GAAP gross profit (a)
+$   854
+71.6 %
+$       3
+$              —
+$   857
+71.5 %
+GAAP and non-GAAP R&D expense
+$   274
+23.0 %
+$     76
+$              —
+$   350
+29.2 %
+GAAP SG&A expense
+$   351
+29.4 %
+$     76
+$              —
+$   426
+35.5 %
+Acquisition-related expenses (f)
+(33)
+(2.8) %
+(20)
+—
+(53)
+(4.4) %
+Contingent consideration liabilities (e)
+(12)
+(1.0) %
+—
+—
+(12)
+(1.0) %
+Amortization of acquired intangible assets
+—
+—
+(1)
+—
+—
+—
+Non-GAAP SG&A expense
+$   306
+25.6 %
+$     55
+$              —
+$   361
+30.1 %
+GAAP operating profit (loss)
+$   222
+18.6 %
+$  (182)
+$              —
+$     41
+3.4 %
+Cost of revenue
+7
+0.6 %
+33
+—
+40
+3.3 %
+R&D costs
+—
+—
+—
+—
+—
+—
+SG&A costs
+45
+3.7 %
+21
+—
+65
+5.5 %
+Non-GAAP operating profit (loss) (a)
+$   274
+22.9 %
+$  (128)
+$              —
+$   146
+12.2 %
+GAAP other income, net
+$     44
+3.7 %
+$      —
+$              —
+$     45
+3.8 %
+Acquisition-related gain (f)
+(86)
+(7.3) %
+—
+—
+(86)
+(7.3) %
+Strategic investment related loss, net (i)
+26
+2.2 %
+—
+—
+26
+2.2 %
+Non-cash interest expense (k)
+8
+0.7 %
+—
+—
+8
+0.7 %
+Non-GAAP other expense, net (a)
+$      (8)
+(0.7) %
+$      —
+$              —
+$      (7)
+(0.6) %
+All amounts in tables are rounded to the nearest millions, except as otherwise noted. As a result, certain amounts may not recalculate using the rounded amounts provided. Percentages of revenue are calculated based on the revenue of the respective segment.
+ 
+Illumina, Inc.
+Results of Operations - Non-GAAP (continued)
+(Dollars in millions)
+(unaudited)
+TABLE 3 (CONTINUED): ITEMIZED RECONCILIATION BETWEEN GAAP AND NON-GAAP RESULTS OF OPERATIONS AS A PERCENT OF REVENUE:
+Year Ended
+January 1, 2023
+Core Illumina
+GRAIL
+Eliminations
+Consolidated
+GAAP gross profit (loss) (b)
+$ 3,107
+68.2 %
+$    (117)
+$            (18)
+$  2,972
+64.8 %
+Amortization of acquired intangible assets
+38
+0.9 %
+134
+—
+172
+3.8 %
+Restructuring (p)
+1
+—
+—
+—
+1
+—
+Non-GAAP gross profit (a)
+$ 3,146
+69.1 %
+$       17
+$            (18)
+$  3,145
+68.6 %
+GAAP R&D expense
+$ 1,004
+22.0 %
+$     330
+$            (13)
+$  1,321
+28.8 %
+Acquisition-related expenses (f)
+(2)
+—
+—
+—
+(2)
+—
+Restructuring (p)
+(6)
+(0.1) %
+—
+—
+(6)
+(0.2) %
+Non-GAAP R&D expense
+$    996
+21.9 %
+$     330
+$            (13)
+$  1,313
+28.6 %
+GAAP SG&A expense
+$ 1,003
+22.0 %
+$     296
+$              (2)
+$  1,297
+28.3 %
+Amortization of acquired intangible assets
+(1)
+—
+(4)
+—
+(5)
+(0.1) %
+Contingent consideration liabilities (e)
+205
+4.5 %
+—
+—
+205
+4.5 %
+Acquisition-related expenses (f)
+(114)
+(2.5) %
+(13)
+—
+(127)
+(2.8) %
+Restructuring (p)
+(24)
+(0.5) %
+—
+—
+(24)
+(0.5) %
+Non-GAAP SG&A expense
+$ 1,069
+23.5 %
+$     279
+$              (2)
+$  1,346
+29.4 %
+GAAP legal contingency and settlement
+$    619
+13.6 %
+$        —
+$              —
+$     619
+13.5 %
+Legal contingency and settlement (d)
+(619)
+(13.6) %
+—
+—
+(619)
+(13.5) %
+Non-GAAP legal contingency and settlement
+$      —
+—
+$        —
+$              —
+$       —
+—
+GAAP goodwill impairment
+$      —
+—
+$   3,914
+$              —
+$  3,914
+85.4 %
+Goodwill impairment (o)
+—
+—
+(3,914)
+—
+(3,914)
+(85.4) %
+Non-GAAP goodwill impairment
+$      —
+—
+$        —
+$              —
+$       —
+—
+GAAP operating profit (loss)
+$   481
+10.6 %
+$ (4,657)
+$              (3)
+$ (4,179)
+(91.2) %
+Cost of revenue
+39
+0.9 %
+134
+—
+173
+3.8 %
+R&D costs
+8
+0.1 %
+—
+—
+8
+0.2 %
+SG&A costs
+(66)
+(1.4) %
+17
+—
+(48)
+(1.1) %
+Legal contingency and settlement
+619
+13.6 %
+—
+—
+619
+13.5 %
+Goodwill impairment
+—
+—
+3,914
+—
+3,914
+85.4 %
+Non-GAAP operating profit (loss) (a)
+$ 1,081
+23.8 %
+$    (592)
+$              (3)
+$     487
+10.6 %
+GAAP other (expense) income, net
+$   (159)
+(3.5) %
+$         2
+$              —
+$    (157)
+(3.4) %
+Strategic investment related loss, net (i)
+117
+2.6 %
+—
+—
+117
+2.5 %
+Loss on Helix contingent value right (j)
+7
+0.1 %
+—
+—
+7
+0.2 %
+Non-GAAP other (expense) income, net (a)
+$    (35)
+(0.8) %
+$         2
+$              —
+$     (33)
+(0.7) %
+All amounts in tables are rounded to the nearest millions, except as otherwise noted. As a result, certain amounts may not recalculate using the rounded amounts provided. Percentages of revenue are calculated based on the revenue of the respective segment.
+ 
+Illumina, Inc.
+Results of Operations - Non-GAAP (continued)
+(Dollars in millions)
+(unaudited)
+TABLE 3 (CONTINUED): ITEMIZED RECONCILIATION BETWEEN GAAP AND NON-GAAP RESULTS OF OPERATIONS AS A PERCENT OF REVENUE:
+Year Ended
+January 2, 2022
+Core Illumina
+GRAIL
+Eliminations
+Consolidated
+GAAP gross profit (loss) (b)
+$ 3,195
+70.7 %
+$    (41)
+$              —
+$ 3,154
+69.7 %
+Amortization of acquired intangible assets
+27
+0.6 %
+44
+—
+71
+1.6 %
+Non-GAAP gross profit (a)
+$ 3,222
+71.3 %
+$       3
+$              —
+$ 3,225
+71.3 %
+GAAP R&D expense
+$    885
+19.6 %
+$   300
+$              —
+$ 1,185
+26.2 %
+Acquisition-related expenses (f)
+—
+—
+(196)
+—
+(196)
+(4.3) %
+Non-GAAP R&D expense
+$    885
+19.6 %
+$   104
+$              —
+$    989
+21.9 %
+GAAP SG&A expense
+$ 1,502
+33.2 %
+$   590
+$              —
+$ 2,092
+46.2 %
+Amortization of acquired intangible assets
+(1)
+—
+(1)
+—
+(2)
+—
+Contingent consideration liabilities (e)
+(4)
+(0.1) %
+—
+—
+(4)
+(0.1) %
+Acquisition-related expenses (f)
+(433)
+(9.6) %
+(513)
+—
+(946)
+(20.8) %
+Expenses related to COVID-19 (c)
+(3)
+(0.1) %
+—
+—
+(3)
+(0.1) %
+Income related to COVID-19 (g)
+1
+—
+—
+—
+1
+—
+Gain on litigation (h)
+2
+0.1 %
+—
+—
+2
+—
+Non-GAAP SG&A expense
+$ 1,064
+23.5 %
+$     76
+$              —
+$ 1,140
+25.2 %
+GAAP operating profit (loss)
+$    808
+17.9 %
+$  (931)
+$              —
+$  (123)
+(2.7) %
+Cost of revenue
+27
+0.6 %
+44
+—
+71
+1.6 %
+R&D costs
+—
+—
+196
+—
+196
+4.3 %
+SG&A costs
+438
+9.7 %
+514
+—
+952
+21.0 %
+Non-GAAP operating profit (loss) (a)
+$ 1,273
+28.2 %
+$  (177)
+$              —
+$ 1,096
+24.2 %
+GAAP other income, net
+$ 1,006
+22.3 %
+$      —
+$              —
+$ 1,007
+22.2 %
+Acquisition-related gain (f)
+(985)
+(21.8) %
+—
+—
+(985)
+(21.8) %
+Strategic investment related gain, net (i)
+(26)
+(0.6) %
+—
+—
+(26)
+(0.6) %
+Gain on Helix contingent value right (j)
+(30)
+(0.7) %
+—
+—
+(30)
+(0.7) %
+Non-cash interest expense (k)
+34
+0.8 %
+—
+—
+34
+0.9 %
+Gain on derivative assets (l)
+(26)
+(0.6) %
+—
+—
+(26)
+(0.6) %
+Bridge facility fees (m)
+7
+0.2 %
+—
+—
+7
+0.2 %
+Loss on extinguishment of debt (n)
+1
+—
+—
+—
+1
+—
+Non-GAAP other expense, net (a)
+$    (19)
+(0.4) %
+$      —
+$              —
+$   (17)
+(0.4) %
+All amounts in tables are rounded to the nearest millions, except as otherwise noted. As a result, certain amounts may not recalculate using the rounded amounts provided. Percentages of revenue are calculated based on the revenue of the respective segment.
+(a) Non-GAAP gross profit, included within non-GAAP operating profit (loss), is a key measure of the effectiveness and efficiency of manufacturing processes, product mix and the average selling prices of our products and services. Non-GAAP operating profit (loss) and non-GAAP other income (expense), net exclude the effects of the pro forma adjustments as detailed above. Management has excluded the effects of these items in these measures to assist investors in analyzing and assessing past and future operating performance, including in the non-GAAP measures related to our Core Illumina and GRAIL segments.
+(b) Reconciling amounts are recorded in cost of revenue.
+(c) Amount consists of direct and incremental expenses incurred due to the COVID-19 pandemic, primarily expenses related to employee testing and incremental cleaning in 2021. Such expenses were not excluded in 2022.
+(d) Amount for Q4 2022 consists of a legal accrual related to our litigation with RavGen, and an adjustment made to our previously recorded legal accrual for the potential fine that the European Commission may impose on us of up to 10% of our consolidated annual revenues, in order to reflect 10% of consolidated annual revenues for fiscal year 2022 rather than 2021. For 2022, the total amount accrued related to this potential fine is $458 million. Amount for 2022 also consists of expense of $145 million related to the settlement of our litigation with BGI.
+(e) Amounts consist primarily of fair value adjustments for our contingent consideration liability related to the GRAIL acquisition.
+(f) Amounts consist primarily of legal expenses related to our acquisitions. Amounts for Q4 2021 consist primarily of a gain of $86 million recorded as a result of exchanging certain contingent value rights issued as part of the GRAIL acquisition and other acquisition-related expenses. Amounts for 2021 consist primarily of a gain of approximately $899 million related to the fair value adjustment of our previously held interest in GRAIL, approximately $654 million in day one compensation expense related to the GRAIL acquisition, Continuation Payments made to GRAIL totaling $245 million and other acquisition-related expenses.
+(g) Amount consists of direct and incremental income due to the COVID-19 pandemic, primarily payroll-related credits earned in the U.S. and Canada in 2021. Such income was not excluded in 2022.
+(h) Amount consists of a gain related to a patent litigation settlement.
+(i) Amounts consist primarily of mark-to-market adjustments and impairments from our strategic investments.
+(j) Amounts consist of fair value adjustments related to our Helix contingent value right.
+(k) Non-cash interest expense is calculated in accordance with the authoritative accounting guidance for convertible debt instruments that may be settled in cash. We adopted ASU 2020-06, Debt - Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging – Contracts in Entity's Own Equity (Subtopic 815-10), on January 3, 2022, using the modified retrospective method. The adoption eliminated the non-cash interest expense related to the conversion feature of our 2023 Convertible Senior Notes beginning in Q1 2022.
+(l) Amount represents a gain recorded on our derivative assets in 2021 related to the terminated acquisition with Pacific Biosciences as a result of Pacific Biosciences repaying to us $52 million in Continuation Advances.
+(m) Amount consists of expenses related to the bridge facility commitment, which was terminated in 2021 in conjunction with our issuance of term notes.
+(n) Amount consists of loss on extinguishment of our 2021 Convertible Senior Notes, which matured in 2021.
+(o) Amount consists of goodwill impairment recorded in Q3 2022 related to our GRAIL reporting unit.
+(p) Amounts consist primarily of employee severance costs and a lease impairment charge related to the restructuring event that occurred in Q4 2022.
+ 
+Illumina, Inc.
+Results of Operations - Non-GAAP (continued)
+(Dollar in millions)
+(unaudited)
+TABLE 4: CONSOLIDATED ITEMIZED RECONCILIATIONS BETWEEN GAAP AND NON-GAAP TAX PROVISION:
+Three Months Ended
+Year Ended
+January 1,2023
+January 1,2023
+GAAP tax (benefit) provision
+$       (28)
+16.8 %
+$         68
+(1.6) %
+Incremental non-GAAP tax expense (b)
+51
+129
+Income tax provision (c)
+(15)
+(19)
+GILTI and U.S. foreign tax credits (d)
+1
+(60)
+Non-GAAP tax provision (a)
+$           9
+29.3 %
+$       118
+26.0 %
+Three Months Ended
+Year Ended
+January 2,2022
+January 2,2022
+GAAP tax (benefit) provision
+$       (26)
+(30.4) %
+$       122
+13.8 %
+Incremental non-GAAP tax expense (b)
+38
+47
+Income tax benefit (c)
+9
+18
+Non-GAAP tax provision (a) 
+$         21
+15.6 %
+$       187
+17.3 %
+(a) Non-GAAP tax provision excludes the effects of the pro forma adjustments as detailed above. Management has excluded the effects of these items in this measure to assist investors in analyzing and assessing past and future operating performance.
+(b) Incremental non-GAAP tax expense reflects the tax impact of the non-GAAP adjustments listed in Table 2 above.
+(c) Amounts represent the difference between book and tax accounting related to stock-based compensation cost.
+(d) Amount represents the impact of GRAIL pre-acquisition net operating losses on GILTI and the utilization of U.S. foreign tax credits.  
+ 
+Illumina, Inc.
+Reconciliation of Consolidated Non-GAAP Financial Guidance
+(unaudited)
+Our future performance and financial results are subject to risks and uncertainties, and actual results could differ materially from the guidance set forth below. Some of the factors that could affect our financial results are stated above in this press release. More information on potential factors that could affect our financial results is included from time to time in the public reports filed with the Securities and Exchange Commission, including Form 10-K for the fiscal year ended January 2, 2022 filed with the SEC on February 18, 2022, Form 10-Q for the fiscal quarter ended April 3, 2022, Form 10-Q for the fiscal quarter ended July 3, 2022, and Form 10-Q for the fiscal quarter ended October 2, 2022. We assume no obligation to update any forward-looking statements or information.
+TABLE 5: RECONCILIATION BETWEEN GAAP AND NON-GAAP DILUTED EARNINGS PER SHARE GUIDANCE:
+Fiscal Year 
+2023
+Consolidated GAAP diluted earnings per share (b)
+$0.03 - $0.28
+Amortization of acquired intangible assets
+1.23
+GILTI and U.S. foreign tax credits (c)
+0.39
+Incremental non-GAAP tax expense (d)
+(0.40)
+Consolidated non-GAAP diluted earnings per share (a)(b)
+$1.25 - $1.50
+(a) Non-GAAP diluted earnings per share excludes the effect of the pro forma adjustments as detailed above. Non-GAAP diluted earnings per share is a key component of the financial metrics utilized by the company's board of directors to measure, in part, management's performance and determine significant elements of management's compensation. Management has excluded the effects of these items in this measure to assist investors in analyzing and assessing our past and future operating performance.
+(b) Amounts assume that the existing R&D capitalization requirements are not repealed in 2023 and, as a result, reflect an impact of approximately $75 million.
+(c) Amount represents the impact of GRAIL pre-acquisition net operating losses on GILTI and the utilization of U.S. foreign tax credits.
+(d) Incremental non-GAAP tax expense reflects the tax impact related to the non-GAAP adjustments listed.
+Investors:Salli Schwartz+1.858.291.6421ir@illumina.com
+Media:David McAlpine+1.347.327.1336pr@illumina.com
+ View original content:https://www.prnewswire.com/news-releases/illumina-reports-financial-results-for-fourth-quarter-and-fiscal-year-2022-301741151.html
+SOURCE  Illumina, Inc.
+
+

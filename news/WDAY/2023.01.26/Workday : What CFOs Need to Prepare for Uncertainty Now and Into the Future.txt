@@ -1,0 +1,103 @@
+
+
+
+        Uncertainty is nothing new. Yet as the pandemic showed, finance leaders who were able to adapt quickly and act appropriately to changing conditions around the world were better prepared to help their organizations not just survive but thrive.
+      
+
+        An exclusive focus on finance, accounting, and profitability alone no longer fully describes the skill set a CFO must master. Over the past couple of years, finance leaders have faced challenges such as enabling digital transformation, remote working, environmental, social, and governance (ESG) metrics, and a growing need for soft skills. To continue navigating what seems to be an accelerating rate of change, CFOs will require agility, both personally and organizationally. Easier said than done. They'll require the right talent, tools, and technology to drive change and generate value.
+      
+
+        "Business leaders are really looking for CFOs to be more strategic, drive insights around operational change, guide business strategy, and create value for the company," Barbara Larson, Workday's CFO, said at a Bloomberg event titled "Chief Future Officer Briefing: The Next Generation CFO."
+
+
+        Leading the finance function is no longer about merely overseeing the general ledger and producing financial statements. The CFO continues to evolve into an enterprisewide role, meaning the most effective leaders are those who are forward-looking and focusing on value creation. "They are embracing technology to figure out what they want to do with all their data-and rethinking talent as well," Larson said. "Data powers all businesses."
+      
+
+        Finance leaders are continuing to move from their profession's record-keeping origins into a more aspirational, visionary role. But they'll need to have a solid understanding of the business to conceptualize how technology can change the way finance works, integrating such elements as artificial intelligence (AI), machine learning (ML), and robotic process automation (RPA) on an enterprise wide scale. "It's important in the CFO seat not just to have a view of transformation within finance, but how you can partner with IT to drive transformation across the organization," Larson added.
+      
+
+
+
+        "Business leaders are really looking for CFOs to be more strategic, drive insights around operational change, guide business strategy, and create value for the company."
+      
+Barbara LarsonChief Financial OfficerWorkday
+
+
+
+        To do so, CFOs must grasp a number of interrelated areas that will elevate the finance function and better serve the enterprise.
+      
+
+        Developing Best-in-Class Talent
+      
+
+        While the pandemic gave rise to the "Great Resignation" and quiet quitting, many of the workplace issues that bubbled to the surface continue to affect efforts to attract and retain the talent to meet enterprise demands now and well into the future. In fact, a recent survey of more than 1,300 C-suite executives identified finding and keeping talent as the top organizational risk for up to the next decade, according to Fortune.
+      
+
+        To address the labor issue, building a better employee experience is critical. In finance, as across the organization, important factors to create a people-first approach include listening to employees, a focus on developing skills, and an emphasis on designing a digital user experience that's as easy to use as the most intuitive smartphone apps.
+      
+
+        Equally important for finance professionals is the ability to spend less time on accounting tasks and put more efficient effort into analysis and planning, an increasingly common refrain among a new generation of finance talent. 
+      
+
+        That means attracting and retaining the right talent is inextricably intertwined with the best tools and technology. At Workday, we are using AI and ML to enable the shift toward a skills-based approach to finding, developing, and keeping the talent that finance organizations will need for the future, and whatever it may bring.
+      
+
+
+
+        While the pandemic gave rise to the "Great Resignation" and quiet quitting, many of the workplace issues that bubbled to the surface continue to affect efforts to attract and retain the talent to meet enterprise demands now and well into the future.
+      
+
+
+
+        As our Co-Founder, Co-CEO, and Chair Aneel Bhusri wrote in a recent blog for the World Economic Forum, "Organizations must evolve how they think about the concept of work, moving away from the rigid idea that work is done through structured job roles and responsibilities, instead viewing work as a more fluid compilation of skills to be leveraged as the world around us changes."
+      
+
+        Boosting Effectiveness With Data Tools
+      
+
+        It's probably no surprise that the amount of enterprise data has been growing exponentially and isn't likely to slow down anytime soon. As a result, the ability to extract valuable insights and make informed, data-driven decisions has never been more important for finance leaders. 
+      
+
+        That's where AI, ML, and RPA come in. With a new wealth of data streams, having a common data platform is essential to creating better, more efficient, and faster cross-functional collaboration across the organization. No longer are legacy enterprise management planning (ERP) systems enough to drive optimal business outcomes; now enterprises must be able to standardize data across the organization, analyze that data at scale, and establish strong data governance.
+      
+
+        In turn, finance leaders who can ensure quality data streams are better able to improve financial planning and analysis (FP&A) performance. Improving such abilities will be valuable as organizations plan for a variety of economic scenarios in times of uncertainty.
+      
+
+        Deploying the Right Technology
+      
+
+        While successful C-suite leaders understand that technology isn't a one-and-done proposition, preparing an organization and its people for the future requires an understanding of how AI and ML capabilities can help achieve specific goals. Already, Workday has unleashed "relentless automation" to reduce the time it takes to close our books on our way to a zero-day close.
+      
+
+
+
+        "It's important in the CFO seat not just to have a view of transformation within finance, but how you can partner with IT to drive transformation across the organization."
+      
+
+
+
+        Our latest global study of finance, IT, and human resources leaders found plenty of room for improvement to meet shifting demands around efficiency and organizational abilities. In one data point, only half of finance leaders (49%) expressed confidence in the efficiency with which their organization moves among planning, execution, and analysis cycles, while roughly one-third (34%) said they have little to no confidence in their teams' ability to meet the demands of the business.
+      
+
+        For many organizations, the gap between practice and potential will continue to close. But CFOs who are able to understand how technology is intertwined throughout the finance function will be better poised to unlock the speed, insight, and efficiency to truly transform their organizations.
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Workday Inc. published this content on 26 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 26 January 2023 21:12:34 UTC.
+      
+

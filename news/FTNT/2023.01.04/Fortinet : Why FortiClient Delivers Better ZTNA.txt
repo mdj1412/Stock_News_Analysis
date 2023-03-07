@@ -1,0 +1,43 @@
+
+
+      Recently, IT executives from a major technology company paid a visit to the Fortinet corporate offices in Sunnyvale, California. As is typical for prospective customers or partners, the visitors were given demonstrations of our products and solutions in action at our executive briefing center (EBC).
+    
+
+      Because our visitors use a competitor's product, they naturally compared experiences with their existing cybersecurity against ours. Happily, we all learned a few things from the exchange of information. As we laid out our architecture for our EBC visitors, one important revelation came to the forefront that we all agreed upon: FortiClient enables the seamless deployment, operation, and architecture of zero trust network access (ZTNA).
+    
+
+      While customers may be purchasing FortiClient for its Universal ZTNA capability, there are additional features that make FortiClient a very powerful solution-and significantly stronger than other ZTNA offerings on the market.
+    
+
+      VPN and ZTNA in a Single Agent
+    
+
+      A highly valued capability of FortiClient that needs to be acknowledged when discussing the solution's benefits is that FortiClient is both a VPN and a ZTNA agent. The Fortinet ZTNA architecture mirrors the VPN infrastructure. This is important because companies are frequently turning to ZTNA as a means of improving their remote access situation. Many are shifting from using a VPN network to a ZTNA network.
+    
+
+      With FortiClient, having both these capabilities in a single agent simplifies the tasks for the IT team in several ways. First, there's less complexity-IT folks only need to deal with a single agent. Second, this means that if the customer starts with just VPN usage for remote access, they're able to move application coverage, one application at a time, over to ZTNA, using VPN for the remaining access requirements. Therefore, throughout deployment, the organization can shift to using ZTNA through a very controlled, very careful, and very easy transition.
+    
+
+      A Smooth Transition from VPN to ZTNA
+    
+
+      There are no significant changes within the architecture. Fortinet uses the same basic concepts of an agent coming back to an on-premises or cloud-based concentrator for both VPN and ZTNA. As each application moves over, users experience the simplicity of accessing their application via this ZTNA process versus a VPN process. And, if anything negative should happen with the ZTNA, it's very simple to roll back to the VPN approach, iron out any wrinkles that may have come up, and then proceed along with the ZTNA.
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Fortinet Inc. published this content on 04 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 04 January 2023 15:17:06 UTC.
+      
+

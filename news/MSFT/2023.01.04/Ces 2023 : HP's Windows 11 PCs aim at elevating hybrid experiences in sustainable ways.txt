@@ -1,0 +1,66 @@
+
+
+
+        At CES 2023, HP announced new Windows 11 PCs focusing on sustainable hybrid experiences, including the new HP Dragonfly Pro, inspired by freelancers and their increasing presence in the U.S. workforce.
+      
+
+        This PC, co-engineered with AMD, is the first HP device to provide one-touch access to HP 24/7 live concierge support directly via one of the device's four hot keys. The Control Center hot key delivers quick access to the device's most common settings, while you can easily adjust camera settings with the Camera hot key. You can customize the fourth key to help optimize workflow or simple navigation.
+      
+
+        The device is also EPEAT Gold Certified in the U.S., leveraging recycled metals and plastics along with sustainably sourced and recycled packaging [1]. Since HP shipped its first product using recycled materials in 2019, the company has used more than half a billion pounds of recycled materials [2].
+      
+
+        With Windows 11's latest update, you'll be able to tap into features such as Focus sessions, snap layouts that make it easier to get things done and the new Microsoft Defender SmartScreen to keep you safer on the web.
+      
+
+        The HP Dragonfly G4 has new intuitive video conferencing innovations aimed at recharging hybrid work, such as a multi-camera experience that supports dual video streams so faces and whiteboards can be shown at the same time, as in picture-in-picture or side-by-side [3]. The PC also uses intelligent face tracking to recognize which camera a speaker is facing, to keep audiences engaged without breaking contact [3]. To preserve battery life, it learns how you're using the PC and will go into hibernation mode automatically at the end of the workday and can eventually predict when you'll be starting the day to convert to an instant-on experience to help you get going faster.
+      
+
+        Continuing the theme of sustainability, the new HP 14 inch Eco Edition Laptop PC was made with up to 25% leveraging recycled and post-consumer recycled plastics. Bio-circular content such as cooking oil was used in the bottom cover of the device, which will also feature packaging that is 100% sustainably sourced and recyclable. Like the other new consumer notebooks HP introduced at CES, it is ENERGY STAR and EPEAT Silver Certified, with the Eco Edition version EPEAT Gold Certified [4].
+      
+
+        The HP 24- and 27-inch All-In-One PCs are HP's most sustainable all-in-one offerings yet, with recycled coffee grounds used as speckles in the finish of the PC. More than 40% of this AIO's enclosure contains post-consumer recycled plastics, 75% recycled aluminum is used on the arm stand and 100% reclaimed polyester is used on the stand base. HP has also reduced the 100% sustainably sourced and recyclable box packaging in size by 62%, which translates to up to 66% more units per pallet, reducing the CO2 footprint [5].
+      
+
+        The OMEN 17 Laptop, HP's most powerful gaming laptop, has up to 13th Gen Intel Core i9-13900HX and latest NVIDIA GeForce graphics, which utilizes OMEN Tempest Cooling Technology for desktop-caliber gaming. This PC is HP's first to feature optical mechanical keys, which are 25 times faster than traditional keys. Like its consumer and commercial counterparts, the OMEN lineup comes with Windows 11 installed, but it adds a one-month subscription to Xbox Game Pass Ultimate [6], providing access to hundreds of high-quality PC games.
+      
+
+Head over to HP to find out more about these and other devices the company announced at CES 2023.
+      
+
+[1] Based on US EPEAT registration according to IEEE 1680.1-2018 EPEAT. EPEAT status varies by country. Visit www.epeat.net for more information. 100% outer box packaging and corrugated cushions made from sustainably sourced certified and recycled fibers.
+
+
+[2] Based on PCs and displays from 2019 through 2022 using recycled metal, plastic and fiber.
+
+
+[3] Dual video streams and camera switching with Multi-Camera requires a second camera that is sold separately or as an optional feature and requires myHP application.
+
+
+[4] Eco edition applies to HP 14 inch PC manufactured after Nov. 2022. Based on EPEAT Gold registrations meeting all required criteria and achieving more recycled content used in more components than any other competitor PC in its class. Based on EPEAT Gold (first in its class to achieve 75-100% of the optional points) according to IEEE 1680.1-2018 EPEAT. Status varies by country. Visit www.epeat.net for more information. Approx. 25% system level recycled plastics, included in the following PC components: speaker box, bottom cover, bezel and keyboard keycaps. Keyboard is 100% water-based paint and scissors are made from renewable feedstock. Recycled aluminum in display cover and back cover manufactured from bio-circular content according to mass balance approach. Packaging outer box is 100% made from sustainably source certified and recycled fibers. Fiber cushions made from 100% recycled wood fiber and organic material.
+
+
+[5] Based on all HP AiO products manufactured after Nov. 2022. Most sustainable defined as achieving the highest EPEAT Gold registration by meeting all required criteria according to IEEE 1680.1-2018 EPEAT. Status varies by country. Visit www.epeat.net for more information. Most combined sustainability features in an AIO product include more than 40% of post-consumer recycled plastics and approx. 10% recycled metal. Types of sustainable materials: aluminum, post-consumer plastic, ocean bound plastic, recycled polyester, coffee grounds. Revised design and packaging that reduces carbon emissions. HP internal analysis based on all PCs in the market as of November 2022. Recycled coffee grounds are used as speckles in the finish of the PC. Enclosure: Applies to HP 23.8"/27" All-in-One Desktop PC 40% post-consumer recycled plastic in plastic parts used in the front and back cover. Stand arm and neck: Applies to HP 23.8"/27" All-in-One Desktop PC, contains 75% recycled aluminum in stand arm and neck Felt Base Cover: Applies to HP 23.8"/27" All-in-One Desktop PC, felt base cover contains 100% recycled polyester Packaging: 100% outer box packaging and corrugated cushions made from sustainably sourced certified and recycled fibers. Molded pulp cushions made from 100% recycled wood fiber and organic materials. Plastic cushions are made from >90% recycled plastic. Pallet size reduction: Applies to the newest generation of HP 23.8" All-in-One Desktop PC. As compared to the pallet density of the previous generation HP 23.8 inch All-in-One Desktop PC. Packaging box size reduction: for the newest HP 23.8"/27" All-in-One Desktop PC as compared to the box size of the previous generation HP 23.8 inch All-in-One Desktop PC. 
+
+
+[6] Xbox Game Pass Ultimate not available in all regions. Learn more about supported regions at https://www.xbox.com/regions.
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Microsoft Corporation published this content on 04 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 04 January 2023 14:47:03 UTC.
+      
+

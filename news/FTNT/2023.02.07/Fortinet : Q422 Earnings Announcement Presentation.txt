@@ -1,0 +1,1487 @@
+
+
+
+        Q4 2022 Financial Results
+      
+
+        February 7, 2023
+      
+
+
+
+
+          Safe Harbor Statement
+        
+
+          Information, statements and projections contained in these presentation slides and related conference call concerning Fortinet's business outlook, the first quarter and full year 2023 guidance, and future prospects and expectations are forward-looking statements that involve risks and uncertainties. These forward-looking statements include statements regarding any indications related to future market share gains, guidance and expectations around future financial results, including guidance and expectations for the first quarter and full year 2023, statements regarding the momentum in our business and future growth expectations, and any statements regarding our market opportunity and market size, and business momentum. Although we attempt to be accurate in making forward-looking statements, it is possible that future circumstances might differ from the assumptions on which such statements are based such that actual results are materially different from our forward-looking statements in these presentation slides. Important factors that could cause results to differ materially from the statements herein include the following: general economic risks, including those caused by economic challenges, expectations of a recession or any actual recession, and the effects of increased inflation and interest rates in certain geographies or as a result of the COVID-19 pandemic and the war in Ukraine; supply chain challenges due to the current global environment; negative impacts from the COVID-19 pandemic on sales, billings, revenue, demand and buying patterns, component supply and ability to manufacture products to meet demand in a timely fashion, and costs such as possible increased costs for shipping and components; global economic conditions, country-specific economic conditions, and foreign currency risks; competitiveness in the security market; the dynamic nature of the security market and its products and services; specific economic risks worldwide and in different geographies, and among different customer segments; uncertainty regarding demand and increased business and renewals from existing customers; uncertainties around continued success in sales growth and market share gains; uncertainties in market opportunities and the market size; actual or perceived vulnerabilities in our supply chain, products or services, and any actual or perceived breach of our network or our customers' networks; longer sales cycles, particularly for larger enterprise, service providers, government and other large organization customers; the effectiveness of our salesforce and failure to convert sales pipeline into final sales; risks associated with successful implementation of multiple integrated software products and other product functionality risks; risks associated with integrating acquisitions and changes in circumstances and plans associated therewith, including, among other risks, changes in plans related to product and services integrations, product and services plans and sales strategies; sales and marketing execution risks; execution risks around new product development and introductions and innovation; litigation and disputes and the potential cost, distraction and damage to sales and reputation caused thereby or by other factors; cybersecurity threats, breaches and other disruptions; market acceptance of new products and services; the ability to attract and retain personnel; changes in strategy; risks associated with management of growth; lengthy sales and implementation cycles, particularly in larger organizations; technological changes that make our products and services less competitive; risks associated with the adoption of, and demand for, our products and services in general and by specific customer segments, including those caused by the COVID-19 pandemic; competition and pricing pressure; product inventory shortages for any reason, including those caused by the effects of increased inflation and interest rates in certain geographies, the COVID-19 pandemic and the war in Ukraine; risks associated with business disruption caused by natural disasters and health emergencies such as earthquakes, fires, power outages, typhoons, floods, health epidemics and viruses such as the COVID-19 pandemic, and by manmade events such as civil unrest, labor disruption, international trade disputes, international conflicts such as the war in Ukraine, terrorism, wars, and critical infrastructure attacks; tariffs, trade disputes and other trade barriers, and negative impact on sales based on geo-political dynamics and disputes and protectionist policies; any political and government disruption around the world, including the impact of any future shutdowns of the U.S. government; and the other risk factors set forth from time to time in our most recent Annual Report on Form 10-K, our most recent Quarterly Report on Form 10-Q and our other filings with the Securities and Exchange Commission ("SEC"), copies of which are available free of charge at the SEC's website at www.sec.gov or upon request from our investor relations department. All forward-looking statements herein reflect our opinions only as of the date of these presentation slides, and we undertake no obligation, and expressly disclaim any obligation, to update forward-looking statements herein in light of new information or future events.
+        
+
+
+
+
+            © Fortinet Inc. All Rights Reserved.
+          
+
+
+
+            2
+          
+
+
+
+
+
+
+          Q4 2022 Non-GAAP Results
+        
+
+
+
+
+
+
+                Q4'20
+              
+
+
+
+                Q1'21
+              
+
+
+
+                Q2'21
+              
+
+
+
+                Q3'21
+              
+
+
+
+                Q4'21
+              
+
+
+
+                Q1'22
+              
+
+
+
+                Q2'22
+              
+
+
+
+                Q3'22
+              
+
+
+
+                Q4'22
+              
+
+
+
+
+
+                Billings (1)
+
+
+
+
+                $960.9M
+              
+
+
+
+                $850.6M
+              
+
+
+
+                $960.9M
+              
+
+
+
+                $1.064B
+              
+
+
+
+                $1.306B
+              
+
+
+
+                $1.160B
+              
+
+
+
+                $1.304B
+              
+
+
+
+                $1.411B
+              
+
+
+
+                $1.719B
+              
+
+
+
+
+
+                Y/Y % Change
+              
+
+
+
+                19.8%
+              
+
+
+
+                27.4%
+              
+
+
+
+                35.1%
+              
+
+
+
+                41.9%
+              
+
+
+
+                35.9%
+              
+
+
+
+                36.4%
+              
+
+
+
+                35.7%
+              
+
+
+
+                32.6%
+              
+
+
+
+                31.6%
+              
+
+
+
+
+
+                Revenue
+              
+
+
+
+                $748.0M
+              
+
+
+
+                $710.3M
+              
+
+
+
+                $801.1M
+              
+
+
+
+                $867.2M
+              
+
+
+
+                $963.6M
+              
+
+
+
+                $954.8M
+              
+
+
+
+                $1.030B
+              
+
+
+
+                $1.150B
+              
+
+
+
+                $1.283B
+              
+
+
+
+
+
+                Y/Y % Change
+              
+
+
+
+                21.0%
+              
+
+
+
+                23.0%
+              
+
+
+
+                29.7%
+              
+
+
+
+                33.2%
+              
+
+
+
+                28.8%
+              
+
+
+
+                34.4%
+              
+
+
+
+                28.6%
+              
+
+
+
+                32.6%
+              
+
+
+
+                33.1%
+              
+
+
+
+
+
+                Product Revenue
+              
+
+
+
+                $288.4M
+              
+
+
+
+                $240.7M
+              
+
+
+
+                $298.3M
+              
+
+
+
+                $337.1M
+              
+
+
+
+                $378.9M
+              
+
+
+
+                $371.0M
+              
+
+
+
+                $400.7M
+              
+
+
+
+                $468.7M
+              
+
+
+
+                $540.1M
+              
+
+
+
+
+
+                Y/Y % Change
+              
+
+
+
+                20.8%
+              
+
+
+
+                25.2%
+              
+
+
+
+                40.8%
+              
+
+
+
+                50.6%
+              
+
+
+
+                31.4%
+              
+
+
+
+                54.1%
+              
+
+
+
+                34.3%
+              
+
+
+
+                39.0%
+              
+
+
+
+                42.5%
+              
+
+
+
+
+
+                Service Revenue
+              
+
+
+
+                $459.6M
+              
+
+
+
+                $469.6M
+              
+
+
+
+                $502.8M
+              
+
+
+
+                $530.1M
+              
+
+
+
+                $584.7M
+              
+
+
+
+                $583.8M
+              
+
+
+
+                $629.4M
+              
+
+
+
+                $680.8M
+              
+
+
+
+                $742.9M
+              
+
+
+
+
+
+                Y/Y % Change
+              
+
+
+
+                21.2%
+              
+
+
+
+                21.8%
+              
+
+
+
+                23.9%
+              
+
+
+
+                24.1%
+              
+
+
+
+                27.2%
+              
+
+
+
+                24.3%
+              
+
+
+
+                25.2%
+              
+
+
+
+                28.4%
+              
+
+
+
+                27.1%
+              
+
+
+
+
+
+
+
+            Note
+          
+
+
+Billings is a non-GAAP measure that we define as revenue recognized in accordance with GAAP plus the change in deferred revenue from the beginning to the end of the period less any deferred revenue balances acquired from business combination(s) and adjustment due to adoption of new accounting standard during the period.
+            
+
+
+            © Fortinet Inc. All Rights Reserved.
+          
+
+
+
+            3
+          
+
+
+
+
+
+
+          Q4 2022 Non-GAAP Results
+        
+
+
+
+
+            Gross Profit (1)
+
+
+            Gross Margin (1) Operating Income (1)(2) Operating Margin (1)(2)
+
+
+            Net Income attributable to Fortinet, Inc. (1)(2)(3)(4)(5) Diluted Net Income per Share Attributable to
+          
+
+Fortinet, Inc. (1)(2)(3)(4)(5)(6)
+          
+
+            Weighted Diluted Shares Used to Compute Net Income per Share Attributable to Fortinet, Inc. (6)
+
+
+            Deferred Revenue
+          
+
+            Cash, Investments and Marketable Equity Securities(7)
+
+
+            Cash Paid for Stock Repurchases Days Sales Outstanding Inventory Turns
+          
+
+            Headcount
+          
+
+            Notes
+          
+
+
+
+
+
+
+                  Q4'20
+                
+
+
+
+                  Q1'21
+                
+
+
+
+                  Q2'21
+                
+
+
+
+                  Q3'21
+                
+
+
+
+                  Q4'21
+                
+
+
+
+                  Q1'22
+                
+
+
+
+                  Q2'22
+                
+
+
+
+                  Q3'22
+                
+
+
+
+                  Q4'22
+                
+
+
+
+
+
+                  $587.0M
+                
+
+
+
+                  $560.1M
+                
+
+
+
+                  $621.2M
+                
+
+
+
+                  $663.8M
+                
+
+
+
+$744.4M $710.2M $788.5M
+                
+
+
+
+                  $875.5M
+                
+
+
+
+                  $996.0M
+                
+
+
+
+
+
+                  78.5%
+                
+
+
+
+                  78.9%
+                
+
+
+
+                  77.5%
+                
+
+
+
+                  76.5%
+                
+
+
+
+                  77.3%
+                
+
+
+
+                  74.4%
+                
+
+
+
+                  76.5%
+                
+
+
+
+                  76.2%
+                
+
+
+
+                  77.6%
+                
+
+
+
+
+
+                  $219.9M
+                
+
+
+
+                  $173.9M
+                
+
+
+
+                  $203.3M
+                
+
+
+
+                  $223.6M
+                
+
+
+
+$274.7M $210.2M $255.4M
+                
+
+
+
+                  $324.9M
+                
+
+
+
+                  $417.6M
+                
+
+
+
+
+
+                  29.4%
+                
+
+
+
+                  24.5%
+                
+
+
+
+                  25.4%
+                
+
+
+
+                  25.8%
+                
+
+
+
+                  28.5%
+                
+
+
+
+                  22.0%
+                
+
+
+
+                  24.8%
+                
+
+
+
+                  28.3%
+                
+
+
+
+                  32.5%
+                
+
+
+
+
+
+                  $175.5M
+                
+
+
+
+                  $135.6M
+                
+
+
+
+                  $158.7M
+                
+
+
+
+                  $165.9M
+                
+
+
+
+                  $205.8M
+                
+
+
+
+                  $155.1M
+                
+
+
+
+                  $194.1M
+                
+
+
+
+                  $262.7M
+                
+
+
+
+                  $349.7M
+                
+
+
+
+
+
+                  $0.21
+                
+
+
+
+                  $0.16
+                
+
+
+
+                  $0.19
+                
+
+
+
+                  $0.20
+                
+
+
+
+                  $0.25
+                
+
+
+
+                  $0.19
+                
+
+
+
+                  $0.24
+                
+
+
+
+                  $0.33
+                
+
+
+
+                  $0.44
+                
+
+
+
+
+
+                  827.6M
+                
+
+
+
+                  832.0M
+                
+
+
+
+                  835.4M
+                
+
+
+
+                  838.6M
+                
+
+
+
+                  835.0M
+                
+
+
+
+                  820.8M
+                
+
+
+
+                  810.1M
+                
+
+
+
+                  798.6M
+                
+
+
+
+                  791.8M
+                
+
+
+
+
+
+                  $2.61B
+                
+
+
+
+                  $2.75B
+                
+
+
+
+                  $2.91B
+                
+
+
+
+                  $3.11B
+                
+
+
+
+                  $3.45B
+                
+
+
+
+                  $3.66B
+                
+
+
+
+                  $3.93B
+                
+
+
+
+                  $4.19B
+                
+
+
+
+                  $4.64B
+                
+
+
+
+
+
+                  $1.96B
+                
+
+
+
+                  $3.09B
+                
+
+
+
+                  $3.36B
+                
+
+
+
+                  $3.42B
+                
+
+
+
+                  $2.99B
+                
+
+
+
+                  $2.50B
+                
+
+
+
+                  $1.94B
+                
+
+
+
+                  $1.81B
+                
+
+
+
+                  $2.26B
+                
+
+
+
+
+
+                  $34.1M
+                
+
+
+
+                  -
+                
+
+
+
+                  $91.6M
+                
+
+
+
+                  $78.4M
+                
+
+
+
+                  $571.8M
+                
+
+
+
+                  $691.2M
+                
+
+
+
+                  $800.0M
+                
+
+
+
+                  $500.0M
+                
+
+
+
+                  -
+                
+
+
+
+
+
+                  87
+                
+
+
+
+                  81
+                
+
+
+
+                  66
+                
+
+
+
+                  63
+                
+
+
+
+                  75
+                
+
+
+
+                  75
+                
+
+
+
+                  80
+                
+
+
+
+                  75
+                
+
+
+
+                  89
+                
+
+
+
+
+
+                  2.7
+                
+
+
+
+                  2.1
+                
+
+
+
+                  2.7
+                
+
+
+
+                  2.9
+                
+
+
+
+                  2.7
+                
+
+
+
+                  3.5
+                
+
+
+
+                  3.1
+                
+
+
+
+                  3.4
+                
+
+
+
+                  2.8
+                
+
+
+
+
+
+                  8,238
+                
+
+
+
+                  8,615
+                
+
+
+
+                  9,043
+                
+
+
+
+                  9,663
+                
+
+
+
+                  10,195
+                
+
+
+
+                  10,860
+                
+
+
+
+                  11,508
+                
+
+
+
+                  12,091
+                
+
+
+
+                  12,595
+                
+
+
+
+
+
+
+
+
+Excludes stock-based compensation and amortization of acquired intangible assets.
+          
+
+Excludes gain on intellectual property ("IP").
+
+
+Assumes a quarterly effective tax rate of 21% for Q4'20 and 2021. Assumes a quarterly effective tax rate of 17% for 2022.
+
+
+Excludes a non-cash charge, primarily comprised of the impairment recognized on our equity method investment in Linksys Holdings Inc. ("Linksys") and other intervening events related to the establishment of a valuation allowance against Linksys deferred tax assets.
+          
+
+Excludes the adjustments attributable to non-controlling interests.
+          
+
+All share and per share amounts presented herein have been retroactively adjusted to reflect the five-for-one forward stock split which was effective June 22, 2022.
+          
+
+Excludes investments in privately held companies, which are recorded in other assets.
+
+
+
+
+
+
+            © Fortinet Inc. All Rights Reserved.
+          
+
+
+
+            4
+          
+
+
+
+
+
+
+          2022 Non-GAAP Results
+        
+
+
+
+
+
+
+                2020
+              
+
+
+
+                2021
+              
+
+
+
+                2022
+              
+
+
+
+
+
+                Billings (1)
+
+
+
+
+                $3.090B
+              
+
+
+
+                $4.181B
+              
+
+
+
+                $5.594B
+              
+
+
+
+
+
+                Y/Y % Change
+              
+
+
+
+                18.7%
+              
+
+
+
+                35.3%
+              
+
+
+
+                33.8%
+              
+
+
+
+
+
+                Revenue
+              
+
+
+
+                $2.594B
+              
+
+
+
+                $3.342B
+              
+
+
+
+                $4.417B
+              
+
+
+
+
+
+                Y/Y % Change
+              
+
+
+
+                19.9%
+              
+
+
+
+                28.8%
+              
+
+
+
+                32.2%
+              
+
+
+
+
+
+                Product Revenue
+              
+
+
+
+                $916.4M
+              
+
+
+
+                $1.255B
+              
+
+
+
+                $1.781B
+              
+
+
+
+
+
+                Y/Y % Change
+              
+
+
+
+                16.2%
+              
+
+
+
+                36.9%
+              
+
+
+
+                41.9%
+              
+
+
+
+
+
+                Service Revenue
+              
+
+
+
+                $1.678B
+              
+
+
+
+                $2.087B
+              
+
+
+
+                $2.637B
+              
+
+
+
+
+
+                Y/Y % Change
+              
+
+
+
+                22.1%
+              
+
+
+
+                24.4%
+              
+
+
+
+                26.3%
+              
+
+
+
+
+
+
+
+            Note
+          
+
+
+Billings is a non-GAAP measure that we define as revenue recognized in accordance with GAAP plus the change in deferred revenue from the beginning to the end of the period less any deferred revenue balances acquired from business combination(s) and adjustment due to adoption of new accounting standard during the period.
+            
+
+
+            © Fortinet Inc. All Rights Reserved.
+          
+
+
+
+            5
+          
+
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Fortinet Inc. published this content on 07 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 07 February 2023 21:21:41 UTC.
+      
+

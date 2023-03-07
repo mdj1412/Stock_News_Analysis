@@ -1,0 +1,87 @@
+(Health Rounds is published on Tuesdays and Thursdays. Think
+your friend or colleague should know about us? Forward this
+newsletter to them. They can also subscribe here.)Jan 12 - Hello Health Rounds Readers! Several artificial
+pancreas systems are on the market for people with type 1
+diabetes, but the technology has not yet been calibrated for
+those with type 2 diabetes who eventually need insulin
+injections to control their blood sugar. This week, a report of
+a small UK trial suggests that artificial pancreas systems that
+improve blood sugar control in this larger population are coming
+closer to reality.In other news: pretreating some colon cancers with
+immunotherapy drugs before surgery may yield significantly
+better outcomes. And U.S. regulations for approving updated
+medical devices need improvement, two studies suggest.Artificial pancreas for type 2 diabetes works in small trialAn artificial pancreas to help control blood sugar for
+people with type 2 diabetes who require insulin is coming closer
+to reality, researchers reported on Wednesday in Nature
+Medicine.In a preliminary trial, 26 patients who used the artificial
+pancreas saw the amount of time spent with appropriate glucose
+levels double compared to when they managed their insulin doses
+on their own.The artificial pancreas is a fully closed loop system, which
+means that unlike devices for people with type 1 diabetes, it
+does not require inputting information about meals and exercise.
+Instead, it employs an algorithm that predicts patients' insulin
+requirements. While most of the hundreds of millions of people
+with type 2 diabetes manage it with diet changes and oral
+medicines, if not well controlled the disease can progress until
+insulin becomes necessary.The experimental system uses an off-the-shelf glucose
+monitor from Dexcom Inc, an insulin pump from SOOIL
+Development Co, and an app developed at University of Cambridge,
+UK.Participants used the new device for eight weeks. During a
+second 8-week period without it, they performed their usual
+fingertip pricks and gave themselves injections.On average, with the artificial pancreas glucose levels were
+in the target range 66% of the time and too high 33% of the
+time. With usual self-care, glucose levels stayed in range only
+32% of the time and were elevated 67% of the time.There were no episodes of dangerously low blood sugar using
+the system.The researchers are now planning a larger, longer study and
+have submitted the system for regulatory approval.About 90% to 95% of people with diabetes have type 2, which
+has been linked with obesity. Although it most often develops
+after age 45, the illness is increasingly occurring in children
+and young adults.New approach to colorectal cancers shows 'great promise'For some patients with early- or mid-stage colorectal cancer
+(CRC), getting treated first with an immunotherapy drug instead
+of going straight to surgery might improve the odds of cure and,
+in some cases, may help them avoid surgery altogether, a study
+from China suggests.Some 15% of CRCs contain cells with genetic mutations that
+contribute to mistakes when the cells divide. Doctors already
+know that a class of immunotherapy drugs called PD-1 inhibitors,
+such as Merck and Co's Keytruda and Opdivo from Bristol
+Myers Squibb, are helpful when tumors with these so
+called mismatch repair deficient (dMMR) cells have become
+inoperable.The new study, published on Wednesday in the Journal of the
+National Comprehensive Cancer Network, found immunotherapy
+appears to be even more effective when tumors are at
+less-advanced stages.Researchers reviewed data from 2017-2021 on 73 CRC patients
+scheduled for surgery who received PD-1 inhibitors beforehand.
+Most had tumors that had begun to invade other nearby tissues.
+In 17 patients (23.3%), tumors disappeared completely after
+treatment and did not return. These patients did not require
+surgery. In 45 patients (61.6%) whose tumors shrank after
+immunotherapy, 40 later had surgery. All whose tumors
+disappeared or were surgically removed were alive and free of
+CRC two years later.While data reviews are less reliable than formal randomized
+trials, the researchers said pre-surgery immunotherapy shows
+"great promise for becoming the new standard of care" for
+operable CRCs with dMMR cells.Updated medical devices need better approval processThe U.S. Food and Drug Administration allows medical device
+manufacturers to market updated versions of their products with
+little testing and without consideration of whether the earlier
+version was safe, two studies suggest.The FDA's so-called 510(k) pathway allows updated medical
+devices to be commercialized without testing in clinical trials,
+based on the fact that an earlier version had been approved -
+even when the earlier approved version itself had not undergone
+extensive testing or was known to have been recalled.A study published on Tuesday in JAMA looked at 156 medical
+devices cleared under the 510(k) pathway from 2017 through 2021
+that were later subject to a "Class I" recall because of high
+risk of serious side effects or death. Overall, 44.1% had been
+authorized using earlier versions that had also been subject to
+Class I recalls. The risk of a Class I recall was more than six
+times higher for updated devices that got 510(k) approval based
+on an earlier version that also had been recalled, compared with
+similarly approved devices with recall-free histories, the
+researchers reported.In a separate study in the same issue of the journal, a
+different team of researchers analyzed 35,176 medical devices
+cleared by the FDA between 2003 and 2018 via the 510(k) pathway.
+Updated devices submitted for approval based on earlier versions
+with three or more ongoing recalls had a 9.31 percentage-point
+increase in recall probability, the study found.Both teams said better safeguards for the 510(k) pathway are
+needed to ensure patient safety.
+(Reporting by Nancy Lapid
+Editing by Bill Berkrot)

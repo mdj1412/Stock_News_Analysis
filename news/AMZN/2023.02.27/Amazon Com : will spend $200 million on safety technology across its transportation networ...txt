@@ -1,0 +1,70 @@
+
+
+      Industry-leading investments in new technologies will provide drivers with vehicles that are best-in-class in safety and sustainability.
+    
+
+
+        Safety is integral to everything we do across our operations at Amazon-every day, in every country, and especially on the road. As we work to deliver for our customers, we continue to innovate and advance safety features in the trucks and vans we deploy, keeping the safety of our partners and communities where we deliver as our top priority.
+      
+
+        A challenge as complex as roadway safety requires strong leadership across both the public and private sectors. Amazon has helped lead the way in investments and innovations, and I'm proud to share some highlights of how Amazon is already working toward the goals outlined in the U.S. Department of Transportation's National Roadway Safety Strategy (NRSS). The examples below are each part of a $200 million investment in new safety technology, and part of our continuing work to ensure Amazon vehicles and our delivery partners are safe on the road. It's our belief that the technology we create, along with innovations spearheaded by our industry partners, can raise the bar on safety and reduce crash frequency and severity. And in many cases, these innovations are better for the environment, too.
+      
+
+        As we follow through on our ongoing commitment to safety, here are some of the tech-based safety and sustainability solutions we're continuing to invest in this year:
+      
+
+
+          We've equipped our middle mile trucking network, which is responsible for shipping packages to and from our operations sites before they're dispatched for last mile delivery to customers, with leading safety technology, including automatic emergency braking, front-collision warning, stability control, lane-departure warning, side-object detection, adaptive cruise control, and speed limiters. Since 2017, Amazon tractors have also been equipped with driver-facing cameras that can help identify unsafe behaviors, like distracted driving, so drivers can be coached to prevent those behaviors from happening again. Our trailers are outfitted with sensors to monitor lights, anti-lock braking systems, cargo and door sensors, and more. Based on our full technology package, equipment manufacturers have indicated that Amazon is a pioneer in incorporating the most advanced safety features. And outside of our fleet, we've invested heavily in our route planning navigation systems and predictive analytics software to better monitor fleet safety. All of this is embedded into our mobile technology, called Relay, that connects carriers and drivers to Amazon, and provides them with navigation assistance, real-time driver-facing alerts, safety performance summaries, and additional safety learning.
+        
+
+
+
+An inside look at the innovations that power Amazon's operations and delivery networks
+
+
+          From new robotic systems and Prime Air drones to vehicle safety technology for drivers, learn how Amazon is improving operations for employees and customers.
+        
+
+Read more
+
+
+
+
+          We're also investing to expand in-vehicle camera safety technology across our last mile delivery network, which is proven to help reduce unsafe behavior in real time by reducing driver-controllable safety incidents. This technology identifies safety events and provides real-time alerts. We began outfitting Amazon-branded delivery vans in the U.S. with this technology in 2020 and, since rolling it out, we've seen a 35 percent reduction in accident rates across our network. This technology is a game-changer and will be in nearly 100 percent of Amazon branded vehicles by April 2023. This technology is just one of the safety features in our custom electric delivery vehicles (EDVs) from Rivian, which are now delivering Amazon packages in more than 100 cities nationwide. In addition, these vans include a 360-degree camera detection system so drivers can see exactly what's next to them as they back up and turn, emergency braking, rollaway detection, and more. Beyond these in-vehicle systems, our Fleet Edgetechnology leverages data to improve our routing software to solve for common roadway issues such as construction, accurate lane navigation, and unsafe maneuvers. This technology has increased GPS accuracy by over 2.5 times since we began testing it, which helps our drivers be both safer and more efficient-benefitting them, our communities, and our planet.
+        
+
+
+
+          As we look to the future, we continue to pilot cutting edge technologies in the transportation space. For example, we're currently piloting strobing brake light technology in some of our trailers to provide greater visibility during braking to others on the road. This technology has the potential to reduce rear-end collisions by as much as 30 percent. And later this year we'll begin deploying an innovative new safety feature in our trucking fleet that uses digital side mirror camera technology to reduce blind spots and enhance the overall safety of our already industry-leading trucks. As we pilot new technologies and learn about the safety efficacy, we'll be able to make data-driven decisions about whether and how to deploy these and other technologies broadly across our fleet of vehicles and trailers.
+        
+
+
+        We're excited about the progress we've made to date and what our continued investments in 2023 will mean as we work to continuously improve in both safety and sustainability. We will continue to invest and invent to ensure our trucks, delivery vans, trailers, and drivers are among the safest on the road.
+      
+
+
+
+        Related Tags
+      
+
+TransportationSafetyTechnology
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Amazon.com Inc. published this content on 27 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 27 February 2023 14:16:04 UTC.
+      
+

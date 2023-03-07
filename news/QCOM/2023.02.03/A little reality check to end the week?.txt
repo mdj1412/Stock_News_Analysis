@@ -1,0 +1,50 @@
+
+It took everyone by surprise: Employers added 517,000 jobs in January, up from 260,000 in December. This is way higher than the 188,000 expected in a Bloomberg consensus. The unemployment rate is down to 3.4 percent, the lowest since 1969.
+This data shows that the Fed's task isn't done and that efforts to cool the labor market to tame inflation have not been working as well as hoped. This comes on the heel of poor results from U.S. tech stocks. Will this be dampening investor optimism? As I write these lines, futures on the Nasdaq are down 2.2%.
+
+Until now, investors thought the direction of U.S. monetary policy had taken a sufficiently positive turn and that other concerns were secondary. The rotation to riskier bets became the dominant bet. Goodbye Healthcare, Oil, Defense and hello Real Estate, Technology and Consumer Discretionary.
+Let's talk about complacency, without denying our pleasure to see a nice recovery across equity markets in the past few sessions. Complacency is what creates asset bubbles. It is a mixture FOMO, following the crowd and intellectual laziness. It comes back as soon as the appetite for risk grows and it is what contributes to create the imbalances that will cause the next bear markets. The speed at which markets have been returning to speculative territory lately is astounding. At the close yesterday, the Nasdaq 100 had rallied 22.6% from its October low, which means that it meets the technical definition of a "bull market," an event that while not rare is not that common. The technology index is up 17% since January 1, after jumping another 3.5% yesterday. In Europe, the same pattern can be seen with major indices up sharply: 2.1% for the DAX and 1.3% for the CAC40 for example.
+The very principle of the recovery makes sense given the scenario that is taking shape, but its magnitude raises questions. In the minds of investors, the main hurdle facing the market recovery was the US central bank and its restrictive monetary policy. The underlying macroeconomic environment was a distant second. Let's talk about both.
+The Fed on Wednesday gave the impression that it had missed its communication exercise. When it said gray, the market heard white. And when it said black, the market didn't listen at all. Investors are forgetting about the famous adage "Don't Fight the Fed," which means that betting against U.S. monetary policy is a doomed enterprise. They believe that the end of rate hikes is imminent - although the latest employment figures might give them food for thought - and they seem confident that rates will not remain high in the medium term.
+It is on the second point, the macroeconomic context, that there should be more debate in the weeks to come. Overnight, Apple, Amazon and Alphabet all reported results below expectations. All three stocks have dropped. The turmoil in the quarterly performance of the tech stars - Meta being the exception - is a sign that the conveyor belt of the Fed's restrictive monetary policy has begun to take its toll on the economy, even on those parts deemed to be the most protected. This makes sense, but it will lead analysts, who are generally slow to revise their expectations, to correct their course this quarterly season. This is a point of vigilance, even if the driving force in the weeks to come clearly remains the dynamics of monetary policy.
+In other news, the recovery of the Chinese economy was confirmed by the publication of a Caixin services PMI indicator back in the expansion zone, with stronger momentum than economists had expected. It is impossible to ignore the debacle of the Adani empire on the Bombay stock exchange, with the share price of the leading holding company Adani Enterprises collapsing by more than 25% today. This crisis is causing a stir even in the Indian parliament and casting a pall of suspicion over other leading companies in the country. The plunge was triggered by the publication on January 24 of a damning report by short-seller Hindenburg Research.
+Let's end with a little heads-up: My colleague Greg Legrand will take over this column for the next two week, as I'm going on a well-deserved vacation… Do not worry, I'm leaving you in good hands!
+ 
+Economic highlights of the day:
+The second reading of the services PMI indices of the major economies in January and US employment figures for January are today's main indicators, as well as the ISM services index. All the agenda is here. Overnight, China's Caixin services PMI for January rose to 52.9 points, much higher than expected.
+The dollar gained 0.6% against the euro to EUR 0.9233 and gained 0.9% against the pound to GBP 0.8259. The ounce of gold fell to USD 1884. Oil remains under pressure, with North Sea Brent at USD 82.18 a barrel and U.S. light crude WTI at USD 75.86. The yield on 10-year US debt is still falling at 3.37%. Bitcoin is back up around USD 23,500.
+ 
+In corporate news:
+* Apple on Thursday reported a lower-than-expected quarterly profit for the first time since 2016 due to weak iPhone sales and said it expects its revenue to decline for a second straight quarter. The group was losing nearly 4% in pre-market trading.
+* Amazon warned Thursday that its operating profit was likely to continue to fall in the current quarter as massive layoffs were not enough to offset lower spending by consumers and customers of its cloud services. In pre-market trading, the global online retail giant was losing more than 4%.
+* Alphabet was down 4.5% in premarket trading after reporting lower-than-expected quarterly revenue and profit on Thursday as Google's parent company's advertising business suffers from the economic slowdown.
+* Ford lost 5.3% in premarket trading as the automaker reported a drop in quarterly profit on Thursday and forecast a tough year.
+* Qualcomm lost 3.6% in pre-market trading after reporting lower-than-expected second-quarter revenue and profit on Thursday, as the chipmaker was hurt by weak demand for smartphones and a supply glut, a trend that is expected to continue in the first half of the year.
+* Regeneron on Friday reported better-than-expected fourth-quarter profit as strong demand for its eczema treatment Dupixent helped offset lower sales of its blockbuster macular degeneration drug Eylea.
+* Coffee chain Starbucks reported a quarterly sales decline in China four times larger than its own estimate and said it had no visibility on the timing of a full recovery in the country. The group was down 2.5% before the opening.
+* Tesla sold 66,051 electric vehicles manufactured in China in January, up 18% from December, according to data released Friday by the China Passenger Car Association (CPCA). In addition, the group has cut prices on some of its models in South Korea, a local sales official for the U.S. automaker said Friday. The stock was up 1% before the opening.
+* Gilead was up 3.5 percent in premarket trading after reporting higher-than-expected fourth-quarter profit on Thursday, helped by strong demand for its HIV and cancer drugs, while Veklury, its COVID-19 antiviral, saw sales double market expectations.
+* Cigna Insurance Group on Friday reported quarterly earnings above Wall Street estimates, helped by a sharp drop in medical costs due to fewer COVID-19-related hospitalizations.
+* Nordstrom - Activist investor Ryan Cohen is acquiring a significant stake in the department store chain and is looking to push the group to overhaul its board, according to sources familiar with the matter. The stock was up more than 30 percent in premarket trading.
+* Silvergate - Federal prosecutors are investigating the cryptocurrency specialist and its relationship with cryptoasset exchange FTX and Sam Bankman-Fried's trading firm Alameda Research, according to a source familiar with the matter. The stock was listed down 12.5%.
+* Carlyle is in talks to hire former Goldman Sachs bank executive Harvey Schwartz as its new chief executive, Semafor reported Thursday, citing sources familiar with the matter.
+* Kohl's announced the appointment of Tom Kingsbury as chief executive, a position he already holds on an interim basis.
+ 
+Analyst recommendations:
+
+Alphabet: Morgan Stanley upgrades to $135 from $125. Maintains overweight rating.
+Apple: JP Morgan has maintained its recommendation on the stock with a Buy rating. The target price differs slightly and is now set at USD 175 versus USD 180.
+Asos: Deutsche Bank downgrades from buy to hold targeting GBp 950.
+Bakkavor: HSBC downgrades from hold to low, targeting GBp 100.
+Boeing: RBC Capital Markets downgrades to sector perform from outperform. PT up 7.5% to $225.
+Cardinal Health: Baird upgrades to outperform from neutral. PT up 23% to $94.
+C.H. Robinson: Stifel downgrades to hold from buy. PT down 5.2% to $99.
+Cognizant: Baird downgrades to neutral from outperform. PT down 3.8% to $68.
+Direct Line: Barclays downgrades to underweight from equal-weight. PT down 7.7% to 173 pence.
+Marks and Spencer: Deutsche Bank upgrades to buy from hold. PT up 30% to 210 pence.
+Meta Platforms: DZ Bank upgrades to hold from sell. PT down 4.6% to $180.
+Pets at Home: Deutsche Bank downgrades to hold from buy. PT down 4.7% to 355 pence.
+SLM: Wells Fargo Securities downgrades to equal-weight from overweight. PT jumps 8.1% to $16.
+Standard Chartered: Investec upgrades to buy from hold. PT up 11% to 740 pence.
+Starbucks: Fubon Securities downgrades to neutral from buy. PT up 12% to $122.
+

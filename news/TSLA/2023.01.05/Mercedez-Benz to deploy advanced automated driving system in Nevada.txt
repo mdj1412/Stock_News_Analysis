@@ -1,0 +1,33 @@
+Jan 5 (Reuters) -The Nevada Department of Motor Vehicles (DMV) said on
+Thursday that German carmaker Mercedes-Benz can deploy
+advanced automated driving systems on its roads after it
+completed a self-certification.The automaker said the Nevada DMV approved its application
+and is preparing the certificate of compliance that will be
+issued within the next two weeks.The "SAE Level 3 conditionally automated driving" system
+allows a driver to legally take their eyes off the wheel but
+must be available to resume control if needed. On suitable
+highway sections and where traffic density is high, the system,
+called DRIVE PILOT, can offer to take over driving,
+Mercedes-Benz says.Mercedes Chief Software Officer Magnus Oestberg told
+reporters on Thursday Mercedes will have to seek approval to
+allow Level 3 driving from regulators in each U.S. state.
+Mercedes has the technology ready to offer limited automated
+driving in all U.S. states once regulators approve, he said.The company has applied for certification in California
+and  is optimistic the state will follow Nevada soon.The Nevada DMV noted it does not issue any permit or license
+based on an autonomous vehicle’s level of automation and allows
+all automation levels to operate on public streets."Mercedes has certified that their technology meets the
+Nevada 'minimal risk condition' requirement that requires a
+Level 3 or higher 'fully autonomous' vehicles to be able to stop
+if there is a malfunction in the system," the DMV said adding it
+"does not test or certify vehicles."The DRIVE PILOT system "gives customers back time so
+they can focus on certain secondary activities such as
+communicating with colleagues via In-Car Office, browsing the
+web or relaxing while watching a movie," the automaker added.Other systems currently on public roads like Tesla's
+Autopilot or General Motors' Super Cruise are
+classified SAE Level 2, which handle some driving tasks but
+require drivers to pay attention at all times.Separately, Mercedes-Benz said its Automatic Lane Change
+(ALC) feature is coming to the North American market. The
+feature enables the car to automatically initiate a lane change
+and overtake slower vehicles with the cruise control engaged.
+(Reporting by David Shepardson; Editing by Leslie Adler and
+Marguerita Choy)

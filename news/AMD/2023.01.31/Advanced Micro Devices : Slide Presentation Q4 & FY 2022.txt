@@ -1,0 +1,515 @@
+
+
+
+
+
+
+              AMD
+            
+
+
+
+              Fourth Quarter and
+            
+
+
+
+
+
+              Full Year 2022
+            
+
+
+
+
+
+              FINANCIAL
+            
+
+
+
+
+
+              RESULTS
+            
+
+
+
+              January 31, 2023
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+          CAUTIONARY STATEMENT
+        
+
+          This presentation contains forward-looking statements concerning Advanced Micro Devices, Inc. (AMD) such as the features, functionality, performance, availability, timing and expected benefits of AMD products; AMD's expected first quarter of 2023 and fiscal 2023 financial outlook, including revenue, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP interest expense, taxes and other, non-GAAP tax rates and diluted share count; AMD's total addressable market; and AMD's ability to drive long-term shareholder returns, which are made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are commonly identified by words such as "would," "may," "expects," "believes," "plans," "intends," "projects" and other terms with similar meaning. Investors are cautioned that the forward-looking statements in this presentation are based on current beliefs, assumptions and expectations, speak only as of the date of this presentation and involve risks and uncertainties that could cause actual results to differ materially from current expectations. Such statements are subject to certain known and unknown risks and uncertainties, many of which are difficult to predict and generally beyond AMD's control, that could cause actual results and other future events to differ materially from those expressed in, or implied or projected by, the forward-looking information and statements. Material factors that could cause actual results to differ materially from current expectations include, without limitation, the following: Intel Corporation's dominance of the microprocessor market and its aggressive business practices; global economic uncertainty; cyclical nature of the semiconductor industry; market conditions of the industries in which AMD products are sold; loss of a significant customer; impact of the COVID-19 pandemic on AMD's business, financial condition and results of operations; competitive markets in which AMD's products are sold; quarterly and seasonal sales patterns; AMD's ability to adequately protect its technology or other intellectual property; unfavorable currency exchange rate fluctuations; ability of third party manufacturers to manufacture AMD's products on a timely basis in sufficient quantities and using competitive technologies; availability of essential equipment, materials, substrates or manufacturing processes; ability to achieve expected manufacturing yields for AMD's products; AMD's ability to introduce products on a timely basis with expected features and performance levels; AMD's ability to generate revenue from its semi-custom SoC products; potential security vulnerabilities; potential security incidents including IT outages, data loss, data breaches and cyber-attacks; potential difficulties in upgrading and operating AMD's new enterprise resource planning system; uncertainties involving the ordering and shipment of AMD's products; AMD's reliance on third-party intellectual property to design and introduce new products in a timely manner; AMD's reliance on third-party companies for design, manufacture and supply of motherboards, software and other computer platform components; AMD's reliance on Microsoft and other software vendors' support to design and develop software to run on AMD's products; AMD's reliance on third-party distributors and add-in-board partners; impact of modification or interruption of AMD's internal business processes and information systems; compatibility of AMD's products with some or all industry-standard software and hardware; costs related to defective products; efficiency of AMD's supply chain; AMD's ability to rely on third party supply-chain logistics functions; AMD's ability to effectively control sales of its products on the gray market; impact of government actions and regulations such as export administration regulations, tariffs and trade protection measures; AMD's ability to realize its deferred tax assets; potential tax liabilities; current and future claims and litigation; impact of environmental laws, conflict minerals-related provisions and other laws or regulations; impact of acquisitions, joint ventures and/or investments, including acquisitions of Xilinx and Pensando, on AMD's business and AMD's ability to integrate acquired businesses; impact of any impairment of the combined company's assets on the combined company's financial position and results of operation; restrictions imposed by agreements governing AMD's notes, the guarantees of Xilinx's notes and the revolving credit facility; AMD's indebtedness; AMD's ability to generate sufficient cash to meet its working capital requirements or generate sufficient revenue and operating cash flow to make all of its planned R&D or strategic investments; political, legal, economic risks and natural disasters; future impairments of goodwill and technology license purchases; AMD's ability to attract and retain qualified personnel; AMD's stock price volatility; and worldwide political conditions. Investors are urged to review in detail the risks and uncertainties in AMD's Securities and Exchange Commission filings, including but not limited to AMD's most recent reports on Forms 10-K and 10-Q.
+        
+
+          NON-GAAP FINANCIAL MEASURES
+        
+
+          In this presentation, in addition to GAAP financial results, AMD has provided non-GAAP financial measures including non-GAAP gross profit, non-GAAP operating expenses, non-GAAP operating income, non-GAAP net income, non-GAAP earnings per share and free cash flow. AMD uses a normalized tax rate in its computation of the non-GAAP income tax provision to provide better consistency across the reporting periods. For fiscal 2022, AMD uses a non-GAAP tax rate of 13%, which excludes the tax impact of pre-taxnon-GAAP adjustments. For fiscal year 2023, AMD uses a projected non-GAAP tax rate of 13%, which excludes the tax impact of pre-tax non GAAP adjustments, reflecting currently available information. In addition, AMD provided pro forma revenue for the year ended December 31, 2022 and December 25, 2021 which include unaudited Xilinx pre-acquisition revenue from January 2, 2022 to February 13, 2022 and for the twelve months ended January 1, 2022, respectively, as supplemental information. AMD is providing these financial measures because it believes this non-GAAP presentation makes it easier for investors to compare its operating results for current and historical periods and also because AMD believes it assists investors in comparing AMD's performance across reporting periods on a consistent basis by excluding items that it does not believe are indicative of its core operating performance. The non-GAAP financial measures disclosed in this presentation should be viewed in addition to and not as a substitute for or superior to AMD's reported results prepared in accordance with GAAP and should be read only in conjunction with AMD's Consolidated Financial Statements prepared in accordance with GAAP. These non-GAAP financial measures referenced are reconciled to their most directly comparable GAAP financial measures in the Appendices at the end of this presentation. This presentation also contains forward-lookingnon-GAAP measures concerning AMD's financial outlook such as gross margin, operating expenses, interest expense, taxes and other. These forward-lookingnon-GAAP measures are based on current expectations as of January 31, 2023, and assumptions and beliefs that involve numerous risks and uncertainties. AMD undertakes no intent or obligation to publicly update or revise its forward-looking statements made in this presentation except as may be required by law.
+        
+
+
+
+          2 2 Q4 AND FY 2022 FINANCIAL RESULTS - JANUARY 31, 2023
+        
+
+
+
+
+
+          OUR JOURNEY
+        
+
+
+
+
+                Leadership
+              
+
+
+
+
+
+                Expanding Customer
+              
+
+
+
+
+
+                Data Center and
+              
+
+
+
+
+
+                Strong
+              
+
+
+
+
+
+                Product Portfolio
+              
+
+
+
+
+
+                & Partner Ecosystem
+              
+
+
+
+
+
+                Embedded Growth
+              
+
+
+
+
+
+                Financial Foundation
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          3 3 Q4 AND FY 2022 FINANCIAL RESULTS - JANUARY 31, 2023
+        
+
+
+
+
+
+          OUR LEADERSHIP TECHNOLOGY
+        
+
+
+
+
+                Industry-Leading IP
+              
+
+
+
+
+
+                Advanced Technology
+              
+
+
+
+
+
+                Data Center Leadership
+              
+
+
+
+
+
+                Software Enablement
+              
+
+
+
+
+
+                Executing leadership CPU,
+              
+
+
+
+
+
+                Driving leadership
+              
+
+
+
+
+
+                Delivering innovation in
+              
+
+
+
+
+
+                Open-source software
+              
+
+
+
+
+
+                GPU, DPU, FPGA and Adaptive
+              
+
+
+
+
+
+                process technology and
+              
+
+
+
+
+
+                cloud, enterprise, AI and
+              
+
+
+
+
+
+                co-designed with hardware and
+              
+
+
+
+
+
+                SoC products and roadmaps
+              
+
+
+
+
+
+                3D chiplet packaging
+              
+
+
+
+
+
+                accelerated computing
+              
+
+
+
+
+
+                optimized for performance
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                across heterogenous solutions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          4 4 Q4 AND FY 2022 FINANCIAL RESULTS - JANUARY 31, 2023
+        
+
+
+
+
+
+          OUR LEADERSHIP PRODUCTS
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Data Center
+              
+
+
+
+
+
+                Client
+              
+
+
+
+
+
+                Gaming
+              
+
+
+
+
+
+                Embedded
+              
+
+
+
+
+
+                Leadership data center
+              
+
+
+
+
+
+                Leadership CPUs and APUs for
+              
+
+
+
+
+
+                Top-to-bottom desktop and
+              
+
+
+
+
+
+                Leadership FPGAs,
+              
+
+
+
+
+
+                solutions with server CPUs,
+              
+
+
+
+
+
+                notebook and desktop PCs and
+              
+
+
+
+
+
+                notebook GPUs, game console
+              
+
+
+
+
+
+                Adaptive SoCs and SoMs, and
+              
+
+
+
+
+
+                GPUs, FPGAs, DPUs
+              
+
+
+
+
+
+                commercial workstations
+              
+
+
+
+
+
+                and semi-custom SoCs
+              
+
+
+
+
+
+                embedded CPUs and GPUs
+              
+
+
+
+
+
+                and Adaptive SoCs
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                for a broad set of markets
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          5 5 Q4 AND FY 2022 FINANCIAL RESULTS - JANUARY 31, 2023
+        
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+AMD - Advanced Micro Devices Inc. published this content on 31 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 31 January 2023 22:07:01 UTC.
+      
+

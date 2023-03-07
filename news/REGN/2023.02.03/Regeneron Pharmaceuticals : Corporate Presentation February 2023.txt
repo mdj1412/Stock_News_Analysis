@@ -1,0 +1,383 @@
+
+
+
+
+          Regeneron Corporate Presentation
+        
+
+
+
+          F e b r u a r y 2 0 2 3
+        
+
+
+
+          This non-promotional presentation contains investigational data as well as forward-looking statements; actual results may vary materially.
+        
+
+
+
+
+        Note regarding forward-looking statements and non-GAAP financial measures
+      
+
+        This presentation includes forward-looking statements that involve risks and uncertainties relating to future events and the future performance of Regeneron Pharmaceuticals, Inc. ("Regeneron" or the "Company"), and actual events or results may differ materially from these forward-looking statements. Words such as "anticipate," "expect," "intend," "plan," "believe," "seek," "estimate," variations of such words, and similar expressions are intended to identify such forward-looking statements, although not all forward-looking statements contain these identifying words. These statements concern, and these risks and uncertainties include, among others, the impact of SARS-CoV-2 (the virus that has caused the COVID-19 pandemic) on Regeneron's business and its employees, collaborators, and suppliers and other third parties on which Regeneron relies, Regeneron's and its collaborators' ability to continue to conduct research and clinical programs, Regeneron's ability to manage its supply chain, net product sales of products marketed or otherwise commercialized by Regeneron and/or its collaborators or licensees (collectively, "Regeneron's Products"), and the global economy; the nature, timing, and possible success and therapeutic applications of Regeneron's Products and product candidates being developed by Regeneron and/or its collaborators or licensees (collectively, "Regeneron's Product Candidates") and research and clinical programs now underway or planned, including without limitation EYLEA® (aflibercept) Injection, Dupixent ® (dupilumab) Injection, Libtayo ® (cemiplimab) Injection, Praluent ® (alirocumab) Injection, Kevzara ® (sarilumab) Injection, Evkeeza ® (evinacumab), Inmazeb ® (atoltivimab, maftivimab, and odesivimab-ebgn), aflibercept 8 mg, pozelimab, odronextamab, itepekimab, fianlimab, garetosmab, linvoseltamab, REGN5713-5714-5715, Regeneron's other oncology programs (including its costimulatory bispecific portfolio), Regeneron's and its collaborators' earlier-stage programs (including,Regeneron's "next generation" COVID-19 antibody discussed in this presentation), and the use of human genetics in Regeneron's research programs; uncertainty of the utilization, market acceptance, and commercial success of Regeneron's Products and Regeneron's Product Candidates and the impact of studies (whether conducted by Regeneron or others and whether mandated or voluntary), including the studies discussed or referenced in this presentation, on any of the foregoing or any potential regulatory approval of Regeneron's Products and Regeneron's Product Candidates; the likelihood, timing, and scope of possible regulatory approval and commercial launch of Regeneron's Product Candidates and new indications for Regeneron's Products, including without limitation those listed above; the likelihood and timing of achieving any of the anticipated milestones described in this presentation; safety issues resulting from the administration of Regeneron's Products and Regeneron's Product Candidates in patients, including serious complications or side effects in connection with the use of Regeneron's Products and Regeneron's Product Candidates in clinical trials; determinations by regulatory and administrative governmental authorities which may delay or restrict Regeneron's ability to continue to develop or commercialize Regeneron's Products and Regeneron's Product Candidates; ongoing regulatory obligations and oversight impacting Regeneron's Products, research and clinical programs, and business, including those relating to patient privacy; the availability and extent of reimbursement of Regeneron's Products from third-party payers, including private payer healthcare and insurance programs, health maintenance organizations, pharmacy benefit management companies, and government programs such as Medicare and Medicaid; coverage and reimbursement determinations by such payers and new policies and procedures adopted by such payers; competing drugs and product candidates that may be superior to, or more cost effective than, Regeneron's Products and Regeneron's Product Candidates; the extent to which the results from the research and development programs conducted by Regeneron and/or its collaborators or licensees (including those discussed or referenced in this presentation) may be replicated in other studies and/or lead to advancement of product candidates to clinical trials or therapeutic applications; the ability of Regeneron to manufacture and manage supply chains for multiple products and product candidates; the ability of Regeneron's collaborators, licensees, suppliers, or other third parties (as applicable) to perform manufacturing, filling, finishing, packaging, labeling, distribution, and other steps related to Regeneron's Products and Regeneron's Product Candidates; unanticipated expenses; the costs of developing, producing, and selling products; the ability of Regeneron to meet any of its financial projections or guidance and changes to the assumptions underlying those projections or guidance; the potential for any license or collaboration agreement, including Regeneron's agreements with Sanofi and Bayer (or their respective affiliated companies, as applicable), to be cancelled or terminated; and risks associated with intellectual property of other parties and pending or future litigation relating thereto, other litigation and other proceedings and government investigations relating to the Company and/or its operations, the ultimate outcome of any such proceedings and investigations, and the impact any of the foregoing may have on Regeneron's business, prospects, operating results, and financial condition. A more complete description of these and other material risks can be found in Regeneron's filings with the U.S. Securities and Exchange Commission. Any forward-looking statements are made based on management's current beliefs and judgment, and the reader is cautioned not to rely on any forward-looking statements made by Regeneron. Regeneron does not undertake any obligation to update (publicly or otherwise) any forward-looking statement, including without limitation any financial projection or guidance, whether as a result of new information, future events, or otherwise.
+      
+
+        This presentation includes non-GAAP net income per diluted share, revenues excluding REGEN-COV, and net product sales growth on a constant currency basis for certain of Regeneron's Products, which are financial measures that are not calculated in accordance with U.S. Generally Accepted Accounting Principles ("GAAP"). These and other non-GAAP financial measures are computed by excluding certain non-cash and/or other items from the related GAAP financial measure. The Company also includes a non-GAAP adjustment for the estimated income tax effect of reconciling items. The Company makes such adjustments for items the Company does not view as useful in evaluating its operating performance. Management uses this and other non-GAAP measures for planning, budgeting, forecasting, assessing historical performance, and making financial and operational decisions, and also provides forecasts to investors on this basis. Additionally, such non-GAAP measures provide investors with an enhanced understanding of the financial performance of the Company's core business operations. However, there are limitations in the use of such non-GAAP financial measures as they exclude certain expenses that are recurring in nature. Furthermore, the Company's non-GAAP financial measures may not be comparable with non-GAAP information provided by other companies. Any non-GAAP financial measure presented by Regeneron should be considered supplemental to, and not a substitute for, measures of financial performance prepared in accordance with GAAP. A reconciliation of the non-GAAP financial measures used in this presentation is provided on slide 30.
+      
+
+        2
+      
+
+
+
+
+
+
+
+                Executing on our
+              
+
+
+
+                Investing in
+              
+
+
+
+                Looking ahead
+              
+
+
+
+
+
+                core competencies
+              
+
+
+
+                Regeneron
+              
+
+
+
+                to the future
+              
+
+
+
+
+
+
+
+            #1 prescribed FDA approved anti-VEGFtreatment for retinal disease
+
+
+~$8.7B net product sales in 2022†
+
+
+            Now approved for 5 Type 2
+
+
+            allergic diseases
+          
+
+            Emerging portfolio of
+          
+
+            immuno-oncology antibodies
+          
+
+
+
+            Advancing a
+          
+
+            best-in-class,
+          
+
+            diversified
+          
+
+            pipeline based on innovation and strategic partnerships
+          
+
+
+
+            Investing
+          
+
+            ~$4.3B into
+
+
+            R&D in 2023*
+
+
+            Announced
+          
+
+            new $3B share
+          
+
+            repurchase program
+          
+
+            in Feb 2023
+          
+
+(nearly $10B shares
+
+
+            repurchased since
+          
+
+            Nov 2019,
+          
+
+~$2.1B in 2022**)
+          
+
+
+
+            driving new
+          
+
+            breakthroughs
+          
+
+            and target discovery
+          
+
+
+
+~35 therapeutic
+          
+
+candidates in various stages
+          
+
+of clinical development
+          
+
+            Acquired full rights to Libtayo
+          
+
+            from Sanofi and completed acquisition of Checkmate Pharmaceuticals
+          
+
+            Expanding partnerships with leading companies in new technologies
+
+
+
+
+
+
+
+
+                3
+              
+
+
+
+                * Based on midpoint of most recent GAAP R&D guidance
+              
+
+
+
+
+
+
+
+† Sanofi records global net product sales of Dupixent
+              
+
+
+
+                **~$745 million remaining in prior authorization as of December 31, 2022
+              
+
+
+
+
+
+
+
+                Note: Definitions for all abbreviations and acronyms in this presentation can be found on page 31
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          2022 progress across key strategic priorities positions Regeneron to deliver long-term shareholder value
+        
+
+          Positive aflibercept 8 mg data position retinal franchise for prolonged leadership
+        
+
+Exceptional Dupixent clinical profile and commercial
+        
+
+          Potential upcoming
+        
+
+executionregulatory, nowsubmissions,approved to treat five Type 2 allergic diseasesapprovalsandandindataAD patients as young as 6 months
+        
+
+          readouts
+        
+
+          Strengthened immuno-oncology platform with Libtayo acquisition, advances for CD3 bispecifics, promising costimulatory bispecific data, and robust LAG-3 program
+        
+
+          Potential breakthrough advance for COVID-19 treatment and prevention with a novel monoclonal antibody
+        
+
+          4
+        
+
+
+
+          This slide contains investigational drug candidates that have not been approved by any regulatory authority.
+        
+
+
+
+
+
+          Delivering results across the organization
+        
+
+          Notable R&D PipelineAdvancements
+        
+
+
+
+
+            4Q 2022 Total Revenues
+          
+
+            +14% YoY
+          
+
+            excluding REGEN-COV and Ronapreve*
+          
+
+
+
+
+BLA for aflibercept 8 mg in wAMD and DME submitted to FDA in December
+
+
+EC approval for EYLEA in ROP and sBLA under priority review for ROP (PDUFA Feb 11, 2023)
+
+
+EC approval for PN and EoE, the first and only medicine indicated for these diseases in Europe
+
+
+Positive CHMP opinion for pediatric AD (6mos - 5 yrs) Submitted sBLA for CSU in December
+
+
+FDA approved Libtayo in combination with chemotherapy for
+              1L NSCLC
+            
+
+
+
+
+
+
+            4Q 2022 Non-GAAP EPS*
+          
+
+
+
+
+Positive data presented for Odronextamab in B-NHL and Linvoseltamab in MM at ASH
+            
+
+Initiated a Phase 3 study for fianlimab in 1L adjuvant melanoma
+
+
+
+
+
+
+
+
+
+
+
+                $12.56
+              
+
+
+
+
+
+
+
+
+
+                • ALN-PNP† dosed first patient in NASH
+              
+
+
+
+
+
+                5
+              
+
+
+
+                See reconciliation of non-GAAP measure on slide 30
+              
+
+
+
+
+
+
+
+† in collaboration with Alnylam
+              
+
+
+
+
+
+
+          This slide contains investigational drug candidates and indications that have not been approved by any regulatory authority.
+        
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Regeneron Pharmaceuticals Inc. published this content on 03 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 03 February 2023 15:18:12 UTC.
+      
+

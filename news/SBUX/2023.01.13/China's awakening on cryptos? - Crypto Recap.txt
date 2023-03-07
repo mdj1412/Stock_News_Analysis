@@ -1,0 +1,37 @@
+
+
+Block 1: Essential news
+Binance is on all fronts
+Everything seems to be going well for the crypto giant. First, Binance has just registered with the Swedish financial supervisory authority (FSA) to continue its regulation in Europe, after having done so in seven EU member states including France. Second, Binance.US, the platform's U.S. arm, announced that it is buying the assets of bankrupt platform Voyager Digital for $1 billion, which will allow Voyager's customers to recoup some of their deposits that are tied up in the bankruptcy process. Third, Binance announced that it is hiring 3,000 people in various positions for 2023.
+Avalanche blockchain partners with Amazon
+The cloud computing platform of the tech giant, Amazon Web Services (AWS), has partnered with Avalanche blockchain, "to accelerate the adoption of blockchain by businesses, institutions and governments". The goal is to bring the entire Avalanche ecosystem (decentralized applications, network nodes, subnets...) directly to AWS. We will see more concretely in the coming months how this partnership will materialize, but it raises questions about a potential progressive centralization of the Avalanche network in the hands of Amazon. Decentralization of networks being a feature dear to the eyes of cryptosphere aficionados.
+Polygon blockchain partners with Mastercard
+After having established partnerships with renowned companies such as Walt Disney, BMW, Mercedes, Adobe, Adidas or Starbucks, Polygon is partnering with the payment giant Mastercard. It was at the Consumer Electronics Show (CES) in Las Vegas that the company announced the launch of an accelerator dedicated to music artists. So what does this have to do with Polygon? The artist accelerator will include a limited edition NFT called "The Mastercard Music Pass" that will give holders access to "exclusive gear, unique resources and other physical and virtual experiences." This collection will be backed by the Polygon blockchain. More concrete details will be given in the coming months. But it does shows Mastercard's willingness to occupy the field in the crypto sphere.
+Sam Bankman-Fried explains himself again
+Sam Bankman-Fried, the disgraced former head of FTX, denied hiding billions of dollars and gave his take on what happened to his failed platform in a lengthy new post on Substack published Thursday. He denied stealing funds and said FTX and its sister company Alameda Research collapsed because of the crypto market collapse and inadequate hedging by Alameda. "I did not steal funds and I certainly did not hide billions of dollars," Bankman-Fried writes. Later in the post, he concludes that "Alameda lost money because of a market crash for which it was not properly covered." While claiming that the trading company "failed to adequately hedge its market exposure," he also stated that he "did not run Alameda in recent years." We should still have some wacky explanations from SBF by his trial date of October 2, 2023. 
+Coinbase cuts 950 jobs
+After being forced to pay $100 million last week to comply with regulators, the US crypto platform announced this week that it is laying off another 950 employees, knowing that it had already kicked out 1,100 employees six months earlier. Coinbase also mentioned that it will be dropping projects that are deemed to have a "low probability of success" in order to reduce expenses. As the chart below shows, Coinbase has been playing elbows with the Crypto.com platform in terms of layoffs since 2022. 
+
+
+Number of layoffs at entities with ties to cryptosBloomberg
+
+Block 2: Crypto Analysis of the Week
+President Xi Jinping's administration has taken market-friendly steps in recent days, such as easing policy toward tech giants and strengthening the real estate sector. Given these reversals, could cryptocurrency policy also change? Some crypto-optimists see a real possibility. This is particularly true of self-proclaimed crypto-billionaire and blockchain founder Tron, who expressed his excitement on Twitter.
+After all, in recent months, Hong Kong has prioritized the creation of a virtual asset center, all under the watchful eye of Beijing. There has even been talk of a connection program that would allow Chinese people to access cryptocurrencies through Hong Kong.
+Julia Leung Fung-yee, executive director of Hong Kong's Securities and Futures Commission (SFC), announced that the securities watchdog will propose a set of digital assets that it will allow to be traded by retail investors. Hong Kong's decision to allow retail trading of cryptocurrencies comes after months of turmoil in the industry, with the collapse of cryptocurrency platform FTX as the latest blow.
+"Over the past year, virtual assets have gone from highs to low (price) levels. The good thing is that when the froth is taken out of the system with the collapse of platforms and some tokens, it focuses the minds of investors and sellers on protecting investors," Leung said during a panel discussion at the Asian Financial Forum in Hong Kong on Wednesday.
+The SFC will start accepting applications for Virtual Asset Service Providers (VASP) licenses in mid-2024, Leung said. The new cryptocurrency regime requires all trading platforms and exchanges to apply for a license or face fines and jail time.
+Many China watchers will dismiss such speculation as highly fanciful. In addition to the catastrophic fallout from the FTX debacle, policymakers still remain reticent about issues such as the waste of energy associated with cryptocurrency mining and the dangers of cryptocurrency speculation.
+Yet even a partial easing of China's restrictions would be a boon to the industry, one enticing enough for crypto miners, crypto traders and crypto investors to pin at least some of their hopes on.
+Dreams of a China-led renaissance may be nothing more than a triumph of hope over reason. But optimists can still look forward to the next Ethereum upgrade, which is expected to take place in March. Its name? Shanghai. We will detail the stakes of this upgrade in a dedicated article.
+Block 3: Tops & Flops
+
+The evolution of the Top 20 cryptocurrencies in terms of capitalization over one week. (Click to enlarge)
+
+
+Heatmap Crypto
+Quantify
+Block 4: Readings of the week
+FTX destroyed the crypto party in paradise (Wired)
+Six OpenAI rivals watched by Google and Microsoft (The Information)
+

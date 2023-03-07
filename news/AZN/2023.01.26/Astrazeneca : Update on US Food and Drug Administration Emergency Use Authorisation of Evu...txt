@@ -1,0 +1,135 @@
+
+
+
+PUBLISHED26 January 2023
+
+
+
+
+
+              26 January 2023 18:15 GMT
+
+
+
+
+              The US Food and Drug Administration (FDA) has stated that AstraZeneca's Evusheld (tixagevimab co-packaged with cilgavimab) is not currently authorised for Emergency Use for pre-exposure prophylaxis (prevention) of COVID-19 in the US until further notice, due to the sustained high frequency of circulating SARS-CoV-2 variants that Evusheld does not retain in vitro neutralisation against.
+            
+
+              The FDA has notified AstraZeneca that the Agency will make a determination about reinstating authorisation of Evusheld if the national prevalence of resistant variants decreases to 90% or less on a sustained basis. The US government recommends all Evusheld product be retained and properly stored in the event that variants susceptible to Evusheld, including those currently circulating at lower prevalence, become more prevalent in the future.
+            
+
+              Based on in vitro pseudovirus assay laboratory data, Evusheld does not neutralise Omicron subvariants BQ.1, BQ.1.1, BF.7, BF.11, BA.5.2.6, BA.4.6, BA.2.75.2, XBB and XBB.1.5.1 The combined proportion of COVID-19 cases caused by these subvariants is currently greater than 90% in the US, according to the Centers for Disease Control and Prevention (CDC) Nowcast modelling data.2
+
+
+              AstraZeneca will continue to work with the FDA and other health authorities to collect, assess and share relevant data regarding Evusheld and SARS-CoV-2 variants. Evusheld currently remains authorised in other countries where it is approved for COVID-19 pre-exposure prophylaxis and treatment, including the EU and Japan.
+            
+
+Next-generation long-acting antibody Phase I/III trial underway
+AstraZeneca has initiated the SUPERNOVA Phase I/III trial to investigate the safety and efficacy of a next-generation long-acting antibody (LAAB) in COVID-19 pre-exposure prophylaxis in an immunocompromised population. In in vitro lab studies, the new LAAB has been shown to neutralise all SARS-CoV-2 variants tested to date, including variants that have proved resistant to other monoclonal antibodies.3 AstraZeneca is aiming to make the new LAAB available in the second half of 2023, subject to trial readouts and regulatory reviews.  
+            
+
+              About 2% of the global population is considered at increased risk of an inadequate response to COVID-19 vaccination and could benefit from monoclonal antibodies for COVID-19 protection.4,5
+
+
+Notes
+
+
+Evusheld
+Evusheld is a combination of two long-acting antibodies - tixagevimab (AZD8895) and cilgavimab (AZD1061) - derived from B-cells donated by convalescent patients after SARS-CoV-2 infection. Discovered by Vanderbilt University Medical Center and licensed to AstraZeneca in June 2020, the human monoclonal antibodies bind to distinct sites on the SARS-CoV-2 spike protein6 and were optimised by AstraZeneca with half-life extension and reduction of Fc effector function and complement C1q binding.7 The half-life extension more than triples the durability of its action compared to conventional antibodies;8-10 data from the PROVENT Phase III trial show protection lasting six months.11 The reduced Fc effector function aims to minimise the risk of antibody-dependent enhancement of disease - a phenomenon in which virus-specific antibodies promote, rather than inhibit, infection and/or disease.12
+
+
+Evusheld is being developed with support from the US government, including federal funds from the Department of Health and Human Services; Administration for Strategic Preparedness and Response; Biomedical Advanced Research and Development Authority in partnership with the Department of Defense; Joint Program Executive Office for Chemical, Biological, Radiological and Nuclear Defense, under contract number W911QY-21-9-0001.
+            
+
+              Under the terms of the licensing agreement with Vanderbilt, AstraZeneca will pay single-digit royalties on future net sales.
+            
+
+AstraZeneca
+AstraZeneca (LSE/STO/Nasdaq: AZN) is a global, science-led biopharmaceutical company that focuses on the discovery, development, and commercialisation of prescription medicines in Oncology, Rare Diseases, and BioPharmaceuticals, including Cardiovascular, Renal & Metabolism, and Respiratory & Immunology. Based in Cambridge, UK, AstraZeneca operates in over 100 countries and its innovative medicines are used by millions of patients worldwide. Please visit astrazeneca.com and follow the Company on Twitter @AstraZeneca.
+            
+
+Contacts
+For details on how to contact the Investor Relations Team, please click here. For Media contacts, click here.
+            
+
+
+
+References
+
+
+
+                1. US Food and Drug Administration Fact Sheet for Healthcare Providers: Emergency Use Authorization for EvusheldTM (Tixagevimab Co-Packaged with Cilgavimab). https://www.fda.gov/media/154701/download [Last accessed: January 2023]
+              
+
+                2. Centers for Disease Control and Prevention CDC COVID Data Tracker: Variant Proportions. https://covid.cdc.gov/covid-data-tracker/#variant-proportions [Last accessed: January 2023]
+              
+
+                3. AstraZeneca Data on File - REF-173560
+              
+
+                4. Harpaz R, et al. Prevalence of Immunosuppression Among US Adults, 2013. JAMA. 2016;316(23):2547-2548. doi:10.1001/JAMA.2016.16477
+              
+
+                5. AstraZeneca Data on File - REF-129335
+              
+
+                6. Dong J, et al. Genetic and Structural Basis for SARS-CoV-2 Variant Neutralization by a Two-Antibody Cocktail. Nat Microbiol. 2021;6(10):1233-1244
+              
+
+                7. Loo YM, et al. AZD7442 Demonstrates Prophylactic and Therapeutic Efficacy in Non-Human Primates and Extended Half-Life in Humans. Sci Transl Med . 2022;14(635):eabl8124
+              
+
+                8. Robbie GJ, et al. A Novel Investigational Fc-Modified Humanized Monoclonal Antibody, Motavizumab-YTE, Has an Extended Half-Life in Healthy Adults. Antimicrob Agents Chemother. 2013;57(12):6147-6153
+              
+
+                9. Griffin MP, et al. Safety, Tolerability, and Pharmacokinetics of MEDI8897, the Respiratory Syncytial Virus Prefusion F-Targeting Monoclonal Antibody with an Extended Half-Life, in Healthy Adults. Antimicrob Agents Chemother. 2017;61(3)
+              
+
+                10. Domachowske, JB et al. Safety, Tolerability and Pharmacokinetics of MEDI8897, an Extended Half-Life Single-Dose Respiratory Syncytial Virus Prefusion F-Targeting Monoclonal Antibody Administered as a Single Dose to Healthy Preterm Infants. Pediatr Infect Dis J. 2018;37(9):886-892
+              
+
+                11. Levin MJ, et al. Intramuscular AZD7442 (Tixagevimab-Cilgavimab) for Prevention of Covid-19.  N Engl J Med. 2022;386(23):2188-2200
+              
+
+                12. van Erp EA, et al. Fc-Mediated Antibody Effector Functions During Respiratory Syncytial Virus Infection and Disease. Front Immunol. 2019;10(MAR)
+              
+
+
+
+
+Adrian Kemp
+              Company Secretary
+              AstraZeneca PLC
+
+
+
+
+
+            tags
+          
+
+
+              Corporate and financial
+            
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+AstraZeneca plc published this content on 26 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 26 January 2023 18:22:52 UTC.
+      
+

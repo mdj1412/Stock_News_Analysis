@@ -1,0 +1,392 @@
+
+
+
+        Datadog, Inc. NasdaqGS:DDOG
+      
+
+        FQ4 2022 Earnings Call Transcripts
+      
+
+        Thursday, February 16, 2023 1:00 PM GMT
+      
+
+
+
+
+              COPYRIGHT © 2023 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+            
+
+
+
+              1
+            
+
+
+
+
+
+
+
+
+        spglobal.com/marketintelligence
+      
+
+
+
+        Contents
+      
+
+        Table of Contents
+      
+
+
+
+
+              Call Participants
+            
+
+
+
+              3
+            
+
+
+
+
+
+              Presentation
+            
+
+
+
+              4
+            
+
+
+
+
+
+              Question and Answer
+            
+
+
+
+              9
+            
+
+
+
+
+
+
+
+              COPYRIGHT © 2023 S&P Global Market Intelligence, a division of S&P Global Inc. All rights reserved
+            
+
+
+
+              2
+            
+
+
+
+
+
+
+
+
+        spglobal.com/marketintelligence
+      
+
+
+
+
+          DATADOG, INC. FQ4 2022 EARNINGS CALL FEB 16, 2023
+        
+
+          Call Participants
+        
+
+
+
+
+            EXECUTIVES
+          
+
+            David M. Obstler
+          
+
+            Chief Financial Officer
+          
+
+            Olivier Pomel
+          
+
+            Co-Founder, CEO & Director
+          
+
+            Yuka Broderick
+          
+
+            Investor Relations
+          
+
+            ANALYSTS
+          
+
+            Aleksandr J. Zukin
+          
+
+            Wolfe Research, LLC
+          
+
+            Andrew James Nowinski
+          
+
+            Wells Fargo Securities, LLC, Research Division
+          
+
+            Brad Robert Reback
+          
+
+            Stifel, Nicolaus & Company,
+          
+
+            Incorporated, Research Division
+          
+
+            Frederick Lee
+          
+
+            Crédit Suisse AG, Research Division
+          
+
+            Frederick Christian Havemeyer
+          
+
+            Macquarie Research
+          
+
+            Kamil Mielczarek
+          
+
+            William Blair & Company L.L.C., Research Division
+          
+
+            Koji Ikeda
+          
+
+            BofA Securities, Research Division
+          
+
+            Mark Ronald Murphy
+          
+
+            JPMorgan Chase & Co, Research Division
+          
+
+            Matthew George Hedberg
+          
+
+            RBC Capital Markets, Research
+          
+
+            Division
+          
+
+
+
+            Sanjit Kumar Singh
+          
+
+            Morgan Stanley, Research Division
+          
+
+            Sterling Auty
+          
+
+
+
+
+
+
+
+                Copyright © 2023 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+              
+
+
+
+
+
+
+
+                spglobal.com/marketintelligence
+              
+
+
+
+                3
+              
+
+
+
+
+
+
+
+        DATADOG, INC. FQ4 2022 EARNINGS CALL FEB 16, 2023
+      
+
+        Presentation
+      
+
+        Operator
+      
+
+        Good day, and thank you for standing by. Welcome to the Fourth Quarter Datadog Earnings Conference Call. [Operator Instructions] Please be advised that today's conference is being recorded.
+      
+
+        I would now like to hand the conference over to your speaker today, Yuka Broderick, Vice President of Investor Relations. Please go ahead.
+      
+
+        Yuka Broderick
+      
+
+        Investor Relations
+      
+
+        Thank you, Katherine. Good morning, and thank you for joining us to review Datadog's fourth quarter and fiscal year 2022 financial results, which we announced in our press release issued this morning. Joining me on the call today are Olivier Pomel, Datadog's Co- Founder and CEO; and David Obstler, Datadog's CFO.
+      
+
+        During this call, we will make forward-looking statements, including statements related to our future financial performance, our outlook for the first quarter and fiscal year 2023 and related notes and assumptions, our gross margins and operating margins, our strategy, our product capabilities and our ability to capitalize on market opportunities. The words anticipate, believe, continue, estimate, expect, intend, will and similar expressions are intended to identify forward-looking statements or similar indications of future expectations. These statements reflect our views only as of today and are subject to a variety of risks and uncertainties that could cause actual results to differ materially.
+      
+
+        For a discussion of the material risks and other important factors that could affect our actual results, please refer to our Form 10-Q for the quarter ended September 30, 2022. Additional information will be made available in our upcoming Form 10-K for the fiscal year ended December 31, 2022, and other filings with the SEC. This information is also available on the Investor Relations section of our website, along with a replay of this call. We will also discuss non-GAAP financial measures, which are reconciled to their most directly comparable GAAP financial measures in the tables in our earnings release, which is available at investors.datadoghq.com.
+      
+
+        With that, I'd like to turn the call over to Olivier.
+      
+
+        Olivier Pomel
+      
+
+        Co-Founder, CEO & Director
+      
+
+        Thanks, Yuka, and thank you all for joining us this morning. We had a solid Q4 to end a strong fiscal year 2022. We delivered significant new innovations for our customers, we saw increasing adoption of our products and we attracted thousands of new customers to our platform. Meanwhile, we delivered strong revenue growth, margins, non-GAAP operating profit, and we generated more than $350 million in free cash flow.
+      
+
+        Let me start with a review of our Q4 financial performance. In Q4, revenue was $469 million, an increase of 44% year-over-year, 8% quarter-over-quarter and above the high end of our guidance range. We had about 23,200 customers, up from about 18,800 last year. We ended the quarter with about 2,780 customers with ARR of $100,000 or more, up from about 2,010 last year. These customers generated about 85% of our ARR. And we had 317 customers with ARR of $1 million or more compared to the 216 we had at the end of last year. We generated free cash flow of $96 million with a free cash flow margin of 21%. And our dollar-based net retention rate continued to be over 130% as customers increased their usage and adopted more products.
+      
+
+        Our platform strategy continues to resonate in the market. As of the end of Q4, 81% of customers were using 2 or more products, up from 78% a year ago; 42% of customers were using 4 or more products, up from 33% a year ago; and 18% of our customers were using 6 or more products, up from 10% last year.
+      
+
+        Now moving on to this quarter's business drivers. Overall, we observed slower usage growth with existing customers while continuing to scale our new logo acquisition and new product cross-sells. Starting with usage. Usage growth of existing customers in Q4 was overall slightly lower than what we observed in Q2 and Q3, which we attribute, first, to a continuation of cloud cost optimization by our larger spending customers; and second, to a seasonal annual slowdown in the second half of December that was more pronounced than in previous years. As in Q2 and Q3, we continue to see more optimization from customers as a larger cloud footprint, while our smaller spending customers are exhibiting higher growth.
+      
+
+
+
+
+              Copyright © 2023 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+            
+
+
+
+
+
+
+
+              spglobal.com/marketintelligence
+            
+
+
+
+              4
+            
+
+
+
+
+
+
+        DATADOG, INC. FQ4 2022 EARNINGS CALL FEB 16, 2023
+      
+
+        From a product perspective, we didn't see meaningful differences among our major products as they all experienced solid growth, albeit decelerating on a year-over-year basis. In contrast to this deceleration in usage growth for existing customers, we continue to execute on new logo lands and multiproduct adoption, and we also continue to see stable, very strong growth retention trends.
+      
+
+        First, we had our strongest new logo quarter to date, with a record level of new logo ARR bookings. Second, our sales pipeline remains healthy as our pattern of new logo and cross-sell is scaling above the levels of the past years, and we see demand growing along with our investments in go-to market.
+      
+
+        I'd also like to point out that although we have made steady progress, we still see significant opportunities to grow our penetration in total spend amounts with larger customers. As a data point, as of January 2023, 37% of the Fortune 500 are Datadog customers, up from 30% last year. For these customers, the median Datadog ARR is in the hundreds of thousands of dollars. This leaves a very large opportunity for us to go with these customers as they continue to move towards the cloud and more of them develop.
+      
+
+        We are also pleased with the initial take-up of some of our newest products, including Cloud Cost Management, for which we already added a mid-6-figure commitment last month from a global fast food chain. And finally, churn has remained low, with gross revenue retention steady in the mid- to high 90s. We believe this high retention number is indicative of the business criticality of Datadog for our customers.
+      
+
+        Now let's move on to R&D. During the quarter, we released our latest product to general availability, Universal Service Monitoring, which detects all micro services across an organization's environment and provides instant visibility into their health and dependencies, all without any code changes. Universal Service Monitoring bridges our existing monitoring and application performance monitoring capabilities and it involves end-to-end observability with minimal deployment friction.
+      
+
+        Now let's take a moment to review the R&D team's accomplishments in 2022. We ended the year with 17 generally available products, up from 13 at the end of 2021, and we greatly expanded the capabilities of our existing products. Overall, in 2022, we have meaningfully broadened our observability capabilities and pushed forward in making each product best of breed. Meanwhile, we have made meaningful progress but remain in early days in the new areas of cloud security and developer experience.
+      
+
+        In observability, we continue to expand our end-to-end unified platform. We now have more than 600 integrations, including all the latest products on AWS, GCP and Azure. We launched new AI capabilities, such as Watchdog Log Anomaly Detection to help customers separate signal from noise in data and Watchdog Root Cause Analysis to identify the root cause of issues and quantify their impact in customers.
+      
+
+        We launched Cloud Cost Management to help customers take control of their infrastructure costs. We announced Service Catalog to manage service ownership at scale. We made Observability Pipelines generally available, enabling customers to collect and transform data from any source to any destination, all at petabyte scale. We launched Audit Trail to help customers achieve their compliance and governance goals. We extended Sensitive Data Scanner beyond logs to inspect APM and REM data flows. And we now collect data from SNMP Traps to provide greater visibility into physical network equipment.
+      
+
+        In cloud security, we kept building out our platform. We launched Cloud Security Management, our rich context-aware CNAPP platform. We launched Application Security Management, building on our acquisition of Sqreen in 2021, and we announced the beta of Native Protection to block malicious factors directly within the data platform.
+      
+
+        In developer experience, we are expanding on our CI Visibility product. We introduced continuous testing to bring efficient and reliable testing within CI/CD pipelines, and we launched the beta of Intelligence Test Runners, which significantly reduces the time and cost of running tests.
+      
+
+        And last but not least, we delivered a number of platform-wide initiatives. We achieved FedRAMP moderate authorization and have since landed a number of government agencies as customers. Our customers today can also use CoScreen for collaboration, incident response, preprogramming and debugging less than a year after the acquisition, and we continue to expand on the HIPAA and PCI compliance of our products. As you can tell, we've been busy, and I want to thank the R&D team for a very productive year.
+      
+
+        Looking ahead to 2023, our teams are continuing to push forward as beta products from 2022 include data streams monitoring, workflow automation, event correlation, heat maps, dynamic instrumentation, workload security profiling, resource catalog and native protection, among others. We also continue to integrate our 2022 acquisitions, CoScreen, Hdiv, Seekret and Cloudcraft into the Datadog platform, and we are excited for their potential. In summary, we're looking forward to delivering many more capabilities to help our customers in 2023.
+      
+
+
+
+
+              Copyright © 2023 S&P Global Market Intelligence, a division of S&P Global Inc. All Rights reserved.
+            
+
+
+
+
+
+
+
+              spglobal.com/marketintelligence
+            
+
+
+
+              5
+            
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Datadog Inc. published this content on 21 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 21 February 2023 15:00:01 UTC.
+      
+

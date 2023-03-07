@@ -1,0 +1,39 @@
+
+
+
+        At CES 2023, Intel rolled out its 13th Gen Intel Core mobile processor family, led by the launch of the new flagship Intel Core i9-13980HX - what the company calls "the first 24-core processor for a laptop." The new H-series processors push the computing possibilities for gamers and creators with up to 5.6GHz turbo frequency - the highest clock speed available for the laptop market.
+      
+
+        Intel also debuted the 13th Gen Intel Core P-series and U-series mobile processors, intended for those who want high performance on the go in sleek, thin systems. These processors feature up to 14 cores (6 Performance-cores, 8 Efficient-cores) and the enhanced Intel Thread Director. New Intel Iris Xe Graphics features include endurance gaming, XeSS Super Sampling and Intel Arc Control. Intel Evo designs built on 13th Gen Intel Core mobile processors will also feature longer real-world battery life and new key experiences.
+      
+
+        In another first, select designs based on these processors will feature the Intel Movidius vision processing unit (VPU). Intel co-engineered this with Microsoft on its new Windows Studio effects so that AI heavy tasks required for professional-grade collaboration and streaming can be offloaded to the VPU, freeing the CPU and GPU for other workloads or multitasking.
+      
+
+        To round out the 13th Gen Intel Core desktop processor family, Intel also launched new 35-watt and 65-watt SKUs to provide mainstream PC users more choices for power efficiency while delivering improved performance in gaming, creation and productivity.
+      
+
+        Lastly, the company showed off the new Intel Processor and Intel Core i3 in the N-series family of products, which have been purpose-built for educators and students, entry-level computing and IoT edge native applications. Among its features: new Efficient-cores built on the Intel 7 process technology, up to 28% better application performance and 64% better graphics performance on the Intel Processor over the previous generation and extended connectivity with ultra-fast Intel Wi-Fi 6E (Gig+) and Bluetooth 5.2.
+      
+
+Find out more about Intel's CES 2023 announcements on these processors.
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Microsoft Corporation published this content on 03 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 03 January 2023 14:37:04 UTC.
+      
+

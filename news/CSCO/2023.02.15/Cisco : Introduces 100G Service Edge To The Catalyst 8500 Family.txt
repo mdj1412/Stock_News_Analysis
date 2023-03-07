@@ -1,0 +1,105 @@
+
+
+
+        Vrrroooom!  Vvrrrrooooom!  Did you hear the rumble? The fastest Catalyst 8500 Series Edge Platform with four times more horsepower is ready to tear up the road! Cisco just launched its highest-performing Catalyst 8500 Series Edge Platform- C8500-20X6C.
+      
+
+        Architects today want to build networks that deliver the best secure application experience at scale, with better power efficiency. Cisco Catalyst 8000 Series Edge Platforms are designed to make this happen. In particular, the C8500-20X6C has highly scalable feature sets for Routing and SD-WAN deployments. It is the ideal platform for Multi-Tenant Edge/Hub, Colocation hosted Multi-Cloud Gateway, Border Router in Multi-Region Fabric (MRF), SD-WAN Remote Access aggregation, IPsec Gateway for Private 5G-IoT endpoints, multi-cloud services edge, and more…
+      
+
+        Built using the third generation of QuantumFlow Processor (QFP), the latest addition to the portfolio inherits feature parity with the existing Catalyst 8500 Series, comes with built-in high-density, high-speed 100/40GE interfaces and offers hundreds of Gigs of scalable services.
+      
+
+Deploy WAN Innovations At Scale
+
+
+        Cisco SD-WAN offers best-in-class features for modern WAN environments in a multitude of architectures. The C8500-20X6C is a highly flexible and scalable SD-WAN headend. With 100Gbps aggregate IMIX performance, it simplifies network designs eliminating the complexity of horizontal scale-out. In a Multi-Region Fabric deployment, it can be deployed as a Border Router to increase fabric scale and span across multiple regions. Multi-Tenancy (MT) is another great innovation for sharing the C8500-20X6C platform hardware among multiple tenants in a colocation deployment. Complete isolation of control and data plane is offered for each tenant within a shared physical platform configured as MT-Hub, MT-Gateway, or MT-Edge.
+      
+
+        When used as SD-WAN Remote Access (SD-WAN RA) aggregation edge, it allows remote users to enter the fabric at the nearest entry point and benefit from an SD-WAN-driven application experience. Unlike other industry remote access solutions, the Cisco SD-WAN RA solution provides a consistent policy and user experience regardless of whether users are inside the office or at a remote location while offering the lowest TCO.
+      
+
+        On routing edge deployments, the C8500-20X6C offers secure WAN aggregation and scalable endpoint aggregation for Private 5G-IoT using well-established VPN technologies. It can be used for DCI (Data Center Interconnect), SD-Access, and Network Infrastructure use cases with higher performance.
+      
+
+        C8500-20X6C can operate as a service edge for private cloud infrastructures. It could also be a multi-cloud gateway placed in a colocation space offering high-scale services.
+      
+
+What Makes C8500-20X6C An Industry-Leading Services Edge Platform?
+
+
+        Two important dimensions for service edge platforms are data plane and control plane performance and scale.
+      
+
+        A total of 3584 threads from 896 Packet Processing Engines (PPEs) in an intelligently meshed 4 QFP complex form the data plane for applying accelerated services. A high-speed 8-core Intel CPU is used for the control plane and adds a boost to control functions. Intel's QuickAssist Technology (QAT) enables faster IPsec session creation. Two mirrored 160Mb TCAMs enable lightspeed classification rules for accelerated policy executions in the data plane offering increased services scale.
+      
+
+        The C8500-20X6C has six QSFP28 ports for 100/40Gbps and twenty SFP+ ports for 10/1Gbps ethernet connectivity. All interfaces can be enabled and used simultaneously. They offer line rate MACsec for path encryption and Synchronous Ethernet for network-timing needs. The platform is built with sufficient buffering ability to handle I/O over-subscription and ensure traffic prioritization.
+      
+
+        The platform offers more x86 cores for edge-compute service planes to host KVM and LXC applications including ThousandEyes monitoring.
+      
+
+A Secure Platform You Can Trust
+
+
+        The C8500-20X6C is trustworthy. It implements Trust Anchor module, Secure Boot, image signing, and runtime defenses to protect against modern cyber-attacks.
+      
+
+        There are 64 crypto engines inside the QFP data plane. The crypto engines have dedicated resources for encryption and their use does not impact non-encrypted traffic. The digest and cipher algorithm instructions are built for scale. The cryptography occurs in line with the forwarding functions to deliver 'hardware accelerated' multi-hundred gig crypto performance.
+      
+
+Helping Achieve Your Sustainability Goals
+
+
+        Often customers end up deploying scale-out architectures with multiple boxes when the aggregation performance needs cannot be met by a single device. In today's business environment, sustainability is a key goal, usually measured as 'Performance-to-Power' ratio.   Using one high-performance C8500-20X6C vs multiple services platforms, customers can recognize up to 60% reduction in power per Gbps which will help organizations reach their energy efficiency goals.
+      
+
+Add Muscle To Your Network With C8500-20X6C
+
+
+        In summary, the C8500-20X6C will help flex your network's performance boundaries to a new level.
+      
+
+
+          Raw packet processing power, hardware-accelerated crypto, and scalable services offer the necessary muscles for evolving edge networking use cases.
+        
+
+          Trustworthy solutions strengthen the platform against unforeseen network attacks.
+        
+
+          All of this with healthier power efficiency… a greener way for a scalable future!
+        
+
+
+Learn more about
+
+
+Additional Resources
+
+
+Catalyst 8500 Platform Data Sheet
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 15 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 15 February 2023 16:16:03 UTC.
+      
+

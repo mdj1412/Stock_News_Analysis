@@ -1,0 +1,44 @@
+
+
+Ansys advances availability of Ansys' simulation solutions in the cloud with Ansys Access on Microsoft Azure 
+/ Key Highlights
+Ansys expands long-term collaboration with Microsoft to increase availability of Ansys' simulation solutions and tools on the Microsoft Azure cloud-computing platform, providing customers with browser-based, location-independent accessAnsys Access on Microsoft Azure will deliver extensive benefits to Ansys customers, including improved, cost-effective HPC in the cloud to provide the scale required to meet today's most difficult engineering challengesThe extended collaboration with Microsoft deepens Ansys' commitment to provide simple, cloud-based access to advanced simulation solutions in areas like advanced communications, electrification, and sustainabilityPITTSBURGH, Feb. 9, 2023 /PRNewswire/ -- Ansys (NASDAQ: ANSS) is extending its long-term strategic collaboration with Microsoft to accelerate virtual product design through expanded cloud-based access to Ansys' simulation solutions and computer-aided engineering (CAE) tools. As a next step, Ansys will develop a new offering that will enable customers to launch Ansys products using their Azure enrollment and connect third-party tools more easily.
+
+
+
+
+
+
+
+As an integral component of the collaboration, Ansys will expand its go-to-market strategy with Microsoft, including digital twins connected to the internet of things, autonomous driving and flying systems development, and the use of simulation data to train artificial intelligence/machine learning (AI/ML) systems. Mutual customers who migrate to the cloud can increase productivity, reduce in-house technology costs, and improve virtual collaboration.
+Ansys Access on Microsoft Azure will be a new offering available on the Azure Marketplace that will provide an alternative to Ansys' current managed cloud offering, Ansys Cloud Direct, which also runs on Azure. This new offering will enable customers to use their existing Ansys applications along with Azure services purchased directly from Microsoft to deliver cost-savings and improved data management as well as greater flexibility. The addition of Ansys Access on Microsoft Azure to Ansys' current cloud offerings will allow customers to choose the most effective method to realize the benefits of cloud-based simulation for their organizations.
+Beyond cloud collaboration, Ansys is also working to integrate Microsoft 365 capabilities into the context of its engineering simulation tools to aid in the highly collaborative process of product design.
+"Ansys Access on Microsoft Azure will enhance the development and design processes of our mutual customers through increased productivity, sharper workflows, and greater access to cloud-based CAE tools," said Shane Emswiler, senior vice president of products at Ansys. "By pairing Ansys' industry-leading simulation solutions with Azure, customers can innovate at scale in a virtual environment without compromising design accuracy or product integrity."
+"Our continued collaboration connects the cloud computing capabilities of Microsoft Azure with Ansys' advanced simulation solutions to better enable virtual design and innovation worldwide," said Kurt Niebuhr, Principal PDM Manager at Microsoft. "In a time when digital solutions are needed more than ever, our collaboration enables us to provide engineers and innovators with cloud-based tools that meet and exceed their needs."
+/ About Ansys
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled
+innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+Take a leap of certainty … with Ansys.
+Ansys and any and all ANSYS, Inc. brand, product, service and feature names, logos and slogans are registered trademarks or trademarks of ANSYS, Inc. or its subsidiaries in the United States or other countries. All other brand, product, service and feature names or trademarks are the property of their respective owners.
+ANSS–T
+/ Contacts
+Media
+Mary Kate Joyce
+724.820.4368
+marykate.joyce@ansys.com 
+Investors
+Kelsey DeBriyn
+724.820.3927
+kelsey.debriyn@ansys.com 
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ansys-expands-cloud-based-simulation-solutions-through-extended-collaboration-with-microsoft-301742814.html
+SOURCE  Ansys
+
+

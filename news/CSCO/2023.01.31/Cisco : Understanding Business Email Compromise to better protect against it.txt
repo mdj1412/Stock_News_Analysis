@@ -1,0 +1,77 @@
+
+
+
+What is business email compromise?
+
+
+        Imagine this: Your CEO sends you an email asking for your help transferring $5,000 to a new vendor for an urgent project. You make the transfer, only to find out later that the email was actually from an imposter, and that money is now in the hands of cybercriminals. Oops, right? crickets
+
+
+        Business Email Compromise (BEC) is a type of cybercrime that involves compromising or imitating legitimate business email accounts to carry out fraudulent transactions or steal sensitive information. The goal of a BEC attack is typically to trick the victim into transferring money, clicking on a malicious link, or disclosing sensitive information such as login credentials. BEC attacks can have a devastating impact on organizations of all sizes and in all industries, making it essential for businesses to be aware of the threat, understand the business risk, and take the necessary steps to protect themselves.
+      
+
+        According to the latest FBI IC3 report, BEC is "one of the most financially damaging online crimes" and in 2021 was accountable for $2.4 Billion in adjusted losses for businesses and consumers.
+      
+
+How does BEC work?
+
+
+        One of the most common types of BEC attacks is called impersonating or email spoofing. By pretending to be a trusted colleague or business partner to gain the victim's trust, the attacker uses social engineering techniques to trick the victim into clicking on a link or attachment in an email that contains malware, takes the victim to a malicious website, and has them transfer funds or change payment information.
+      
+
+        BEC attacks can be very sophisticated and are difficult to detect. Many times, what the end-user sees on their email client does not represent the true email address of that sender, or it shows one that has been spoofed.
+      
+
+        Typically, the attacker tries to impersonate someone in the organization with enough authority to not be questioned about what he/she is asking to be done.
+      
+
+How can BEC attacks be prevented?
+
+
+        As with everything in security, to be able to succeed in stopping BEC attacks, additional security layers & techniques should be implemented. There are several options to mitigate or reduce the number of successful BEC attacks. Creating a list of the people who will be likely to be impersonated will provide the best results. Usually, with names from the CxO level, this is known as a High Impact Personnel list. It will be used along with other security analysis engines to make sure any impersonated/spoof emails, along with other threats, get stopped and will not reach the end user.
+      
+
+        The Cisco Secure Email Threat Defense solution leverages hundreds of detection engines that utilize state-of-the-art artificial intelligence/machine learning and natural language processing to convict messages from the most creative attackers! On top of this, our customers can define their High Impact Personnel list, and together with the other detection engines, will be able to not only block malicious messages but also understand the reasons and categories of why a message is being convicted as malicious.
+      
+
+
+        In summary, Business Email Compromise (BEC) is a serious threat to organizations of all sizes and in all industries. To protect against BEC attacks, businesses should implement multiple techniques including identifying their High Impact Personnel for their organization, educating employees about the threat, and relying on reporting to understand who is being targeted most frequently so their security policies can be adjusted.
+      
+
+        See how Secure Email Threat Defense identifies specific business risk factors to protect your organization.
+      
+
+We'd love to hear what you think. Ask a Question, Comment Below, and Stay Connected with Cisco Secure on social!
+
+
+Cisco Secure Social Channels
+
+
+Instagram
+Facebook
+Twitter
+LinkedIn
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 31 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 31 January 2023 13:17:04 UTC.
+      
+

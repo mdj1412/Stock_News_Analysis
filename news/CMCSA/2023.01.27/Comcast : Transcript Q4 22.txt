@@ -1,0 +1,286 @@
+
+
+
+
+          REFINITIV STREETEVENTS
+        
+
+          EDITED TRANSCRIPT
+        
+
+          CMCSA.OQ - Q4 2022 Comcast Corp Earnings Call
+        
+
+          EVENT DATE/TIME: JANUARY 26, 2023 / 1:30PM GMT
+        
+
+          OVERVIEW:
+        
+
+          CMCSA reported 2022 revenue of $121.4b and adjusted EPS of $3.64.
+        
+
+          REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+
+
+
+          ©2023 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+        
+
+
+
+
+
+          JANUARY 26, 2023 / 1:30PM, CMCSA.OQ - Q4 2022 Comcast Corp Earnings Call
+        
+
+          C O R P O R A T E P A R T I C I P A N T S
+        
+
+Brian L. Roberts Comcast Corporation - Chairman & CEO
+        
+
+David N. Watson Comcast Corporation - President & CEO of Comcast Cable
+        
+
+Jeffrey S. Shell Comcast Corporation - CEO of NBCUniversal
+        
+
+Marci Ryvicker Comcast Corporation - EVP of IR
+        
+
+Michael J. Cavanagh Comcast Corporation - President
+        
+
+          C O N F E R E N C E C A L L P A R T I C I P A N T S
+        
+
+Benjamin Daniel Swinburne Morgan Stanley, Research Division - MD
+        
+
+Brett Joseph Feldman Goldman Sachs Group, Inc., Research Division - Equity Analyst
+        
+
+Craig Eder Moffett MoffettNathanson LLC - Co-Founder, Founding Partner & Senior Research Analyst
+        
+
+Douglas David Mitchelson Crédit Suisse AG, Research Division - MD
+        
+
+Jessica Jean Reif Ehrlich Cohen BofA Securities, Research Division - MD in Equity Research
+        
+
+JohnChristopherHodulikUBS Investment Bank, Research Division - MD, Sector Head of the United States Communications Group and Telco & Pay TV Analyst Michael Ian Rollins Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+        
+
+Philip A. Cusick JPMorgan Chase & Co, Research Division - MD and Senior Analyst
+        
+
+          P R E S E N T A T I O N
+        
+
+          Operator
+        
+
+          Good morning, ladies and gentlemen, and welcome to Comcast's Fourth Quarter and Full Year 2022 Earnings Conference Call. (Operator Instructions) Please note that this conference call is being recorded.
+        
+
+          I will now turn the call over to Executive Vice President, Investor Relations, Ms. Marci Ryvicker. Please go ahead, Ms. Ryvicker.
+        
+
+Marci Ryvicker - Comcast Corporation - EVP of IR
+        
+
+          Thank you, operator, and welcome, everyone. On this morning's call are Brian Roberts, Mike Cavanagh and Jason Armstrong, who are also joined by Dave Watson, Jeff Shell and Dana Strong. Brian and Mike will make formal remarks, while Dave, Jeff and Dana will also be available for Q&A.
+        
+
+          Let me now refer you to Slide 2, which contains our safe harbor disclaimer and remind you that this conference call may include forward-looking statements subject to certain risks and uncertainties. In addition, during this call, we will refer to certain non-GAAP financial measures. Please see our 8-K and trending schedules for the reconciliations of these non-GAAP financial measures to GAAP.
+        
+
+          With that, let me turn the call over to Brian Roberts for his comments. Brian?
+        
+
+Brian L. Roberts - Comcast Corporation - Chairman & CEO
+        
+
+          Thanks, Marci, and good morning, everyone. I'm really proud of how our team executed throughout 2022. We achieved the highest levels of revenue, adjusted EBITDA and adjusted EPS in our company's history. And we returned a record $17.7 billion of capital to shareholders - through both our recurring dividend, which we just increased for the 15th consecutive year, and robust share repurchase activity. We did all this while
+        
+
+          2
+        
+
+          REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+
+
+
+          ©2023 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+        
+
+
+
+
+
+          JANUARY 26, 2023 / 1:30PM, CMCSA.OQ - Q4 2022 Comcast Corp Earnings Call
+        
+
+          accelerating investment in key growth initiatives, which are showing great progress, particularly our broadband network as we transition to 10G, but also in Xfinity Mobile, Peacock and our theme parks.
+        
+
+          I attribute all this success to the incredible talent across our organization, who work collaboratively to ensure we are constantly evolving and innovating so that our customers have the absolute best experience with us at every point of interaction. What also sets us apart is our very strong balance sheet, which, when combined with the cost actions we have taken this past quarter, position us to perform well no matter what the macro environment might bring.
+        
+
+          I want to start with Cable, where our financial performance both for the year and the fourth quarter confirm that: we are striking the right balance between rate and volume in residential broadband and we plan to continue to do so in 2023, that Xfinity Mobile and Comcast business remain strong growth drivers, and that we have successfully identified the appropriate mix between cutting costs to drive efficiencies, and investing for our future. We have always maintained an intense focus on providing the absolute best products and experiences, which comes down to having the highest capacity, most reliable and most efficient broadband network.
+        
+
+          Our evolution to 10G and the unique way we are pursuing this through DOCSIS 4.0 is a huge benefit for our customers across the entire footprint as they will all have access to an entire ecosystem built around multi-gigabit symmetrical speeds, some as early as this year. It's also great for the company and our investors as our transition to a virtual, software-based network - infused with the marvelous AI capabilities - will not only provide tangible benefits when it comes to operating and capital expenses, but it will enable us to innovate faster than ever before, solidifying our leadership position in broadband, which is extremely important given what is certain to be continued increases in demand for both speed and usage.
+        
+
+          In fact, we continue to see signs of this today. Our residential broadband-only customers are now consuming nearly 700 gigabytes of data every month. And customers on our Gigabit Plus products now comprise roughly 1/3 of our broadband subscribers.
+        
+
+          In addition to creating more value from our current customer base and further penetrating the total homes and businesses that we pass today, another great opportunity is for us to extend our networks to homes and businesses in the U.S. that do not have the ability to receive our services. To that end, we increased our passings by 1.4% or 840,000 in 2022, and we expect to accelerate in 2023, where we are aiming to add around 1 million while still maintaining the same CapEx intensity level we achieved in 2022, reaching nearly 62.5 million by the end of the year. We are taking a disciplined approach, and we'll only pursue those areas that have a return profile similar to what we have been able to historically achieve.
+        
+
+          Wireless is playing an integral part of our overall strategy at Cable, and it's an area where we continue to shine. This past quarter was another record in net line additions, bringing us to over 5 million total lines in just 5 years. With only 9% penetration of our current base of residential broadband customers, we have plenty of runway ahead. And we're just getting started in offering wireless to our commercial segment, which is another great example of how we are selling more products into our existing base of business customers. When you combine our broadband network, WiFi overlay and MVNO with Verizon, we are in the best position to win in convergence. We have a leg up on our competitors with a capital-light strategy that does not involve customer or network trade-offs.
+        
+
+          At NBCUniversal, we are seeing some great momentum in Peacock and Parks. And - across all of NBCUniversal - our intellectual property is really resonating. We had the #2 studio in terms of worldwide box office in 2022, fueled by a strong slate, including Jurassic, Minions, Nope, Ticket to Paradise, Puss in Boots, Black Phone, Halloween, which have also had great carryover success to Peacock through our Pay-One window and select day-and-date releases. And our box office momentum continued into the first quarter with M3GAN. So, all in all, a really strong film slate.
+        
+
+          Peacock ended the year with over 20 million paying subscribers, more than double where we started; and we added over 5 million paid subscribers in the fourth quarter alone. Our success was broad-based, fueled by some of the films I just mentioned, but also sporting events like the World Cup, NFL, Premier League, several new originals and our exclusive next-day broadcast of NBC and Bravo. Looking ahead, and based on our experience to date, we expect our subscriber cadence will follow our content launches, which fall more heavily in the second half of '23. And we continue to see positive trends in engagement, churn and ARPU.
+        
+
+          Mark Woodbury had a fabulous first year as our CEO of the Parks business and we hit a number of new records this past quarter. It was the highest fourth quarter EBITDA for the entire segment, led by Orlando and Hollywood, and Japan had the best EBITDA performance since 2019. This was
+        
+
+          3
+        
+
+          REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+
+
+
+          ©2023 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+        
+
+
+
+
+
+          JANUARY 26, 2023 / 1:30PM, CMCSA.OQ - Q4 2022 Comcast Corp Earnings Call
+        
+
+          driven by attendance that far surpassed pre-pandemic levels at all 3 parks. And while attendance at our park in Beijing was significantly impacted by COVID in 2022, we are seeing some exciting demand to start the year.
+        
+
+          Given the excellent returns we have generated to date, we continue to seek ways to expand our Parks and I'm really excited about our 2 recently announced extensions: the first Universal Park designed specifically for younger audiences near Dallas and the first year-round horror entertainment experience in Las Vegas. These are new innovative ways to utilize our substantial IP, including from DreamWorks and Illumination, while also extending our brand, both of which should help fuel growth in all of our parks.
+        
+
+          In our linear video business, we are managing subscriber declines by taking a disciplined approach to our cost base. We are continuing to invest in our global technology platform, and you will see a number of announcements from us in the weeks and months ahead. For example, in 2023, we will launch one global user interface for Sky Glass, Xfinity, X1, Flex, Xumo and our U.S. and international partners. Every entertainment customer around the world will get the same Emmy Award-winning, voice controlled experience. This scale not only brings us operational efficiencies, but it also puts us in the enviable position when it comes to conversations with distributors, OEMs, programmers, app developers and talent.
+        
+
+          At Sky, we are managing through the macroeconomic challenges in Europe, while staying intensely focused on retention and continuing to provide our customers with the best entertainment and connectivity experiences. We're seeing some encouraging results. In the U.K., Sky Glass had the top-selling UHD TV model; Sky Mobile is the fastest-growing mobile provider, surpassing 3 million lines; and we are narrowing the gap between us and the current #1 broadband provider, with Sky Broadband now sitting at over 6.5 million subscribers.
+        
+
+          Wrapping up, our consistently strong financial performance, healthy balance sheet and record high return of capital to shareholders underscore how the scale, capabilities and talent across our company enable us to successfully execute our long-term growth strategy. I'm convinced we are on the right path and that we have the right team to capture our many opportunities and overcome whatever challenges happen along the way.
+        
+
+          So before handing over the call, I want to congratulate Jason Armstrong, recently promoted to Chief Financial Officer, succeeding Mike Cavanagh. I could not be more confident in the leadership team's ability to continue to drive us forward and create more value for our shareholders. Mike, over to you.
+        
+
+Michael J. Cavanagh - Comcast Corporation - President
+        
+
+          Thanks, Brian, and good morning, everyone. First, I'd like to just say that it's been a pleasure serving as CFO of Comcast for the last 7-plus years. And I couldn't be prouder to have Jason be my successor, knowing that - with Jason - the financial leadership of our company is in proven and expert hands. Since Jason didn't take over as CFO until early in the new year, I will handle the CFO portion of this call and hand it over to Jason for the first quarter call in April.
+        
+
+          So now I'll begin on Slides 4 and 5 to discuss our consolidated 2022 financial results. Revenue increased just under 1% to $30.6 billion for the fourth quarter and 4.3% to $121.4 billion for the full year. Adjusted EBITDA decreased 4.9% to $8 billion for the fourth quarter and increased 5% to $36.5 billion for the full year. The quarterly results include severance expenses booked in each of our businesses, totaling $638 million, which is $541 million higher than the prior year period. Excluding this increase, adjusted EBITDA increased 1.5% in the fourth quarter and 6.6% for the full year.
+        
+
+          Adjusted EPS increased 6.5% to $0.82 a share for the fourth quarter and 13% to $3.64 for the full year. And we generated $1.3 billion of free cash flow for the fourth quarter and $12.6 billion for the full year, while absorbing increased investments in Peacock and Theme Parks as well as higher working capital as content creation normalizes post COVID.
+        
+
+          Now let's turn to our business segment results, starting with Cable Communications on Slide 6. Cable revenue increased 1.4% to $16.6 billion. EBITDA increased 1.5% to $7.2 billion, and Cable EBITDA margins improved 10 basis points year-over-year to 43.5%. These results include $345 million of severance expense, which is $305 million higher compared to last year's fourth quarter. Excluding severance, Cable EBITDA increased 5.8%, and Cable EBITDA margin improved by 190 basis points to a record high of 45.3%.
+        
+
+          4
+        
+
+          REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+
+
+
+          ©2023 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+        
+
+
+
+
+
+          JANUARY 26, 2023 / 1:30PM, CMCSA.OQ - Q4 2022 Comcast Corp Earnings Call
+        
+
+          These strong results also included the impact of Hurricane Ian in Southwest Florida, which resulted in the loss or severe damage to many homes we serve in this market. Excluding the hurricane impacts, we would have added approximately 4,000 broadband customers versus the 26,000 loss we reported. And we estimate that we would have lost approximately 36,000 customer relationships versus the 71,000 we reported. Overall, our broadband customer results in the fourth quarter were fairly consistent with the prior 2 quarters, reflecting lower levels of new customer connections, offset by churn, which remained well below 2019 levels.
+        
+
+          Now let's discuss Cable financials in more detail. Cable revenue growth of 1.4% was driven by higher broadband, wireless, business services and advertising revenue, partially offset by lower video and voice revenue. Broadband revenue increased 5.4%, driven by growth in ARPU and in our customer base when compared to last year. Broadband ARPU increased 3.8% year-over-year when adjusting for some COVID-related customer credits last year. This organic ARPU growth is similar to the growth we've generated over the last couple of quarters and is consistent with our strategy.
+        
+
+          We are focused on optimizing our customer relationships by consistently adding more capabilities, services and value so as to provide the best broadband experience, which has and should continue to deliver broadband ARPU growth. The elements of growth this quarter include increased rate, attaching more customers to higher tiers as well as other services. We expect ARPU growth will continue to be the primary driver of our residential broadband revenue growth in 2023.
+        
+
+          Wireless revenue increased 25%, mainly driven by service revenue, which was fueled by growth in customer lines. We added 1.3 million lines in 2022, including 365,000 lines in the fourth quarter, which is our highest number of net additions for any quarter on record.
+        
+
+          Business services revenue increased 4.6%, which includes the results of Masergy in both this quarter and in the prior year period, as we lapped the closing of this acquisition at the beginning of the quarter. Revenue growth was primarily driven by rate, including customers taking faster data speeds, higher attach rates of our advanced products and rate increases on some of our services.
+        
+
+          Advertising revenue increased 9.1%, driven by strong political revenue, partially offset by the absence of advertising revenue that is now part of Xumo, our joint venture with Charter. Adjusting for those items, Cable advertising revenue decreased 1.6%, reflecting a decline in our local core advertising business, partially offset by solid growth at our advanced advertising business.
+        
+
+          Video revenue declined 5.6%, driven by year-over-year customer net losses, partially offset by ARPU growth of 5.8% due to a residential rate increase we implemented at the beginning of 2022. And last, voice revenue declined 13%, primarily reflecting year-over-year customer losses.
+        
+
+          Turning to expenses. Cable Communications fourth quarter expenses increased 1.4%, reflecting higher non-programming expenses, which included the $305 million in higher severance costs, partially offset by lower programming expenses. Programming expenses decreased 5.9%, reflecting the year-over-year decline in video customers, partially offset by higher contractual rates. Non-programming expenses, which, again include $305 million in higher severance costs, increased 5.6%. Excluding severance, these expenses were flat compared to last year, reflecting an increase in bad debt as we returned to more normalized pre-pandemic levels, and increased technical and product support expenses driven by growth in our wireless business. These were offset by a decline in marketing and promotion and customer service expenses due to lower activity levels, efficiencies in running the business and improvements we continue to make in our customer experience.
+        
+
+          Our focus on growing our high-margin connectivity businesses, coupled with our focus on increasing operating efficiency and cost controls, drove strong EBITDA growth and margin expansion in 2022. Excluding the higher severance expense, we grew full year EBITDA by 5.7% and increased EBITDA margins by 110 basis points to 44.8%. We believe that our disciplined approach to running the business, including the benefits from our cost reduction efforts this quarter, position us to drive higher profitability and further expand margins both in 2023 and thereafter.
+        
+
+          Now let's turn to Slide 7 for NBCUniversal. Starting with total NBCUniversal results, fourth quarter revenue increased 5.9% to $9.9 billion, and EBITDA decreased 36% to $817 million, including $182 million of severance expense in the quarter. Excluding severance, EBITDA decreased 22%. Media revenue increased 2.6% to $6 billion, mainly driven by Peacock, which nearly doubled its revenue to $660 million, and Telemundo's broadcast of the World Cup.
+        
+
+          5
+        
+
+          REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+
+
+
+          ©2023 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+        
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Comcast Corporation published this content on 27 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 30 January 2023 08:33:07 UTC.
+      
+

@@ -1,0 +1,66 @@
+
+
+
+        Cisco is honored to be the only security vendor to receive the Best Next Generation Firewall Award in the SE Labs 2023 Annual Report. This industry recognition validates Cisco's journey to reimagine the firewall as the foundation of a truly integrated security platform. I'm incredibly proud of the Cisco Secure Firewall team and our amazing customers who continue to develop their network security around our firewall.
+      
+
+        SE Labs, a cybersecurity testing and evaluation firm, provides impartial and independent assessments of various cybersecurity products and solutions. In their 2023 Annual Report, SE Labs states:
+      
+
+"Our Annual Security Awards recognizes security vendors that not only do well in our tests, but perform well in the real world with real customers. These awards are the only in the industry that recognize strong lab work combined with practical success."
+
+
+        As a worldwide leader in networking and security, Cisco is better positioned than any other security vendor to incorporate effective firewall controls into your infrastructure - anywhere your data and applications reside. It offers a comprehensive security solution that integrates multiple security technologies into a single platform, providing the highest level of protection against various cyber threats. It also leverages advanced threat intelligence, machine learning, and other robust technologies to provide real-time protection against cyberattacks.
+      
+
+
+          Cisco Secure Firewall threat-focused NGFW architecture enables superior visibility and control over network traffic. Many security practitioners today struggle with a lack of visibility into encrypted traffic, which is why Cisco has developed our encrypted visibility engine to detect threats in encrypted traffic - without decryption. The firewall also provides detailed reporting and analysis, enabling organizations to gain insights into their network traffic, applications, and assets to identify potential security risks.
+        
+
+          Cisco Secure Firewall capabilities provide a unified security posture across the entire network. This is achieved through its integration with other security technologies, such as web security, email security, and cloud security through our SecureX platform. This integration reduces threat management and investigation requirements, while simultaneously improving accuracy.
+        
+
+          Designed to be highly scalable and flexible, Cisco Secure Firewall is suitable for organizations of all sizes and industries. It is a highly efficient solution that can easily be customized to meet the specific needs of each organization. This makes it an ideal choice for organizations that are looking to streamline their security operations and reduce their overall security costs.
+        
+
+
+        In the constantly evolving world of cybersecurity, it is important to have access to the latest and most advanced technologies to stay ahead of threats. Whether you are a small business, a large enterprise, or a government organization, Cisco Secure Firewall provides the advanced security capabilities you need to protect your assets and minimize the risk of cyberattacks.
+      
+
+        When you invest in Cisco Secure Firewall, you are investing in an award-winning foundation that provides you with the strongest security posture available. Learn more about SE Labs 2023 Annual Report, Cisco Secure Firewall and how you can refresh your firewall.
+      
+
+We'd love to hear what you think. Ask a Question, Comment Below, and Stay Connected with Cisco Secure on social!
+
+
+Cisco Secure Social Channels
+
+
+Instagram
+Facebook
+Twitter
+LinkedIn
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 09 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 09 February 2023 22:05:02 UTC.
+      
+

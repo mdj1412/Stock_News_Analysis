@@ -1,0 +1,5143 @@
+
+
+      Biogen advances significant potential growth drivers; Company reports full year 2022 results and provides full year 2023 guidance
+    
+
+
+
+
+      Full year 2022 revenue and Non-GAAP EPS exceed guidance
+    
+
+      •Fourth quarter revenue $2,544 million; GAAP diluted EPS $3.79; Non-GAAP diluted EPS $4.05
+    
+
+      •Full year revenue $10,173 million; GAAP diluted EPS $20.87; Non-GAAP diluted EPS $17.67
+    
+
+      Positioned to lead in Alzheimer's Disease with LEQEMBI accelerated approval, pipeline advancements
+    
+
+      •LEQEMBI (lecanemab-irmb) FDA Accelerated Approval; submitted for traditional approval in U.S.
+    
+
+      •Regulatory filing for traditional approval accepted in E.U.; granted Priority Review in Japan; initiated submission of data for biologics license application (BLA) in China
+    
+
+      •Together with Eisai, advancing clinical studies to enhance patient experience and potential outcomes; investigating pre-symptomatic patients, maintenance dosing, subcutaneous formulation
+    
+
+      •Phase 2 initiated for Biogen's potential first-in-class therapy targeting tau
+    
+
+      Advancing launch plans with Sage Therapeutics for zuranolone, a new mechanism of action for potential treatment of depression
+    
+
+      •Zuranolone New Drug Application for major depressive disorder (MDD) and postpartum depression (PPD) accepted in the U.S. and granted Priority Review; PDUFA August 5, 2023
+    
+
+      •Filing supported by data demonstrating rapid onset of action with a consistent safety and tolerability profile from 14-day, once-daily treatment with the potential to offer an important new treatment option for patients suffering from MDD and PPD
+    
+
+      Working to improve risk profile and productivity of R&D pipeline
+    
+
+      •Appointed Head of Development; Recruiting Head of Research
+    
+
+      •Prioritizing programs believed to have the most attractive risk-reward profile
+    
+
+      •Potential to further diversify in specialized immunology, neuropsychiatry, and rare disease
+    
+
+      Capitalizing on opportunities in existing product portfolio
+    
+
+      •Driving potential revenue growth for SPINRAZA
+    
+
+      •Working to improve profitability of multiple sclerosis (MS) business
+    
+
+      •Considering strategic options for biosimilars business
+    
+
+      Aligning Biogen's cost base with revenue
+    
+
+      •Prioritizing near-term potential launches while optimizing cost structure
+    
+
+      •On track to achieve previously announced cost savings
+    
+
+      Full Year 2023 Financial Guidance
+    
+
+      •Expect mid-single digit revenue decline versus 2022 and Non-GAAP EPS of $15.00 to $16.00
+    
+
+      Commenting on Biogen Inc. (Nasdaq: BIIB) results, President and Chief Executive Officer Christopher A. Viehbacher said:
+    
+
+      "Strategically, we are working to put Biogen on a sustainable growth trajectory as we execute on two important near-term opportunities with LEQEMBI in Alzheimer's disease and zuranolone in depression, further diversify our product portfolio, and seek expansion through organic and external opportunities, including new partnerships. I believe we have a solid foundation on which to build Biogen's future, including strong internal talent with a passion for making a difference for patients."
+    
+
+
+
+
+      1
+    
+
+
+
+
+      Financial Highlights
+    
+
+
+
+
+
+
+
+
+            Q4 '22
+          
+
+            Q4' 21
+          
+
+            r
+          
+
+
+              r (CC#)
+            
+
+
+            FY '22
+          
+
+            FY '21
+          
+
+            r
+          
+
+
+              r (CC#)
+            
+
+
+
+
+            Total Revenue (in millions)
+          
+
+            $2,544
+          
+
+            $2,734
+          
+
+            (7)%
+          
+
+            (4)%
+          
+
+            $10,173
+          
+
+            $10,982
+          
+
+            (7)%
+          
+
+            (5)%
+          
+
+
+
+            GAAP diluted EPS
+          
+
+            $3.79
+          
+
+            $2.50
+          
+
+            52%
+          
+
+            -
+          
+
+            $20.87
+          
+
+            $10.40
+          
+
+            101%
+          
+
+            -
+          
+
+
+
+            Non-GAAP diluted EPS
+          
+
+            $4.05
+          
+
+            $3.39
+          
+
+            19%
+          
+
+            -
+          
+
+            $17.67
+          
+
+            $19.13
+          
+
+            (8)%
+          
+
+            -
+          
+
+
+
+
+      Note: Percent changes represented as favorable/(unfavorable) versus the prior year period
+    
+
+      # Percentage changes in revenue growth at constant currency (CC) are presented excluding the impact of changes in foreign currency exchange rates and hedging gains or losses. The current period's foreign currency revenue values are converted into U.S. dollars using the average exchange rates from the prior period.
+    
+
+
+
+
+      A reconciliation of GAAP to Non-GAAP financial measures can be found in Table 4 at the end of this news release.
+    
+
+      Revenue Summary
+    
+
+
+
+
+
+
+
+
+            (in millions)
+          
+
+            Q4 '22
+          
+
+            Q4' 21
+          
+
+            r
+          
+
+
+              r (CC#)
+            
+
+
+            FY '22
+          
+
+            FY '21
+          
+
+            r
+          
+
+
+              r (CC#)
+            
+
+
+
+
+
+              MS product revenue+
+            
+
+
+            $1,269
+          
+
+            $1,528
+          
+
+            (17)%
+          
+
+            (14)%
+          
+
+            $5,430
+          
+
+            $6,097
+          
+
+            (11)%
+          
+
+            (9)%
+          
+
+
+
+            Spinal muscular atrophy (SMA) product revenue
+          
+
+            $459
+          
+
+            $441
+          
+
+            4%
+          
+
+            10%
+          
+
+            $1,794
+          
+
+            $1,905
+          
+
+            (6)%
+          
+
+            (2)%
+          
+
+
+
+            Biosimilars product revenue
+          
+
+            $175
+          
+
+            $221
+          
+
+            (21)%
+          
+
+            (15)%
+          
+
+            $751
+          
+
+            $831
+          
+
+            (10)%
+          
+
+            (4)%
+          
+
+
+
+
+              Other product revenue^
+            
+
+
+            $2
+          
+
+            $4
+          
+
+            (42)%
+          
+
+            (36)%
+          
+
+            $13
+          
+
+            $14
+          
+
+            (7)%
+          
+
+            -%
+          
+
+
+
+
+              Total product revenue*
+            
+
+
+            $1,905
+          
+
+            $2,194
+          
+
+            (13)%
+          
+
+            (10)%
+          
+
+            $7,988
+          
+
+            $8,847
+          
+
+            (10)%
+          
+
+            (7)%
+          
+
+
+
+            Revenue from anti-CD20 therapeutic programs
+          
+
+            $448
+          
+
+            $414
+          
+
+            8%
+          
+
+            8%
+          
+
+            $1,701
+          
+
+            $1,659
+          
+
+            3%
+          
+
+            3%
+          
+
+
+
+            Contract manufacturing and royalty revenue
+          
+
+            $192
+          
+
+            $126
+          
+
+            52%
+          
+
+            52%
+          
+
+            $485
+          
+
+            $476
+          
+
+            2%
+          
+
+            2%
+          
+
+
+
+            Total Revenue*
+          
+
+            $2,544
+          
+
+            $2,734
+          
+
+            (7)%
+          
+
+            (4)%
+          
+
+            $10,173
+          
+
+            $10,982
+          
+
+            (7)%
+          
+
+            (5)%
+          
+
+
+
+
+      Note: Percent changes represented as favorable/(unfavorable) versus the prior year period
+    
+
+      Numbers may not foot or recalculate due to rounding
+    
+
+      + Multiple sclerosis includes TECFIDERA®, VUMERITY®, AVONEX®, PLEGRIDY®, TYSABRI®, and FAMPYRATM
+    
+
+      ^ includes ADUHELM® and FUMADERMTM
+    
+
+      * Net of hedge
+    
+
+      Expense Summary
+    
+
+
+
+
+
+
+
+
+            (in millions)
+          
+
+            Q4 '22
+          
+
+            Q4' 21
+          
+
+            r
+          
+
+            FY '22
+          
+
+            FY '21
+          
+
+
+              r
+            
+
+
+
+
+
+              GAAP and Non-GAAP cost of sales*
+            
+
+
+            $571
+          
+
+            $660
+          
+
+            14%
+          
+
+            $2,278
+          
+
+            $2,110
+          
+
+            (8)%
+          
+
+
+
+            % of Total Revenue
+          
+
+            22%
+          
+
+            24%
+          
+
+            -
+          
+
+            22%
+          
+
+            19%
+          
+
+            -
+          
+
+
+
+            GAAP and Non-GAAP R&D
+          
+
+            $602
+          
+
+            $700
+          
+
+            14%
+          
+
+            $2,231
+          
+
+            $2,501
+          
+
+            11%
+          
+
+
+
+            GAAP SG&A
+          
+
+            $633
+          
+
+            $788
+          
+
+            20%
+          
+
+            $2,404
+          
+
+            $2,674
+          
+
+            10%
+          
+
+
+
+            Non-GAAP SG&A
+          
+
+            $632
+          
+
+            $785
+          
+
+            19%
+          
+
+            $2,399
+          
+
+            $2,666
+          
+
+            10%
+          
+
+
+
+
+      Note: Percent changes represented as favorable/(unfavorable) versus the prior year period
+    
+
+      *Excluding amortization and impairment of acquired intangible assets
+    
+
+
+
+
+      •Fourth quarter 2022 GAAP and Non-GAAP cost of sales includes approximately $36 million of idle capacity charges. Eisai Co., Ltd.'s (Eisai) share of these charges (approximately $18 million) is reflected in collaboration profit sharing. Full year 2022 GAAP and Non-GAAP cost of sales includes approximately $119 million of idle capacity charges. Eisai's share of these charges (approximately $55 million) is reflected in collaboration profit sharing.
+    
+
+
+
+
+      •Full year 2022 GAAP and Non-GAAP cost of sales includes approximately $286 million in charges associated with the write-off of inventory and purchase commitments in excess of forecasted demand related to ADUHELM. Eisai's share of these charges (approximately $142 million) is reflected in collaboration profit sharing. Fourth quarter and full year 2021 GAAP and Non-GAAP cost of sales includes approximately $165 million and $170 million, respectively, in charges associated with the
+    
+
+      2
+    
+
+
+
+
+      write-off of inventory and purchase commitments in excess of forecasted demand related to ADUHELM. Eisai's share of these charges (approximately $82 million and $84 million, respectively) is reflected in collaboration profit sharing.
+    
+
+
+
+
+      •Fourth quarter 2021 GAAP and Non-GAAP R&D expense includes a $60 million opt-in payment to Ionis Pharmaceuticals, Inc. to obtain exclusive rights to develop and commercialize BIIB115, a preclinical investigational antisense oligonucleotide (ASO) for the treatment of spinal muscular atrophy (SMA), and approximately $50 million related to the exercise of our option to participate in a profit-sharing arrangement with Genentech, Inc. for the development and commercialization of mosunetuzumab (now approved in the U.S. as LUNSUMIOTM), a late-stage bispecific antibody in development for B-cell non-Hodgkin's lymphoma and other therapeutic areas.
+    
+
+
+
+
+      •Full year 2021 GAAP and Non-GAAP R&D expense includes a total of $285 million in payments related to our collaborations with InnoCare Pharma Limited, Ionis, Bio-Thera Solutions, Ltd., Genentech, Capsigen Inc., and Ginkgo Bioworks, as well as $39 million of estimated clinical trial close-out costs and manufacturing commitments due to suspended development of BIIB111 in choroideremia and BIIB112 in X-linked retinitis pigmentosa.
+    
+
+
+
+
+      •The decrease in fourth quarter and full year 2022 GAAP and Non-GAAP SG&A expense was driven primarily by cost savings initiatives.
+    
+
+      Other Financial Highlights
+    
+
+
+
+
+      •In the fourth quarter of 2022, Biogen discontinued further development of vixotrigine (BIIB074) for the treatment of neuropathic pain, resulting in a GAAP impairment charge of approximately $120 million. In addition, this decision resulted in a GAAP pre-tax gain of approximately $195 million due to an adjustment to the value of contingent consideration obligations related to vixotrigine.
+    
+
+
+
+
+      •Fourth quarter 2022 GAAP and Non-GAAP collaboration profit sharing was a net expense of $35 million, which includes $46 million of net profit sharing expense related to Biogen's collaboration with Samsung Bioepis, partially offset by reimbursement of $11 million from Eisai related to ADUHELM in the U.S. Full year 2022 GAAP and Non-GAAP collaboration profit sharing reduced our net operating expense by $7 million, which includes reimbursement of $225 million from Eisai related to ADUHELM in the U.S., partially offset by $217 million of net profit sharing expense related to Biogen's collaboration with Samsung Bioepis.
+    
+
+
+
+
+      •Fourth quarter 2022 GAAP other expense was $113 million, primarily driven by net unrealized losses on strategic equity investments of $107 million. Fourth quarter 2022 Non-GAAP other expense was $7 million, primarily driven by net interest expense. Full year 2022 GAAP other income was $108 million, driven by a realized gain of $1,505 million related to the sale of equity interest in Samsung Bioepis, partially offset by net unrealized losses on strategic equity investments of $265 million, net interest expense of $157 million, and an expense of $917 million related to the previously disclosed litigation settlement. Full year 2022 Non-GAAP other expense was $213 million, primarily driven by net interest expense.
+    
+
+
+
+
+      •Fourth quarter 2022 GAAP and Non-GAAP effective tax rates were 9% and 15%, respectively. The fourth quarter 2022 effective GAAP tax rate benefited from the decision to discontinue development of vixotrigine and the resulting impairment and adjustment to contingent consideration as well as mark-to-market losses on our marketable equity securities portfolio. Full year 2022 GAAP and Non-GAAP effective tax rates were 18% and 15%, respectively. The full year 2022 GAAP effective tax rate was unfavorably impacted by a valuation allowance recorded on Neurimmune's tax basis in ADUHELM as well as the non-deductible portion of the previously disclosed litigation settlement, partially offset by the deferred tax benefits of an international restructuring.
+    
+
+      3
+    
+
+
+
+
+      Financial Position
+    
+
+
+
+
+      •Fourth quarter 2022 net cash outflow from operations was $175 million, which includes a payment of approximately $917 million related to the previously disclosed litigation settlement. Capital expenditures were $86 million, and free cash flow, defined as cash flow from operations less capital expenditures, was a net cash outflow of $261 million.
+    
+
+
+
+
+      •Full year 2022 cash flow from operations was $1,384 million, which also includes the payment of approximately $917 million related to the previously disclosed litigation settlement. Capital expenditures were $240 million, and free cash flow, defined as cash flow from operations less capital expenditures, was $1,144 million.
+    
+
+
+
+
+      •As of December 31, 2022, Biogen had cash, cash equivalents, and marketable securities totaling $5,598 million and $6,281 million in total debt, resulting in net debt of $683 million.
+    
+
+
+
+
+      •Throughout 2022 Biogen repurchased approximately 3.6 million shares of the Company's common stock for a total value of $750 million. No shares were repurchased in the fourth quarter of 2022. As of December 31, 2022, there was $2,050 million remaining under the share repurchase program authorized in October 2020.
+    
+
+
+
+
+      •For the fourth quarter of 2022 the Company's weighted average diluted shares were 145 million. For 2022 the Company's full year weighted average diluted shares were 146 million.
+    
+
+
+
+
+      Full Year 2023 Financial Guidance
+    
+
+
+
+
+      For the full year 2023, Biogen expects revenue and Non-GAAP diluted EPS guidance ranges as follows:
+    
+
+
+
+
+
+
+
+
+            Full Year 2023
+          
+
+
+
+            Total revenue
+          
+
+            Mid-single digit percentage decline versus reported full year 2022
+          
+
+
+
+            Non-GAAP diluted EPS
+          
+
+            $15.00 to $16.00
+          
+
+
+
+
+
+
+
+      This guidance assumes a favorable decision by the Court of Justice of the European Union relating to regulatory data protection for TECFIDERA, which is currently expected on March 16, 2023, although Biogen cannot predict the outcome.
+    
+
+
+
+
+      Biogen expects modest in-market revenue for LEQEMBITM in 2023 with commercialization expenses exceeding revenue. Biogen will record its share of net commercial profits and losses for LEQEMBI in the U.S. as a component of total revenue, which is expected to be a headwind to revenue in 2023.
+    
+
+
+
+
+      This guidance assumes that foreign exchange rates as of December 31, 2022, will remain in effect for the remainder of the year, net of hedging activities.
+    
+
+
+
+
+      This financial guidance does not include any impact from potential acquisitions or large business development transactions or pending and future litigation, as all are hard to predict, or any impact of potential tax or healthcare reform. Biogen may incur charges, realize gains or losses, or experience other events or circumstances in 2023 that could cause any of these assumptions to change and/or actual results to vary from this financial guidance.
+    
+
+
+
+
+      Biogen does not provide guidance for GAAP reported financial measures (other than revenue) or a reconciliation of forward-looking Non-GAAP financial measures to the most directly comparable GAAP reported financial measures because the Company is unable to predict with reasonable certainty the financial impact of items such as the transaction, integration, and certain other costs related to acquisitions or large business development transactions; unusual gains and losses; potential future asset impairments; gains and losses from our equity security investments; and the ultimate outcome of pending significant litigation without unreasonable effort. These items are uncertain, depend on various factors,
+    
+
+      4
+    
+
+
+
+
+      and could have a material impact on GAAP reported results for the guidance period. For the same reasons, the Company is unable to address the significance of the unavailable information, which could be material to future results.
+    
+
+
+
+
+      Recent Developments
+    
+
+
+
+
+      •In the fourth quarter of 2022 Biogen initiated a Phase 2 Study of BIIB080 (anti-tau ASO) in early Alzheimer's disease.
+    
+
+
+
+
+      •In the fourth quarter of 2022 Biogen initiated the Phase 1 Study of BIIB115, an ASO in development for SMA that may have the potential to help address additional unmet needs of patients as well as to be administered at extended dosing intervals.
+    
+
+
+
+
+      •In February 2023 Biogen notified InnoCare Pharma Limited of its decision to terminate its license and collaboration agreement with InnoCare for orelabrutinib, an oral small molecule Bruton's tyrosine kinase (BTK) inhibitor for the potential treatment of MS.
+    
+
+
+
+
+      Conference Call and Webcast
+    
+
+      The Company's earnings conference call for the fourth quarter and full year will be broadcast via the internet at 8:00 a.m. ET on February 15, 2023 and will be accessible through the Investors section of Biogen's website, www.biogen.com. Supplemental information in the form of a slide presentation is also accessible at the same location on the internet and will be subsequently available on the website for at least one month.
+    
+
+      About Biogen
+    
+
+      Founded in 1978, Biogen is a leading global biotechnology company that has pioneered multiple breakthrough innovations including a broad portfolio of medicines to treat multiple sclerosis, the first approved treatment for spinal muscular atrophy, and two co-developed treatments to address a defining pathology of Alzheimer's disease. Biogen is advancing a pipeline of potential novel therapies across neurology, neuropsychiatry, specialized immunology and rare diseases and remains acutely focused on its purpose of serving humanity through science while advancing a healthier, more sustainable and equitable world.
+    
+
+
+
+
+      We routinely post information that may be important to investors on our website at www.biogen.com. Follow us on social media - Twitter, LinkedIn, Facebook, YouTube.
+    
+
+
+
+
+      Biogen Safe Harbor
+    
+
+
+
+
+      This press release contains forward-looking statements relating to: our strategy and plans; potential of, and expectations for, our commercial business and pipeline programs; capital allocation and investment strategy; clinical development programs, clinical trials, and data readouts and presentations; regulatory discussions, submissions, filings, and approvals; the potential benefits, safety, and efficacy of our and our collaboration partners' products and investigational therapies; the anticipated benefits and potential of investments, optimization of the cost structure, actions to improve risk profile and productivity of R&D pipeline, collaborations, and business development activities; our future financial and operating results; 2023 financial guidance. These forward-looking statements may be accompanied by such words as "aim," "anticipate," "believe," "could," "estimate," "expect," "forecast," "goal," "intend," "may," "plan," "potential," "possible," "prospect," "will," "would," and other words and terms of similar meaning. Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in commercialization of a product. Results in early-stage clinical trials may not be indicative of full results or results from later stage or larger scale clinical trials and do not ensure regulatory approval. You should not place undue reliance on these statements.
+    
+
+
+
+
+      These statements involve risks and uncertainties that could cause actual results to differ materially from those reflected in such statements, including: our dependence on sales from our products; uncertainty of
+    
+
+      5
+    
+
+
+
+
+      long-term success in developing, licensing, or acquiring other product candidates or additional indications for existing products; failure to compete effectively due to significant product competition in the markets for our products; failure to successfully execute or realize the anticipated benefits of our strategic and growth initiatives; difficulties in obtaining and maintaining adequate coverage, pricing, and reimbursement for our products; our dependence on collaborators, joint venture partners, and other third parties for the development, regulatory approval, and commercialization of products and other aspects of our business, which are outside of our full control; the potential impact of the conflict in Ukraine; risks associated with current and potential future healthcare reforms; risks related to commercialization of biosimilars; failure to obtain, protect, and enforce our data, intellectual property, and other proprietary rights and the risks and uncertainties relating to intellectual property claims and challenges; the risk that positive results in a clinical trial may not be replicated in subsequent or confirmatory trials or success in early stage clinical trials may not be predictive of results in later stage or large scale clinical trials or trials in other potential indications; risks associated with clinical trials, including our ability to adequately manage clinical activities, unexpected concerns that may arise from additional data or analysis obtained during clinical trials, regulatory authorities may require additional information or further studies, or may fail to approve or may delay approval of our drug candidates; the occurrence of adverse safety events, restrictions on use with our products, or product liability claims; risks relating to technology failures or breaches; problems with our manufacturing processes; risks relating to management and personnel changes, including attracting and retaining personnel; failure to comply with legal and regulatory requirements; the risks of doing business internationally, including currency exchange rate fluctuations; risks relating to investment in our manufacturing capacity; the direct and indirect impacts of the ongoing COVID-19 pandemic on our business; risks relating to the distribution and sale by third parties of counterfeit or unfit versions of our products; risks relating to the use of social media for our business; results of operations, and financial condition; fluctuations in our operating results; risks related to investment in properties; the market, interest, and credit risks associated with our investment portfolio; risks relating to share repurchase programs; risks relating to access to capital and credit markets; risks related to indebtedness; change in control provisions in certain of our collaboration agreements; fluctuations in our effective tax rate; environmental risks; and any other risks and uncertainties that are described in other reports we have filed with the U.S. Securities and Exchange Commission.
+    
+
+
+
+
+      These statements speak only as of the date of this press release. We do not undertake any obligation to publicly update any forward-looking statements.
+    
+
+
+
+
+      ###
+    
+
+
+
+
+
+
+
+
+
+
+
+            MEDIA CONTACT:
+          
+
+
+              INVESTOR CONTACT:
+            
+
+
+
+
+            Biogen
+          
+
+
+              Biogen
+            
+
+
+
+
+            Jack Cox
+          
+
+
+              Mike Hencke
+            
+
+
+
+
+
+              Tel: +1 210-544-7920
+            
+
+
+
+              Tel: +1 781-464-2442
+            
+
+
+
+
+
+              public.affairs@biogen.com
+            
+
+
+
+              IR@biogen.com
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      6
+    
+
+
+
+
+      TABLE 1
+    
+
+
+
+
+      BIOGEN INC. AND SUBSIDIARIES
+    
+
+      CONDENSED CONSOLIDATED STATEMENT OF INCOME
+    
+
+      (unaudited, in millions, except per share amounts)
+    
+
+
+
+
+
+
+
+
+
+
+
+            For the Three Months Ended December 31,
+          
+
+            For the Twelve Months Ended December 31,
+          
+
+
+
+            2022
+          
+
+            2021
+          
+
+            2022
+          
+
+            2021
+          
+
+
+
+            Revenue:
+          
+
+
+
+            Product, net
+          
+
+            $
+          
+
+            1,904.5 
+          
+
+            $
+          
+
+            2,193.5 
+          
+
+            $
+          
+
+            7,987.8 
+          
+
+            $
+          
+
+            8,846.9 
+          
+
+
+
+            Revenue from anti-CD20 therapeutic programs
+          
+
+            447.9 
+          
+
+            414.1 
+          
+
+            1,700.5 
+          
+
+            1,658.5 
+          
+
+
+
+            Other
+          
+
+            191.6 
+          
+
+            126.2 
+          
+
+            485.1 
+          
+
+            476.3 
+          
+
+
+
+            Total revenue
+          
+
+            2,544.0 
+          
+
+            2,733.8 
+          
+
+            10,173.4 
+          
+
+            10,981.7 
+          
+
+
+
+            Cost and expense:
+          
+
+
+
+            Cost of sales, excluding amortization and impairment of acquired intangible assets
+          
+
+            570.9 
+          
+
+            660.1 
+          
+
+            2,278.3 
+          
+
+            2,109.7 
+          
+
+
+
+            Research and development
+          
+
+            601.6 
+          
+
+            699.5 
+          
+
+            2,231.1 
+          
+
+            2,501.2 
+          
+
+
+
+            Selling, general and administrative
+          
+
+            632.8 
+          
+
+            787.9 
+          
+
+            2,403.6 
+          
+
+            2,674.3 
+          
+
+
+
+            Amortization and impairment of acquired intangible assets
+          
+
+            175.0 
+          
+
+            68.1 
+          
+
+            365.9 
+          
+
+            881.3 
+          
+
+
+
+            Collaboration profit (loss) sharing
+          
+
+            35.2 
+          
+
+            (67.3)
+          
+
+            (7.4)
+          
+
+            7.2 
+          
+
+
+
+            (Gain) loss on fair value remeasurement of contingent consideration
+          
+
+            (195.3)
+          
+
+            (1.6)
+          
+
+            (209.1)
+          
+
+            (50.7)
+          
+
+
+
+            Acquired in-process research and development
+          
+
+            - 
+          
+
+            - 
+          
+
+            - 
+          
+
+            18.0 
+          
+
+
+
+            Restructuring charges
+          
+
+            6.9 
+          
+
+            - 
+          
+
+            131.1 
+          
+
+            - 
+          
+
+
+
+            Gain on sale of building
+          
+
+            - 
+          
+
+            - 
+          
+
+            (503.7)
+          
+
+            - 
+          
+
+
+
+            Other (income) expense, net
+          
+
+            113.1 
+          
+
+            182.1 
+          
+
+            (108.2)
+          
+
+            1,095.5 
+          
+
+
+
+            Total cost and expense
+          
+
+            1,940.2 
+          
+
+            2,328.8 
+          
+
+            6,581.6 
+          
+
+            9,236.5 
+          
+
+
+
+            Income before income tax expense and equity in loss of investee, net of tax
+          
+
+            603.8 
+          
+
+            405.0 
+          
+
+            3,591.8 
+          
+
+            1,745.2 
+          
+
+
+
+            Income tax (benefit) expense
+          
+
+            54.3 
+          
+
+            443.2 
+          
+
+            632.8 
+          
+
+            52.5 
+          
+
+
+
+            Equity in (income) loss of investee, net of tax
+          
+
+            - 
+          
+
+            (17.7)
+          
+
+            (2.6)
+          
+
+            (34.9)
+          
+
+
+
+            Net income
+          
+
+            549.5 
+          
+
+            (20.5)
+          
+
+            2,961.6 
+          
+
+            1,727.6 
+          
+
+
+
+            Net income (loss) attributable to noncontrolling interests, net of tax
+          
+
+            (0.9)
+          
+
+            (388.7)
+          
+
+            (85.3)
+          
+
+            171.5 
+          
+
+
+
+            Net income attributable to Biogen Inc.
+          
+
+            $
+          
+
+            550.4 
+          
+
+            $
+          
+
+            368.2 
+          
+
+            $
+          
+
+            3,046.9 
+          
+
+            $
+          
+
+            1,556.1 
+          
+
+
+
+
+
+
+
+            Net income per share:
+          
+
+
+
+            Basic earnings per share attributable to Biogen Inc.
+          
+
+            $
+          
+
+            3.82 
+          
+
+            $
+          
+
+            2.51 
+          
+
+            $
+          
+
+            20.96 
+          
+
+            $
+          
+
+            10.44 
+          
+
+
+
+            Diluted earnings per share attributable to Biogen Inc.
+          
+
+            $
+          
+
+            3.79 
+          
+
+            $
+          
+
+            2.50 
+          
+
+            $
+          
+
+            20.87 
+          
+
+            $
+          
+
+            10.40 
+          
+
+
+
+
+
+
+
+            Weighted-average shares used in calculating:
+          
+
+
+
+            Basic earnings per share attributable to Biogen Inc.
+          
+
+            144.1 
+          
+
+            146.9 
+          
+
+            145.3 
+          
+
+            149.1 
+          
+
+
+
+            Diluted earnings per share attributable to Biogen Inc.
+          
+
+            145.2 
+          
+
+            147.5 
+          
+
+            146.0 
+          
+
+            149.6 
+          
+
+
+
+
+      8
+    
+
+
+
+
+      TABLE 2
+    
+
+
+
+
+      BIOGEN INC. AND SUBSIDIARIES
+    
+
+      CONDENSED CONSOLIDATED BALANCE SHEETS
+    
+
+      (unaudited, in millions)
+    
+
+
+
+
+
+
+
+
+
+
+
+            As of December 31, 2022
+          
+
+            As of December 31, 2021
+          
+
+
+
+            ASSETS
+          
+
+
+
+            Cash and cash equivalents
+          
+
+            $
+          
+
+            3,419.3 
+          
+
+            $
+          
+
+            2,261.4 
+          
+
+
+
+            Marketable securities
+          
+
+            1,473.5 
+          
+
+            1,541.1 
+          
+
+
+
+            Accounts receivable, net
+          
+
+            1,705.0 
+          
+
+            1,549.4 
+          
+
+
+
+            Due from anti-CD20 therapeutic programs, net
+          
+
+            431.4 
+          
+
+            412.3 
+          
+
+
+
+            Inventory
+          
+
+            1,344.4 
+          
+
+            1,351.5 
+          
+
+
+
+            Other current assets
+          
+
+            1,417.6 
+          
+
+            740.8 
+          
+
+
+
+            Total current assets
+          
+
+            9,791.2 
+          
+
+            7,856.5 
+          
+
+
+
+            Marketable securities
+          
+
+            705.7 
+          
+
+            892.0 
+          
+
+
+
+            Property, plant and equipment, net
+          
+
+            3,298.6 
+          
+
+            3,416.4 
+          
+
+
+
+            Operating lease assets
+          
+
+            403.9 
+          
+
+            375.4 
+          
+
+
+
+            Intangible assets, net
+          
+
+            1,850.1 
+          
+
+            2,221.3 
+          
+
+
+
+            Goodwill
+          
+
+            5,749.0 
+          
+
+            5,761.1 
+          
+
+
+
+            Deferred tax asset
+          
+
+            1,226.4 
+          
+
+            1,415.1 
+          
+
+
+
+            Investments and other assets
+          
+
+            1,529.2 
+          
+
+            1,939.5 
+          
+
+
+
+            TOTAL ASSETS
+          
+
+            $
+          
+
+            24,554.1 
+          
+
+            $
+          
+
+            23,877.3 
+          
+
+
+
+
+
+
+
+            LIABILITIES AND EQUITY
+          
+
+
+
+            Current portion of notes payable
+          
+
+            $
+          
+
+            - 
+          
+
+            $
+          
+
+            999.1 
+          
+
+
+
+            Taxes payable
+          
+
+            259.9 
+          
+
+            174.7 
+          
+
+
+
+            Accounts payable
+          
+
+            491.5 
+          
+
+            589.2 
+          
+
+
+
+            Accrued expenses and other
+          
+
+            2,521.4 
+          
+
+            2,535.2 
+          
+
+
+
+                Total current liabilities
+          
+
+            3,272.8 
+          
+
+            4,298.2 
+          
+
+
+
+            Notes payable
+          
+
+            6,281.0 
+          
+
+            6,274.0 
+          
+
+
+
+            Deferred tax liability
+          
+
+            334.7 
+          
+
+            694.5 
+          
+
+
+
+            Long-term operating lease liabilities
+          
+
+            333.0 
+          
+
+            330.4 
+          
+
+
+
+            Other long-term liabilities
+          
+
+            944.2 
+          
+
+            1,320.5 
+          
+
+
+
+            Equity
+          
+
+            13,388.4 
+          
+
+            10,959.7 
+          
+
+
+
+            TOTAL LIABILITIES AND EQUITY
+          
+
+            $
+          
+
+            24,554.1 
+          
+
+            $
+          
+
+            23,877.3 
+          
+
+
+
+
+
+
+
+      9
+    
+
+
+
+
+      TABLE 3
+    
+
+
+
+
+      BIOGEN INC. AND SUBSIDIARIES
+    
+
+      PRODUCT REVENUE & TOTAL REVENUE
+    
+
+      (unaudited, in millions)
+    
+
+
+
+
+
+
+
+
+
+
+            For the Three Months Ended December 31,
+          
+
+
+
+
+
+            2022
+          
+
+            2021
+          
+
+
+
+            United
+            States
+          
+
+            Rest of
+            World
+          
+
+            Total
+          
+
+            United
+            States
+          
+
+            Rest of
+            World
+          
+
+            Total
+          
+
+
+
+            Multiple Sclerosis (MS):
+          
+
+
+
+
+              TECFIDERA®
+            
+
+
+            $
+          
+
+            87.4 
+          
+
+            $
+          
+
+            209.7 
+          
+
+            $
+          
+
+            297.1 
+          
+
+            $
+          
+
+            160.5 
+          
+
+            $
+          
+
+            326.0 
+          
+
+            $
+          
+
+            486.5 
+          
+
+
+
+
+              VUMERITY®*
+            
+
+
+            138.3 
+          
+
+            12.5 
+          
+
+            150.8 
+          
+
+            123.9 
+          
+
+            1.0 
+          
+
+            124.9 
+          
+
+
+
+            Total Fumarate
+          
+
+            225.7 
+          
+
+            222.2 
+          
+
+            447.9 
+          
+
+            284.4 
+          
+
+            327.0 
+          
+
+            611.4 
+          
+
+
+
+
+
+
+
+
+              AVONEX®
+            
+
+
+            155.4 
+          
+
+            74.7 
+          
+
+            230.1 
+          
+
+            193.8 
+          
+
+            91.6 
+          
+
+            285.4 
+          
+
+
+
+
+              PLEGRIDY®
+            
+
+
+            34.2 
+          
+
+            45.3 
+          
+
+            79.5 
+          
+
+            37.7 
+          
+
+            54.6 
+          
+
+            92.3 
+          
+
+
+
+            Total Interferon
+          
+
+            189.6 
+          
+
+            120.0 
+          
+
+            309.6 
+          
+
+            231.5 
+          
+
+            146.2 
+          
+
+            377.7 
+          
+
+
+
+
+
+
+
+
+              TYSABRI®
+            
+
+
+            274.0 
+          
+
+            214.4 
+          
+
+            488.4 
+          
+
+            288.0 
+          
+
+            224.7 
+          
+
+            512.7 
+          
+
+
+
+
+              FAMPYRA®
+            
+
+
+            - 
+          
+
+            22.9 
+          
+
+            22.9 
+          
+
+            - 
+          
+
+            26.4 
+          
+
+            26.4 
+          
+
+
+
+            Total MS product revenue, net
+          
+
+            689.3 
+          
+
+            579.5 
+          
+
+            1,268.8 
+          
+
+            803.9 
+          
+
+            724.3 
+          
+
+            1,528.2 
+          
+
+
+
+
+
+
+
+            Spinal Muscular Atrophy:
+          
+
+
+
+            SPINRAZA
+          
+
+            156.9 
+          
+
+            301.9 
+          
+
+            458.8 
+          
+
+            150.1 
+          
+
+            290.6 
+          
+
+            440.7 
+          
+
+
+
+
+
+
+
+            Biosimilars:
+          
+
+
+
+            BENEPALI™
+          
+
+            - 
+          
+
+            100.3 
+          
+
+            100.3 
+          
+
+            - 
+          
+
+            134.4 
+          
+
+            134.4 
+          
+
+
+
+            IMRALDI™
+          
+
+            - 
+          
+
+            52.1 
+          
+
+            52.1 
+          
+
+            - 
+          
+
+            62.5 
+          
+
+            62.5 
+          
+
+
+
+            FLIXABI™
+          
+
+            - 
+          
+
+            19.3 
+          
+
+            19.3 
+          
+
+            - 
+          
+
+            24.0 
+          
+
+            24.0 
+          
+
+
+
+            BYOOVIZ™ **
+          
+
+            3.1 
+          
+
+            - 
+          
+
+            3.1 
+          
+
+            - 
+          
+
+            - 
+          
+
+            - 
+          
+
+
+
+            Total biosimilars product revenue, net
+          
+
+            3.1 
+          
+
+            171.7 
+          
+
+            174.8 
+          
+
+            - 
+          
+
+            220.9 
+          
+
+            220.9 
+          
+
+
+
+
+
+
+
+            Other:
+          
+
+
+
+            FUMADERM™
+          
+
+            - 
+          
+
+            1.8 
+          
+
+            1.8 
+          
+
+            - 
+          
+
+            2.7 
+          
+
+            2.7 
+          
+
+
+
+
+              ADUHELM®
+            
+
+
+            0.3 
+          
+
+            - 
+          
+
+            0.3 
+          
+
+            1.0 
+          
+
+            - 
+          
+
+            1.0 
+          
+
+
+
+            Total product revenue, net
+          
+
+            $
+          
+
+            849.6 
+          
+
+            $
+          
+
+            1,054.9 
+          
+
+            $
+          
+
+            1,904.5 
+          
+
+            $
+          
+
+            955.0 
+          
+
+            $
+          
+
+            1,238.5 
+          
+
+            $
+          
+
+            2,193.5 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      * VUMERITY became commercially available in the European Union (E.U.) during the fourth quarter of 2021.
+    
+
+      ** BYOOVIZ launched in the United States (U.S.) in June 2022 and became commercially available during the third quarter of 2022.
+    
+
+      10
+    
+
+
+
+
+      TABLE 3 (continued)
+    
+
+
+
+
+      BIOGEN INC. AND SUBSIDIARIES
+    
+
+      PRODUCT REVENUE & TOTAL REVENUE
+    
+
+      (unaudited, in millions)
+    
+
+
+
+
+
+
+
+
+
+
+            For the Twelve Months Ended December 31,
+          
+
+
+
+
+
+            2022
+          
+
+            2021
+          
+
+
+
+            United
+            States
+          
+
+            Rest of
+            World
+          
+
+            Total
+          
+
+            United
+            States
+          
+
+            Rest of
+            World
+          
+
+            Total
+          
+
+
+
+            Multiple Sclerosis (MS):
+          
+
+
+
+
+              TECFIDERA®
+            
+
+
+            $
+          
+
+            417.7 
+          
+
+            $
+          
+
+            1,026.2 
+          
+
+            $
+          
+
+            1,443.9 
+          
+
+            $
+          
+
+            680.6 
+          
+
+            $
+          
+
+            1,271.3 
+          
+
+            $
+          
+
+            1,951.9 
+          
+
+
+
+
+              VUMERITY®*
+            
+
+
+            521.3 
+          
+
+            32.1 
+          
+
+            553.4 
+          
+
+            408.9 
+          
+
+            1.5 
+          
+
+            410.4 
+          
+
+
+
+            Total Fumarate
+          
+
+            939.0 
+          
+
+            1,058.3 
+          
+
+            1,997.3 
+          
+
+            1,089.5 
+          
+
+            1,272.8 
+          
+
+            2,362.3 
+          
+
+
+
+
+
+
+
+
+              AVONEX®
+            
+
+
+            649.2 
+          
+
+            324.3 
+          
+
+            973.5 
+          
+
+            830.2 
+          
+
+            378.5 
+          
+
+            1,208.7 
+          
+
+
+
+
+              PLEGRIDY®
+            
+
+
+            148.4 
+          
+
+            183.5 
+          
+
+            331.9 
+          
+
+            152.9 
+          
+
+            204.5 
+          
+
+            357.4 
+          
+
+
+
+            Total Interferon
+          
+
+            797.6 
+          
+
+            507.8 
+          
+
+            1,305.4 
+          
+
+            983.1 
+          
+
+            583.0 
+          
+
+            1,566.1 
+          
+
+
+
+
+
+
+
+
+              TYSABRI®
+            
+
+
+            1,123.4 
+          
+
+            907.5 
+          
+
+            2,030.9 
+          
+
+            1,142.2 
+          
+
+            920.9 
+          
+
+            2,063.1 
+          
+
+
+
+
+              FAMPYRA®
+            
+
+
+            - 
+          
+
+            96.6 
+          
+
+            96.6 
+          
+
+            - 
+          
+
+            105.2 
+          
+
+            105.2 
+          
+
+
+
+            Total MS product revenue, net
+          
+
+            2,860.0 
+          
+
+            2,570.2 
+          
+
+            5,430.2 
+          
+
+            3,214.8 
+          
+
+            2,881.9 
+          
+
+            6,096.7 
+          
+
+
+
+
+
+
+
+            Spinal Muscular Atrophy:
+          
+
+
+
+            SPINRAZA
+          
+
+            600.2 
+          
+
+            1,193.3 
+          
+
+            1,793.5 
+          
+
+            587.9 
+          
+
+            1,317.2 
+          
+
+            1,905.1 
+          
+
+
+
+
+
+
+
+            Biosimilars:
+          
+
+
+
+            BENEPALI™
+          
+
+            - 
+          
+
+            441.0 
+          
+
+            441.0 
+          
+
+            - 
+          
+
+            498.3 
+          
+
+            498.3 
+          
+
+
+
+            IMRALDI™
+          
+
+            - 
+          
+
+            224.5 
+          
+
+            224.5 
+          
+
+            - 
+          
+
+            233.4 
+          
+
+            233.4 
+          
+
+
+
+            FLIXABI™
+          
+
+            - 
+          
+
+            81.3 
+          
+
+            81.3 
+          
+
+            - 
+          
+
+            99.4 
+          
+
+            99.4 
+          
+
+
+
+            BYOOVIZ™ **
+          
+
+            4.3 
+          
+
+            - 
+          
+
+            4.3 
+          
+
+            - 
+          
+
+            - 
+          
+
+            - 
+          
+
+
+
+            Total biosimilars product revenue, net
+          
+
+            4.3 
+          
+
+            746.8 
+          
+
+            751.1 
+          
+
+            - 
+          
+
+            831.1 
+          
+
+            831.1 
+          
+
+
+
+
+
+
+
+            Other:
+          
+
+
+
+            FUMADERM™
+          
+
+            - 
+          
+
+            8.2 
+          
+
+            8.2 
+          
+
+            - 
+          
+
+            11.0 
+          
+
+            11.0 
+          
+
+
+
+
+              ADUHELM®
+            
+
+
+            4.8 
+          
+
+            - 
+          
+
+            4.8 
+          
+
+            3.0 
+          
+
+            - 
+          
+
+            3.0 
+          
+
+
+
+            Total product revenue, net
+          
+
+            $
+          
+
+            3,469.3 
+          
+
+            $
+          
+
+            4,518.5 
+          
+
+            $
+          
+
+            7,987.8 
+          
+
+            $
+          
+
+            3,805.7 
+          
+
+            $
+          
+
+            5,041.2 
+          
+
+            $
+          
+
+            8,846.9 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      * VUMERITY became commercially available in the E.U. during the fourth quarter of 2021.
+    
+
+      ** BYOOVIZ launched in the U.S. in June 2022 and became commercially available during the third quarter of 2022.
+    
+
+
+
+
+
+
+
+
+
+
+
+            For the Three Months Ended December 31,
+          
+
+            For the Twelve Months Ended December 31,
+          
+
+
+
+            (In millions)
+          
+
+            2022
+          
+
+            2021
+          
+
+            2022
+          
+
+            2021
+          
+
+
+
+            Product revenue
+          
+
+            $
+          
+
+            1,904.5 
+          
+
+            $
+          
+
+            2,193.5 
+          
+
+            $
+          
+
+            7,987.8 
+          
+
+            $
+          
+
+            8,846.9 
+          
+
+
+
+            OCREVUS royalties
+          
+
+            311.1 
+          
+
+            261.2 
+          
+
+            1,136.3 
+          
+
+            991.7 
+          
+
+
+
+
+              RITUXAN/GAZYVA® revenue
+            
+
+
+            136.8 
+          
+
+            152.9 
+          
+
+            564.2 
+          
+
+            666.8 
+          
+
+
+
+            Other revenue
+          
+
+            191.6 
+          
+
+            126.2 
+          
+
+            485.1 
+          
+
+            476.3 
+          
+
+
+
+            Total revenue
+          
+
+            $
+          
+
+            2,544.0 
+          
+
+            $
+          
+
+            2,733.8 
+          
+
+            $
+          
+
+            10,173.4 
+          
+
+            $
+          
+
+            10,981.7 
+          
+
+
+
+
+
+
+
+      11
+    
+
+
+
+
+      TABLE 4
+    
+
+
+
+
+      BIOGEN INC. AND SUBSIDIARIES
+    
+
+      GAAP TO NON-GAAP RECONCILIATION
+    
+
+      OPERATING EXPENSE, OTHER (INCOME) EXPENSE, NET, AND INCOME TAX
+    
+
+      (unaudited, in millions, except per share amounts)
+    
+
+      We supplement our GAAP consolidated financial statements and GAAP financial measures with other financial measures, such as adjusted net income, adjusted diluted earnings per share, revenue growth at constant currency, which excludes the impact of changes in foreign exchange rates and hedging gains or losses, and free cash flow, which is defined as net cash flow from operations less capital expenditures. We believe that these and other Non-GAAP financial measures provide additional insight into the ongoing economics of our business and reflect how we manage our business internally, set operational goals and form the basis of our management incentive programs. Non-GAAP financial measures are in addition to, not a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP.
+    
+
+
+
+
+
+
+
+
+            For the Three Months Ended December 31,
+          
+
+            For the Twelve Months Ended December 31,
+          
+
+
+
+            (In millions, except per share amounts)
+          
+
+
+              2022(1)
+            
+
+
+
+              2021(1)(2)
+            
+
+
+
+              2022(1)
+            
+
+
+
+              2021(1)(2)
+            
+
+
+
+
+            Selling, General and Administrative Expense:
+          
+
+
+
+            Total selling, general and administrative, GAAP
+          
+
+            $
+          
+
+            632.8 
+          
+
+            $
+          
+
+            787.9 
+          
+
+            $
+          
+
+            2,403.6 
+          
+
+            $
+          
+
+            2,674.3 
+          
+
+
+
+            Less: other
+          
+
+            0.6 
+          
+
+            2.7 
+          
+
+            4.1 
+          
+
+            7.9 
+          
+
+
+
+            Total selling, general and administrative, Non-GAAP
+          
+
+            $
+          
+
+            632.2 
+          
+
+            $
+          
+
+            785.2 
+          
+
+            $
+          
+
+            2,399.5 
+          
+
+            $
+          
+
+            2,666.4 
+          
+
+
+
+
+
+
+
+            Amortization and Impairment of Acquired Intangible Assets:
+          
+
+
+
+            Total amortization and impairment of acquired intangible assets, GAAP
+          
+
+            $
+          
+
+            175.0 
+          
+
+            $
+          
+
+            68.1 
+          
+
+            $
+          
+
+            365.9 
+          
+
+            $
+          
+
+            881.3 
+          
+
+
+
+
+              Less: impairment charges A
+            
+
+
+            119.6 
+          
+
+            - 
+          
+
+            119.6 
+          
+
+            629.3 
+          
+
+
+
+            Less: amortization of acquired intangible assets
+          
+
+            47.1 
+          
+
+            60.5 
+          
+
+            215.2 
+          
+
+            237.1 
+          
+
+
+
+            Total amortization and impairment of acquired intangible assets, Non-GAAP
+          
+
+            $
+          
+
+            8.3 
+          
+
+            $
+          
+
+            7.6 
+          
+
+            $
+          
+
+            31.1 
+          
+
+            $
+          
+
+            14.9 
+          
+
+
+
+
+
+
+
+            Other (Income) Expense, net:
+          
+
+
+
+            Total other (income) expense, net, GAAP
+          
+
+            $
+          
+
+            113.1 
+          
+
+            $
+          
+
+            182.1 
+          
+
+            $
+          
+
+            (108.2)
+          
+
+            $
+          
+
+            1,095.5 
+          
+
+
+
+            Less: (gain) loss on equity security investments
+          
+
+            106.5 
+          
+
+            115.4 
+          
+
+            264.6 
+          
+
+            821.3 
+          
+
+
+
+
+              Less: (gain) on sale of equity interest in Samsung Bioepis B
+            
+
+
+            - 
+          
+
+            - 
+          
+
+            (1,505.3)
+          
+
+            - 
+          
+
+
+
+
+              Less: litigation settlement agreement and settled fees C
+            
+
+
+            - 
+          
+
+            - 
+          
+
+            917.0 
+          
+
+            - 
+          
+
+
+
+
+              Less: premium paid on debt exchange or early debt redemption D
+            
+
+
+            - 
+          
+
+            - 
+          
+
+            2.2 
+          
+
+            9.5 
+          
+
+
+
+            Total other (income) expense, net, Non-GAAP
+          
+
+            $
+          
+
+            6.6 
+          
+
+            $
+          
+
+            66.7 
+          
+
+            $
+          
+
+            213.3 
+          
+
+            $
+          
+
+            264.7 
+          
+
+
+
+
+
+
+
+            Income Tax (Benefit) Expense:
+          
+
+
+
+            Total income tax (benefit) expense, GAAP
+          
+
+            $
+          
+
+            54.3 
+          
+
+            $
+          
+
+            443.2 
+          
+
+            $
+          
+
+            632.8 
+          
+
+            $
+          
+
+            52.5 
+          
+
+
+
+
+              Less: Neurimmune step-up tax basis E
+            
+
+
+            - 
+          
+
+            395.6 
+          
+
+            83.9 
+          
+
+            (96.4)
+          
+
+
+
+            Less: international reorganization & income tax effect related to Non-GAAP reconciling items
+          
+
+            (48.7)
+          
+
+            (52.7)
+          
+
+            84.4 
+          
+
+            (384.2)
+          
+
+
+
+            Total income tax expense, Non-GAAP
+          
+
+            $
+          
+
+            103.0 
+          
+
+            $
+          
+
+            100.3 
+          
+
+            $
+          
+
+            464.5 
+          
+
+            $
+          
+
+            533.1 
+          
+
+
+
+
+
+
+
+            Effective Tax Rate:
+          
+
+
+
+            Total effective tax rate, GAAP
+          
+
+            9.0 
+          
+
+            %
+          
+
+            109.5 
+          
+
+            %
+          
+
+            17.6 
+          
+
+            %
+          
+
+            3.0 
+          
+
+            %
+          
+
+
+
+
+              Less: Neurimmune step-up tax basis E
+            
+
+
+            - 
+          
+
+            97.7 
+          
+
+            2.2 
+          
+
+            (5.5)
+          
+
+
+
+            Less: impact of GAAP to Non-GAAP adjustments
+          
+
+            (5.9)
+          
+
+            (5.4)
+          
+
+            0.1 
+          
+
+            (7.2)
+          
+
+
+
+            Total effective tax rate, Non-GAAP
+          
+
+            14.9 
+          
+
+            %
+          
+
+            17.2 
+          
+
+            %
+          
+
+            15.3 
+          
+
+            %
+          
+
+            15.7 
+          
+
+            %
+          
+
+
+
+
+
+
+
+
+      12
+    
+
+
+
+
+      TABLE 4 (continued)
+    
+
+
+
+
+      BIOGEN INC. AND SUBSIDIARIES
+    
+
+      GAAP TO NON-GAAP RECONCILIATION
+    
+
+      NET INCOME ATTRIBUTABLE TO BIOGEN INC. & DILUTED EPS
+    
+
+      (unaudited, in millions, except per share amounts)
+    
+
+
+
+
+
+
+
+
+
+
+
+            For the Three Months Ended December 31,
+          
+
+            For the Twelve Months Ended December 31,
+          
+
+
+
+            (In millions, except per share amounts)
+          
+
+
+              2022(1)
+            
+
+
+
+              2021(1)(2)
+            
+
+
+
+              2022(1)
+            
+
+
+
+              2021(1)(2)
+            
+
+
+
+
+            Net Income Attributable to Biogen Inc.:
+          
+
+
+
+            Total net income attributable to Biogen Inc., GAAP
+          
+
+            $
+          
+
+            550.4 
+          
+
+            $
+          
+
+            368.2 
+          
+
+            $
+          
+
+            3,046.9 
+          
+
+            $
+          
+
+            1,556.1 
+          
+
+
+
+
+              Plus: impairment charges A
+            
+
+
+            119.6 
+          
+
+            - 
+          
+
+            119.6 
+          
+
+            629.3 
+          
+
+
+
+            Plus: amortization of acquired intangible assets
+          
+
+            47.1 
+          
+
+            60.5 
+          
+
+            215.2 
+          
+
+            237.1 
+          
+
+
+
+            Plus: acquired in-process research and development
+          
+
+            - 
+          
+
+            - 
+          
+
+            - 
+          
+
+            - 
+          
+
+
+
+            Plus: restructuring charges
+          
+
+            6.9 
+          
+
+            - 
+          
+
+            131.1 
+          
+
+            - 
+          
+
+
+
+
+              Plus: (gain) loss on fair value remeasurement of contingent consideration A
+            
+
+
+            (195.3)
+          
+
+            (1.6)
+          
+
+            (209.1)
+          
+
+            (50.7)
+          
+
+
+
+            Plus: (gain) loss on equity security investments
+          
+
+            106.5 
+          
+
+            115.4 
+          
+
+            264.6 
+          
+
+            821.3 
+          
+
+
+
+            Plus: net distribution to noncontrolling interests & amortization of equity in (income) loss of investee
+          
+
+            - 
+          
+
+            7.5 
+          
+
+            12.9 
+          
+
+            34.1 
+          
+
+
+
+
+              Plus: gain on sale of equity interest in Samsung Bioepis B
+            
+
+
+            - 
+          
+
+            - 
+          
+
+            (1,505.3)
+          
+
+            - 
+          
+
+
+
+
+              Plus: litigation settlement agreement and settled fees C
+            
+
+
+            - 
+          
+
+            - 
+          
+
+            917.0 
+          
+
+            - 
+          
+
+
+
+
+              Plus: (gain) on sale of building F
+            
+
+
+            - 
+          
+
+            - 
+          
+
+            (503.7)
+          
+
+            - 
+          
+
+
+
+
+              Plus: premium paid on debt exchange or early debt redemption D
+            
+
+
+            - 
+          
+
+            - 
+          
+
+            2.2 
+          
+
+            9.5 
+          
+
+
+
+            Plus: international reorganization & income tax effect related to Non-GAAP reconciling items
+          
+
+            (48.7)
+          
+
+            (52.7)
+          
+
+            84.4 
+          
+
+            (384.2)
+          
+
+
+
+            Plus: other
+          
+
+            0.7 
+          
+
+            3.1 
+          
+
+            4.2 
+          
+
+            8.3 
+          
+
+
+
+            Total net income attributable to Biogen Inc., Non-GAAP
+          
+
+            $
+          
+
+            587.2 
+          
+
+            $
+          
+
+            500.4 
+          
+
+            $
+          
+
+            2,580.0 
+          
+
+            $
+          
+
+            2,860.8 
+          
+
+
+
+
+
+
+
+            Diluted Earnings Per Share
+          
+
+
+
+            Total diluted earnings per share, GAAP
+          
+
+            $
+          
+
+            3.79 
+          
+
+            $
+          
+
+            2.50 
+          
+
+            $
+          
+
+            20.87 
+          
+
+            $
+          
+
+            10.40 
+          
+
+
+
+            (Less) Plus: adjustments to GAAP net income attributable to Biogen Inc. (as detailed above)
+          
+
+            0.26 
+          
+
+            0.89 
+          
+
+            (3.20)
+          
+
+            8.73 
+          
+
+
+
+            Total diluted earnings per share, Non-GAAP
+          
+
+            $
+          
+
+            4.05 
+          
+
+            $
+          
+
+            3.39 
+          
+
+            $
+          
+
+            17.67 
+          
+
+            $
+          
+
+            19.13 
+          
+
+
+
+
+
+
+
+
+      (1)Beginning in the second quarter of 2021 material upfront payments and premiums paid on the acquisition of common stock associated with significant collaboration and licensing arrangements along with the related transaction costs incurred are no longer excluded from Non-GAAP research and development expense and selling, general and administrative expense. Beginning in the first quarter of 2022 material payments paid on the acquisition of in-process research and development assets are no longer excluded in the determination of Non-GAAP net income. Prior period Non-GAAP results have been updated to reflect these changes.
+    
+
+
+
+
+      (2) Beginning in the third quarter of 2021 amortization expense recorded in intangible assets that arose from collaboration and licensing arrangements is no longer excluded from our Non-GAAP results on a prospective basis. Non-GAAP financial results prior to the third quarter of 2021 have not been updated to reflect this change.
+    
+
+      13
+    
+
+
+
+
+      TABLE 4 (continued)
+    
+
+
+
+
+      BIOGEN INC. AND SUBSIDIARIES
+    
+
+      GAAP TO NON-GAAP RECONCILIATION
+    
+
+      REVENUE GROWTH AT CONSTANT CURRENCY
+    
+
+      (unaudited)
+    
+
+      Percentage changes in revenue growth at constant currency are presented excluding the impact of changes in foreign currency exchange rates and hedging gains or losses. The current period's foreign currency revenue values are converted into U.S. dollars using the average exchange rates from the prior period.
+    
+
+
+
+
+
+
+
+
+            Q4 2022
+            vs.
+            Q4 2021
+          
+
+            YTD 2022
+            vs.
+            YTD 2021
+          
+
+
+
+            Total Revenue
+          
+
+
+
+            Revenue change, as reported
+          
+
+            (6.9)
+          
+
+            %
+          
+
+            (7.4)
+          
+
+            %
+          
+
+
+
+            Less: impact of foreign currency translation and hedging gains / losses
+          
+
+            (2.9)
+          
+
+            (2.0)
+          
+
+
+
+            Revenue change at constant currency
+          
+
+            (4.0)
+          
+
+            %
+          
+
+            (5.4)
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Total Product Revenue
+          
+
+
+
+            Revenue change, as reported
+          
+
+            (13.2)
+          
+
+            %
+          
+
+            (9.7)
+          
+
+            %
+          
+
+
+
+            Less: impact of foreign currency translation and hedging gains / losses
+          
+
+            (3.6)
+          
+
+            (2.4)
+          
+
+
+
+            Revenue change at constant currency
+          
+
+            (9.6)
+          
+
+            %
+          
+
+            (7.3)
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Total MS Product Revenue
+          
+
+
+
+            Revenue change, as reported
+          
+
+            (17.0)
+          
+
+            %
+          
+
+            (10.9)
+          
+
+            %
+          
+
+
+
+            Less: impact of foreign currency translation and hedging gains / losses
+          
+
+            (2.8)
+          
+
+            (1.6)
+          
+
+
+
+            Revenue change at constant currency
+          
+
+            (14.2)
+          
+
+            %
+          
+
+            (9.3)
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Total SPINRAZA Product Revenue
+          
+
+
+
+            Revenue change, as reported
+          
+
+            4.1 
+          
+
+            %
+          
+
+            (5.9)
+          
+
+            %
+          
+
+
+
+            Less: impact of foreign currency translation and hedging gains / losses
+          
+
+            (5.6)
+          
+
+            (3.9)
+          
+
+
+
+            Revenue change at constant currency
+          
+
+            9.7 
+          
+
+            %
+          
+
+            (2.0)
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Total Biosimilars Product Revenue
+          
+
+
+
+            Revenue change, as reported
+          
+
+            (20.9)
+          
+
+            %
+          
+
+            (9.6)
+          
+
+            %
+          
+
+
+
+            Less: impact of foreign currency translation and hedging gains / losses
+          
+
+            (5.6)
+          
+
+            (5.2)
+          
+
+
+
+            Revenue change at constant currency
+          
+
+            (15.3)
+          
+
+            %
+          
+
+            (4.4)
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Total Other Product Revenue
+          
+
+
+
+            Revenue change, as reported
+          
+
+            (42.1)
+          
+
+            %
+          
+
+            (7.3)
+          
+
+            %
+          
+
+
+
+            Less: impact of foreign currency translation and hedging gains / losses
+          
+
+            (6.4)
+          
+
+            (7.2)
+          
+
+
+
+            Revenue change at constant currency
+          
+
+            (35.7)
+          
+
+            %
+          
+
+            (0.1)
+          
+
+            %
+          
+
+
+
+
+
+
+
+            Total Other Revenue (contract manufacturing and royalty revenue)
+          
+
+
+
+            Revenue change, as reported
+          
+
+            51.9 
+          
+
+            %
+          
+
+            1.9 
+          
+
+            %
+          
+
+
+
+            Less: impact of foreign currency translation and hedging gains / losses
+          
+
+            (0.3)
+          
+
+            (0.3)
+          
+
+
+
+            Revenue change at constant currency
+          
+
+            52.2 
+          
+
+            %
+          
+
+            2.2 
+          
+
+            %
+          
+
+
+
+
+      14
+    
+
+
+
+
+      TABLE 4 (continued)
+    
+
+
+
+
+      BIOGEN INC. AND SUBSIDIARIES
+    
+
+      GAAP TO NON-GAAP RECONCILIATION
+    
+
+      FREE CASH FLOW
+    
+
+      (unaudited, in millions)
+    
+
+      We define free cash flow as net cash provided by (used in) operating activities in the period less capital expenditures made in the period. The following table reconciles net cash provided by (used in) operating activities, a GAAP measure, to free cash flow, a Non-GAAP measure.
+    
+
+
+
+
+
+
+
+
+
+
+
+            For the Three Months Ended December 31,
+          
+
+            For the Twelve Months Ended December 31,
+          
+
+
+
+            2022
+          
+
+            2021
+          
+
+            2022
+          
+
+            2021
+          
+
+
+
+            Cash Flow:
+          
+
+
+
+            Net cash provided by (used in) operating activities
+          
+
+            $
+          
+
+            (175.0)
+          
+
+            $
+          
+
+            838.3 
+          
+
+            $
+          
+
+            1,384.3 
+          
+
+            $
+          
+
+            3,639.9 
+          
+
+
+
+            Net cash provided by (used in) investing activities
+          
+
+            (141.1)
+          
+
+            (112.7)
+          
+
+            1,576.6 
+          
+
+            (563.7)
+          
+
+
+
+            Net cash provided by (used in) financing activities
+          
+
+            (7.4)
+          
+
+            9.8 
+          
+
+            (1,747.3)
+          
+
+            (2,086.2)
+          
+
+
+
+            Net increase (decrease) in cash and cash equivalents
+          
+
+            $
+          
+
+            (323.5)
+          
+
+            $
+          
+
+            735.4 
+          
+
+            $
+          
+
+            1,213.6 
+          
+
+            $
+          
+
+            990.0 
+          
+
+
+
+
+
+
+
+            Net cash provided by (used in) operating activities
+          
+
+            $
+          
+
+            (175.0)
+          
+
+            $
+          
+
+            838.3 
+          
+
+            $
+          
+
+            1,384.3 
+          
+
+            $
+          
+
+            3,639.9 
+          
+
+
+
+            Less: Purchases of property, plant and equipment
+          
+
+            86.4 
+          
+
+            51.6 
+          
+
+            240.3 
+          
+
+            258.1 
+          
+
+
+
+            Free cash flow
+          
+
+            $
+          
+
+            (261.4)
+          
+
+            $
+          
+
+            786.7 
+          
+
+            $
+          
+
+            1,144.0 
+          
+
+            $
+          
+
+            3,381.8 
+          
+
+
+
+
+
+
+
+      15
+    
+
+
+
+
+      Notes to GAAP to Non-GAAP Reconciliation
+    
+
+      A Amortization and impairment of acquired intangible assets for the year ended December 31, 2022, compared to 2021, decreased primarily due to higher impairment charges recognized during 2021.
+    
+
+      For the year ended December 31, 2022, amortization and impairment of acquired intangible assets reflects the impact of a $119.6 million impairment charge related to vixotrigine (BIIB074) for the potential treatment of diabetic painful neuropathy (DPN). During the fourth quarter of 2022 we discontinued further development of vixotrigine based on regulatory, development and commercialization challenges. We also adjusted the value of our contingent consideration obligations related to this asset resulting in a pre-tax gain of approximately $209.1 million, which was recognized in (gain) loss on fair value remeasurement of contingent consideration within our consolidated statements of income.
+    
+
+      For the year ended December 31, 2021, amortization and impairment of acquired intangible assets reflects the impact of a $365.0 million impairment charge related to BIIB111, a $220.0 million impairment charge related to BIIB112 and a $44.3 million impairment charge related to vixotrigine for the potential treatment of trigeminal neuralgia (TGN).
+    
+
+
+
+
+      BIn April 2022 we completed the sale of our 49.9% equity interest in Samsung Bioepis to Samsung BioLogics Co., Ltd (Samsung BioLogics). Under the terms of this transaction, we received approximately $1.0 billion in cash at closing and expect to receive approximately $1.3 billion in cash to be deferred over two payments of approximately $812.5 million due at the first anniversary and approximately $437.5 million due at the second anniversary of the closing of this transaction.
+    
+
+      For the year ended December 31, 2022, we recognized a pre-tax gain of approximately $1.5 billion related to this transaction, which was recorded in other (income) expense, net in our consolidated statements of income.
+    
+
+
+
+
+      C During the second quarter of 2022 we recorded a pre-tax charge of $900.0 million, plus settlement fees and expenses, related to a litigation settlement agreement to resolve a qui tam litigation relating to conduct prior to 2015.
+    
+
+
+
+
+      DIn July 2022 we redeemed our 3.625% Senior Notes prior to their maturity and recognized a net pre-tax charge of approximately $2.4 million upon the extinguishment of these Senior Notes, which primarily reflects the payment of an early call premium as well as the write-off of remaining unamortized original debt issuance costs and discount balances. These charges were recognized as interest expense in other (income) expense, net in our consolidated statements of income for the year ended December 31, 2022.
+    
+
+
+
+
+      E For the year ended December 31, 2022, compared to 2021, the increase in our effective tax rate, excluding the impact of the net Neurimmune deferred tax asset, as discussed below, includes the tax impacts of the litigation settlement agreement and the sale of our building at 125 Broadway. These increases were partially offset by the impact of the current year tax benefits related to an international reorganization to align with global tax developments, the impacts of the sale of our equity interest in Samsung Bioepis and the tax impacts of the decision to discontinue development of vixotrigine. Further in 2021, our effective tax rate benefited from the tax effects of the BIIB111 and BIIB112 impairment charges and the non-cash tax effects of changes in the value of our equity instruments.
+    
+
+      During 2021 we recorded a net deferred tax asset in Switzerland of approximately $100.0 million on Neurimmune's tax basis in ADUHELM, the realization of which was dependent on future sales of ADUHELM.
+    
+
+      During the first quarter of 2022, upon issuance of the final NCD related to ADUHELM, we recorded an increase in a valuation allowance of approximately $85.0 million to reduce the net value of this deferred tax asset to zero. These adjustments to our net deferred tax asset are each recorded with an equal and offsetting amount assigned to net income (loss) attributable to noncontrolling interests, net of tax in our consolidated statements of income, resulting in a zero net impact to net income attributable to Biogen Inc.
+    
+
+
+
+
+      F In September 2022 we completed the sale of our building and land parcel located at 125 Broadway for an aggregate sales price of approximately $603.0 million, which is inclusive of a $10.8 million tenant allowance. This sale resulted in a pre-tax gain on sale of approximately $503.7 million, net of transaction costs, which is reflected within gain on sale of building in our consolidated statements of income for the year ended December 31, 2022.
+    
+
+
+
+
+      16
+    
+
+
+
+
+      Use of Non-GAAP Financial Measures
+    
+
+      We supplement our GAAP consolidated financial statements and GAAP financial measures with other financial measures, such as adjusted net income, adjusted diluted earnings per share, revenue growth at constant currency, which excludes the impact of changes in foreign exchange rates and hedging gains or losses, and free cash flow, which is defined as net cash flow from operations less capital expenditures. We believe that these and other Non-GAAP financial measures provide additional insight into the ongoing economics of our business and reflect how we manage our business internally, set operational goals and form the basis of our management incentive programs. Non-GAAP financial measures are in addition to, not a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP.
+    
+
+      Our "Non-GAAP net income attributable to Biogen Inc." and "Non-GAAP earnings per share - Diluted" financial measures exclude the following items from "GAAP net income attributable to Biogen Inc." and "GAAP earnings per share - Diluted":
+    
+
+      1. Acquisitions and divestitures
+    
+
+      We exclude transaction, integration and certain other costs related to the acquisition and divestiture of businesses and items associated with the initial consolidation or deconsolidation of variable interest entities. These adjustments include, but are not limited to, the amortization and impairment of intangible assets, charges or credits from the fair value remeasurement of our contingent consideration obligations and losses on assets and liabilities held for sale.
+    
+
+      2. Restructuring, business transformation and other cost saving initiatives
+    
+
+      We exclude costs associated with our execution of certain strategies and initiatives to streamline operations, achieve targeted cost reductions, rationalize manufacturing facilities or refocus research and development activities. These costs may include employee separation costs, retention bonuses, facility closing and exit costs, asset impairment charges or additional depreciation when the expected useful life of certain assets have been shortened due to changes in anticipated usage and other costs or credits that management believes do not have a direct correlation to our ongoing or future business operations.
+    
+
+      3. (Gain) loss on equity security investments
+    
+
+      We exclude unrealized and realized gains and losses related to our equity security investments as we do not believe that these components of income or expense have a direct correlation to our ongoing or future business operations.
+    
+
+      4. Other items
+    
+
+      We evaluate other items of income and expense on an individual basis and consider both the quantitative and qualitative aspects of the item, including (i) its size and nature, (ii) whether or not it relates to our ongoing business operations and (iii) whether or not we expect it to occur as part of our normal business on a regular basis. We also include an adjustment to reflect the related tax effect of all reconciling items within our reconciliation of our GAAP to Non-GAAP net income attributable to Biogen Inc. and earnings per share - diluted.
+    
+
+      17
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Biogen Inc. published this content on 15 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 15 February 2023 12:16:02 UTC.
+      
+

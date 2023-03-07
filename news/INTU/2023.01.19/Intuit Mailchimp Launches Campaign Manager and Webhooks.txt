@@ -1,0 +1,33 @@
+
+Today, Intuit Mailchimp (Nasdaq: INTU), the global leader in email marketing and automation*, is launching Campaign Manager, a new way for marketers to plan, execute, and track their marketing campaigns across multiple channels—like email, text messaging, social media ads, and direct mail—and view how their campaign is performing in one calendar view. Campaign Manager will be available to Mailchimp customers with Standard and Premium plans worldwide on January 25th.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230119005292/en/Campaign Manager gives marketers a holistic view of their campaigns in Mailchimp. (Photo: Business Wire)
+With Campaign Manager (patent pending), a Mailchimp customer can bring all of their marketing activity happening within a designated period into the same space in a way that can help marketers track what’s happening, plan ahead, and make adjustments along the way. Marketers who are building omni-channel experiences are likely to be building these experiences using, on average, 7 martech tools that manage marketing tactics like SMS, social ads, loyalty programs, customer support interactions, and more. Campaign Manager enables users to see all associated campaign activities at a glance—like special events, limited-time promotions, holiday activations, seasonal campaigns, and more—and gives recommendations on the best days to plan marketing touchpoints based on industry benchmarks. These recommendations are generated from millions of data points analyzed by Mailchimp.
+
+“Omni-channel experiences are critical for marketing to modern consumers, and our marketer customers have shared the recurring pain of creating and managing these experiences across channels and tools,” said Jon Fasoli, Chief Product and Design Officer at Intuit Mailchimp. “We designed Campaign Manager to give them a single tool to plan, automate and analyze their campaigns across channels and marketing tools."
+
+SMS and more with webhooks
+
+Marketers and small business owners can now trigger actions in their third-party apps using webhooks—a custom HTTP callback that is triggered by an event—in Campaign Manager for even more robust multichannel campaign planning. Setting up webhooks in Campaign Manager can help marketers work more efficiently by allowing them to update a spreadsheet, send a status update to customers, or add customers to paid social media ads. Marketers can connect their third-party SMS provider and then use webhooks to send campaigns, like sharing a holiday coupon code through a text message.
+
+Key features of Campaign Manager include:
+
+Mailchimp customer Tigrilla Gardenia is a nature-inspired mentor and leadership coach, whose career has spanned from program management in technology to circus performance, marketing, and now plant-inspired mentorship for “naturepreneurs.” She first used Campaign Manager during its private beta to plan and manage campaigns ahead of a summit and product re-launch.
+
+“Overall, I find Campaign Manager to be super helpful to keep your campaigns focused. I liked being able to see everything together. I love that Campaign Manager gives you the best date to email within a range of time,” said Tigrilla Gardenia. “The way that I work right now is that my team comes up with our general marketing themes based on where we're headed for the near future. So we sit down, and we're like, ‘Okay, these are the major areas that we want to touch on for the next 2 months,’ and then they might lay out the social media direction that they want to do with that and I'll write the email newsletters. So if I could take what the overarching messaging endpoints are, overlap that onto a schedule rather than having them separate, it would be great. Because then I could just go into Mailchimp and say, ‘Okay, I'm going to write a message about this, and these are the times that I want to connect with my audience,’ and then I can do that all in one place. I would definitely continue to use it to keep from drafting my marketing copy and emails in separate places.”
+
+To learn more about Campaign Manager, go to mailchimp.com/help/about-campaign-manager. Mailchimp’s Onboarding Specialists and network of experts will be available to help with technical setup of webhook integrations. To learn more about webhooks, visit Webhooks Documentation | Mailchimp Developer.
+
+For media kit and visuals, please reach out to pr@mailchimp.com. Follow us on social media: TikTok, Twitter, LinkedIn, and Instagram.
+
+*Based on competitor brands' publicly available data on worldwide numbers of customers in 2021/2022.
+
+This information is intended to outline our general product direction, but represents no obligation and should not be relied on in making a purchasing decision. Additional terms, conditions and fees may apply with certain features and functionality. Eligibility criteria may apply. Product offers, features, functionality are subject to change without notice.
+
+About Mailchimp
+
+Mailchimp is an email and marketing automations platform for growing businesses. We empower millions of customers around the world to start and grow their businesses with world-class marketing technology, award-winning customer support, and inspiring content. Mailchimp puts data-backed recommendations at the heart of your marketing, so you can find and engage customers across email, social media, landing pages, and advertising— automatically and with the power of AI. In 2021, Mailchimp was acquired by Intuit.
+
+About Intuit
+
+Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. Serving approximately 100 million customers worldwide with TurboTax, QuickBooks, Mint and Credit Karma, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible. Please visit us for the latest information about Intuit, our products and services, and find us on social.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230119005292/en/

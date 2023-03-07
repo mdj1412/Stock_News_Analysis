@@ -1,0 +1,29 @@
+
+
+BARCELONA, Spain, Feb. 27, 2023 /PRNewswire/ -- Mobile World Congress --Today at Mobile World Congress in Barcelona, Cisco and T-Mobile announced plans to offer businesses Cisco Meraki's first-ever 5G cellular gateways for fixed wireless access (FWA), the MG51 and MG51E.
+
+
+
+
+
+
+
+Considering the often lengthy and uncertain installation timelines, gated and restrictive bandwidth plans and inconsistent nationwide availability — wired broadband is hardly the ideal solution for all businesses. Now, Cisco and T-Mobile are smashing all these pain points. Thanks to this solution, businesses of all sizes will be able to create enriching and differentiated experiences for their customers using simplified, scalable, and reliable network managed services powered by T-Mobile's 5G network and the cloud-first Cisco Meraki platform.  
+Connecting Businesses with Cisco Meraki Networking on T-Mobile 5G and Managed ServicesThe Cisco Meraki MG51 and MG51E cellular gateways introduce a new, 5G-powered, cloud-first way of doing wide area networking (WAN). With the full-stack Cisco Meraki secure software-defined branch (SD-branch) platform, T-Mobile for Business customers will be able to take advantage of the cloud-native Cisco Meraki platform on America's largest, fastest and most reliable 5G network. The T-Mobile managed service will offer a range of advanced capabilities based on the Cisco Meraki platform, including:
+Same-day connectivity: Quickly connect branches; true zero-touch provisioning with no trained on-site support needed.Resilient WAN: Always-on, Cisco Meraki cloud-managed 5G FWA running on T-Mobile's network offers reliable WAN services for business-critical operations, alongside improved experiences for customers and employees.Robust performance: Up to 2 Gbps down / 300 Mbps up. Lower latency: Enabling a variety of new use cases at the network's edge with lower latency than 4G.Security and performance: Leading network security and SD-Branch capabilities on the Cisco Meraki platform including Cisco Meraki Auto VPN, firewall, traffic shaping, threat protection, content filtering, and native security protocols such as WPA2-Enterprise."We have crossed many 5G milestones and world-firsts with Cisco and today is no exception as T-Mobile is the first to offer this cutting-edge Cisco Meraki technology," said Mishka Dehghan, SVP, Strategy, Product, and Solutions Engineering, T-Mobile Business Group. "This marks another significant achievement in how T-Mobile delivers to businesses the fastest and simplest way to scale 5G business internet anywhere."
+"The future of connectivity is wireless, and Cisco and T-Mobile are helping customers across all industries realize how 5G wireless technology can transform their business," said Masum Mir, Senior Vice President, Provider Mobility, Cisco Networking. "Together, we are leading the new era of 5G, helping businesses from small to large with simple, secure and reliable connectivity solutions that help them go fast and grow fast."
+Additional Resources:
+Simplify and Scale Anywhere Connectivity: Introducing the Meraki MG51 and MG51E for 5G Fixed Wireless AccessCisco Meraki MG51  Cisco Meraki MG51E Learn more about T-Mobile Business Internet ServicesAbout Cisco
+Cisco (NASDAQ: CSCO) is the worldwide leader in technology that powers the Internet. Cisco inspires new possibilities by reimagining your applications, securing your data, transforming your infrastructure, and empowering your teams for a global and inclusive future. Discover more on The Newsroom and follow us on Twitter at @Cisco.Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries. A listing of Cisco's trademarks can be found at www.cisco.com/go/trademarks. Third-party trademarks mentioned are the property of their respective owners. The use of the word partner does not imply a partnership relationship between Cisco and any other company.
+Cisco Public RelationsSara Cicerostutzes@cisco.com 
+About T-Mobile US, Inc. 
+T-Mobile US Inc. (NASDAQ: TMUS) is America's supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile's customers benefit from its unmatched combination of value and quality, unwavering obsession with offering them the best possible service experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond. Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Sprint. For more information please visit: https://www.t-mobile.com.
+Media Contacts
+T-Mobile US, Inc. Media Relations MediaRelations@t-mobile.com  Investor Relations Contact
+T-Mobile US, Inc. investor.relations@t-mobile.comhttp://investor.t-mobile.com
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/cisco-launches-meraki-5g-gateways-with-t-mobile-to-deliver-simple-and-scalable-business-internet-301756206.html
+SOURCE  Cisco Systems, Inc.
+
+

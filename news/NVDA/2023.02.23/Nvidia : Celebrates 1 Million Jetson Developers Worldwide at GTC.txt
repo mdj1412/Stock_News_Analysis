@@ -1,0 +1,147 @@
+
+
+      A million developers across the globe are now using the NVIDIA Jetson platform for edge AI and robotics to build innovative technologies. Plus, more than 6,000 companies - a third of which are startups - have integrated the platform with their products.
+    
+
+      These milestones and more will be celebrated during the NVIDIA Jetson Edge AI Developer Days at GTC, a global conference for the era of AI and the metaverse, taking place online March 20-23.
+    
+
+Register free to learn more about the Jetson platform and begin developing the next generation of edge AI and robotics.
+    
+
+One in a Million
+
+
+      Atlanta-based Kris Kersey, the mind behind the popular YouTube channel Kersey Fabrications, is one developer using the NVIDIA Jetson platform for his one-in-a-million technological innovations.
+    
+
+      He created a fully functional Iron Man helmet that could be straight out of the Marvel Comics films. It uses the NVIDIA Jetson Xavier NX 8GB developer kit as the core of the "Arc Reactor" powering its heads-up display - a transparent display that presents information wherever the user's looking.
+    
+
+      In just over two years, Kersey built from scratch the wearable helmet, complete with object detection and other on-screen sensors that would make Tony Stark proud.
+    
+
+      "The software design was more than half the work on the project, and for me, this is the most exciting, interesting part," Kersey said. "The software takes all of the discrete hardware components and makes them into a remarkable system."
+    
+
+      To get started, Kersey turned to GitHub where he found "Hello AI World," a guide for deploying deep-learning inference networks and deep vision primitives with the NVIDIA TensorRT software development kit and NVIDIA Jetson. He then wrote a wrapper code to connect his own project.
+    
+
+      Watch Kersey document his Iron Man project from start to finish:
+    
+
+      This 3D-printed helmet is just the beginning for Kersey, who's aiming to build a full Iron Man suit later this year. He plans to make the entire project's code open source, so anyone who dreams of becoming a superhero can try it for themselves.
+    
+
+Jetson Edge AI Developer Days at GTC
+
+
+      Developers like Kersey can register for the free Jetson Edge AI Developer Days at GTC, which feature NVIDIA experts who'll cover the latest Jetson hardware, software and partners. Sessions include:
+    
+
+
+        Level Up Edge AI and Robotics With NVIDIA Jetson Orin Platform
+      
+
+        Accelerate Edge AI With NVIDIA Jetson Software
+      
+
+        Getting the Most Out of Your Jetson Orin Using NVIDIA Nsight Developer Tools
+      
+
+        Bring Your Products to Market Faster With the NVIDIA Jetson Ecosystem
+      
+
+        Design a Complex Architecture on NVIDIA Isaac ROS
+      
+
+
+      Plus, there'll be a Connect with Experts session focusing on the Jetson platform that provides a deep-dive Q&A with embedded platform engineers from NVIDIA on Tuesday, March 21, at 12 p.m. PT. This interactive session offers a unique opportunity to meet, in a group or individually, with the minds behind NVIDIA products and get your questions answered. Space is limited and on a first-come, first-served basis.
+    
+
+Additional Sessions by Category
+
+
+      GTC sessions will also cover robotics, intelligent video analytics and smart spaces. Below are some of the top sessions in these categories.
+    
+
+      Robotics:
+    
+
+
+Deep Reinforcement Learning With Real-World Data
+
+
+Building a Robot Digital Twin in Isaac Sim: A Step-by-Step Example
+
+
+Creating Digital Twins and Simulations of Industrial Robotic Workcells for Smart Factories
+
+
+Real-World Implementations of Simulation for Next-Generation Robotics
+
+
+
+      Computer Vision and AI Video Analytics:
+    
+
+
+End-to-End, Cloud-Native Vision AI: From Synthetic Data to Solution Deployment
+
+
+AI Models Made Simple Using TAO
+
+
+An Intro Into NVIDIA DeepStream and AI-Streaming Software Tools
+
+
+Advancing AI Applications With Custom GPU-Powered Plugins for NVIDIA DeepStream
+
+
+Leveraging NVIDIA Pretrained Models to Build Loss-Prevention Applications Faster
+
+
+
+      Smart Cities and Spaces:
+    
+
+
+Automating Airports From Curbside to Tarmac
+
+
+Achieving Seamless Traffic Management With AI Vision and Digital Twins
+
+
+Leveraging Omniverse and Metropolis Microservices Platforms to Optimize Warehouse Operations
+
+
+3D Synthetic Data: Simplifying and Accelerating the Training of Vision AI Models for Industrial Workflows
+
+
+
+Check out the latest Jetson community projects for ideas to replicate or be inspired by.
+
+
+Grab the latest Jetson modules and developer kits from the NVIDIA Jetson store.
+
+
+And sign up for the NVIDIA Developer Program to connect with Jetson developers from around the world and get access to the latest software and software development kits, including NVIDIA JetPack.
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Nvidia Corporation published this content on 23 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 23 February 2023 20:01:10 UTC.
+      
+

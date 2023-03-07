@@ -1,0 +1,28 @@
+
+
+News Highlights:
+Qnovo, an award-winning battery intelligence software provider, announces a new collaboration with NXP® Semiconductors.NXP will offer Qnovo's new SpectralX© Battery Management Software in its e-mobility enablement solutions for electric vehicles, including two-wheeled and other EVs.SpectralX reduces charging times to ~20 minutes, improves range by up to 10 percent, extends battery life cycle to nearly 1M km and targets zero battery thermal events in electric vehicles.Today at 5pm Stuttgart | 9:30pm Mumbai | 11am Detroit, Qnovo and NXP will host a 30 minute web conference that media and analysts are encouraged to attend. Register online here.MILPITAS, Calif., Feb. 28, 2023 /PRNewswire/ -- Qnovo, the market leader in e-mobility battery management software, today announced a collaboration with NXP® Semiconductors (NASDAQ: NXPI), a world leader in secure connectivity solutions for embedded applications. NXP will offer Qnovo's new innovation for electrified mobility, SpectralX©, in its e-mobility enablement solutions for electric vehicles (EV) in 2023. SpectralX is intelligent battery management system (BMS) software that uses predictive analytics to improve battery performance, range, and safety in several types of EVs with any type of lithium-ion battery.
+
+
+
+
+
+
+
+NXP will offer Qnovo's new SpectralX© Battery Management Software in its e-mobility enablement solutions for EVsQnovo is working with NXP on a reference design to ensure the seamless integration of Qnovo's software with the NXP BMS and onboard charger hardware. A validated design means software, hardware and tools work together, reducing development costs for electric vehicles. In addition, it makes fast charging possible without compromising battery health. SpectralX also adds predictive capabilities to NXP's BMS and supports swappable batteries. SpectralX has a small memory footprint that leaves room for other features, while the NXP secure boot prevents code tampering and enables secure code delivery, the key to mass-market adoption.
+"The growing demand for energy-efficient modes of transport is directly boosting the growth rate of the electric two- and three-wheeler market and battery software optimization offered by Qnovo will strengthen our system solutions," said Robert Li, NXP's Vice President and General Manager, Product Line Driver and Energy Systems. "Its edge software is particularly suited to emerging markets, where cloud access to manage batteries remotely is not guaranteed."
+SpectralX is a software-only solution that works as an application layer in the operating system, residing on top of a manufacturer's existing BMS with an efficient footprint, deploying in a matter of weeks in a vehicle. With the addition of Qnovo's Battery Genome©, a data library of battery models for a broad range of cell chemistries and manufacturers, helps automate the cell selection process and save time in battery qualification.
+"Our collaboration with NXP will help resolve some of the major barriers to the market adoption of electric vehicles, especially in emerging markets," said Nadim Maluf, CEO and Co-Founder of Qnovo. "This collaboration builds on our work with the world's top automotive OEMs, addressing range anxiety, safety and battery charging time concerns."
+This collaboration with NXP comes on the heels of Qnovo's announcement at CES 2023 that Vanderhall Motor Works will be using SpectralX© in its EVs. Vanderhall aims to deploy the solution to multiple all-electric vehicles the company will be launching globally in 2023.
+About QnovoQnovo is redefining the foundation of mobility and technology for a more resilient and mobile future—the lithium-ion battery. Since 2010, Qnovo has enabled the electrification revolution with its intelligent battery management software and predictive analytics that improves the performance of electric vehicles, energy storage systems, and consumer devices with enhanced health and safety. Qnovo is working with the world's top automotive OEMs, holds over 50 patents in the space, and the first generation of Qnovo technology is on more than 150 million smartphones worldwide. The company is headquartered in Milpitas, California. Its investors include BorgWarner, OGCI Climate Investments, Constellation Technology Ventures, BlueRun Ventures, U.S. Venture Partners and RockPort Capital. Visit www.qnovo.com.
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/qnovo-and-nxp-collaborate-to-accelerate-electric-vehicle-battery-performance-range-and-safety-301757221.html
+SOURCE  Qnovo Inc.
+
+

@@ -1,0 +1,23 @@
+
+[Link]
+
+      Figure 1: Consumer-driven contract testing workflow in Spring Cloud Contract
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+eBay Inc. published this content on 26 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 26 January 2023 21:22:14 UTC.
+      
+

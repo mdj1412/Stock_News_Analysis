@@ -1,0 +1,99 @@
+
+
+
+This post was co-authored by Cisco Technical Education Content Developers Patrick Lao and Paul Ostrowski.
+
+
+Every effective Security Operations Center (SOC) has three traits: (1) the right technologies and tools, (2) the right people with trained thinking skills, and (3) proven processes. When you have theright tools, you canprovide accurate and timely data about what is going on in the environment.Then, you need to apply critical thinking to decipher all the data and develop a hypothesis to explain the situation.And finally, establishing processes  enables SOC analysts to work in an orderly fashion, not chaotically. And since these three puzzle pieces are equally important, we made sure our CyberOps certifications validate candidates for their ability to excel in each area.
+
+
+        Read on as we continue the dialogue from Part 1 of this series, where we looked at how cyber attacks have evolved, the skills that professionals need to fend them off, and how the Cisco CyberOps certification program has changed to stay ahead of these new threats. In this blog post, Part 2 will examine why Cisco CyberOps certification is an excellent way to launch your cybersecurity career.
+      
+
+CyberOps certifications prepare you for real-world SOC analyst job tasks
+
+
+        Cisco CyberOps certification courses cover theoretical knowledge and critical thinking skills, as well as many hours of practical hands-on labs using a lab topology that simulates real-world environments and tools.
+      
+
+In the real world, SOCs use Network Security Monitoring (NSM) tools. NSM tools collect, maintain, process, and presentnetwork security monitoring data to SOC analysts.
+
+
+Each type of NSM tool has its own set of applicability and reveals certain pieces of information. When used together, multiple NSM data sources work in tandem to reveal all the information SOC analysts need.
+
+
+Every SOC must have a suite of NSM tools. Without NSM data, SOC analysts can't do their job. As such, your ability to navigate this environment is critical-from the start of your cybersecurity career. Enter the Cisco Certified CyberOps Associate Certification. The Cisco CyberOps certification that prepares you for associate-level roles, like an entry-level cybersecurity analyst.
+
+
+Train with real NSM tools for the CyberOps Associate certification
+
+
+In the CyberOps Associate Certification lab topology, the lab NSM tool used is the open-source tool, Security Onion. Security Onion is a Linux-based suite of tools intended to support the SOC. Security Onion includes several useful security tools designed to provide four core network security-monitoring functions:
+
+
+
+Full packet capture
+
+
+Network-based and host-based intrusion detection sensors
+
+
+Security analysis tools
+
+
+Log management
+
+
+
+        Each of these functions aligns with the three key traits every SOC needs (as I mentioned above); building your proficiency with the tools and processes you'll use in a real-world SOC job.
+      
+
+Learn to think like a cyber attacker with CyberOps Professional certification training
+
+
+Now, let's look at the NSM tools in the Cisco Certified CyberOps Professional Certification lap topology. The CyberOps Professional certification lab NSM tools contain Cisco Network, Endpoint, and Cloud-Based Security Tools, such as Cisco SecureX which is an Extended Detection and Response (XDR) platform, and 3rdparty solutions such as Splunk as the SIEM (Security Information and Event Management).
+
+
+In addition to becoming familiar with each NSM tool, preparing for the CyberOps Professional opens the door to the next stage in your cybersecurity career: threat hunting. Many of the labs explore the different phases of a cyberattack. You'll have the opportunity to act as a cyber attacker, using tools such as Kali Linux,  and as a cyber defender, using the various NSM tools available in the lab topology. These students gain valuable experience practicing the real-world skills required for a SOC analyst to detect, investigate, and mitigate cyberattacks.
+
+
+What's Next
+
+
+Whether you're considering a Cisco CyberOps certificationor currently moving into the SOC environment, we provide many different training options to help you launch your cybersecurity career. If you're entirely new to cybersecurity, take a look at the Cisco Certified Support Technician Cybersecurity Certification that we just announced in January -designed as a first step into the tech industry. Still unsure? Explore the opportunities that await you, amid the strikingly high, ongoing market demand for tech professionals with security skills.
+
+
+Best wishes on your exciting and rewarding journey to becoming a productive SOC Analyst. Please leave a comment below and start a conversation, we'd love to hear about where you are in your cybersecurity career.
+
+
+        Join the Cisco Learning Network today for free.
+      
+
+Follow Cisco Learning & Certifications
+
+
+        Use #CiscoCert to join the conversation.
+      
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 16 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 16 February 2023 22:05:02 UTC.
+      
+

@@ -1,0 +1,638 @@
+
+
+
+
+          Full Year and Q4 2022 Results
+        
+
+          Conference call and webcast for investors and analysts
+        
+
+
+
+          9 February 2023
+        
+
+
+
+
+
+          Forward-looking statements
+        
+
+          AstraZeneca (hereafter 'the Group') provides the following cautionary statement: this document contains certain forward-looking statements with respect to the operations, performance and financial condition of the Group, including, among other things, statements about expected revenues, margins, earnings per share or other financial or other measures. Although the Group believes its expectations are based on reasonable assumptions, any forward-looking statements, by their very nature, involve risks and uncertainties and may be influenced by factors that could cause actual outcomes and results to be materially different from those predicted. The forward-looking statements reflect knowledge and information available at the date of preparation of this document and the Group undertakes no obligation to update these forward-looking statements. The Group identifies the forward-looking statements by using the words 'anticipates', 'believes', 'expects', 'intends' and similar expressions in such statements. Important factors that could cause actual results to differ materially from those contained in forward-looking statements, certain of which are beyond the Group's control, include, among other things: ability of the Group and CinCor to complete the transactions contemplated by the acquisition agreement, including the parties' ability to satisfy the conditions to the consummation of the offer contemplated thereby and the other conditions set forth in the merger agreement; statements about the expected timetable for completing the transaction; the Group's and CinCor's beliefs and expectations and statements about the benefits sought to be achieved in the Group's proposed acquisition of CinCor; the potential effects of the acquisition on both the Group and CinCor; the possibility of any termination of the acquisition agreement; the expected benefits and success of baxdrostat and any combination product, the possibility that the milestone related to the contingent value right will not be achieved; the risk of failure or delay in delivery of pipeline or launch of new medicines; the risk of failure to meet regulatory or ethical requirements for medicine development or approval; the risk of failure to obtain, defend and enforce effective IP protection and IP challenges by third parties; the impact of competitive pressures including expiry or loss of IP rights, and generic competition; the impact of price controls and reductions; the impact of economic, regulatory and political pressures; the impact of uncertainty and volatility in relation to the UK's exit from the EU; the risk of failures or delays in the quality or execution of the Group's commercial strategies; the risk of failure to maintain supply of compliant, quality medicines; the risk of illegal trade in the Group's medicines; the impact of reliance on third-party goods and services; the risk of failure in information technology, data protection or cybercrime; the risk of failure of critical processes; any expected gains from productivity initiatives are uncertain; the risk of failure to attract, develop, engage and retain a diverse, talented and capable workforce; the risk of failure to adhere to applicable laws, rules and regulations; the risk of the safety and efficacy of marketed medicines being questioned; the risk of adverse outcome of litigation and/or governmental investigations; the risk of failure to adhere to increasingly stringent anti-bribery and anti-corruption legislation; the risk of failure to achieve strategic plans or meet targets or expectations; the risk of failure in financial control or the occurrence of fraud; the risk of unexpected deterioration in the Group's financial position; and the impact that global and/or geopolitical events such as the COVID-19 pandemic and the Russia- Ukraine war, may have or continue to have on these risks, on the Group's ability to continue to mitigate these risks, and on the Group's operations, financial results or financial condition. Nothing in this document, or any related presentation/webcast, should be construed as a profit forecast. There can be no guarantees that the conditions to the closing of the proposed transaction with CinCor will be satisfied on the expected timetable or at all or that baxdrostat or any combination product will receive the necessary regulatory approvals or prove to be commercially successful if approved.
+        
+
+
+
+          2
+        
+
+
+
+
+
+          Full Year and Q4 2022 results
+        
+
+          Conference call agenda
+        
+
+
+
+
+                CEO Opening Remarks
+              
+
+
+
+                Pascal Soriot
+              
+
+
+
+
+
+
+
+                Chief Executive Officer
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Financial Results
+              
+
+
+
+                Aradhana Sarin
+              
+
+
+
+
+
+
+
+                Chief Financial Officer
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Oncology
+              
+
+
+
+                Dave Fredrickson
+              
+
+
+
+                Susan Galbraith
+              
+
+
+
+
+
+                EVP, Oncology Business
+              
+
+
+
+                EVP, Oncology R&D
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                BioPharmaceuticals
+              
+
+
+
+                Ruud Dobber
+              
+
+
+
+                Mene Pangalos
+              
+
+
+
+
+
+                EVP, BioPharmaceuticals Business
+              
+
+
+
+                EVP, BioPharmaceuticals R&D
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Rare Disease
+              
+
+
+
+                Marc Dunoyer
+              
+
+
+
+
+
+
+
+                Chief Executive Officer, Alexion
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                CEO Closing Remarks, Q&A
+              
+
+
+
+                Pascal Soriot
+              
+
+
+
+
+
+
+
+                Chief Executive Officer
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          3
+        
+
+
+
+
+        CEO Opening Remarks
+      
+
+        Pascal Soriot
+      
+
+        C H I E F E X E C U T I V E O F F I C E R
+      
+
+
+
+
+
+
+
+                CEO Opening Remarks
+              
+
+
+
+                Financial Results
+              
+
+
+
+                Oncology
+              
+
+
+
+                BioPharmaceuticals
+              
+
+
+
+                Rare Disease
+              
+
+
+
+                CEO Closing Remarks
+              
+
+
+
+
+          Strong FY 2022 - well positioned to deliver future growth
+        
+
+
+
+
+                Delivered on our upgraded FY 2022 guidance
+              
+
+
+
+                Broad-based, diverse source of business
+              
+
+
+
+
+
+
+
+            Total Revenue
+          
+
+
+
+
+                  +25%
+                
+
+
+
+                  $44.4bn
+                
+
+
+
+
+
+                  CER
+                
+
+
+
+
+
+
+
+
+
+                  FY 2021
+                
+
+
+
+                  FY 2022
+                
+
+
+
+
+
+                  Q4 Total Revenue $11.2bn, +1% CER
+                
+
+
+
+
+
+
+            Core EPS
+          
+
+
+
+
+                  +33%
+                
+
+
+
+                  $6.66
+                
+
+
+
+
+
+
+
+
+
+                  CER
+                
+
+
+
+
+
+
+
+                  FY 2021
+                
+
+
+
+                  FY 2022
+                
+
+
+
+
+
+                  Q4 Core EPS $1.38, -5% CER
+                
+
+
+
+
+
+
+            FY 2022 | % Total Revenue by therapy area1
+
+
+
+
+
+                  Oncology
+                
+
+
+
+                  CVRM
+                
+
+
+
+                  R&I
+                
+
+
+
+                  V&I
+                
+
+
+
+                  Rare Disease Other
+                
+
+
+
+
+
+                  35%
+                
+
+
+
+                  21%
+                
+
+
+
+                  13%
+                
+
+
+
+                  11%
+                
+
+
+
+                  16%
+                
+
+
+
+                  4%
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            FY 2022 | % Total Revenue by geography
+          
+
+
+
+
+                  US
+                
+
+
+
+                  Emerging Markets
+                
+
+
+
+                  Europe
+                
+
+
+
+                  ERoW
+                
+
+
+
+
+
+                  40%
+                
+
+
+
+                  26%
+                
+
+
+
+                  20%
+                
+
+
+
+                  13%
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[2023 Guidance: Core EPS to increase by a high single-digit to low double-digit %
+        
+
+          1. Koselugo Total Revenue is included in Rare Disease (FY 2021: Oncology) and Andexxa Total Revenue is included in BioPharmaceuticals (FY 2021: Rare Disease). Growth rates for CVRM and Rare Disease are pro forma. Total 5 Revenue and Core EPS increases benefitted from the addition of Alexion effective 21st July 2021. CER = Constant Exchange Rates; EPS = Earnings Per Share; CVRM = Cardiovascular, Renal & Metabolism; R&I = Respiratory &
+        
+
+          Immunology; V&I = Vaccines & Immune Therapies; ERoW = Established Rest of World.
+        
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+AstraZeneca plc published this content on 09 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 09 February 2023 07:42:02 UTC.
+      
+

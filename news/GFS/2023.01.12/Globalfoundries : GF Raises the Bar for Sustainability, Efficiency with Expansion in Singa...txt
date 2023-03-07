@@ -1,0 +1,82 @@
+
+
+January 12, 2023
+
+
+      by HanBin Lim 
+    
+
+      In today's world, a semiconductor fab's performance isn't only measured by wafer output and yields, but also by how efficiently and sustainably it uses natural resources, and how effectively it minimizes the impacts of manufacturing on its neighborhood.
+    
+
+      Nowhere are those considerations more important than on the small island nation of Singapore, which is one of the most densely populated nations and has a limited supply of water and other natural resources. GlobalFoundries (GF) has long operated in Singapore, benefitting from the nation's skilled and dedicated workforce, forward-thinking policies of the government, outstanding universities, and strategic location. Because of these advantages, and thanks to GF Singapore's world-class team and operational performance, GF is in the midst of a significant expansion on our Singapore campus. We broke ground on the expansion in July 2021, and a year later moved the first production tools into the new building.
+    
+
+      The new expansion will be GF's most advanced semiconductor fab in Singapore, and state-of-the-art environmental performance and sustainable operation have been priorities from the very start of its design process. They are essential, not only because GF is a large, prominent company with diverse stakeholders who expect nothing less than excellent performance, but also because our campus is adjacent to highly populated residential areas. In fact, many of our employees reside nearby in the town of Woodlands.
+    
+
+      Among the major design elements that will make this performance possible are innovative water solutions enabling a high level of water recycling and reuse; new abatement technologies that can much more effectively remove greenhouse gases from our exhaust; and the complete replacement of fossil fuel burning boilers with electric heat pumps.
+    
+
+      The new building is also solar-ready so that we can reduce the use of fossil fuels in our electricity supply. The necessary cabling, switch rooms, inverters and other required infrastructure have been designed into the facilities, and once production tools have all been installed in the facility, the rooftop solar panels will be put in place and connected.
+    
+
+      Reusing and Recycling Water  
+    
+
+      Water conservation is a key concern in Singapore, and once complete the Singapore expansion will be GF's most water-efficient fab. Taking a long-term perspective, the new facility even features the space and flexibility needed to enable future advances in water technology and incorporate these future systems into the operation of the fab.
+    
+
+      GF's water journey in Singapore is more than a decade long and we continue to lessen our facility's impact on our country's limited water resources. One way we are doing that is with rainwater-collection systems to capture the rain so that we can use it onsite. While rainwater isn't potable, it's suitable for such tasks as flushing toilets and washing floors.
+    
+
+      We are also focusing on wastewater treatment, going above and beyond what Singapore regulations require. For example, we have technology and processes that are new to GF's Singapore fabs, which eliminate certain chemicals from the new fab's wastewater. This not only reduces our potential impact on downstream water treatment systems, but because we are part of the local community here and want to be a good neighbor to our community.
+    
+
+      Treating the Air for Lower Greenhouse Gases 
+    
+
+      At the fab expansion, we are installing a new generation of abatement systems which can much more effectively treat the greenhouse gases emitted from our manufacturing operations. This state-of-the-art capability enables our Singapore site to substantially reduce its overall emissions, even as we expand our capacity, in line with GF's Journey to Zero Carbon goal.
+    
+
+      We are also building a thermal oxidizer system to treat volatile organic compounds (VOCs) in the exhaust, reducing the concentration of any VOCs by 90-99.5% and minimizing the impact of the new expansion on neighboring communities.
+    
+
+      Electrification and Phasing Out Fossil Fuels 
+    
+
+      To further enhance the environmental performance of the new fab is to electrify wherever possible. We are replacing fossil-fuel-burning combustion boilers with electricity-driven heat pumps to heat water for manufacturing operations, and using local on-demand water heaters for other needs. Not only does this eliminate any exhaust smoke emitted into the air, it is also much more energy-efficient, decreasing overall energy demand and providing an avenue for our hot water needs to be rigorously optimized.
+    
+
+      The Human Dimension 
+    
+
+      As important as all of this work is, it also has a human dimension which transcends the technical details.
+    
+
+      The APAC Environmental Team is relatively young for our industry, with an average age of about 30 years old. The way we see it, we aren't just building a fab to meet today's needs and requirements, we're building a fab for the future. This fab is made to beat tomorrow's challenges and to last beyond the duration of our careers.
+    
+
+      So our challenge, or rather our opportunity, is to build this fab not just according to today's rules, but according to our vision of the future.
+    
+
+HanBin Lim is an Environmental Manager for GF in the APAC region. He has a Bachelor's in Chemical Engineering from National University of Singapore, and also leads the global Circularity Work Group in SEMI.
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+GLOBALFOUNDRIES Inc. published this content on 12 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 12 January 2023 18:19:07 UTC.
+      
+

@@ -1,0 +1,35 @@
+
+CrowdStrike (Nasdaq: CRWD), a leader in cloud-delivered protection of endpoints, cloud workloads, identity and data, today announced it ranked #1 in IDC’s Worldwide Modern Endpoint Security Market Shares, July 2021-June 2022 report. According to IDC, CrowdStrike produced the largest increases in endpoint revenue and market shares – out of 26 vendors in the report. This is the third consecutive time that IDC has ranked CrowdStrike #1 in worldwide modern endpoint security market shares.
+
+IDC’s definition of the worldwide modern endpoint security market includes Endpoint Detection and Response (EDR), Endpoint Protection Platform (EPP), capabilities to strengthen the secure posture of end-user devices and vendor-provided Managed Detection and Response (MDR). IDC states that the “correlated factors of a widening attack surface and the pain threat actors can cause are at the foundation of accelerating market demand. Security buyers, in turn, are spending more on endpoint security and related technologies and vendor-provided managed services.”
+
+"In addition to the heightened emphasis on vendor-provided MDR offerings, modern endpoint security vendors are also engaged in the preliminary stages of the battle for XDR supremacy. In 2023 and beyond, IDC anticipates vendors will shift from promoting their XDR readiness to demonstrating tangible proof of XDR's multifaceted value. Included in this value demonstration is the following: sharpening organizations' understanding of cyber-risk and the pathways to structurally reduce that risk, improving performance metrics (e.g., mean time to detect, investigate, and respond), and curbing the impact of cybersecurity's technology sprawl on organizations' overall security expenditures and collective complexity," according to Michael Suby, research vice president, Security and Trust at IDC.
+
+“The recognition from IDC reinforces CrowdStrike as the market leader in endpoint security, outpacing 26 vendors in the report that range from pure-play security vendors to software vendors like Microsoft,” said Michael Sentonas, president at CrowdStrike. “More than 21,000 customers rely on CrowdStrike for our industry-leading solutions. Customers are leveraging the CrowdStrike Falcon platform to consolidate their security stack and save on operational costs. They want to easily and cost-effectively protect the broader attack surface including the endpoint, cloud, identity and more. As such, we believe we are best-positioned to meet the needs of security platform consolidation for customers with our single, lightweight agent, cloud-native architecture, integrated threat intelligence and elite human expertise.”
+
+In addition to the #1 ranking in IDC’s worldwide modern endpoint security market shares report, CrowdStrike was also named a winner for the 2023 SE Labs Award in two categories: Best EDR and Best Product Development. This is the third consecutive time that CrowdStrike has won in the Best EDR category, further reinforcing its innovation in endpoint security.
+
+“After months of in-depth testing, CrowdStrike has been selected for Best EDR and Best Product Development in one of the industry’s most challenging security tests,” said Simon Edwards, CEO at SE Labs. “We’ve based our conclusions on a combination of continual public testing, private assessments and feedback from customers who use SE Labs to help choose security products and services. CrowdStrike Falcon Insight XDR is highly-regarded by security teams and product users and stands out in the industry as a must-have tool.”
+
+CrowdStrike previously won the SE Labs Award for Best New Endpoint in 2019, and Best EDR in 2020 and 2021.
+
+Additional Resources
+
+About CrowdStrike
+
+CrowdStrike (Nasdaq: CRWD), a global cybersecurity leader, has redefined modern security with one of the world’s most advanced cloud-native platforms for protecting critical areas of enterprise risk – endpoints and cloud workloads, identity and data.
+
+Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections, automated protection and remediation, elite threat hunting and prioritized observability of vulnerabilities.
+
+Purpose-built in the cloud with a single lightweight-agent architecture, the Falcon platform delivers rapid and scalable deployment, superior protection and performance, reduced complexity and immediate time-to-value.
+
+CrowdStrike: We stop breaches.
+
+Learn more: https://www.crowdstrike.com/
+
+Follow us: Blog | Twitter | LinkedIn | Facebook | Instagram
+
+Start a free trial today: https://www.crowdstrike.com/free-trial-guide/
+
+© 2023 CrowdStrike, Inc. All rights reserved. CrowdStrike, the falcon logo, CrowdStrike Falcon and CrowdStrike Threat Graph are marks owned by CrowdStrike, Inc. and registered with the United States Patent and Trademark Office, and in other countries. CrowdStrike owns other trademarks and service marks, and may use the brands of third parties to identify their products and services.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230216005402/en/

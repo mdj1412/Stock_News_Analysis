@@ -1,0 +1,86 @@
+
+
+
+        Reducing carbon emissions in the data center, or "decarbing the data center" as our partner Hitachi Vantara says, is an urgent challenge. Why the urgency now? Frankly, the stakes are higher than ever. Take California for example. The state swung wildly from mega-drought not seen in 1,200 years, to a 100-year flood at the start of the year (Source: New York Times). Inaction is not an option and climate change underscores why we need to address it head-on with a sense of urgency.
+      
+
+        Partnering for Change
+      
+
+        However, what I am excited about the most is that by partnering together, we can create an ecosystem  to make meaningful impact together.
+      
+
+        Cisco and Hitachi Vantara have a unique track record of partnering together in deploying proven solutions to meet our customers' needs. Together, we bring to bear our formidable joint portfolio of network, compute, and storage technologies to tackle the greatest challenge of our time.
+      
+
+        De-Carbonizing the Data Center
+      
+
+        Decarbonization is one of the most urgent areas companies are focusing on today. The data center is where we have, and will continue, to make the biggest impact in the short-term for our customers. In fact, Tom Christensen, Hitachi Vantara, says it best, "Carbon neutral data centers are a key part of IT's sustainability drive. More than 80% of the value-chain CO2 emissions of a converged platform is related to its use."
+      
+
+        Where do we see the most impact in slimming down data center emissions?
+      
+
+        Insights and Visibility: you can't fix what you can't see. At Hitachi and Cisco, we are harnessing data to inform decision making.
+      
+
+
+          Hitachi: Carbon Insights Platform and Ops Center Clear Sight: Hitachi's tools and services provide information about the energy consumption across the fleet of storage products. Visibility is required before energy reduction is achieved using modern technology.
+        
+
+          Cisco: Unified Platform Experience: Cisco can help IT turn the network into an Energy Management control plane to optimize energy consumption, lower costs, reduce your carbon footprint, and monitor energy use to monitor energy networking with Nexus Cloud, DNS Spaces, Intersight, and Meraki amongst others.
+        
+
+
+        Buildings Systems: sustainable buildings
+      
+
+
+          Hitachi Energy: Green Data Center. Hitachi's eco-friendly infrastructure: moving to modern technology like the eco-friendly infrastructure can fundamentally change a company's green profile and lower the cost of running a data center. That's because the systems enable people to lower the amount of electricity needed and lessen the amount of floor space needed, each of which helps them lessen the amount of cooling required.Hitachi VSP storage continues to reduce CO2 emissions by 30% to 40% with each new product introduction. As a result, carbon emission has been reduced by 86% since 2014 (Source: Based on CFP Communication Program Certification). According to Hitachi in their recent case study, a global customer has reduced both energy and carbon emission by 96%.
+        
+
+          Cisco: Energy Efficient Infrastructure: The migration to modern hardware built with circularity in mind and more efficient infrastructure models than previous generations have proven to reduce environmental footprints. Networking: In Cisco lab tests, the new Nexus 9800 series, built using modular design and both 80 Plus Titanium-rated and Platinum-rated power supplies, was shown to be more than 59 times more energy efficient than the first generation of the Nexus 7000 series, and 1.6 times more efficient than the 400G GX- based Nexus 9500 series (Source: Cisco Lab Study May 2022: Gbps per watt.xls). Compute: The path to sustainability through modernization with Cisco UCS X-series from prior server generations can help reduce power consumption by up to 40-56% (based on various configurations), reduce the amount of hardware and raw materials, and a reduce operating costs (Source: Compute X-Series Sustainability Power Comparison Estimates).
+        
+
+
+        By partnering together, we can do even more. State-of-the-art converged infrastructure based on Cisco network, compute, and Hitachi storage is delivering the hybrid cloud platform for the workload challenges of today and beyond to help meet our customers' sustainability goals in reducing emissions.
+      
+
+        There's no better way to jump-start 2023 than by driving lasting change to slim down those data center emissions by jumping into this challenge together. The change starts with us - literally and figuratively.
+      
+
+        Tom and I are eagerly looking forward to meeting you at Cisco Live Amsterdam (February 6-10th).  Join Tom at his session, The Eco-friendly Data Center and Beyond, and join me and Jeremy Foster, SVP & GM, Cisco Networking - Compute, at our Accelerate your Journey to Net Zero with Cisco Solutions iTalk.
+      
+
+        Let's do this.
+      
+
+        We'd love to hear what you think. Ask a Question, Comment Below, and Stay Connected with #CiscoPartners on social!
+      
+
+Cisco Partners Facebook  |  @CiscoPartners Twitter  |  Cisco Partners LinkedIn
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 03 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 03 February 2023 16:18:03 UTC.
+      
+

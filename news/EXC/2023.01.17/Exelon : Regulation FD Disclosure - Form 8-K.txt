@@ -1,0 +1,588 @@
+
+exc-20230117
+    
+
+
+
+
+
+
+
+
+
+
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+
+
+
+Washington, D.C. 20549
+
+
+
+
+FORM
+
+
+8-K
+
+
+
+
+
+
+
+
+CURRENT REPORT
+
+
+
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+
+January 17, 2023
+
+
+
+
+Date of Report (Date of earliest event reported)
+
+
+
+
+
+
+
+
+
+
+
+
+Commission
+            File Number
+
+
+Name of Registrant; State or Other Jurisdiction of Incorporation; Address of Principal Executive Offices; and Telephone Number
+
+
+IRS Employer Identification Number
+
+
+
+
+
+
+
+
+001-16169
+
+
+EXELON CORPORATION
+
+
+23-2990190
+
+
+
+
+
+(a Pennsylvania corporation)
+
+
+10 South Dearborn Street
+
+
+P.O. Box 805379
+
+
+Chicago, Illinois60680-5379
+
+
+(800)483-3220
+
+
+
+
+
+001-01839
+
+
+COMMONWEALTH EDISON COMPANY
+
+
+36-0938600
+
+
+
+
+
+(an Illinois corporation)
+
+
+10 South Dearborn Street
+
+
+Chicago, Illinois60603-2300
+
+
+(312)394-4321
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+
+
+
+☐
+
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+
+
+☐
+
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+
+
+☐
+
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+
+☐
+
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+
+
+
+
+
+
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+Title of each class
+
+
+Trading Symbol(s)
+
+
+Name of each exchange on which registered
+
+
+
+
+EXELON CORPORATION:
+
+
+
+
+Common Stock, without par value
+
+
+EXC
+
+
+The Nasdaq Stock Market LLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indicate by check mark whether any of the registrants are emerging growth companies as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☐
+
+
+
+
+
+
+
+
+
+
+
+
+
+If an emerging growth company, indicate by check mark if any of the registrants have elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Section 7 - Regulation FD Disclosure
+
+
+Item 7.01. Regulation FD Disclosure
+
+
+
+
+
+
+On January 17, 2023, Commonwealth Edison Company ("ComEd") will file a petition with the Illinois Commerce Commission ("ICC") seeking approval of a Multi-Year Rate Plan for 2024-2027 (Rate Plan). The Rate Plan is being filed pursuant to Section 16-108.18 of the Illinois Public Utilities Act. It will support a Multi-Year Grid Plan (Grid Plan) that covers planned investments on the electric distribution system within ComEd's service area. The Grid Plan also extends through 2027 and will be filed with the ICC on January 17. The Rate Plan would establish annual base rate revenue requirements for electric delivery services as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year
+
+
+Base Rate Revenue Requirement
+
+
+
+
+2024
+
+
+$3,757,912,000
+
+
+
+
+2025
+
+
+$3,932,500,000
+
+
+
+
+2026
+
+
+$4,149,156,000
+
+
+
+
+2027
+
+
+$4,351,935,000
+
+
+
+
+
+
+
+
+
+ComEd's requested revenue requirements are based on requested returns on common equity of 10.50%, 10.55%, 10.60%, and 10.65% in 2024, 2025, 2026, and 2027, respectively, and on capital structures that reflect between 50.58% and 51.19% common equity. The approved revenue requirements will be reconciled to actual costs incurred during each such year, subject to certain limitations and to ICC review, in accordance with law. In the filing, ComEd will ask the ICC to phase-in the new rates by deferring 35% of the 2024 base rate increase, with that amount being recovered in 2026.
+
+
+
+
+
+
+The Rate Plan and Grid Plan filings will be available on the ICC website.
+
+
+
+
+
+
+The ICC must review the Rate and Grid Plans in a proceeding on a consolidated basis and issue a decision by mid-December 2023. Other parties are expected to join or intervene in that proceeding. The ultimate outcome of that process cannot be determined at this time.
+
+
+
+
+
+
+Section 9 - Financial Statements and Exhibits
+
+
+Item 9.01. Financial Statements and Exhibits
+
+
+
+
+
+
+(d)    Exhibits.
+
+
+
+
+
+
+
+Exhibit No.
+
+
+Description
+
+
+
+
+101
+
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+
+
+
+104
+
+
+The cover page from this Current Report on Form 8-K, formatted as Inline XBRL.
+
+
+
+
+
+
+
+
+
+* * * * *
+
+
+This combined Current Report on Form 8-K is being furnished separately by Exelon Corporation and Commonwealth Edison Company (Registrants). Information contained herein relating to any individual Registrant has been furnished by such Registrant on its own behalf. No Registrant makes any representation as to information relating to any other Registrant.
+
+
+
+
+
+
+This Current Report contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks and uncertainties. Factors that could cause actual results to differ materially from the forward-looking statements made by the Registrants include those factors discussed herein as well as the items discussed in (1) the Registrants' Annual Report on Form 10-K filed with the SEC on February 25, 2022 in Part I, ITEM 1A. Risk Factors; (2) the Registrants' Current Report on Form 8-K filed with the SEC on June 30, 2022 to recast Exelon's consolidated financial statements and certain other financial information originally included in the 2021 Form 10-K in (a) Part II, ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations and (b) Part II, ITEM 8. Financial Statements and Supplementary Data: Note 3, Regulatory Matters, and Note 17, Commitments and Contingencies; (3) the Registrants' Third Quarter 2022 Quarterly Report on Form 10-Q in (a) Part II, ITEM 1A. Risk Factors, (b) Part I, ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of Operations, and (c) Part I, ITEM 1. Financial Statements: Note 3, Regulatory Matters, and
+
+
+
+
+
+
+
+
+
+
+Note 13, Commitments and Contingencies; and (4) other factors discussed in filings with the Securities and Exchange Commission by the Registrants.
+
+
+
+
+
+
+Investors are cautioned not to place undue reliance on these forward-looking statements, whether written or oral, which apply only as of the date of this Current Report. None of the Registrants undertake any obligation to publicly release any revision to its forward-looking statements to reflect events or circumstances after the date of this Current Report.
+
+
+
+
+
+
+
+
+
+
+SIGNATURES
+
+
+
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, each Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+
+
+
+
+
+
+
+
+EXELON CORPORATION
+
+
+
+
+
+
+
+
+/s/ Jeanne M. Jones
+
+
+
+
+Jeanne M. Jones
+
+
+
+
+Executive Vice President and Chief Financial Officer
+
+
+
+
+
+
+
+
+COMMONWEALTH EDISON COMPANY
+
+
+
+
+
+
+
+
+/s/ Elisabeth J. Graham
+
+
+
+
+Elisabeth J. Graham
+
+
+
+
+Senior Vice President, Chief Financial Officer and Treasurer
+
+
+
+
+
+January 17, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT INDEX
+
+
+
+
+
+
+
+
+
+Exhibit No.
+
+
+Description
+
+
+
+
+101
+
+
+Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document.
+
+
+
+
+104
+
+
+The cover page from this Current Report on Form 8-K, formatted as Inline XBRL.
+
+
+
+
+
+
+
+
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Exelon Corporation published this content on 17 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 17 January 2023 14:19:02 UTC.
+      
+

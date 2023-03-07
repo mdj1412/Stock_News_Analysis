@@ -1,0 +1,74 @@
+
+
+As an industry leader in cybersecurity, for more than 20 years, Fortinet has led long-term strategies and investments around the convergence of networking and security. Ken Xie, the founder, Chairman of the Board, and CEO of Fortinet offers his perspective on the company's fourth quarter and full year 2022 results, technology innovations, and how the need to reduce complexity will change the way enterprises view networking and security.
+
+
+Can you provide a brief overview of Fortinet's earnings results for 2022?
+
+
+Ken: Our 2022 results demonstrate the success of our strategy to lead in convergence and consolidation as well as the combined power of our ASIC technology with our integrated FortiOS operating system.  For the full year, revenue growth accelerated to 32%, the fifth consecutive year of revenue growth of 20% or more. Product revenue growth of 42% was very strong.
+    
+
+Can you elaborate on the FortiSP5 announcement and how it helps customers?
+
+
+Ken: Recently, we announced our fifth-generation security processor, the FortiSP5. This new ASIC has secure compute power ratings for major network security functions like firewall and VPN with throughputs that are 17 to 32 times greater than the average of our competitors' similarly priced models using general-purpose CPUs. The FortiSP5 doubles the ASIC chip acceleration to 14 applications such as zero trust, SASE, 5G, edge compute, and SD-Branch with much better performance and efficiency.
+    
+
+      The FortiSP5 enables line-speed convergence of networking and security at every network edge. The security computing power advantage of the FortiSP5 enables our FortiOS operating system to integrate more security functions and applications than our competitors with much better performance and much lower energy consumption. These advantages mean a much lower total cost of ownership and easier operations for our customers.
+    
+
+      Now on its fifth generation, we believe Fortinet's proprietary system-on-a-chip technology has a proven track record of powering the industry's top-performing products and solutions. 
+    
+
+      For example, a recent Forrester report highlighted that customers deploying Fortinet's Secure SD-WAN solution achieved a 300% return on investment over 3 years with a payback period of only 8 months.
+    
+
+Can you talk about the opportunity you see with the convergence of networking and security?
+
+
+Ken: The sheer number of devices that must be connected to the cloud, data center, and edge compute have driven changes in cybersecurity. It is no longer feasible to overlay security on top of networking. Security solutions need to work seamlessly across a company's entire infrastructure.
+    
+
+      Fortinet is leading the charge toward networking and security convergence. We offer a wide range of technologies including next-generation firewalls, Secure SD-WAN, 5G, and OT security, which can be delivered as hardware, software, cloud, and as a service. And all of our solutions run a single operating system, FortiOS, which improves operational efficiency and provides consistent security no matter where users or applications are distributed.
+    
+
+      As networking and security continue to converge, the substantial installed base of Fortinet products also enables us to offer additional security services as well as integrated and automated products. We also recently announced several new and enhanced services that help security operations center (SOC) teams reduce risks and handle cybersecurity issues more efficiently.
+    
+
+What do you see as the main areas of business growth for Fortinet?
+
+
+Ken: SD-WAN and OT bookings together accounted for over 25% of total bookings and our goal is to keep growing and achieve number one market share in network firewall, Secure SD-WAN, and the OT security markets over the next couple of years.
+    
+
+How is Fortinet different from other cybersecurity vendors?
+
+
+Ken: We continue to gain market share within the cybersecurity industry as more customers recognize how our integrated, single-platform approach to security delivers a lower total cost of ownership and a greater return on investment than competing solutions. The Fortinet suite of integrated products meets customer demands for convergence, vendor consolidation, ease of management, and lower operating costs.
+    
+
+      Our investment in developing proprietary ASIC technology to build application-specific solutions is also a differentiator because traditional CPU-based solutions are inefficient at supporting both networking and security.
+    
+
+      In addition, social responsibility is an integral part of our business. We continue to work to meet our own sustainability goals and help our customers and partners do the same through our dedication to improving the performance and energy efficiency of our products. Our approach has earned Fortinet several industry recognitions, including being named to the 2022 Dow Jones Sustainability Index (DJSI) World and DJSI North America, ranking among the world's top sustainable companies in the software and services industry. Lower power consumption was also a contributing factor in our top 2 percent ranking in the S&P Global Corporate Sustainability Assessment.
+    
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Fortinet Inc. published this content on 13 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 13 February 2023 16:07:05 UTC.
+      
+

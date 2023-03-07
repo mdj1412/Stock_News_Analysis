@@ -1,0 +1,254 @@
+
+
+
+        Fourth Quarter 2022 Analyst Call | February 9, 2023
+
+
+        C O R P O R A T E P A R T I C I P A N T S
+      
+
+Dan Schulman, Chief Executive Officer and President
+      
+
+Gabrielle Rabinovitch, Acting Chief Financial Officer and Senior Vice President, Investor Relations and Treasurer
+      
+
+        C O N F E R E N C E C A L L P A R T I C I P A N T S
+      
+
+        Colin Sebastian, Baird
+
+
+Michael Ng, Goldman Sachs
+      
+
+        Sanjay Sakhrani, KBW
+
+
+        Jeff Cantwell, Wells Fargo
+
+
+        Ashwin Shirvaikar, Citi
+
+
+Andrew Jeffrey, Truist Securities
+      
+
+        Josh Beck, KeyBanc
+
+
+        Trevor Williams, Jefferies
+
+
+Ken Suchoski, Autonomous Research
+      
+
+        P R E S E N T A T I O N
+      
+
+        Operator
+      
+
+        Good afternoon and welcome to PayPal's Fourth Quarter 2022 Earnings Analyst Call. [Operator Instructions] I would now like to turn the call over to Gabrielle Rabinovitch to kick things off.
+      
+
+        Gabrielle Rabinovitch
+      
+
+        Thanks so much, Julianne. This is Gabrielle. I'm also here with Dan, Ryan, Lizzie, and Allison. We have about 45 minutes to take your questions, so thanks for listening to the main call, and
+      
+
+
+
+
+          Fourth Quarter 2022 Analyst Call | February 9, 2023
+        
+
+
+
+          we hope to get through kind of as many questions as we possibly can over the next 45 minutes. And then, of course, our team will be available through the evening and obviously over the next few days to follow up on anything additional. But maybe, Julianne, we could get started with the first question.
+        
+
+          Operator
+        
+
+          Certainly. Our first question will come from Colin Sebastian from Baird. Please go ahead. Your line is open.
+        
+
+          Colin Sebastian
+        
+
+          Great, thanks. Good afternoon, Dan, Gabz, Ryan and the team. Dan, I think we first spoke when you were just starting at eBay, so it's been […] a long road, but really appreciate all your perspective and all the work over the years. I wanted to ask on P2P because I know there's a lot of focus on branded checkout market share, but there's also a fair bit of focus on P2P and around competition and share.
+        
+
+          But I guess my question is perhaps more on the impact on customer acquisition costs, just given the favorable funnel that that typically provides, flowing through it down in the checkout and how that might impact that, and then maybe more specific on Venmo usage or monetization, the plans there to perhaps accelerate that over the course of time, thanks.
+        
+
+          Dan Schulman
+        
+
+          Yes. I'll start off and then Gabz will chime in. Both P2P and Venmo are parts of our portfolio that have large potential but are not translating into full reality yet. I'll talk about that and each of them a little bit separately, with a lot of attention around each of them.
+        
+
+          I'll just say this as sort of an overall. We have a really large portfolio of products and services. Some of them are firing on all cylinders right now, and others will always be firing less, and sometimes those that are firing less one year, the next year are firing, and others start to fade a little bit. It's one of the strengths of our business that we have such a wide portfolio of services at scale as well.
+        
+
+          You're exactly right on P2P. It's important as it adds to the overall [customer lifetime value] of a customer like when somebody is using P2P, their checkout revenues go up by about 20% or so. And we've done some good things on the checkout side of it. On international remittances, we've added Alipay wallets directly, we've added MercadoPago wallets in Mexico.
+        
+
+          Our P2P on giving, we are the largest giving platform in the world. We did about $21 billion of giving through our platform, by the way, about $1.2 billion to Ukraine in [2022].
+        
+
+          But we are going to be fully revamping that P2P functionality, both search functionality, messaging capabilities within it, the emojis within it. We'll look at optimizing our pricing in a better way that encourages more usage.
+        
+
+          2
+        
+
+
+
+
+        Fourth Quarter 2022 Analyst Call | February 9, 2023
+      
+
+        We're going to be reducing the friction associated with onboarding and some of the declines. We're looking at better onboarding process. We are looking at P2P from end to end with a lot of attention.
+      
+
+        There's a difference between U.S. [and the rest of the world]. U.S. still grew reasonably well, the rest of the world was a little more flat. But we've got a whole team on this because P2P, we want it to be growing as fast as it can because, although it puts pressure on some parts of our [financial statements] like our take rates, it's clearly the right thing to do.
+      
+
+        By the way, in the beginning of [2022], the [proposed] 1099 [change for P2P tax reporting] had an impact both on Venmo and PayPal [P2P]. As you probably saw, we've been working quite closely with members of Congress on the Hill and with Treasury to actually take that from $600 up to as much as $10,000 to $20,000, and there is a possibility of that becoming permanent. That changed this year as opposed to temporarily delayed. Now, I think we'll need to do some marketing around that, but I think that will be quite helpful.
+      
+
+        On the Venmo side, Venmo is probably the most widely used consumer P2P app in the United States. We have $0.25 trillion [in TPV] on that platform. It grew 7% [in 2022], but on top of 44% growth last year [in 2021]. It grew revenues by 40%-plus [in 2022]. Revenues are up four times since 2019.
+      
+
+        But it's got substantial runway to grow monetization. We have an incredibly strong, loyal user base of 60 million [monthly active accounts], 90 million active accounts [as of December 31st]. It's the highest customer satisfaction in outside surveys, the scale of the network is clearly reinforcing.
+      
+
+        We've got a lot of things that we're focused on. We're bringing in teen accounts - that will open up maybe 25 million more people that we can bring onto the platform. Pay with Venmo on Amazon [was off to] a good start in the fourth quarter. We linked millions of accounts in that. It's still really early, but with Pay with Venmo on Amazon, Pay with Venmo went from having about 1% addressable commerce market in the U.S. to, like, 35% in a quarter.
+      
+
+        So, off to a good start, but still early. You probably saw we added Starbucks [as another app where you can use Venmo to pay] now and we're getting more and more large merchants that are more of a daily habit of people signing up with Venmo. Hopefully, that will start to play out over the year. We'll continue to give you updates.
+      
+
+        We're updating the debit card. We're behind Cash App there. We really need to do better on the debit card. We are really looking fully at that rewards piece of it. Business profiles with Apple Tap to Pay, I think, to be meaningful. It's in pilot. It'll really start to ramp at the end of Q1 into Q2. So, a lot there. And we're doing a lot of redesign on the app itself.
+      
+
+        All that said, there's a lot going on there, but we have a lot more work to do, as I mentioned, to turn potential into reality. I think there are a lot of green shoots, but they need to grow and I'm not as happy with our performance on Venmo as I would like to be. It's obviously a key part of our portfolio growing nicely, but there's more we can do with it.
+      
+
+        Colin Sebastian
+      
+
+        3
+      
+
+
+
+
+          Fourth Quarter 2022 Analyst Call | February 9, 2023
+        
+
+
+
+          All right, thank you, guys.
+        
+
+          Operator
+        
+
+          Our next question comes from Michael Ng from Goldman Sachs. Please go ahead. Your line is open.
+        
+
+          Michael Ng
+        
+
+          Hey, thank you very much for the question. Dan, I also want to wish you the best of luck in your retirement. I just had two. I guess, first for Gabrielle. I was just wondering if you could just walk through some of the typical modeling line items that you, guys, usually help us with in terms of how we should think about OVAS [other value-added services revenue] growth and perhaps some of the transaction margin items, please.
+        
+
+          Gabrielle Rabinovitch
+        
+
+          Yes, you bet. So, I'd say we haven't guided revenue for the year, but I would think as sort of a framework when you think about how we're thinking the year will play out overall. On the OVAS side, a strong [fourth] quarter, with 26% growth in other value-add services revenue in the quarter.
+        
+
+          I'd say for this year, for 2023, right now, we're thinking high teens [OVAS revenue growth], and we're sort of starting with that outlook. Part of this will be dependent on how the credit business performs in the year. Obviously, we have a nice tailwind in the first half of the year from interest rates benefiting other value-added services revenue. That incremental benefit, as I mentioned on the main call, sort of tails off a bit, so I'd expect right now high teens and then we'll go from there.
+        
+
+          From a TE rate [transaction expense as a rate of TPV] standpoint, I'd expect maybe an increase of a basis point or two based upon where we're thinking mix may come from, could be closer to a basis point, but I think about a little bit of inflation on our transaction expense rate.
+        
+
+          From a loan loss standpoint, we've got some counterbalancing trends. One, our [credit] book is performing nicely, and so that's kind of keeping the overall provisioning very much in line. You saw our coverage rate was flat sequentially and it was actually down 180 basis points year-on- year.
+        
+
+          In terms of a loan loss standpoint, you might see kind of a point potentially or increase in terms of a rate of TPV. That said, with the [planned] externalization of our credit book, it will benefit the provisioning. And so, at that point, we'd take into consideration both an increase just coming from growth in the overall portfolio as well as the release of reserves that would come from any kind of externalization.
+        
+
+          You've seen our transaction loss be stable, and so, I would think kind of overall, you're getting to a slight increase on your volume-based expenses as a result of the TE side and a little bit of loan loss.
+        
+
+          4
+        
+
+
+
+
+
+          Fourth Quarter 2022 Analyst Call | February 9, 2023
+        
+
+
+
+          And then of course, you've heard us say that we're sort of opening the year with a thought of about 125 basis points [non-GAAP] margin expansion and that contemplates up to high single- digit decline on non-transaction-related operating expense growth. The different line items [within non-transaction operating expense] clearly will be different, will perform differently, but overall, we'd expect that kind of up to high single-digit decline.
+        
+
+          Maybe the one other item I would call out, which is a little different than what you've seen from us in prior years, is that historically, OI&E [operating income and expense] has been a bit of a headwind for us. And so, it's been negative in part from the low interest rate environment, not generating a tremendous amount of interest income on our own corporate cash, but also just because of our debt service obligations.
+        
+
+          I'd say in 2023, we're expecting that to be a tailwind for us. And so, again, sort of early in the year and there's a big part of the year to go, but just from a modeling standpoint, you could expect it potentially to be $75 million of income on the year and then we did call out a higher tax rate and our intention around share buyback.
+        
+
+          From a modeling standpoint, anything else that you were sort of thinking about that I didn't get to?
+        
+
+          Michael Ng
+        
+
+          No, that's very comprehensive. Thank you for that. And then just for Dan, I was just wondering if you could talk a little bit about competitive intensity both for online branded checkout, but also for mobile wallets. And then, how do you think consumer adoption of things like Apple Pay as mobile wallet affects the core checkout business, if at all? Thank you.
+        
+
+          Dan Schulman
+        
+
+          Yes, there are different dynamics around those. As I mentioned on the call, clear slowdown in the classic Buy Now Pay Later players. They are absolutely shifting their emphasis to try and make money.
+        
+
+          And so, we are gaining good share against those wallets, but importantly also good share in the number of merchants that are using our Buy Now Pay Later services. And now over 300,000 merchants that have embedded Buy Now Pay Later upstream in the product pages. And there, you can see a 10% to 20% lift in share of checkout when that happens. So that's clearly a positive.
+        
+
+          And then digital wallets, as I mentioned as well, we're all taking share from manual [credit card] entry and that will continue to happen. Our share of checkout is probably four to five times that of Apple. And so, Apple may be growing their share quicker but from a much lower base. But as I mentioned, with a 5% [global FX-neutral] growth rate for branded checkout [TPV in 2022] and in the fourth quarter, with U.S. being roughly in-line with that as well [in 2022], we feel clearly that we held overall.
+        
+
+          5
+        
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+PayPal Holdings Inc. published this content on 14 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 14 February 2023 19:31:09 UTC.
+      
+

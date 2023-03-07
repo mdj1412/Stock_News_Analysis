@@ -1,0 +1,623 @@
+
+
+
+
+          Our environmental, social and governance (ESG) goals are quantitative targets for our Company that drive purposeful innovation. These goals focus on topics like diversity, equity and inclusion, energy use, empowering digital transformation,
+        
+
+ESG GOALS supply chain management, science, technology, engineering and math (STEM) education and greenhouse gas (GHG) emissions reduction.
+        
+
+          We are proud of the progress made on our ESG goals during 2022:
+        
+
+
+
+
+Goal: Enrich the lives of 27 million people by continuing to bring technology to underserved communities around the world through Wireless Reach by 2025, from a 2006 base year.1
+
+
+Progress: In 2022, we launched five new projects and, since 2006, have enriched the lives of more than 26 million people.
+          
+
+Goals: Reduce absolute Scope 1 and Scope 2 GHG emissions by 30% by 2025, from a 2014 base year.3
+
+
+            Reduce absolute Scope 1 and 2 GHG emissions by 50% by 2030, from a 2020 base year.3
+
+
+            Reduce absolute Scope 3 GHG emissions by 25% by 2030, from a 2020 base year.3
+
+
+            Reach net-zero global GHG emissions for Scopes 1, 2 and 3 by 2040.
+          
+
+Progress: We've reduced our Scope 1 and Scope 2 GHG emissions by approximately 28%, and we achieved The Climate Registry's (TCR) Climate Registered™ Platinum status.
+          
+
+            We engaged with our primary manufacturing suppliers to obtain direct emissions data and collaborate on expectations.
+          
+
+
+
+Goal: Ensure 100% of our primary semiconductor manufacturing suppliers are audited every 2 years for conformance to the Supplier Code of Conduct by 2025, from a 2020 base year.
+          
+
+Progress: As of 2022, 88% of our primary semiconductor manufacturing suppliers have received audits for conformance to the Supplier Code of Conduct.
+          
+
+Goal: Continue to inspire the next generation of inventors by engaging
+          
+
+            1.5 million students and teachers across the globe in our strategic STEM initiatives: our home-grown Thinkabit Lab, our collaboration with FIRST® and our STEM community partnerships by 2025, from a 2020 base year.
+          
+
+Progress: In 2022, we achieved our
+          
+
+            2025 goal to engage 1.5 million students and teachers across the globe three years early. But our work and our efforts don't stop there, as we remain committed to ensuring students have equitable access to STEM education opportunities.
+          
+
+
+Defined as direct and indirect beneficiaries.
+
+
+Given equivalent features.
+
+
+Global.
+
+
+
+
+
+Goal: Reduce power consumption by 10%, every year,2 in our flagship Snapdragon Mobile Platform products.
+          
+
+Progress: Year over year, we reduced power consumption by at least 20%2 in our flagship Snapdragon Mobile Platform products when averaged across all use cases.
+          
+
+Goals: Increase Representation of Women in Leadership4 by 15% by 2025, from a 2020 base year.
+          
+
+            Increase Underrepresented Minorities (URM)5 Leadership representation by 15% by 2025, from a 2020 base year.
+          
+
+            Increase overall URM representation by 20% by 2025, from a 2020 base year.
+          
+
+Progress: We've increased representation of women in leadership by more than 7% since 2020.
+          
+
+            We've increased our representation of URM leadership by more than 5% since 2020.
+          
+
+            We've increased our overall representation of URMs by more than 12% since 2020.
+          
+
+
+
+
+4 Global. Regular Employees. Leadership is defined as individuals at the Principal and above level.
+        
+
+5 U.S. only. Regular Employees. For technical positions, "URM" includes Black, Hispanic/Latinx, Native Hawaiian or other Pacific Islander and American Indian or Native American. For non-technical positions, "URM" includes Black, Hispanic/Latinx, Native Hawaiian or other Pacific Islander, American Indian or Native American and Asian.
+        
+
+www.qualcomm.com
+
+
+
+
+
+
+          2022 ESG Performance Highlights
+        
+
+          Environment
+        
+
+
+
+
+                Minimizing our impact
+              
+
+
+
+• Reiterated our commitment to reducing our operational GHG emissions by joining
+              
+
+
+
+
+
+                and that of our value chain
+              
+
+
+
+                the Climate Pledge, a cross-sector community of companies committed to be
+              
+
+
+
+
+
+
+
+                net-zero by 2040, 10 years ahead of the Paris Agreement's goals.
+              
+
+
+
+
+
+
+
+• Reduced our Scope 1 and Scope 2 emissions by approximately 28 percent
+              
+
+
+
+
+
+
+
+                and achieved TCR Climate Registered™ Platinum status for our annual veriﬁied
+              
+
+
+
+
+
+
+
+                emissions reporting.
+              
+
+
+
+
+
+
+
+• Instituted an internal carbon price across our three manufacturing sites.
+              
+
+
+
+
+
+
+
+• Engaged with our suppliers to tackle value chain emission reductions in an open
+              
+
+
+
+
+
+
+
+                and collaborative manner.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Enabling sustainability benefits
+              
+
+
+
+• Developed products that could enable the digital transformation of the energy industry
+              
+
+
+
+
+
+                through our technology
+              
+
+
+
+                to create a more modern, resilient and sustainable grid. Our smart sensors, smart
+              
+
+
+
+
+
+
+
+                meters and edge gateways can offer electric utilities cost- and power-efficient solutions
+              
+
+
+
+
+
+
+
+                for the monitoring of grid assets and management of decentralized resources, enabling
+              
+
+
+
+
+
+
+
+                faster decision-making for improved reliability and energy efficiency.
+              
+
+
+
+
+
+
+
+• Continued to expand Qualcomm® Cellular Vehicle-to-Everything(C-V2X) solutions
+              
+
+
+
+
+
+
+
+                that can complement use of 5G networks and provide short-range connectivity for
+              
+
+
+
+
+
+
+
+                low-latency,safety-critical and mobility-benefiting applications. Together, these
+              
+
+
+
+
+
+
+
+                technologies increase safety and equity for vehicle passengers and vulnerable road
+              
+
+
+
+
+
+
+
+                users and can also lower emissions and reduce fuel consumption.
+              
+
+
+
+
+          Social
+        
+
+
+
+
+            Driving diversity, equity
+          
+
+            and inclusion in our workforce and communities
+          
+
+
+
+
+Increased our representation of women in leadership by 7 percent, our representation of underrepresented minorities (URM*) by 5 percent and our overall representation of URMs by 12 percent.
+
+
+Held our second annual Racial Justice Giving Initiative to listen more and involve our employees in our support of organizations driving systemic change in racial justice and equity in the U.S.
+
+
+Qualcomm President and CEO Cristiano Amon signed Disability:IN's Letter on Disability Inclusion, to continue advancing equality and inclusion and to serve as a positive example for disability inclusion for CEOs and organizations globally.
+
+
+
+
+
+
+
+            Innovating purposefully
+          
+
+
+
+
+Reached our 2025 goal to engage 1.5 million students and teachers across the globe in our efforts to develop a pipeline of diverse and highly skilled STEM innovators.
+
+
+Pioneered work in millimeter wave to help narrow the digital divide. 5G Fixed Wireless Access (FWA) and mobile broadband can improve connectivity and affordability to enhance the intelligently connected world by providing quality Internet to everyone, everywhere. For more information, please see "5G and the Digital Divide."
+            
+
+
+
+
+
+www.qualcomm.com
+
+
+
+
+
+
+
+            Engaging and developing our workforce
+          
+
+
+
+
+Offered dynamic leadership and career development programs such as the Leadhership1® Program, BetterUp Coaching and Women Unlimited, Inc., as well as our own internal programs: SMART Mentorship, Mentoring Matters, Accelerate management and others.
+
+
+Consolidated our well-being and benefit programs under our signature Live+Well, Work+Well program to equip our employees to unlock their full potential at home, work and everywhere in between. This program covers benefits related to health, wealth, self, connections and productivity, such as comprehensive health insurance, tuition reimbursement and quarterly global holidays when we encourage employees to disconnect and recharge.
+            
+
+
+
+
+
+          Governance
+        
+
+
+
+
+            Maintaining a diverse board
+          
+
+
+
+
+Maintained a Board membership where 33% of Directors are women and 29% of directors are from underrepresented communities. Recognizing that Board composition may be affected by departures, including from unexpected circumstances, the Board aspires
+              to maintain a diverse composition in which, generally, at least three of its members are women and at least three of its members are from underrepresented communities.
+            
+
+
+
+
+
+
+            Ensuring appropriate ESG oversight
+          
+
+
+
+
+Added additional members to our ESG Leadership and Governance Committees to maintain a cross-functional approach as ESG expands into new areas of the Company.
+            
+
+
+
+
+
+
+            Operating with integrity
+          
+
+
+
+
+Launched an Ethics Liaison program to extend the reach of our ethics and compliance program and reinforce and promote a positive ethical culture in our operations across the globe.
+
+
+
+
+
+
+
+            Safeguarding privacy and cybersecurity
+          
+
+
+
+
+Maintained comprehensive data protection and cybersecurity programs, with zero information security breaches or other reportable cybersecurity incidents in the past three consecutive years.
+
+
+
+
+
+
+
+
+
+                Qualcomm has a long-standing reputation
+              
+
+
+
+                In 2022, we were included in the Dow
+              
+
+
+
+                We were again selected as one of
+              
+
+
+
+
+
+                for conducting business with unquestioned
+              
+
+
+
+                Jones Sustainability North America Index
+              
+
+
+
+                Glassdoor's Best Places to Workin 2022.
+              
+
+
+
+
+
+                integrity, being a great place to work,
+              
+
+
+
+                and ranked among Newsweek's list of
+              
+
+
+
+                We are also proud to have been named
+              
+
+
+
+
+
+                developing solutions for a sustainable
+              
+
+
+
+America's Most Responsible Companies
+
+
+
+
+                on Forbes' Best Employers for Women,
+              
+
+
+
+
+
+                world and much more. The awards and
+              
+
+
+
+                for the fourth consecutive year. We were
+              
+
+
+
+                Best Employers for New Grads, Best
+              
+
+
+
+
+
+                recognitions we obtain reﬂlect our steadfast
+              
+
+
+
+                named on the Fortune Change the
+
+
+
+
+                Employers for Diversity, and Best-In-State
+              
+
+
+
+
+
+                commitment to purposeful innovation and
+              
+
+
+
+Worldlist for the third time since 2019
+              
+
+
+
+                Employers lists, as well as Human Rights
+              
+
+
+
+
+
+                demonstrate that our efforts are having a
+              
+
+
+
+                in recognition of the positive impact our
+              
+
+
+
+                Campaign's Best Places to Work for
+              
+
+
+
+
+
+                tangible impact.
+              
+
+
+
+                technology can have on society.
+              
+
+
+
+                LGBTQ Equality list, among others.
+              
+
+
+
+
+          For more information on our ESG performance, progress and awards, see our 2022 Corporate Responsibility Report.
+        
+
+www.qualcomm.com
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Qualcomm Inc. published this content on 24 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 28 February 2023 10:04:02 UTC.
+      
+

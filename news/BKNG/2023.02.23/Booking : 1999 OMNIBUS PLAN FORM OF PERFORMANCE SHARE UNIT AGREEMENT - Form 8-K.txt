@@ -1,0 +1,435 @@
+
+
+      BOOKING HOLDINGS INC. 1999 OMNIBUS PLAN
+    
+
+      FORM OF PERFORMANCE SHARE UNIT AGREEMENT
+    
+
+      THIS PERFORMANCE SHARE UNIT AGREEMENT (this "Agreement") is made by and between Booking Holdings Inc., a Delaware corporation, with its principal United States office at 800 Connecticut Avenue, Norwalk, Connecticut 06854 (the "Company"), and the Participant, as of the Grant Date in ____, which is provided, along with additional grant details, on the web portal of the secure third-party vendor website (the "Web Portal") used by the Company (such information to be referred to herein as the "Grant Summary") for the administration of the Booking Holdings Inc. 1999 Omnibus Plan, as amended from time to time (the "Plan"). Pursuant to the terms of the Plan, the Compensation Committee of the Board (the "Committee") has authorized this Agreement and approved the grant of Performance Share Units evidenced by this Agreement.
+    
+
+      Unless otherwise indicated, any capitalized term used herein, but not defined herein, shall have the meaning ascribed to such term in the Plan.
+    
+
+      1.Definitions
+    
+
+      (a)"Cause" shall mean (i) the willful and continued failure by the Participant substantially to perform his or her duties and obligations to the Company (other than any such failure resulting from his or her incapacity due to physical or mental illness); (ii) the willful engaging by the Participant in misconduct which is materially injurious to the Company; (iii) the commission by the Participant of a felony; (iv) the willful and material violation by the Participant of any Company code of conduct; (v) the commission by the Participant of a crime against the Company which is materially injurious to the Company; (vi) a material breach by the Participant of any non-competition, non-solicitation, or other restrictive covenant that the Participant has entered into with the Company or a Subsidiary; or (vii) the willful and material breach by the Participant of any confidentiality agreement that the Participant has entered into with the Company or a Subsidiary. For purposes of this Section 1(a), no act, or failure to act, on a Participant's part shall be considered "willful" unless done, or omitted to be done, by the Participant not in good faith and without reasonable belief that his or her action or omission was in the best interest of the Company. Determination of Cause shall be made by the Committee (or its delegate) in its sole discretion.
+    
+
+      (b)"Company" shall mean Booking Holdings Inc. and any of its Subsidiaries and Affiliates.
+    
+
+      (c)"Continuous Service" shall mean the Participant's service with the Company or any Subsidiary or Affiliate, whether as an employee, director or consultant, which is not interrupted or terminated.
+    
+
+      (d)"Determination Date" shall mean __________.
+    
+
+      (e)"Disability" shall mean that (i) the Participant is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than __________ months or (ii) the Participant is, by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than __________ months, receiving income replacement benefits for a period of not less than __________ months under an accident and health plan covering employees of the Company.
+    
+
+
+
+
+
+
+
+      (f)"Form 10-Q Filing Date" shall mean the date the Company files its quarterly report on Form 10-Q with the SEC for the quarter ending on __________.
+    
+
+      (g)"Good Reason" shall mean (i) a material diminution in the Participant's authority, duties, title, reporting structure or responsibilities, (ii) relocation of the Participant's principal office to a location more than __________ miles from its current location or more than __________ miles further from the Participant's residence at the time of relocation (provided the Participant is required by the Company to work regularly from such principal office location), or (iii) any material breach by the Company of an employment agreement, if any, that is in effect at any time between the Participant and the Company.
+    
+
+      Before a termination by the Participant will constitute termination for Good Reason, the Participant must give the Company a Notice of Good Reason within __________ calendar days following the occurrence of the event that constitutes Good Reason. Failure to provide such Notice of Good Reason within such __________ period shall be conclusive proof that the Participant shall not have Good Reason to terminate employment by reason of such occurrence.
+    
+
+      Good Reason shall exist only if (A) the Company fails to remedy the event or events constituting Good Reason within __________ calendar days after receipt of the Notice of Good Reason from the Participant and (B) the Participant terminates his or her employment within __________ days after the end of the period set forth in clause (A) above.
+    
+
+      (h)"Notice of Good Reason" shall mean a written notice by the Participant to the Company which sets forth in reasonable detail the specific reason for a termination of employment for Good Reason and the facts and circumstances claimed to provide a basis for such termination and is provided to the Company in accordance with the terms set forth in Section 1(g) hereof.
+    
+
+      (i)"Performance Period" shall mean the three-year period commencing on __________ and ending on __________.
+    
+
+      (j) "SEC" shall mean the U.S. Securities and Exchange Commission.
+    
+
+      (k)"Stock" shall mean shares of common stock, par value $0.008, of the Company.
+    
+
+      (l)"Target Amount" shall have the meaning given such term under Section 2.
+    
+
+      (m)"Vesting Factor" shall mean the factor determined in accordance with .
+    
+
+      (n)"Vesting Period" shall mean the period from (and excluding) __________ to (and including) __________.
+    
+
+      2.The Grant
+    
+
+      Subject to the terms and conditions set forth herein, the Participant has been granted on the Grant Date in ____ the number of Performance Share Units as indicated on the Grant Summary for the corresponding Grant Date in ____ (the "Target Amount").
+    
+
+      3.Vesting; Effect of Termination of Continuous Service; Change in Control
+    
+
+      (a)Vesting Schedule. __________ of the Performance Share Unit number determined in accordance with Exhibit 1 shall vest on the __________ anniversary of the Grant Date and __________ of the Performance Share Unit number shall vest on __________ (each, a "Vesting Date"), respectively, such that the Performance Share Unit number evidenced by this Agreement
+    
+
+
+            2    
+      
+
+
+
+
+
+
+
+
+      shall be fully vested on __________; provided, on each Vesting Date, the Participant has been in Continuous Service through such date (except that if, prior to a Vesting Date, the Participant's Continuous Service is terminated by the Company other than for Cause or by the Participant for Good Reason, the Participant shall be deemed to have continued in Continuous Service through the next following Vesting Date); provided, further, that in no event shall such number of shares of Stock exceed _____ times the Target Amount. All shares of Stock to be issued to the Participant under this Section 3(a), if any, shall be issued to the Participant as soon as practicable after the Determination Date and in no event later than __________. The Participant shall be entitled to the greater of the number of shares of Stock determined under this Section 3(a) and the number of shares of Stock determined under Section 3(c), 3(d), 3(e), 3(f) or 3(g), whichever is applicable.
+    
+
+      (b)Termination for Cause. If, prior to the Determination Date, the Participant's Continuous Service is terminated by the Company for Cause, then the Participant shall forfeit any right to, and not be issued or receive, any shares of Stock under this Agreement.
+    
+
+      (c)Termination Prior to a Change in Control Due to Death. If, prior to the Determination Date and prior to a Change in Control, the Participant's Continuous Service is terminated on account of death, then the Participant's Performance Share Unit number shall be determined in accordance with , and the Participant shall be vested either (i) on the Form 10-Q Filing Date if such termination occurs on or prior to such date during the Vesting Period or (ii) at the time of such termination, if such termination occurs after the Form 10-Q Filing Date, in a number of shares of Stock equal to such Performance Share Unit number; provided, this Section 3(c) shall supersede the vesting schedule set forth in Section 3(a) of this Agreement only to the extent that it results in accelerated vesting of the Performance Share Unit number and it shall not result in a delay of any vesting or non-vesting of any Performance Share Units that otherwise would occur on any Vesting Date during the Vesting Period under the terms of Section 3(a) above; and provided, that in no event shall the number of shares of Stock earned pursuant to this Section 3(c) exceed _____ times the Target Amount. Subject to Section 3(h), the number of shares of Stock determined pursuant to the preceding sentence, if any, shall be issued to the Participant's designated beneficiary as soon as practicable after the __________, but in no event later than __________.
+    
+
+      (d)Termination Prior to a Change in Control Without Cause, for Good Reason or Disability. If, prior to the Determination Date and prior to a Change in Control, the Participant's Continuous Service is terminated by the Company other than for Cause or by the Participant on account of Good Reason or Disability, then the Participant's Performance Share Unit number shall be determined in accordance with , and the Participant shall be vested either (i) on the Form 10-Q Filing Date if such termination occurs on or prior to such date during such Vesting Period or (ii) at the time of such termination, if such termination occurs after the Form 10-Q Filing Date, in a number of shares of Stock equal to such Performance Share Unit number; provided, this Section 3(d) shall supersede the vesting schedule set forth in Section 3(a) of this Agreement only to the extent that it results in accelerated vesting of the Performance Share Unit number and it shall not result in a delay of any vesting or non-vesting of any Performance Share Units that otherwise would occur on any Vesting Date during the Vesting Period under the terms of Section 3(a) above; provided, that in no event shall the number of shares of Stock earned pursuant to this Section 3(d) exceed _____ times the Target Amount. Subject to Section 3(h), the number of shares of Stock determined pursuant to the preceding sentence, if any, shall be issued to the Participant as soon as practicable after the __________, but in no event later than __________.
+    
+
+      (e)Change in Control. If a Change in Control occurs prior to the Determination Date and the Participant remains in Continuous Service through and including the Determination Date, the Participant shall be vested on the Determination Date in the Performance Share Unit number
+    
+
+
+            3    
+      
+
+
+
+
+
+
+
+
+      determined in accordance with ; provided, this Section 3(e) shall supersede the vesting schedule set forth in Section 3(a) of this Agreement only to the extent that it results in accelerated vesting of the Performance Share Unit number and it shall not result in a delay of any vesting or non-vesting of any Performance Share Units that otherwise would occur on any Vesting Date during the Vesting Period under the terms of Section 3(a) above; provided, that in no event shall the number of shares of Stock earned pursuant to this Section 3(e) exceed _____ times the Target Amount. The number of shares of Stock determined pursuant to the preceding sentence, if any, shall be issued to the Participant as soon as practicable after the Determination Date, but in no event later than __________.
+    
+
+      (f)Termination Coincident with or Following a Change in Control Due to Death. If a Change in Control occurs prior to the Determination Date, and the Participant's Continuous Service is terminated on account of the Participant's death prior to the Determination Date on or following such Change in Control, the Participant shall be vested at the time of such termination in the number of shares equal to the Performance Share Unit number determined in accordance with ; provided, this Section 3(f) shall supersede the vesting schedule set forth in Section 3(a) of this Agreement only to the extent that it results in accelerated vesting of the Performance Share Unit number and it shall not result in a delay of any vesting or non-vesting of any Performance Share Units that otherwise would occur on any Vesting Date during the Vesting Period under the terms of Section 3(a) above; provided, that in no event shall the number of shares of Stock earned pursuant to this Section 3(f) exceed _____ times the Target Amount. Subject to Section 3(h), the number of shares of Stock determined pursuant to the preceding sentence, if any, shall be issued to the Participant's designated beneficiary as soon as practicable after the __________, but in no event later than __________.
+    
+
+      (g)Termination Without Cause, For Good Reason or Disability Coincident with or Following a Change in Control. If a Change in Control occurs prior to the Determination Date, and the Participant's Continuous Service is terminated prior to the Determination Date on or following such Change in Control by the Company other than for Cause or by the Participant on account of Good Reason or Disability, the Participant shall be vested at the time of such termination in the number of shares equal to the Performance Share Unit number determined in accordance with ; provided, this Section 3(g) shall supersede the vesting schedule set forth in Section 3(a) of this Agreement only to the extent that it results in accelerated vesting of the Performance Share Unit number and it shall not result in a delay of any vesting or non-vesting of any Performance Share Units that otherwise would occur on any Vesting Date during the Vesting Period under the terms of Section 3(a) above; provided, that in no event shall the number of shares of Stock earned pursuant to this Section 3(g) exceed _____ times the Target Amount. Subject to Section 3(h), the number of shares of Stock determined pursuant to the preceding sentence, if any, shall be issued to the Participant as soon as practicable after the __________, but in no event later than __________.
+    
+
+      (h)Specified Employee. Notwithstanding anything in this Agreement to the contrary, if (i) the Participant is a "specified employee" (within the meaning of Section 409A of the Code), (ii) the issuance of the shares of Stock pursuant to this Agreement is considered to be a "deferral of compensation" (as such phrase is defined for purposes of Section 409A of the Code), and (iii) such issuance is made by reason of the Participant's "separation from service" with the Company (determined in accordance with Section 409A of the Code), then the Participant's date of issuance of the shares of Stock shall be the date that is the first day of the seventh month after the date of the Participant's separation from service.
+    
+
+      (i)Rounding Method. For purposes of calculations of share amounts made under this Section 3, results shall be rounded to the nearest whole number using the common rounding method (i.e., increase to the next highest whole number if the first decimal is 5 or more).
+    
+
+
+            4    
+      
+
+
+
+
+
+
+
+
+      (j)Unpaid Leave of Absence. Notwithstanding anything in this Section 3 to the contrary, in the event that, during the Performance Period, the Participant takes an unpaid leave of absence for a period of three consecutive months or more, then the number of shares of Stock the Participant shall be entitled to receive shall be adjusted by multiplying the Performance Share Unit number, as determined in accordance with , by a fraction, the numerator of which is the number of days the Participant was not on an unpaid leave of absence since the Grant Date in ____ until (i) the Determination Date (including such date) or (ii) if the Participant's Continuous Service terminates prior to the Determination Date, the date on which the Participant's Continuous Service terminates (including such date), and the denominator of which is the number of days from the Grant Date (excluding such date) until the Determination Date (including such date).
+    
+
+      4.Nontransferability of Grant
+    
+
+      Except as otherwise provided herein or in the Plan, no Performance Share Units shall be assigned, negotiated, pledged, or hypothecated in any way or be subject to execution, attachment or similar process. No transfer of the Participant's rights with respect to such Performance Share Units, whether voluntary or involuntary, by operation of law or otherwise, shall be permitted. Immediately upon any attempt to transfer such rights, such Performance Share Units, and all of the rights related thereto, shall be forfeited by the Participant.
+    
+
+      5.Distribution and Voting Rights
+    
+
+      (a)General. Performance Share Units shall have no distribution, dividend or voting rights, and the Participant will have no rights as a stockholder of the Company by virtue of any Performance Share Unit awarded to the Participant until shares of Stock, if any, are issued to the Participant as described in this Agreement.
+    
+
+      (b)Dividend Equivalents.  Notwithstanding the foregoing, the Company shall credit the Participant, on the Determination Date, with an additional number of Performance Share Units (rounded down to the nearest whole number) equal in value to any dividends that the Participant would have received after the Grant Date and prior to the applicable Vesting Date had the Participant been the actual owner of the number of shares of Stock represented by the Performance Share Units as determined upon application of the Vesting Factor as provided in Exhibit 1.  The additional Performance Share Units shall be subject to the same terms and conditions as reflected in this Agreement (and any related addendum, if applicable), including the vesting, settlement and clawback/recoupment provisions applicable to the original Performance Share Units.  Notwithstanding the foregoing, the Company may, in its discretion and in lieu of crediting the Participant with an additional number of Performance Share Units for such dividend equivalents, provide such dividend equivalents in the form of a cash payment to the Participant (subject to any applicable withholding of Tax-Related Items).
+    
+
+      6.Stock; Adjustment Upon Certain Events
+    
+
+      (a)Stock to be issued under this Agreement, if any, shall be made available, at the discretion of the Board, either from authorized but unissued Stock or from Stock reacquired by the Company in the open market, in private transactions or otherwise.
+    
+
+      (b)The existence of this Agreement and the Performance Share Units evidenced hereunder shall not affect in any way the right or power of the Board or the stockholders of the Company to make or authorize any adjustment, recapitalization, reorganization or other change in the Company's capital structure or its business, any merger or consolidation of the Company or any affiliate, any issue of bonds, debentures, preferred or prior preference stocks ahead of or affecting the Stock, the authorization or issuance of additional shares of Stock, the dissolution or
+    
+
+
+            5    
+      
+
+
+
+
+
+
+
+
+      liquidation of the Company or any affiliate or sale or transfer of all or part of the assets or business of the Company or any affiliate, or any other corporate act or proceeding.
+    
+
+      (c)Upon a Change in Control, the purchaser(s) of the Company's assets or stock or the surviving entity in a merger or consolidation may, in its or their discretion, deliver to the Participant the same kind of consideration that is delivered to the stockholders of the Company as a result of such Change in Control, or the Board may cancel all outstanding Performance Share Units in exchange for consideration in cash or in kind, which consideration in both cases shall be determined by the Board.
+    
+
+      (d)In the event of any dividend or other distribution (whether in the form of cash, Stock, or other property), recapitalization, Stock split, reverse split, reorganization, merger, consolidation, spin-off, combination, repurchase, or share exchange, or other similar corporate transaction or event that affects the Stock such that an adjustment is required in order to prevent dilution or enlargement of the rights of holders of Performance Share Units under the Plan, then the Committee shall make such equitable changes or adjustments to any or all of (i) the number and kind of shares of Stock or other property (including cash) that may thereafter be issued in connection with the Performance Share Units granted under the Plan, (ii) the number and kind of shares of Stock or other property (including cash) issued or issuable in respect of outstanding Performance Share Units, (iii) performance targets, and (iv) any individual limitations applicable to the Performance Share Units granted under the Plan.
+    
+
+      7.Determinations
+    
+
+      The Committee (by proper delegation or otherwise) shall determine the extent to which an award has been earned, if at all, in accordance with Section 3 of this Agreement on or prior to the Determination Date. Such determination and all other determinations, interpretations or other actions made or taken pursuant to the provisions of this Agreement by the Committee (or its delegate) in good faith shall be final, conclusive and binding for all purposes and upon all persons, including, without limitation, the Participant and the Company, and their respective heirs, executors, administrators, personal representatives and other successors in interest.
+    
+
+      8.Other Conditions
+    
+
+      The transfer of any Stock under this Agreement, if any, shall be effective only at such time as counsel to the Company shall have determined that the issuance and delivery of such Stock is in compliance with all applicable laws, regulations of governmental authority and the requirements of any securities exchange on which Stock is traded.
+    
+
+      9.Subject to Clawback Policy
+    
+
+          Notwithstanding anything in this Agreement to the contrary, the Performance Share Units covered by this Agreement are subject to the terms and provisions of the Company's clawback policies as may be in effect from time to time, to the extent provided for under such policies and applicable to the Participant.
+    
+
+      10.Withholding Taxes
+    
+
+      (a)Regardless of any action the Company or the employer takes with respect to any or all federal, state, local or foreign income tax, social insurance, payroll tax, payment on account or other tax related-items ("Tax-Related Items"), the Participant acknowledges that the ultimate liability for all Tax Related-Items associated with the Performance Share Units is the Participant's responsibility and that the Company and the employer (i) make no representations or undertakings regarding the treatment of any Tax Related-Items in connection with any aspect
+    
+
+
+            6    
+      
+
+
+
+
+
+
+
+
+      of the Performance Share Units, including, but not limited to, the grant or vesting of the Performance Share Units, the delivery of shares of Stock, the subsequent sale of shares of Stock acquired at vesting, and the receipt of any dividends or dividend equivalents; and (ii) do not commit to structure the terms of the grant or any aspect of the Performance Share Units to reduce or eliminate the Participant's liability for Tax Related-Items. Further, if the Participant is subject to tax in more than one jurisdiction, the Participant acknowledges that the Company and/or the employer (or former employer, as applicable) may be required to withhold or account for Tax Related-Items in more than one jurisdiction.
+    
+
+      (b)If the Participant's country of residence (and/or the country of employment, if different) requires withholding of Tax-Related Items, the Company may withhold any shares of Stock otherwise issuable upon vesting that have an aggregate Fair Market Value sufficient to pay the minimum Tax-Related Items required to be withheld (or an equivalent cash amount, where the Performance Share Units are settled in cash). For purposes of the foregoing, no fractional shares of Stock will be withheld or issued pursuant to the grant of the Performance Share Units. If the obligation for Tax-Related Items is satisfied by withholding shares of Stock, for tax purposes, the Participant shall be deemed to have been issued the full number of shares of Stock (or the gross amount of the cash payment), notwithstanding that a number of shares of Stock are withheld solely for the purpose of satisfying any withholding obligations for the Tax-Related Items due as a result of any aspect of the Participant's participation in the Plan. In addition, where the Performance Share Units are settled in shares of Stock, the Company may, on behalf of the Participant, sell a sufficient number of whole shares of Stock issued upon vesting of the Performance Share Units having an aggregate Fair Market Value that would satisfy the withholding amount. Alternatively, the Company or the employer may, in its discretion and subject to applicable law, withhold any amount necessary to pay the Tax-Related Items from the Participant's regular salary/wages or other amounts payable to the Participant, with no withholding of shares of Stock payable upon vesting, or the Participant may, in his or her discretion, submit payment equivalent to the minimum Tax-Related Items required to be withheld by means of certified check, cashier's check, or wire transfer. In the event the withholding requirements for Tax-Related Items are not satisfied through one of the foregoing methods, no shares of Stock will be released to the Participant (or the Participant's estate) upon vesting of the Performance Share Units unless and until satisfactory arrangements (as determined by the Company in its sole discretion) have been made by the Participant with respect to the payment of any such Tax-Related Items. By accepting the Performance Share Units, the Participant expressly consents to the withholding methods for Tax-Related Items as provided hereunder and/or any other methods of withholding that the Company or the employer may take and are permitted under the Plan to meet the withholding and/or other requirements as provided under applicable laws, rules, and regulations. All other Tax-Related Items related to the Performance Share Units shall be the sole responsibility of the Participant.
+    
+
+      (c)Notwithstanding the foregoing, if the Participant is subject to Section 16 of the Securities Exchange Act of 1934 as of the date the relevant Performance Share Unit first becomes includible in the gross income of the Participant for purposes of Tax Related-Items, all Tax Related-Items legally payable by the Participant in respect of the Performance Share Units shall be satisfied by the Company withholding a number of the shares of Stock that would otherwise be delivered to the Participant upon the vesting or settlement of the Performance Share Units with a Fair Market Value, determined as of the date of the relevant taxable event, equal to the minimum statutory withholding amount that applies to the Participant, rounded up to the nearest whole share ("Net Settlement"), or the Participant may, in his or her discretion, submit payment to the Company equivalent to the minimum Tax-Related Items required to be withheld by means of certified check, cashier's check or wire transfer. The Net Settlement mechanism described herein was approved by the Committee prior to the Grant Date in a manner intended to constitute "approval in advance" by the Committee for purposes of Rule 16b3-(e) under the Securities Exchange Act of 1934, as amended.
+    
+
+
+            7    
+      
+
+
+
+
+
+
+
+
+      (d)If the obligation for Tax Related-Items is satisfied by net settlement, for tax purposes, the Participant shall be deemed to have been issued the full number of shares of Stock issued upon vesting of the Performance Share Units notwithstanding that a number of the shares of Stock are held back solely for the purpose of paying the Tax Related-Items.
+    
+
+      11.Distribution of Stock
+    
+
+          Subject to Section 8, the Company shall cause the Participant to be the beneficial owner of any shares of Stock that the Participant becomes entitled to receive under this Agreement in accordance with the payment terms described in Section 3.
+    
+
+      12.Incorporation of the Plan
+    
+
+      The Plan, as it exists on the date of this Agreement and as amended from time to time, is hereby incorporated by reference and made a part hereof, and the Performance Share Units and this Agreement shall be subject to all terms and conditions of the Plan. In the event of any conflict between the provisions of this Agreement and the provisions of the Plan, the terms of the Plan shall control, except as expressly stated otherwise.
+    
+
+      13.Miscellaneous
+    
+
+      (a)Successors and Assigns. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective heirs, personal legal representatives, successors, trustees, administrators, distributees, devisees and legatees. Subject to Sections 6(c) and 6(d), the Company shall assign this Agreement to any successor (whether direct or indirect, by purchase, merger, consolidation or otherwise) to all or substantially all of the business and/or assets of the Company, and will require such successor to expressly assume and agree in writing to perform this Agreement. Notwithstanding the foregoing, this Agreement may not be assigned by the Participant.
+    
+
+      (b)Confidentiality. The Participant acknowledges that the Company intends for the information contained in this Agreement, including , to remain confidential unless and until the Company publishes such information publicly. Notwithstanding any other provision hereof, the Participant's entitlement to any award or payment hereunder is contingent upon the Participant maintaining the confidentiality of the information contained in this Agreement, including . The Participant agrees that he or she shall not disclose or cause the disclosure of such information and shall hold such information confidential.
+    
+
+      (c)Amendments. Any amendment to the Plan will be deemed to be an amendment to this Agreement to the extent that the amendment is applicable to this Agreement. Furthermore, subject to Section 2 of , no modification or waiver of any of the provisions of this Agreement that would reduce the Participant's rights under this Agreement shall be effective unless memorialized in writing and consented to by the party against whom it is sought to be enforced (which consent may be by failure to object to any such modification or waiver by a specified date).
+    
+
+      (d)Section 409A of the Code. To the extent applicable, it is intended that this Agreement comply with the provisions of Section 409A of the Code, so that the income inclusion provisions of Section 409A(a)(1) of the Code do not apply to the Participant. This Agreement shall be administered in a manner consistent with this intent. References to Section 409A of the Code will also include any regulations or any other formal guidance promulgated with respect to such Section by the U.S. Department of the Treasury or the Internal Revenue Service.
+    
+
+
+            8    
+      
+
+
+
+
+
+
+
+
+      (e)Waiver. The failure of any party hereto at any time to require performance by another party of any provision of this Agreement shall not affect the right of such party to require performance of that provision, and any waiver by any party of any breach of any provision of this Agreement shall not be construed as a waiver of any continuing or succeeding breach of such provision, a waiver of the provision itself, or a waiver of any right under this Agreement.
+    
+
+      (f)Headings. The headings of the sections of this Agreement have been inserted for convenience of reference only and shall in no way restrict or modify any of the terms or provisions hereof.
+    
+
+      (g)Fees and Compliance with Law. The Company shall pay all fees and expenses necessarily incurred by it in connection with this Agreement and will use its reasonable efforts to comply with all laws and regulations which, in the opinion of counsel to the Company, are applicable thereto.
+    
+
+      (h)Notices. All notices, consents, requests, approvals, instructions and other communications provided for herein shall be in writing and validly given or made when delivered (including via email, the Web Portal or any other electronic means), or on the second succeeding business day after being mailed by registered or certified mail, whichever is earlier, to the persons entitled or required to receive the same, at the addresses set forth at the heading of this Agreement or to such other address as either party may designate by like notice. Notices by the Participant under, pursuant to or in connection with this Agreement shall be addressed to the Company's principal office, attention of the Company's General Counsel.
+    
+
+      (i)Complete Agreement. The Plan, this Agreement and the Grant Summary constitute the entire agreement and understanding between the parties with respect to the matters described herein and supersede all prior and contemporaneous agreements and understandings, oral and written, between the parties with respect to such subject matter.
+    
+
+      (j)Governing Law; Choice of Law. This Agreement shall be governed and construed and the legal relationships of the parties determined in accordance with the laws of the state of Delaware without reference to principles of conflict of laws.Further, for purposes of litigating any dispute that arises directly or indirectly between the parties regarding the Performance Share Units evidenced by this Agreement, the parties hereby submit to and consent to the exclusive jurisdiction and venue of the federal or state courts of the state of Delaware of the United States of America, and agree that such litigation shall be conducted exclusively in such courts.
+    
+
+      (k)Authorization. The Company represents and warrants that it is duly authorized by its Board and/or the Committee (and by any other person or body whose authorization is required) to enter into this Agreement, that there is no agreement or other legal restriction which would prevent it from entering into, and carrying out its obligations under, this Agreement, and that the officer signing this Agreement is duly authorized and empowered to sign this Agreement on behalf of the Company.
+    
+
+      (l)Investigations. Notwithstanding anything in this Agreement or any other agreement with the Company or a Subsidiary, nothing shall limit the Participant's rights under applicable law to provide truthful information to any governmental entity or to file a charge with or participate in an investigation conducted by any governmental entity.
+    
+
+      (m)    Severability. In the event that one or more of the provisions of this Agreement is invalidated for any reason by a court of competent jurisdiction, any provision so invalidated will be deemed to be separable from the other provisions of this Agreement, and the remaining provisions of this Agreement will continue to be valid and fully enforceable.
+    
+
+
+            9    
+      
+
+
+
+
+
+
+
+
+      14.Imposition of Other Requirements
+    
+
+      The Company reserves the right to impose other requirements on the Performance Share Units, any payment made pursuant to the Performance Share Units, and the Participant's participation in the Plan, to the extent the Company determines, in its sole discretion, that such other requirements are necessary or advisable in order to comply with local law, rules and regulations or to facilitate the operation and administration of the Performance Share Units and the Plan. Such requirements may include (but are not limited to) requiring the Participant to sign any agreements or undertakings that may be necessary to accomplish the foregoing.
+    
+
+      15.Insider Trading/Market Abuse Laws
+    
+
+      By accepting the Performance Share Units, the Participant acknowledges that the Participant is bound by all the terms and conditions of any Company insider trading policy as may be in effect from time to time. The Participant further acknowledges that, depending on the Participant's country of residence (and country of employment, if different), the Participant may be or may become subject to insider trading restrictions and/or market abuse laws, which may affect the Participant's ability to accept, acquire, sell or otherwise dispose of shares of Stock, rights to shares of Stock (e.g., Performance Share Units) or rights linked to the value of shares of Stock under the Plan during such times as the Participant is considered to have "inside information" regarding the Company (as defined by the laws in the applicable jurisdictions). Local insider trading laws and regulations may prohibit the cancellation or amendment of orders the Participant placed before the Participant possessed inside information. Furthermore, the Participant could be prohibited from (i) disclosing the inside information to any third party, which may include fellow employees and (ii) "tipping" third parties or causing them otherwise to buy or sell securities.
+    
+
+      Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under any Company insider trading policy as may be in effect from time to time. The Participant acknowledges that it is the Participant's personal responsibility to comply with any applicable restrictions, and the Participant should consult with the Participant's personal legal and investment advisors for additional information.
+    
+
+      16.No Advice Regarding Grant
+    
+
+      No employee of the Company is permitted to advise the Participant on whether the Participant should acquire shares of Stock under the Plan or provide the Participant with any legal, tax or financial advice with respect to the grant of the Performance Share Units. Investment in shares of Stock involves a degree of risk. Before deciding to acquire shares of Stock pursuant to the Performance Share Units, the Participant should carefully consider all risk factors and tax considerations relevant to the acquisition of shares of Stock under the Plan or the disposition of them. Further, the Participant should carefully review all of the materials related to the Performance Share Units and the Plan, and the Participant should consult with the Participant's personal legal, tax, and financial advisors for professional advice in relation to the Participant's personal circumstances.
+    
+
+
+
+
+
+            10    
+      
+
+
+
+
+
+
+
+
+
+
+
+      IN WITNESS WHEREOF, this Agreement has been executed by the Company as of the Grant Date in ____ as set forth on the Grant Summary.
+    
+
+
+
+
+      BOOKING HOLDINGS INC.
+    
+
+
+
+
+
+      [INSERT NAME AND TITLE]
+    
+
+
+
+
+
+            11    
+      
+
+
+
+
+
+
+
+
+
+
+
+      [INSERT THE RELEVANT PERFORMANCE GOALS AND ANY SPECIFIC DEFINITIONS RELATED TO SUCH GOALS HERE]1
+    
+
+
+
+
+      [INSERT METHODOLOGY FOR DETERMINING THE NUMBER OF PERFORMANCE SHARE UNITS EARNED AT THE END OF THE PERFORMANCE PERIOD AND UPON EARLY TERMINATION EVENTS BASED ON THE ACHIEVEMENT OF THE APPLICABLE PERFORMANCE GOALS HERE.]
+    
+
+      1 The Performance Goals shall be determined by the Committee in accordance with the Plan and may include quantitative and/or qualitative goals, including, without limitation, the following, any combination of the following, or any metrics based in part on any of the following: (i) pre-tax income or after-tax income, (ii) operating profit, (iii) return on equity, assets, capital or investment, (iv) earnings, (v) earnings before interest, taxes, depreciation and/or amortization, (vi) book value per share, (vii) sales or revenues, (viii) operating expenses, (ix) margins, (x) market share, (xi) gross bookings, (xi) hotel/accommodation room nights, (xii) price appreciation or other measurement of the change in value of a share of Stock, (xiii) organizational structure or restructuring goals, (xiv) establishment and/or implementation of company policies, (xv) regulatory or compliance goals, (xvi) human resource related goals or (xvii) strategic goals. Where applicable, the Performance Goals may be expressed in terms of attaining a specified level of the particular criteria or the attainment of a percentage increase or decrease in the particular criteria, and may be applied to one or more of the Company, a Subsidiary or Affiliate, or a division or strategic business unit of the Company, or may be applied to the performance of the Company relative to a market index, a group of other companies or a combination thereof, all as determined by the Committee. The Performance Goals may include a threshold level of performance below which no vesting will occur, levels of performance at which specified vesting will occur, and a maximum level of performance at which full vesting will occur. As provided for in the Plan, the Committee shall have the authority to make equitable adjustments to the Performance Goals in recognition of, among other things, unusual or non-recurring events affecting the Company or any Subsidiary or Affiliate or the financial statements of the Company or any Subsidiary or Affiliate, in response to changes in applicable laws or regulations, or to account for items of gain, loss or expense determined to be extraordinary or unusual in nature or infrequent in occurrence or related to the disposal of a segment of a business or related to a change in accounting principles.
+    
+
+
+            12    
+      
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Booking Holdings Inc. published this content on 23 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 24 February 2023 00:10:17 UTC.
+      
+

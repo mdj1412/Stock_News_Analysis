@@ -1,0 +1,100 @@
+
+
+
+        Cisco Live is the premier destination for Cisco customers and partners to gain knowledge and build community. Our teams work hard to deliver education and inspiration, ignite creativity, deliver practical know-how, and accelerate the connections that fuel your digital future.
+      
+
+        The Cisco Secure team is excited to share our expertise to help power the strategies - and safety - of your organization.
+      
+
+If it's connected, it's protected
+
+
+        In 2023, the threat landscape will evolve to one that sees attacks on every surface, from criminals who are opportunistic, yet laser-focused on their goal. The attacks themselves could be email-borne, directly targeted, socially based, or a mix of all three.
+      
+
+        Criminals will target vulnerabilities, operational deficiencies, suppliers, and business partners, as a means of accomplishing their goals. They will use the target's own environment and take advantage of existing people and technology problems, including alert fatigue and staffing shortages.
+      
+
+        To face this reality and address the needs of organizations both large and small, Cisco will continue to focus on education and innovation in the areas of preventing insider threats, providing consistent and informed alerts, enabling actionable intelligence, and delivering solutions to implement a zero-trust security framework.
+      
+
+        As the organization that pioneered networking, we are driven to secure every connection, providing end-to-end protection for users and devices across multiple clouds and networks with a seamless experience.
+      
+
+Innovating to enable a more resilient organization
+
+
+        As our vision for the integrated Cisco Security Cloud evolves, we're continuing to challenge existing models and unify security and networking, with foundational elements that execute on this vision. From verified push - which protects organizations from MFA-focused phishing attacks - to Wi-Fi Fingerprint, and Remembered Devices, the performance enhancements with Enterprise Single Sign-on and Cisco+ Secure Connect, we continue to meet our customers where they are, offering true zero trust, with frictionless experiences for the hybrid workforce.
+      
+
+        We're excited to celebrate the following innovations and updates announced at Cisco Live EMEA:
+      
+
+Risk-Based Authentication
+
+
+        Finding the balance between usability and security is now easier than ever. With risk-based authentication, users have the access they need, secured by real-time contextual signals. Organizations can increase security efficacy by dynamically adjusting authentication ​requirements based on risk levels and by enabling safer end-user behavior. Risk-based authentication now includes wi-fi fingerprint, remembered device, and verified push features, which work together to reduce risk while preserving user experience ​by only requesting additional interaction for suspicious logins or a change in risk.
+      
+
+Single Sign-On
+
+
+        Our Enterprise Ready Single Sign-on expands Duo SSO with three new capabilities to easily connect single sign-on to modern apps and empower end users. By adding major protocol support, improved admin tooling, and SSO on demand password resets, organizations enable easier and more secure access from anywhere.
+      
+
+Cisco+ Secure Connect
+
+
+        Cisco SD-WAN customers can now enjoy all the benefits of a turnkey, single-vendor SASE solution that brings together industry-leading networking with security:​ Cisco+ Secure Connect. This new integration gives Cisco SD-WAN (powered by Viptela) customers fast, secure private application and internet access, enabling them to deliver a secure experience, anywhere work happens.
+      
+
+Application Security
+
+
+        We are also announcing the introduction of industry-first Business Risk Observability, an enhancement of our Full-Stack Observability application security solution. Available through Cisco Secure Application, which is integrated into Cisco AppDynamics, it provides a business risk scoring solution which brings together Kenna Risk Meter score distribution and Business Transactions from Cisco AppDynamics and integrates with Panoptica for API security and Talos for threat intelligence.
+      
+
+Security Readiness Index report
+
+
+        The initial findings from our first Cybersecurity Readiness Index reveal that while technology to devices is widely adopted, more progress is needed to protect identity, networks and applications. The report assessed the preparedness of companies around the world to safeguard against cyber threats in the current environment. See our key findings and security readiness trends, with the full report launching in the coming weeks.
+      
+
+        As we navigate 2023, we will continue to face uncertainties and challenges. We are fully committed to our customers and partners in the journey to provide security resilience, supporting a frictionless user experience, and solutions threat intelligence that work to continually minimize risk.
+      
+
+We'd love to hear what you think. Ask a Question, Comment Below, and Stay Connected with Cisco Secure on social!
+
+
+Cisco Secure Social Channels
+
+
+Instagram
+Facebook
+Twitter
+LinkedIn
+
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 07 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 07 February 2023 09:41:20 UTC.
+      
+

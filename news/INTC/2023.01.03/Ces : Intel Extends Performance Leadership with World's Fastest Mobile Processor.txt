@@ -1,0 +1,84 @@
+
+Today at CES, Intel announced its 13th Gen Intel® Core™ mobile processors that bring superior performance and experiences to mobile platforms. Intel introduced 32 new 13th Gen Intel Core mobile processors with a rich suite of features and capabilities for all laptop segments.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230103005133/en/At CES 2023, Intel introduces the 13th Gen Intel Core mobile processor family, powered by Intel’s performance hybrid architecture. There are 32 new mobile processors introduced on Jan. 3, 2023. (Credit: Intel Corporation)
+Press Kit: 13th Gen Intel Core
+
+“The 13th Gen Intel Core mobile processor family delivers unrivaled, scalable performance for leadership platforms across all laptop segments,” said Michelle Johnston Holthaus, executive vice president and general manager of the Client Computing Group at Intel. “With our industry-leading technologies and unmatched global partner ecosystem, people can expect a high-caliber mobile experience in new and unique form factors – so they can game or create from anywhere.”
+
+13th Gen Intel Core H-series Processors Deliver Industry-Leading Performance
+
+Intel continues to push the boundaries of performance and expand computing possibilities for gamers and creators with the launch of the 13th Gen Intel Core H-series mobile processors, which includes the first 24-core processor for a laptop. When combined with unique features like support for both DDR4 and DDR5 memory, best-in-class connectivity and PCIe Gen 5, 13th Gen HX processors deliver the world’s best mobile gaming platform.2
+
+The new processor family offers:
+
+With five times as many HX laptop designs powered by 13th Gen Intel Core mobile processors compared with 12th Gen, users can choose from 60 HX designs to stream, create and compete at the highest levels.
+
+13th Gen Intel Core P-series and U-series Processors Expand Blazing Performance to Thin-and-Light Laptops
+
+Intel also introduced 13th Gen Intel Core P-series and U-series mobile processors, perfect for people who want high performance on the go in sleek, thin systems. They offer:
+
+For the first time, select designs based on 13th Gen Intel Core processors will feature the Intel® Movidius vision processing unit (VPU). Resulting from deep co-engineering with Microsoft on its new Windows Studio Effects, the AI-heavy tasks required for professional-grade collaboration and streaming can be offloaded to the VPU, freeing the CPU and GPU for other workloads or multitasking.
+
+Across H-, P- and U-Series, the new mobile processors will elevate performance for the next generation of enthusiast designs, thin-and-light laptops, foldables, 2 and 1s and other form factors. More than 300 unique designs are expected this year from Acer, Asus, Dell, HP, Lenovo, MSI, Razer, Republic of Gamers, Samsung and others.
+
+For the IoT edge, 13th Gen Intel Core processors deliver new industrial features, extended temperature operations and higher performing CPUs, with more graphics capabilities and AI performance. Ideal for retail, education, healthcare, aerospace, industrial and smart cities, the new processors provide better workload consolidation with more cores and threads, enabling applications to run on a single device.
+
+New Intel Evo Designs Feature Longer Battery Life and Key Experiences
+
+Intel continues to raise the bar for laptops and other on-the-go form factors with its Intel® Evo™ laptop specification. Under the new specification, Intel Evo designs with 13th Gen Intel Core processors deliver three key experiences:
+
+The exceptional Intel Evo laptop experience doesn’t stop at the PC. The Engineered for Intel Evo program extends the high standards of verification and co-engineering to accessory partners. In addition to Thunderbolt 4 docks, monitors, storage and wireless headsets, new accessories like mice, keyboards and access points from key partners join the program today.
+
+13th Gen Intel Core Desktop Processor Leadership Continues with New Family Additions
+
+Intel bolstered the world’s best desktop processor experience with new 13th Gen Intel Core processors launching today.10 Rounding out the 13th Gen desktop processor family that first launched with the enthusiast-focused K-series SKUs in September, new 35-watt and 65-watt SKUs provide mainstream PC users even more choice for power efficiency while still delivering incredible performance in gaming, creation and productivity. They offer:
+
+Intel Processor N-series Launch for Entry-Level Computing
+
+Following the sunsetting of the Intel Pentium and Intel Celeron branding, Intel today introduced the new Intel Processor and Intel Core i3 in the N-series family of products – purpose-built for the education segment, entry-level computing and IoT edge native applications. They feature:
+
+These processors are designed for education and consumer segments that need a lower, value-oriented price point, but still require performance and high-quality experiences in areas like video collaboration and productivity. More than 50 designs from Acer, Dell, HP, Lenovo and Asus are expected in 2023 as Intel continues to lead ecosystem partnerships for ChromeOS and Windows.
+
+More on Intel Processor N-series: New Intel N-series Processors (Media Presentation) | Intel N-series Processors (Product Brief)
+
+For IoT edge native applications, the Intel Atom® processors x7000E Series, Intel Processor N-series and Intel Core i3 N-series bring deep learning inference, graphics and media processing from our most-power-efficient processors. These processors are used in retail signages, kiosks, point of sale systems, portable medical imaging devices, office automation equipment like copiers, and in safety and security devices like entry-level network video recorders and AI boxes.
+
+Supporting Quote:
+
+“Together with Intel we continue to innovate to deliver powerful PC performance and experiences with Windows 11 and all of the products Intel is announcing today,” said Panos Panay, Executive Vice President and Chief Product Officer, Microsoft. “We’re excited for customers to benefit from substantial optimizations, like improved Windows support for Intel Hybrid Guided Scheduler, and meaningful new experiences, like with the Intel Movidius VPU unlocking a new era of AI acceleration, starting with Windows Studio.”
+
+About Intel
+
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, go to newsroom.intel.com and intel.com.
+
+1 At 5.6GHz, 13th Gen Intel Core i9-13980HX is the fastest mobile processor as of December 2022.
+2 As measured by unique features and superior in-game benchmark mode performance of 13th Gen Intel® Core™ i9-13950HX with NVIDIA RTX 3080 Ti GPU vs 12th Gen Intel® Core™ i9-12900HX with same GPU and vs AMD R9-6900HX with same GPU as of December 1st, 2022.
+3 As measured by SPECrate*2017_fp_base (1 copy) on 13th Gen Intel® Core™i9-13950HX processor vs. 12th Gen Intel® Core™i9- 12900HX
+4 As measured by SPECrate*2017_int_base (1 copy) on 13th Gen Intel® Core™i9-13950HX processor with RTX 3080Ti vs. 12th Gen Intel® Core™i9- 12900HK with RTX 3080Ti
+5 Subject to 6 GHz band availability, operating system support, and router compatibility.
+6 Intel® Connectivity Performance Suite is available on Windows only
+7 As compared to other current PC Client bidirectional I/O connection technologies like eSATA and USB. Must be connected via Thunderbolt 3 or newer accessory to enable full performance.
+8 Intel® Connectivity Performance Suite is available on Windows only
+9 Intel® Unison™ solution is currently only available on eligible Intel® Evo™ designs on Windows-based PCs powered by 12th Gen or newer Intel Core and only pairs with Android- or iOS-based phones; all devices must run a supported OS version. See intel.com/performance-evo for details, including set-up requirements. Results may vary.
+10 Based on performance and unique features of 13th Gen Intel Core processors, including in comparison to 12th Gen Intel Core i9-12900K, AMD Ryzen 9 5950X, and AMD Ryzen 7 5800X3D, as of Sept. 7, 2022.
+11 Source Intel: As estimated by measurements made using SPECint_rate_base2017_IC2022.1 (1-copy & n-copy) using Intel validation Platforms comparing Core i9 13900 versus Corei9 12900.
+12 As measured by CrossMark overall score on Intel Processor N200 vs Pentium Silver N6000; As measured by 3DMark Wildlife unlimited on Intel Processor N200 vs Pentium Silver N6000
+13 As measured by CrossMark overall score on Intel Core i3 N-305 vs Intel Processor N200; As measured by 3DMark Wildlife unlimited on Intel Core i3 N-305 vs Intel Processor N200
+14 As measured by platform power consumption on an Intel Internal Validation Platform while running Netflix streaming battery rundown test while streaming Netflix at 1080p resolution with Intel Processor N200
+
+Notices and Disclaimers
+
+For all workload and configuration details, see intel.com/PerformanceIndex. Results may vary.
+
+For more information about wireless claims, see intel.com/performance-wireless. Results may vary.
+
+For more information about wired claims, see intel.com/performance-wired. Results may vary.
+
+Overclocking may void warranty or affect system health. Learn more at intel.com/overclocking. Results may vary.
+
+Performance hybrid architecture is not available on certain 13th Gen Intel Core processors. See intel.com/PerformanceIndex for more details.
+
+Intel Thread Director On select SKUs only; requires OS enablement. See intel.com/PerformanceIndex for more details.
+
+© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230103005133/en/

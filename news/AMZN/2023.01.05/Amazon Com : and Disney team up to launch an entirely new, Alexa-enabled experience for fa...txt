@@ -1,0 +1,91 @@
+
+
+      First-of-its-kind collaboration will bring the best of Disney, Pixar, and 'Star Wars' characters to your home and Disney Resort hotel rooms with the help of Amazon's Alexa.
+    
+
+
+        You'll soon be able to experience the magic of Disney in a new way-both at home and in select Disney Resort hotel rooms. The Hey Disney! experience launches later this year, but Amazon offered the public the first sneak peek during a live demonstration at the Consumer Electronics Show (CES) in Las Vegas.
+      
+
+        Hey Disney! is a first-of-its-kind voice assistant that will give customers access to a wide range of Disney magic through Echo devices at home and as a complimentary service at select Disney Resorts hotels. Disney built the experience using the Alexa Custom Assistant, a voice AI foundation upon which the company could easily create its own custom voice assistant that coexists with Alexa. This new voice assistant, termed the "Disney Magical Companion," is the voice of Hey Disney!
+      
+
+        The service will be available for purchase in the U.S. in the coming months. Customers who have purchased and enabled it can say, "Hey Disney!"-a new wake word Amazon created-to enjoy experiences featuring more than 20 Disney, Pixar, and Star Wars characters. Customers can interact with these fan-favorites-like Mickey Mouse, Dory from Finding Nemo, and Olaf from Frozen-to hear an array of jokes, play trivia, listen to soundscapes, and more.
+      
+
+        How does Hey Disney! work?
+      
+
+        Customers will access the service through Echo smart speakers at home and Disney Resort hotel rooms. Guests staying in select Walt Disney World and Disneyland Resort hotels will be able to ask questions about park hours, request fresh towels, and access other helpful features.
+      
+
+        Hey Disney! will also feature support for Disney's MagicBand+, the smart and interactive wearable device that visitors use at Walt Disney World and Disneyland Resort to interact with shows, enter the park, redeem Lightning Lane access, and more. For example, when you answer trivia questions, MagicBand+ transforms into a game show-style buzzer and reacts with lights and vibrations. It will even light up and buzz when your alarm or timer goes off.
+      
+
+        An entirely new experience for Disney fans
+      
+
+        "As a first-of-its-kind voice assistant, Hey Disney! continues Disney's long tradition of using technology to provide the coolest, most convenient experiences to make your visit better," said Dan Soto, Disney's vice president of technology and digital. "We're always looking for new ways to open the door to even more stories, making them richer, more immersive, and forever memorable to guests and fans, whether they are at home or visiting Disney Parks. We can't wait for fans and families to discover all the surprising and delightful interactions we've built into this experience."
+      
+
+
+3 startups backed by Amazon's Alexa Fund on display at CES 2023
+
+
+          Innovations backed by the venture fund use ambient intelligence to conserve water and help improve lives.
+        
+
+Read more
+
+
+
+        If you ask Hey Disney! for the weather, Olaf from Frozen might tell you it's cold out. Or if you're in the mood to cook a nice meal, you can ask Hey Disney! to play the soundscape from Ratatouille.
+
+
+        Dana Alia, a senior manager on the Alexa team, said Disney wanted to delight fans in a new way. "Disney was really focused on making something that brings you into their resort experience in a way that hadn't been done before," she said.
+      
+
+        The goal to create a new, unique experience also came with challenges. "In a lot of collaborations, there's a template. You've done something similar before," said Erin Egan, who leads the collaboration for Amazon. "In this case, we were both starting from blank. This added complexity but meant we had the freedom to define it."
+      
+
+        An innovation in storytelling
+      
+
+        Aaron Rubenson, a vice president of Alexa, said customer education was another important challenge. "One of the fun areas for innovation was imagining how we were going to teach people about the feature," he said.
+      
+
+        His team helped Disney build an introduction that guides fans and helps them get started. The team added various hints for users as they interact with Hey Disney!, like prompts to hear jokes or play trivia. The hints help to make sure customers at home and in the resort get the most out of the experience.
+      
+
+        "Disney is the master storyteller, and its stories are so powerful for so many people," Rubenson said. "Now people can keep talking to a character and continue with the storyline when they go back to their room at the end of the day-or when they go home when the vacation is over. It's gratifying to imagine that we're a part of literally bringing that magic home."
+      
+
+        Disney began installing Echo family devices with Hey Disney! in limited hotel rooms at Disney's Polynesian Village Resort. Hey Disney! will also be available for customers to purchase soon in the U.S. in the Alexa Skills Store or included with an Amazon Kids+ subscription in the coming months.
+      
+
+
+
+        Related Tags
+      
+
+Amazon EchoDevicesSmart homeInnovationAlexa
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Amazon.com Inc. published this content on 05 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 05 January 2023 14:07:06 UTC.
+      
+

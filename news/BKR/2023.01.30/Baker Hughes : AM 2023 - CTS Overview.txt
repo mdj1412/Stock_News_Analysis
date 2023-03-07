@@ -1,0 +1,341 @@
+
+
+
+
+          Baker Hughes
+        
+
+          Climate Technology Solutions
+        
+
+          Chris Barkey, CTO, Industrial & Energy Technology Alessandro Bresciani, SVP - Climate Technology Solutions
+        
+
+          Tom Harper, VP - Commercial Development, Climate Technology Solutions
+        
+
+          January 30, 2023
+        
+
+
+
+          Copyright 2023 Baker Hughes Company. All rights reserved. The information contained in this document is company confidential and proprietary property of Baker Hughes and its affiliates. It is to be used only for the benefit of Baker Hughes and may not be distributed, transmitted, reproduced, altered, or used for any purpose without the express written consent of Baker Hughes.
+        
+
+
+
+
+        2
+      
+
+        This presentation (and oral statements made regarding the subjects of this release) may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of
+      
+
+        1934, as amended, (each a "forward-looking statement"). The words "anticipate," "believe," "ensure," "expect," "if," "intend," "estimate," "project," "foresee," "forecasts," "predict," "outlook," "aim," "will," "could," "should," "potential," "would," "may," "probable," "likely," and similar expressions, and the negative thereof, are intended to identify forward-looking statements. There are many risks and uncertainties that could cause actual results to differ materially from our forward-looking statements. These forward-looking statements are also affected by the risk factors described in the Company's annual report on Form 10-K for the period ended December 31, 2021 and those set forth from time to time in other filings with the Securities and Exchange Commission ("SEC"). The documents are available through the Company's website at: www.investors.bakerhughes.com or through the SEC's Electronic Data Gathering and Analysis Retrieval ("EDGAR") system at: www.sec.gov. We undertake no obligation to publicly update or revise any forward-looking statement.
+      
+
+        Copyright 2023 Baker Hughes Company. All rights reserved.
+      
+
+
+
+
+
+
+
+                CLIMATE TECHNOLOGY SOLUTIONS
+              
+
+
+
+                3
+              
+
+
+
+
+          Decades of experience working with natural gas, H2 & CO2
+
+
+          Uniquely placed to play a leading role in the decarbonization of the energy & industrial sectors
+        
+
+
+
+
+            Baker Hughes Today
+          
+
+#1 provider of liquefaction equipment and services
+          
+
+60 years of experience working with Hydrogen
+          
+
+            Leading provider of compression equipment for all gases
+
+
+            Condition monitoring specialist - driving equipment reliability & efficiency
+          
+
+
+
+            Early Life of CTS
+          
+
+~$400M of New Energy orders in 2023
+          
+
+            Deploying existing equipment in CCUS, H2, Clean Power &
+
+
+            Emissions Management applications
+
+
+            Leveraging relationships with energy companies to play a leading role in early-stage projects
+          
+
+
+
+            Future CTS
+          
+
+$6-7B New Energy orders opportunity by 2030
+          
+
+            Global leader in energy efficiency and carbon abatement technologies
+          
+
+            Successfully incubated and commercially deployed technology investments
+          
+
+            Diverse customer base across energy & industrial sectors
+          
+
+
+
+
+          Copyright 2023 Baker Hughes Company. All rights reserved.
+        
+
+
+
+
+
+
+
+
+                CLIMATE TECHNOLOGY SOLUTIONS
+              
+
+
+
+                4
+              
+
+
+
+
+
+
+
+
+
+
+          CTS - our approach
+        
+
+          Leveraging our existing technologies and market presence, while we build for the future
+        
+
+          OUR APPROACH
+        
+
+
+
+
+Enter new markets & penetrate
+          
+
+            existing customer base
+          
+
+            Decarbonize existing O&G customer operations with existing technology
+          
+
+
+Leverage installed base
+
+
+Emissions Abatement leveraging proven technologies
+
+
+
+            Enter new industrial markets
+          
+
+
+Create new cross-industry partnerships
+            
+
+Build new industrial sales
+
+
+
+            Building new business models &
+          
+
+            offerings for a "forming" market
+          
+
+
+Creating a differentiated position as the market evolves
+
+
+
+            Copyright 2023 Baker Hughes Company. All rights reserved.
+          
+
+
+
+Invest in future, innovative
+          
+
+            technologies
+          
+
+            Focused on adding capabilities in areas of CCUS, H2 & Clean Power
+          
+
+            The future of gas fired power generation
+          
+
+            Low LCOC1 for small emitters
+          
+
+            Net-zero H2
+          
+
+            Gen II Solvent for large scale Carbon Capture
+          
+
+            MOFs2 platform for Direct
+          
+
+            Air Capture
+          
+
+            + Additional 7 investments
+          
+
+
+
+Leverage technology expertise to commercialize investments
+          
+
+            World leading R&D capability
+          
+
+
+Advanced manufacturing & materials engineering
+
+
+Turbomachinery, Fluid dynamics, Roto dynamics & combustion
+
+
+
+            Global network of test centers
+          
+
+
+Bench Scale , Full Scale & Field Pilot testing facilities
+
+
+
+            Global supply chain and manufacturing scale
+          
+
+
+
+
+
+Levelized Cost of Capture
+
+
+Metal-organicFramework
+          
+
+
+
+
+
+
+
+
+
+                CLIMATE TECHNOLOGY SOLUTIONS
+              
+
+
+
+                5
+              
+
+
+
+
+
+
+
+
+
+
+          Market activity - strategic collaborations
+        
+
+          A sample of our successes so far
+        
+
+
+
+
+
+Green Hydrogen, NEOM, Saudi Arabia - Providing advanced hydrogen compression technology
+            
+
+Blue Hydrogen, Edmonton, Alberta, Canada - Providing 100% hydrogen fueled NovaLT 16 gas turbine technology to APD
+            
+
+
+
+
+
+CCUS, Kasawari, Sarawak, Malaysia - Separate and compress 3.3 MTPA of CO2 at the offshore CCS platform, the worlds largest offshore CCS facility
+            
+
+
+
+
+
+          Copyright 2023 Baker Hughes Company. All rights reserved.
+        
+
+This is an excerpt of the original content. To continue reading it, access the original document here.
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Baker Hughes Company published this content on 30 January 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 30 January 2023 12:43:08 UTC.
+      
+

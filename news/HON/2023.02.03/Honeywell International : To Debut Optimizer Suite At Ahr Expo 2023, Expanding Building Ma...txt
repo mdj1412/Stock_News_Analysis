@@ -1,0 +1,96 @@
+
+
+
+Honeywell Optimizer Suite is a robust building management system solution that provides greater cybersecurity protection and is easy to install and maintain
+
+
+New SaaS offerings from Honeywell include Remote Building Manager, a cloud-based supervisor platform
+
+
+TR50 Indoor Air Quality Sensor, a monitor with an optional display that shares IAQ information with occupants
+
+
+
+ATLANTA, February 1, 2023 - Honeywell (NASDAQ: HON) will showcase its latest products and services for the HVAC industry at the 2023 International Air Conditioning, Heating and Refrigerating Exposition (AHR Expo), February 6-8, in Atlanta. Attendees can learn more about the Honeywell Optimizer Suite, its latest generation of IP controllers; Honeywell Remote Building Manager, a cloud-based supervisor software; and the Honeywell TR50 Indoor Air Quality Sensor, a monitoring device that displays the key components of air quality to building occupants.
+    
+
+      "The future of building automation systems must be open, scalable and built with the end-user in mind to be better for business and the planet," said Michael Garceau, Building Management Systems general manager, Americas, Honeywell Building Technologies. "At Honeywell, we are meeting next-generation demands with our comprehensive portfolio of controllers, field devices and software. We're excited to introduce these innovative automation solutions and share our commitment to sustainability at AHR Expo."
+    
+
+Honeywell Optimizer Suite
+
+
+      Honeywell Optimizer Suite consists of a variable air volume (VAV) controller, a unitary controller and an advanced plant controller to help any existing building system - premium commercial, healthcare, education or governmental - enjoy the same advantages of IP control as a new state-of-the-art facility. The open-protocol suite leverages the powerful Niagara Framework and is designed to enable more efficient installation and commissioning, provide greater cybersecurity protection, be more energy efficient and be easier to maintain with better system operability.
+    
+
+      Contractors and system integrators can wire the new controllers into a system, connect them wirelessly or utilize IP over twisted pair communications with T1L technology in order to transmit HVAC data without disruptive, expensive infrastructure upgrades. T1L makes retrofits easier and efficient, enabling older infrastructures to join the new era of IP control.
+    
+
+      "With your HVAC system connected into your building's IP network, you can look forward to a more efficient, more flexible and more cyber-resilient future," said Garceau. "The Honeywell Optimizer Suite is built with both the system integrator and the end user in mind to support a building's operational strategy - even with legacy infrastructure - to better meet occupants' needs."
+    
+
+      As a critical part of a building's operational technology (OT), an integrated control system merges at least partially with the organization's IT system. The Optimizer Suite is designed to protect against cybersecurity threats - it helps to reduce exposure risk, protects BMS assets and minimize downtime. It features the same level of cybersecurity that protects an IT system.
+    
+
+Honeywell Remote Building Manager
+
+
+      Honeywell Remote Building Manager not only helps owners and tenants monitor energy use and reduce operational costs it also lets them manage a building's systems 24/7 from anywhere on a variety of devices. The cloud-based supervisory software allows users to add or remove sites and capabilities at any time, based on the overall level of service needed.
+    
+
+      The solution can be used in any type of building - leased or owned, new construction or legacy. Built on the Honeywell Forge platform,[i] Remote Building Manager also makes it simple to add or remove other software services from the Honeywell Forge ecosystem, such as Carbon and Energy Management and indoor air quality monitoring. The Remote Building Manager works with the Optimizer Suite controllers as well as supporting integration with third party controllers to provide real-time system insights and identify opportunities to improve efficiency. The cost-effective subscription-based software requires minimal hardware, capital expenses and on-site IT support to run or maintain. The solution can be installed and configured in hours - not days.
+    
+
+Honeywell TR50 Indoor Air Quality Sensor
+
+
+      People spend more than 90% of their time indoors,[ii] and building occupants are increasingly concerned about indoor environmental quality. 
+    
+
+      The Honeywell TR50 Sensor provides continuous IAQ monitoring and simple visual confirmation of air quality. A display keeps occupants and facility managers apprised of five key parameters - carbon dioxide (CO2), particulate matter (PM2.5), volatile organic compounds (VOCs), temperature and humidity.
+    
+
+      The TR50 can connect to any controller, regardless of brand, or feed data to the Honeywell Remote Building Manager as part of an IAQ dashboard. The sensor displays a room's air quality score along with a color-coded LED indicator and can enable demand-controlled ventilation with additional parameters, on top of temperature control.
+    
+
+Ready-now Solutions to Support Sustainability Efforts
+
+
+      Honeywell will also display ready-now solutions to support a more sustainable world including Honeywell Buildings Sustainability Manager powered by Honeywell Forge, an autonomous controls platform with a suite of applications that help customers address two pressing yet often conflicting objectives: optimizing indoor air quality and reducing the environmental impact of buildings with the aim of meeting carbon reduction goals. In addition, the breakthrough Solstice® HFO technology that is helping customers lower their carbon footprint and improve energy efficiency without sacrificing end-product performance will be displayed.
+    
+
+      Learn more about Honeywell's latest building management products and offerings at the company's booth, #B2019, at AHR Expo.
+    
+
+About Honeywell Building Technologies
+
+
+Honeywell Building Technologies (HBT) is transforming the way every building operates to help improve the quality of life. We are a leading building controls company with operations in more than 75 countries supported by a global channel partner network. Commercial building owners and operators use our hardware, software and analytics to help create safe, efficient and productive facilities. Our solutions and services are used in more than 10 million buildings worldwide.
+    
+
+      Honeywell (www.honeywell.com) delivers industry specific solutions that include aerospace products and services; control technologies for buildings and industry; and performance materials globally. Our technologies help aircraft, buildings, manufacturing plants, supply chains, and workers become more connected to make our world smarter, safer, and more sustainable. For more news and information on Honeywell, please visit www.honeywell.com/newsroom.
+    
+
+[i] Honeywell, Honeywell Forge [Accessed January 17, 2023].
+
+
+[ii] Environmental Protection Agency, Indoor Air Quality [Accessed January 17, 2023].
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Honeywell International Inc. published this content on 01 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 03 February 2023 06:17:02 UTC.
+      
+
