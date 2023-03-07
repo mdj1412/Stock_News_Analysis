@@ -11,6 +11,9 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+
+=============
+
 # Stock News Analysis
 
 This project uses Natural Language Processing (NLP) techniques and machine learning models to analyze stock news, extract valuable insights, and provide visualizations to help users make informed investment decisions.

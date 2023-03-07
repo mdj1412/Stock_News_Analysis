@@ -50,19 +50,20 @@ def get_list(tickers=nasdaq100_symbols):
 # 주식 데이터 가져오기
 def get_data(tickers=nasdaq100_symbols, numOfDay=2):#numOfDay: 날짜 간격
     output = []
+    delta = (numOfDay / 7) * 2
 
     # 시작 날짜 ~ 최근까지 데이터 가져오기
     now = datetime.now() # 오늘 날짜
     date = now.weekday() # 요일 확인
 
     if date == 5: # Saturday
-        start_date = datetime(now.year, now.month, now.day, 0, 0) - timedelta(days=numOfDay+4)
+        start_date = datetime(now.year, now.month, now.day, 0, 0) - timedelta(days=numOfDay+4+delta)
         end_date = datetime(now.year, now.month, now.day, 0, 0)
     elif date == 6 or date == 0 or date == 1: # Sunday or Monday or Tuesday
-        start_date = datetime(now.year, now.month, now.day, 0, 0) - timedelta(days=numOfDay+5)
+        start_date = datetime(now.year, now.month, now.day, 0, 0) - timedelta(days=numOfDay+5+delta)
         end_date = datetime(now.year, now.month, now.day, 0, 0)
     else: # Others
-        start_date = datetime(now.year, now.month, now.day, 0, 0) - timedelta(days=numOfDay+3)
+        start_date = datetime(now.year, now.month, now.day, 0, 0) - timedelta(days=numOfDay+3+delta)
         end_date = datetime(now.year, now.month, now.day, 0, 0)
 
 
@@ -80,8 +81,10 @@ def get_data(tickers=nasdaq100_symbols, numOfDay=2):#numOfDay: 날짜 간격
             output.append(abc)
 
     # print("Output : ", output)
-    if len(output[0]) < numOfDay:
-        output = get_data(tickers, numOfDay+numOfDay-len(output[0]))
+    # from IPython import embed; embed()
+    if numOfDay != 60 and len(list(output[0].index.values)) < numOfDay:
+        print(numOfDay+numOfDay-len(list(output[0].index.values)))
+        output = get_data(tickers, numOfDay+numOfDay-len(list(output[0].index.values)))
     return output
 
 
