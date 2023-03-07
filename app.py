@@ -1,5 +1,4 @@
 import os
-from bs4 import BeautifulSoup
 import pandas as pd
 
 from flask import Flask, jsonify, request, render_template

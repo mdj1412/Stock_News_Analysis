@@ -27,11 +27,16 @@ def get_list(tickers=nasdaq100_symbols):
         ticker = demo_dic.loc[i, 'ticker']
 
         # ticker의 주식 정보 데이터를 가져온다.
-        data = get_data(tickers=[ticker], numOfDay=3)[0]
+        data = get_data(tickers=[ticker], numOfDay=4)[0]
+
+        try:
+            yesterday = data.iloc[-2, 3]
+            today = data.iloc[-1, 3]
+        except IndexError:
+            print("Oops!  That was no valid number.  Try again...")
+            from IPython import embed; embed()
 
 
-        yesterday = data.iloc[-2, 3]
-        today = data.iloc[-1, 3]
         demo_dic.loc[i, 'diff'] = round(((today-yesterday)/today) * 100.0, 2)
         demo_dic.loc[i, 'open'] = round(data.iloc[-1, 0], 2) # Open
         demo_dic.loc[i, 'close'] = round(data.iloc[-1, 3], 2) # Close
