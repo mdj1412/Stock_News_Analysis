@@ -246,3 +246,9 @@ function sendAjax_async(url, data, dataType, handle) {
     
     return search_var
 }
+
+
+
+function handleReturn(output) {
+    return output;
+}

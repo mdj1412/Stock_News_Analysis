@@ -41,12 +41,6 @@ $(function() {
 
 
 function handleReturn(output) {
-    // console.log("handle return ");
-
-    // console.log("close : ", output.close);
-    // console.log("diff : ", output.diff);
-    // console.log("name[0] : ", output.name[0]);
-
     return output;
 }
 

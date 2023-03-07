@@ -1,0 +1,28 @@
+March 6 (Reuters) - Microsoft Corp on Monday
+bundled the technology behind ChatGPT with its Power Platform
+that allows users to develop applications with little or no
+coding, the latest integration of artificial intelligence into
+its products.Big tech companies from Alphabet Inc to Baidu Inc
+are speeding up the integration of generative AI -
+technology that has gained popularity for its ability to
+generate human-like text responses to queries - into their
+offerings.Microsoft said a line of business-intelligence and
+app-development tools within Power Platform, including Power
+Virtual Agent and AI Builder, was updated with the new
+capabilities.Power Virtual Agent, a tool for businesses to build
+chatbots, can now connect to internal company resources to
+generate summaries of weekly reports and customer queries.Microsoft has also added generative AI capabilities to AI
+Builder, which lets businesses automate workflows, and launched
+a new version of its business management platform Dynamics 365
+based on the technology.Dynamics 365 Copilot, the latest version of Microsoft's
+tool that includes a number of applications for sales, customer
+service and marketing, integrates AI to automate certain tasks
+like data gathering and analysis or creating an email campaign,
+among other capabilities.Microsoft also said on Monday that Chief Executive Satya
+Nadella would host an event on March 16 to discuss "reinventing
+productivity with AI."The company so far has announced AI updates for its
+popular Windows operating system and search engine Bing but not
+yet for its Office productivity suite, which includes Word and
+Excel.
+(Reporting by Yuvraj Malik in Bengaluru; Editing by Pooja Desai
+and Maju Samuel)
