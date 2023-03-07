@@ -128,7 +128,7 @@ def chart():
     ticker = request.args.get('ticker')
     
     # Implement Module
-    chart_data = get_data(tickers=[ticker], numOfDay=120)[0]
+    chart_data = get_data(tickers=[ticker], numOfDay=60)[0]
 
     # 날짜 형식 바꾸기
     chart_data.index = [k.strftime("%Y-%m-%d") for k in chart_data.index]

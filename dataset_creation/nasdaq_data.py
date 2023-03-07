@@ -27,7 +27,7 @@ def get_list(tickers=nasdaq100_symbols):
         ticker = demo_dic.loc[i, 'ticker']
 
         # ticker의 주식 정보 데이터를 가져온다.
-        data = get_data(tickers=[ticker], numOfDay=4)[0]
+        data = get_data(tickers=[ticker], numOfDay=2)[0]
 
         try:
             yesterday = data.iloc[-2, 3]
@@ -75,18 +75,13 @@ def get_data(tickers=nasdaq100_symbols, numOfDay=2):#numOfDay: 날짜 간격
             print("[ {} Finance Data ]".format(ticker))
             ticker_yf = yf.Tickers(ticker)
 
-            
             abc = ticker_yf.tickers[ticker].history(start=start_date, end=end_date, period='max')
-            
-            # abc = ticker_yf.tickers[ticker].history(period='max', interval='1m')
-            # abc = ticker_yf.tickers[ticker].history(start=start_date, end=end_date, interval='1m')
-            # abc = ticker_yf.tickers[ticker].history(start=start_date, end=end_date)
 
-            # print(abc)
-            # from IPython import embed; embed()
             output.append(abc)
 
     # print("Output : ", output)
+    if len(output[0]) < numOfDay:
+        output = get_data(tickers, numOfDay+numOfDay-len(output[0]))
     return output
 
 

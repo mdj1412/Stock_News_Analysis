@@ -31,9 +31,6 @@
 // $(document).ready(function() { });
 $(function() {
     console.log("Start debug !!");
-
-    // 세 번째 인자 : 파이썬에서 return 값 처리
-    sendAjax("/submit", {"input_text": "This is a news article about Apple."}, handleOutput);
     
     stocksInit();
     calendarInit();
@@ -43,10 +40,6 @@ $(function() {
 
 
 
-
-function handleOutput(output) {
-    console.log(output["output"]);
-}
 function handleReturn(output) {
     // console.log("handle return ");
 
@@ -61,7 +54,7 @@ function handleReturn(output) {
 
 function stocksInit() {
     // Javascript -> Flask (Python) -> Javascript
-    output = sendAjax_async("/stocks", "json", handleReturn);
+    output = sendAjax_async("/stocks", {}, "json", handleReturn);
 
     console.log("stocksInit() Output : ", output);
     console.log(typeof output);
