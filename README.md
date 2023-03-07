@@ -1,3 +1,16 @@
+---
+title: Stock News Summaries AI
+emoji: 👁
+colorFrom: blue
+colorTo: red
+sdk: gradio
+sdk_version: 3.17.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 # Stock News Analysis
 
 This project uses Natural Language Processing (NLP) techniques and machine learning models to analyze stock news, extract valuable insights, and provide visualizations to help users make informed investment decisions.
@@ -44,19 +57,3 @@ This project uses Natural Language Processing (NLP) techniques and machine learn
 This project is licensed under the MIT [License]() file for details.
 
 
-
-
-
-
----
-title: Stock News Summaries AI
-emoji: 👁
-colorFrom: blue
-colorTo: red
-sdk: gradio
-sdk_version: 3.17.0
-app_file: app.py
-pinned: false
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
