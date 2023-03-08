@@ -1,0 +1,50 @@
+
+
+<!-- 일단 보류 -->
+
+
+
+
+<!-- div 태그 : 상자를 만듬 -->
+<div class="sec_cal">
+
+    <div class="cal_nav">
+        <!-- a 태그 : 클릭시 다른 주소로 이동하는 태그 -->
+        <!-- a href는 통상 URL을 명시할 때 사용하지만 javascript를 사용할 때도 쓴다. -->
+        <a href="javascript:;" class="nav-btn go-prev">prev</a>
+        <div class="year-month"></div>
+        <a href="javascript:;" class="nav-btn go-next">next</a>
+    </div>
+
+    <div class="cal_wrap">
+        <div class="days">
+            <div class="day">MON</div>
+            <div class="day">TUE</div>
+            <div class="day">WED</div>
+            <div class="day">THU</div>
+            <div class="day">FRI</div>
+            <div class="day">SAT</div>
+            <div class="day">SUN</div>
+        </div>
+
+        <div class="dates"></div>
+            <!-- 
+                <div class="day prev disable">
+                <div class="day current"> or <div class="day current today">
+                <div class="day next disable">
+            -->
+    </div>
+
+
+    <form class="year-month-day-form">
+        <label for="year-month-day-input">날짜를 입력하시오. (예시. 2023-02-10) </label>
+        <input
+            id="year-month-day-input"
+            type="text"
+            placeholder="2023-02-10"
+            value="2023-02-10"
+        />
+
+        <button id="text-submit">Submit</button>
+    </form>
+</div>

@@ -1,0 +1,4962 @@
+
+
+
+UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL INFORMATION OF WARNER BROS. DISCOVERY, INC. AND THE WARNERMEDIA BUSINESS
+
+
+        On April 8, 2022 (the "Merger Closing Date"), Warner Bros. Discovery, Inc. ("WBD" or the "Company"), formerly known as Discovery, Inc. ("Discovery"), and AT&T Inc. ("AT&T") completed the transactions contemplated by (1) the Agreement and Plan of Merger, dated as of May 17, 2021 (as amended, the "Merger Agreement"), by and among WBD, Drake Subsidiary, Inc., a Delaware corporation and a direct, wholly owned subsidiary of WBD ("Merger Sub"), AT&T and WarnerMedia Holdings, Inc., formerly known as Magallanes, Inc., a Delaware corporation and formerly a wholly owned subsidiary of AT&T ("Spinco"), (2) the Separation and Distribution Agreement, dated as of May 17, 2021 (as amended, the "Separation Agreement"), by and among AT&T, Spinco and WBD, and (3) certain other agreements in connection with the transactions contemplated by the Merger Agreement and the Separation Agreement (collectively, the "WarnerMedia Transactions"). Specifically, (1) AT&T transferred the business, operations and activities that constitute the WarnerMedia segment of AT&T (the "WarnerMedia Business"), subject to certain exceptions as set forth in the Separation Agreement, to Spinco, (2) thereafter, on the Merger Closing Date, AT&T distributed to its stockholders all of the shares of common stock, par value $0.01 per share, of Spinco ("Spinco common stock") held by AT&T by way of a pro rata dividend such that each holder of shares of common stock, par value $1.00 per share, of AT&T ("AT&T common stock") was entitled to receive one share of Spinco common stock for each share of AT&T common stock held as of the record date, April 5, 2022 (the "Distribution"), and (3) following the Distribution, Merger Sub merged with and into Spinco, with Spinco surviving as a wholly owned subsidiary of WBD (the "Merger"). Pursuant to the Merger Agreement, at the effective time of the Merger, each issued and outstanding share of Spinco common stock on the Merger Closing Date was automatically converted into the right to receive 0.241917 shares of Series A common stock, par value $0.01 per share, of WBD ("WBD common stock").
+      
+
+        The unaudited pro forma condensed combined financial information presented below has been derived from the historical consolidated financial statements of WBD and the historical combined financial statements of the WarnerMedia Business. The unaudited pro forma condensed combined financial information and the notes thereto have been prepared to illustrate the estimated effects of the WarnerMedia Transactions in accordance with Article 11 of Regulation S-X as amended by the final rule, Release No. 33-10786 "Amendments to Financial Disclosures about Acquired and Disposed Businesses". Release No. 33-10786 replaced the existing pro forma adjustment criteria with simplified requirements to depict the accounting for the transaction ("Transaction Accounting Adjustments") and present the reasonably estimable synergies and other transaction effects that have occurred or are reasonably expected to occur ("Management's Adjustments"). WBD has elected not to present Management's Adjustments and only presents Transaction Accounting Adjustments in the unaudited pro forma condensed combined financial information. The unaudited pro forma condensed combined statement of operations for the year ended December 31, 2022 combines the historical consolidated statement of operations of WBD for the year ended December 31, 2022 and the historical combined statement of operations of the WarnerMedia Business for the period from January 1, 2022 through April 7, 2022, giving effect to the WarnerMedia Transactions as if they had occurred on January 1, 2022. A pro forma condensed combined balance sheet is not required as the acquisition has already been reflected in the historical balance sheet as of December 31, 2022, included in WBD's Annual Report on Form 10-K, filed with the Securities and Exchange Commission (the "SEC") on February 24, 2023.
+      
+
+        The unaudited pro forma condensed combined financial information should be read in conjunction with (1) the accompanying notes to the unaudited pro forma financial information, (2) the WarnerMedia Business's unaudited combined financial statements and notes thereto as of and for the three months ended March 31, 2022, which are included in WBD's Current Report on Form 8-K, filed with the SEC on August 4, 2022, and (3) WBD's audited consolidated financial statements and the notes thereto as of and for the year ended December 31, 2022, which are included in WBD's Annual Report on Form 10-K, filed with the SEC on February 24, 2023.
+      
+
+        The historical combined financial statements of the WarnerMedia Business have been derived from the consolidated financial statements and accounting records of AT&T, as if the WarnerMedia Business's operations had been conducted independently from those of AT&T. The combined financial statements of the WarnerMedia Business are presented on a "carve-out" basis in accordance with generally accepted accounting principles in the United States ("GAAP"). The historical combined statements of operations include all revenues and costs directly attributable to the WarnerMedia Business, gains and losses on dispositions prior to the WarnerMedia Transactions, as well as an allocation of expenses related to corporate finance, human resources, business development, legal, treasury, real estate, external affairs, compliance, and other shared services. Expenses that are specifically identifiable to the WarnerMedia Business are directly recorded to the combined statement of operations. The remaining expenses are primarily allocated on the basis of the relative percentage of expected revenue generated. The WarnerMedia Business considers these allocations to be a reasonable reflection of the utilization of services by, or the benefits provided to, the WarnerMedia Business. The combined financial statements may not be indicative of the WarnerMedia Business's financial condition, results of operations or cash flows had it operated as a standalone entity during the periods presented, and the results stated in the combined financial statements are not indicative of the WarnerMedia Business's future financial condition, results of operations or cash flows.
+      
+
+        The unaudited pro forma condensed combined financial information has been prepared using the acquisition method of accounting in accordance with ASC 805, Business Combinations, ("ASC 805") with Discovery as the accounting acquirer of the WarnerMedia Business. The purchase price allocation of the WarnerMedia Business's assets acquired and liabilities assumed is based on preliminary estimates of the fair values of the assets acquired and liabilities assumed, and the unaudited pro forma condensed combined financial information is based upon available information and certain assumptions of WBD management as of the date of this document. The completion of the valuation, accounting for the WarnerMedia Transactions and the allocation of the purchase price may be different than that of the amounts reflected in the notes hereto, and any differences could be material. Such differences could affect the purchase price and allocation of the purchase price, which may affect the value assigned to the tangible or intangible assets and amount of cost of revenues and depreciation and amortization expense recorded in the unaudited pro forma condensed combined statement of operations.
+      
+
+        The unaudited pro forma adjustments represent WBD management's estimates based on information available as of the date of this document and are subject to change as additional information becomes available and analyses are performed. However, WBD management believes that the assumptions provide a reasonable basis for presenting the significant effects of the WarnerMedia Transactions, and that the pro forma adjustments give appropriate effect to those assumptions and are properly applied in the unaudited pro forma condensed combined financial information. Transaction Accounting Adjustments are intended to represent the necessary adjustments to account for the WarnerMedia Transactions.
+      
+
+        The unaudited pro forma condensed combined financial information does not give effect to the potential impact of current financial conditions, or any anticipated revenue enhancements, cost savings or operating synergies that may result from the Merger. No Management Adjustments related to forward-looking information were included in the unaudited pro forma condensed combined financial information and accompanying explanatory notes. The unaudited pro forma condensed combined financial information is presented for informational purposes only and is not necessarily indicative of the results that would have occurred had the events been consummated as of the dates indicated, nor are they indicative of any future results.
+      
+
+
+
+UNAUDITED PRO FORMA CONDENSED COMBINED STATEMENT OF OPERATIONS
+
+
+YEAR ENDED DECEMBER 31, 2022
+
+
+(In millions, except per share amounts)
+
+
+
+
+
+
+
+
+
+
+
+
+Historical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warner
+
+
+Bros.
+
+
+Discovery,
+
+
+Inc.
+
+
+
+
+
+
+
+
+WarnerMedia
+
+
+Business After
+
+
+Reclassification
+
+
+Adjustments
+
+
+(January 1, 2022
+              through March 31,
+              2022)
+
+
+(Note 2)
+
+
+
+
+
+
+
+
+WarnerMedia
+
+
+Business
+
+
+(April 1, 2022
+
+
+through April 7,
+              2022)
+
+
+
+
+
+
+
+
+Transaction
+
+
+Accounting
+
+
+Adjustments
+
+
+
+
+
+
+
+Notes
+
+
+
+
+
+
+Pro Forma
+            Combined
+
+
+
+
+
+
+
+              Revenues:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Advertising
+            
+
+
+
+
+            $
+          
+
+            8,524
+          
+
+
+
+
+
+            $
+          
+
+            1,237
+          
+
+
+
+
+
+            $
+          
+
+            178
+          
+
+
+
+
+
+            $
+          
+
+            (4
+          
+
+            ) 
+          
+
+
+
+
+
+            4(a)
+          
+
+
+
+
+
+            $
+          
+
+            9,935
+          
+
+
+
+
+
+
+              Distribution
+            
+
+
+
+
+
+
+            16,142
+          
+
+
+
+
+
+
+
+            3,997
+          
+
+
+
+
+
+
+
+            343
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            20,482
+          
+
+
+
+
+
+
+              Content
+            
+
+
+
+
+
+
+            8,360
+          
+
+
+
+
+
+
+
+            2,862
+          
+
+
+
+
+
+
+
+            445
+          
+
+
+
+
+
+
+
+            (10
+          
+
+            ) 
+          
+
+
+
+
+
+            4(a)
+          
+
+
+
+
+
+
+
+            11,657
+          
+
+
+
+
+
+
+              Other
+            
+
+
+
+
+
+
+            791
+          
+
+
+
+
+
+
+
+            200
+          
+
+
+
+
+
+
+
+            30
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            1,021
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Total revenues
+            
+
+
+
+
+
+
+            33,817
+          
+
+
+
+
+
+
+
+            8,296
+          
+
+
+
+
+
+
+
+            996
+          
+
+
+
+
+
+
+
+            (14
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+            43,095
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Costs and expenses:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Costs of revenues, excluding depreciation and amortization
+            
+
+
+
+
+
+
+            20,442
+          
+
+
+
+
+
+
+
+            4,924
+          
+
+
+
+
+
+
+
+            648
+          
+
+
+
+
+
+
+
+            669
+          
+
+
+
+
+
+
+
+
+            4(a), 4(b),
+            4(c)
+          
+
+
+
+
+
+
+
+
+            26,683
+          
+
+
+
+
+
+
+              Selling, general and administrative
+            
+
+
+
+
+
+
+            9,678
+          
+
+
+
+
+
+
+
+            2,231
+          
+
+
+
+
+
+
+
+            268
+          
+
+
+
+
+
+
+
+            66
+          
+
+
+
+
+
+
+
+            4(a), 4(d)
+          
+
+
+
+
+
+
+
+            12,243
+          
+
+
+
+
+
+
+              Depreciation and amortization
+            
+
+
+
+
+
+
+            7,193
+          
+
+
+
+
+
+
+
+            946
+          
+
+
+
+
+
+
+
+            80
+          
+
+
+
+
+
+
+
+            544
+          
+
+
+
+
+
+
+
+            4(e)
+          
+
+
+
+
+
+
+
+            8,763
+          
+
+
+
+
+
+
+              Restructuring
+            
+
+
+
+
+
+
+            3,757
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            (11
+          
+
+            ) 
+          
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            3,746
+          
+
+
+
+
+
+
+              Impairment and loss (gain) on disposition and disposal groups
+            
+
+
+
+
+
+
+            117
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            117
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Total costs and expenses
+            
+
+
+
+
+
+
+            41,187
+          
+
+
+
+
+
+
+
+            8,101
+          
+
+
+
+
+
+
+
+            985
+          
+
+
+
+
+
+
+
+            1,279
+          
+
+
+
+
+
+
+
+
+
+            51,552
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Operating (loss) income
+            
+
+
+
+
+
+
+            (7,370
+          
+
+            ) 
+          
+
+
+
+
+
+            195
+          
+
+
+
+
+
+
+
+            11
+          
+
+
+
+
+
+
+
+            (1,293
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+            (8,457
+          
+
+            ) 
+          
+
+
+
+
+              Interest expense, net
+            
+
+
+
+
+
+
+            (1,777
+          
+
+            ) 
+          
+
+
+
+
+
+            (116
+          
+
+            ) 
+          
+
+
+
+
+
+            (36
+          
+
+            ) 
+          
+
+
+
+
+
+            (457
+          
+
+            ) 
+          
+
+
+
+
+
+            4(f)
+          
+
+
+
+
+
+
+
+            (2,386
+          
+
+            ) 
+          
+
+
+
+
+              Loss from equity investees, net
+            
+
+
+
+
+
+
+            (160
+          
+
+            ) 
+          
+
+
+
+
+
+            (15
+          
+
+            ) 
+          
+
+
+
+
+
+            (7
+          
+
+            ) 
+          
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            (182
+          
+
+            ) 
+          
+
+
+
+
+              Other income, net
+            
+
+
+
+
+
+
+            347
+          
+
+
+
+
+
+
+
+            115
+          
+
+
+
+
+
+
+
+            25
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            487
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              (Loss) income before income taxes
+            
+
+
+
+
+
+
+            (8,960
+          
+
+            ) 
+          
+
+
+
+
+
+            179
+          
+
+
+
+
+
+
+
+            (7
+          
+
+            ) 
+          
+
+
+
+
+
+            (1,750
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+            (10,538
+          
+
+            ) 
+          
+
+
+
+
+              Income tax benefit (expense)
+            
+
+
+
+
+
+
+            1,663
+          
+
+
+
+
+
+
+
+            (31
+          
+
+            ) 
+          
+
+
+
+
+
+            240
+          
+
+
+
+
+
+
+
+            437
+          
+
+
+
+
+
+
+
+            4(g)
+          
+
+
+
+
+
+
+
+            2,309
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Net (loss) income
+            
+
+
+
+
+
+
+            (7,297
+          
+
+            ) 
+          
+
+
+
+
+
+            148
+          
+
+
+
+
+
+
+
+            233
+          
+
+
+
+
+
+
+
+            (1,313
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+            (8,229
+          
+
+            ) 
+          
+
+
+
+
+              Net income attributable to noncontrolling interests
+            
+
+
+
+
+
+
+            (68
+          
+
+            ) 
+          
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            (68
+          
+
+            ) 
+          
+
+
+
+
+              Net income attributable to redeemable noncontrolling interests
+            
+
+
+
+
+
+
+            (6
+          
+
+            ) 
+          
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            (6
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Net (loss) income available to Warner Bros. Discovery, Inc.
+            
+
+
+
+
+            $
+          
+
+            (7,371
+          
+
+            ) 
+          
+
+
+
+            $
+          
+
+            148
+          
+
+
+
+
+
+            $
+          
+
+            233
+          
+
+
+
+
+
+            $
+          
+
+            (1,313
+          
+
+            ) 
+          
+
+
+
+
+
+            $
+          
+
+            (8,303
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Net (loss) income per share available to Warner Bros. Discovery, Inc. Series A common stockholders:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Basic
+            
+
+
+
+
+            $
+          
+
+            (3.82
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+            5
+          
+
+
+
+
+
+            $
+          
+
+            (3.44
+          
+
+            ) 
+          
+
+
+
+
+              Diluted
+            
+
+
+
+
+            $
+          
+
+            (3.82
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+            5
+          
+
+
+
+
+
+            $
+          
+
+            (3.44
+          
+
+            ) 
+          
+
+
+
+
+              Weighted average shares outstanding:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Basic
+            
+
+
+
+
+
+
+            1,940
+          
+
+
+
+
+
+
+
+
+
+
+
+            488
+          
+
+
+
+
+
+
+
+            5
+          
+
+
+
+
+
+
+
+            2,428
+          
+
+
+
+
+
+
+              Diluted
+            
+
+
+
+
+
+
+            1,940
+          
+
+
+
+
+
+
+
+
+
+
+
+            488
+          
+
+
+
+
+
+
+
+            5
+          
+
+
+
+
+
+
+
+            2,428
+          
+
+
+
+
+
+        See the accompanying notes to the unaudited pro forma condensed combined financial information, which are an integral part hereof.
+      
+
+
+
+NOTES TO UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL INFORMATION
+
+
+(In millions, except per share amounts)
+
+
+Note 1-Basis of Presentation
+
+
+        The unaudited pro forma condensed combined financial information is based on the historical consolidated financial statements of WBD and historical combined financial statements of the WarnerMedia Business. The unaudited pro forma condensed combined statement of operations for the year ended December 31, 2022 gives effect to the WarnerMedia Transactions as if they had occurred on January 1, 2022. The historical financial statements have been adjusted in the unaudited pro forma condensed combined financial information to give pro forma effect to Transaction Accounting Adjustments that reflect the accounting for the WarnerMedia Transactions under GAAP and in accordance with Article 11 of Regulation S-X as amended by the final rule, Release No. 33-10786 "Amendments to Financial Disclosures about Acquired and Disposed Businesses."
+      
+
+        The unaudited pro forma condensed combined financial statements and the notes thereto were prepared using the acquisition method of accounting in accordance with ASC 805, with Discovery as the accounting acquirer of the WarnerMedia Business. The acquisition method of accounting, based on ASC 805, uses the fair value concepts defined in ASC 820, Fair Value Measurement ("ASC 820"). Fair value is defined in ASC 820 as the "price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date." This is an exit price concept for the valuation of an asset or liability. Market participants are assumed to be buyers or sellers in the most advantageous market for the asset or liability. Fair value measurement for an asset assumes the highest and best use by these market participants, and as a result, assets may be required to be recorded which are not intended to be used or sold or at a fair value measurement that does not reflect management's intended use for those assets. Fair value measurements can be highly subjective, and it is possible the application of reasonable judgment could develop different assumptions resulting in a range of alternative estimates using the same facts and circumstances. ASC 805 requires, among other things, that assets acquired and liabilities assumed in a business combination be recognized at fair value as of the merger date, with any excess purchase price allocated to goodwill.
+      
+
+        The unaudited pro forma condensed combined financial information also does not reflect any anticipated revenue enhancements, cost savings, or operating synergies that WBD may achieve as a result of the Merger, the total expected costs to integrate the operations of WBD and the WarnerMedia Business, or the total expected costs necessary to achieve such revenue enhancements, cost savings, or operating synergies. WBD has elected not to present Management's Adjustments and only presents Transaction Accounting Adjustments in the unaudited pro forma condensed combined financial information.
+      
+
+        The preparation of unaudited pro forma condensed combined financial information requires WBD management to make estimates and assumptions that affect the amounts reported in such financial information and the notes thereto. These unaudited pro forma condensed combined financial statements, including the preliminary purchase price allocation, are presented for illustrative purposes only and do not necessarily reflect the operating results that would have occurred if the WarnerMedia Transactions had been completed on the dates indicated, nor is it necessarily indicative of the results of operations that may be expected for any future period or date. Accordingly, such information should not be relied upon as an indicator of future performance, financial condition, or liquidity.
+      
+
+
+
+Note 2- Reclassification Adjustments
+
+
+        The following table represents certain reclassifications and conforming adjustments to align the historical financial statement line items of the WarnerMedia Business with the financial statement line items of WBD.
+      
+
+
+
+
+
+
+
+
+
+
+
+Historical
+            WarnerMedia
+Business
+(January 1,
+2022 through
+March 31, 2022)
+
+
+
+
+
+
+Reclassification
+            Adjustments
+
+
+
+
+
+
+Notes
+
+
+
+
+
+
+Historical WarnerMedia
+            Business After
+Reclassification
+Adjustments (January 1,
+2022 through March 31,
+2022)
+
+
+
+
+
+
+
+              Operating revenues:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Advertising revenue
+            
+
+
+
+
+            $
+          
+
+            1,210
+          
+
+
+
+
+
+            $
+          
+
+            27
+          
+
+
+
+
+
+
+
+            2, 3
+          
+
+
+
+
+
+            $
+          
+
+            1,237
+          
+
+
+
+
+
+
+              Distribution revenue
+            
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            3,997
+          
+
+
+
+
+
+
+
+            1, 2
+          
+
+
+
+
+
+
+
+            3,997
+          
+
+
+
+
+
+
+              Subscription revenue
+            
+
+
+
+
+
+
+            3,221
+          
+
+
+
+
+
+
+
+            (3,221
+          
+
+            ) 
+          
+
+
+
+
+
+            1
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+              Content revenue
+            
+
+
+
+
+
+
+            2,713
+          
+
+
+
+
+
+
+
+            149
+          
+
+
+
+
+
+
+
+            2, 3
+          
+
+
+
+
+
+
+
+            2,862
+          
+
+
+
+
+
+
+              Related party revenue
+            
+
+
+
+
+
+
+            940
+          
+
+
+
+
+
+
+
+            (940
+          
+
+            ) 
+          
+
+
+
+
+
+            2
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+              Other revenue
+            
+
+
+
+
+
+
+            258
+          
+
+
+
+
+
+
+
+            (58
+          
+
+            ) 
+          
+
+
+
+
+
+            3, 4, 5
+          
+
+
+
+
+
+
+
+            200
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Total operating revenue
+            
+
+
+
+
+
+
+            8,342
+          
+
+
+
+
+
+
+
+            (46
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+            8,296
+          
+
+
+
+
+
+
+              Operating expenses:
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Cost of revenues
+            
+
+
+
+
+
+
+            5,013
+          
+
+
+
+
+
+
+
+            (89
+          
+
+            ) 
+          
+
+
+
+
+
+            7, 8, 9
+          
+
+
+
+
+
+
+
+            4,924
+          
+
+
+
+
+
+
+              Selling, general and administrative expenses
+            
+
+
+
+
+
+
+            1,871
+          
+
+
+
+
+
+
+
+            360
+          
+
+
+
+
+
+
+
+            6, 7
+          
+
+
+
+
+
+
+
+            2,231
+          
+
+
+
+
+
+
+              Depreciation and amortization expense
+            
+
+
+
+
+
+
+            1,081
+          
+
+
+
+
+
+
+
+            (135
+          
+
+            ) 
+          
+
+
+
+
+
+            8
+          
+
+
+
+
+
+
+
+            946
+          
+
+
+
+
+
+
+              Related party expense
+            
+
+
+
+
+
+
+            171
+          
+
+
+
+
+
+
+
+            (171
+          
+
+            ) 
+          
+
+
+
+
+
+            6
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Total operating expense
+            
+
+
+
+
+
+
+            8,136
+          
+
+
+
+
+
+
+
+            (35
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+            8,101
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Operating income
+            
+
+
+
+
+
+
+            206
+          
+
+
+
+
+
+
+
+            (11
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+            195
+          
+
+
+
+
+
+
+              Interest expense, net
+            
+
+
+
+
+
+
+            (96
+          
+
+            ) 
+          
+
+
+
+
+
+            (20
+          
+
+            ) 
+          
+
+
+
+
+
+            10, 11
+          
+
+
+
+
+
+
+
+            (116
+          
+
+            ) 
+          
+
+
+
+
+              Loss from equity investees, net
+            
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+            (15
+          
+
+            ) 
+          
+
+
+
+
+
+            12
+          
+
+
+
+
+
+
+
+            (15
+          
+
+            ) 
+          
+
+
+
+
+              Other income, net
+            
+
+
+
+
+
+
+            69
+          
+
+
+
+
+
+
+
+            46
+          
+
+
+
+
+
+
+
+
+
+            4, 5, 9,
+            10, 11,
+
+              12
+            
+
+
+
+
+
+
+
+
+
+
+            115
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Income before income taxes
+            
+
+
+
+
+
+
+            179
+          
+
+
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            179
+          
+
+
+
+
+
+
+              Income tax expense
+            
+
+
+
+
+
+
+            (31
+          
+
+            ) 
+          
+
+
+
+
+
+            -  
+          
+
+
+
+
+
+
+
+
+
+            (31
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Net income
+            
+
+
+
+
+            $
+          
+
+            148
+          
+
+
+
+
+
+            $
+          
+
+            -  
+          
+
+
+
+
+
+
+
+            $
+          
+
+            148
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1.
+          
+
+
+              Subscription revenue of $3,221 million for the quarter ended March 31, 2022 has been reclassified to Distribution revenue;
+            
+
+
+
+
+
+
+            2.
+          
+
+
+              Related party revenue of $776 million for the quarter ended March 31, 2022 has been reclassified to Distribution revenue; Related party revenue of $146 million for the quarter ended March 31, 2022 has been reclassified to Content revenue; and Related party revenue of $18 million for the quarter ended March 31, 2022 has been reclassified to Advertising revenue;
+            
+
+
+
+
+
+
+            3.
+          
+
+
+              Other revenue of $9 million for the quarter ended March 31, 2022 has been reclassified to Advertising revenue; Other revenue of $3 million for the quarter ended March 31, 2022 has been reclassified to Content revenue;
+            
+
+
+
+
+
+
+            4.
+          
+
+
+              Imputed interest income of $3 million related to third party imputed interest included within Other revenue for the quarter ended March 31, 2022 has been reclassified to Other income, net;
+            
+
+
+
+
+
+
+            5.
+          
+
+
+              Imputed interest income of $43 million related to WBD's revolving receivables program included within Other revenue for the quarter ended March 31, 2022 has been reclassified to Other income, net;
+            
+
+
+
+
+
+
+            6.
+          
+
+
+              Related party expense of $171 million for the quarter ended March 31, 2022, has been reclassified to Selling, general and administrative expense;
+            
+
+
+
+
+
+
+            7.
+          
+
+
+              Cost of revenues of $177 million primarily related to marketing costs in the Studios segment has been reclassified to Selling, general and administrative expense; Cost of revenues of $12 million related to research costs has been reclassified to Selling, general and administrative expense;
+            
+
+
+
+
+
+
+            8.
+          
+
+
+              Based on WBD's accounting policy, content assets and noncurrent content rights, including historic fair market value adjustments from prior acquisitions, are included within Film and television library, net, with any related amortization of film and television library included in Cost of revenues. The WarnerMedia Business historically considered released television and film content acquired in a business combination as an acquired intangible asset included in Other intangible assets, net, and any related amortization of released television and film content acquired in a business combination was included within Depreciation and amortization expense. Amortization expense related to released television and film content acquired in a business combination of $135 million included within Depreciation and amortization expense for the quarter ended March 31, 2022 has been reclassified to Cost of revenues in order to conform to the accounting policies of WBD;
+            
+
+
+
+
+
+
+            9.
+          
+
+
+              Cost of revenues of $35 million related to foreign currency revaluations for the quarter ended March 31, 2022 has been reclassified to Other income, net;
+            
+
+
+
+
+
+
+
+
+            10.
+          
+
+
+              Financing fees of $15 million included within Other income, net for the quarter ended March 31, 2022 have been reclassified to Interest expense, net;
+            
+
+
+
+
+
+
+            11.
+          
+
+
+              Interest income of $5 million included within Interest expense, net for the quarter ended March 31, 2022 has been reclassified to Other income, net.
+            
+
+
+
+
+
+
+            12.
+          
+
+
+              Losses from equity method investments of $15 million included within Other income, net for the quarter ended March 31, 2022 have been reclassified to Loss from equity investees, net.
+            
+
+
+
+
+Note 3- Preliminary Purchase Consideration and Purchase Price Allocation
+
+
+        On April 8, 2022, the Company completed its Merger with the WarnerMedia Business of AT&T. The Merger was executed through a Reverse Morris Trust type transaction, under which the WarnerMedia Business was distributed to AT&T's stockholders via a pro-rata distribution, and immediately thereafter, combined with Discovery.
+      
+
+Purchase Price
+
+
+        The following table summarizes the components of the aggregate purchase consideration paid to acquire the WarnerMedia Business.
+      
+
+
+
+
+
+
+
+            (in millions)
+          
+
+
+
+
+
+
+
+
+
+
+              Fair value of WBD common stock issued to AT&T stockholders (1)
+
+
+
+
+
+            $
+          
+
+                    42,309
+          
+
+
+
+
+
+
+              Estimated fair value of share-based compensation awards attributable to pre-combination services (2)
+
+
+
+
+
+
+
+            94
+          
+
+
+
+
+
+
+              Settlement of preexisting relationships (3)
+
+
+
+
+
+
+
+            (27
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Purchase consideration
+            
+
+
+
+
+            $
+          
+
+            42,376
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1)
+
+
+
+              The fair value of WBD common stock issued to AT&T stockholders represents approximately 1,732 million shares of WBD common stock multiplied by the closing share price for Discovery Series A common stock of $24.43 on the Nasdaq Global Select Market on the Merger Closing Date. The number of shares of WBD common stock issued in the Merger was determined based on the number of fully diluted shares of Discovery, Inc. common stock immediately prior to the closing of the Merger, multiplied by the quotient of 71%/29%.
+            
+
+
+
+
+
+
+(2)
+
+
+
+              This amount represents the value of AT&T restricted stock unit awards that were not vested and were replaced by WBD restricted stock unit awards with similar terms and conditions as the original AT&T awards. The conversion was based on the ratio of the volume-weighted average per share closing price of AT&T common stock on the ten trading days prior to the Merger Closing Date and the volume-weighted average per share closing price of WBD common stock on the ten trading days following the Merger Closing Date. The fair value of replacement equity-based awards attributable to pre-Merger service was recorded as part of the consideration transferred in the Merger.
+            
+
+
+
+
+
+
+(3)
+
+
+
+              The amount represents the effective settlement of outstanding payables and receivables between the Company and the WarnerMedia Business. No gain or loss was recognized upon settlement as amounts were determined to be reflective of fair market value.
+            
+
+
+
+
+        Balances reflect rounding of dollar and share amounts to millions, which may result in differences for recalculated standalone amounts compared with the amounts presented above. In August 2022, the Company and AT&T finalized the post-closing working capital settlement process, pursuant to section 1.3 of the Separation Agreement, which resulted in WBD receiving a $1.2 billion payment from AT&T in the third quarter of 2022. The working capital settlement was recorded in other current assets in the preliminary purchase price allocation.
+      
+
+        The Company applied the acquisition method of accounting for business combinations in accordance with ASC 805, whereby the excess of the purchase price paid over the fair value of identifiable net assets acquired and liabilities assumed was allocated to goodwill. Goodwill reflects the assembled workforce of the WarnerMedia Business as well as revenue enhancements, cost savings and operating synergies that are expected to result from the Merger.
+      
+
+
+
+        The purchase price allocation is preliminary and subject to change. The Company is continuing to refine certain estimates related to income taxes and other limited areas. The Company has estimated the preliminary fair value of assets acquired and liabilities assumed based on information currently available and will continue to adjust those estimates during the measurement period as additional information pertaining to events or circumstances present at the Merger Closing Date becomes available. The preliminary allocation of the purchase price to the assets acquired and liabilities assumed, measurement period adjustments, and a reconciliation to total consideration transferred is presented in the table below:
+      
+
+
+
+
+
+
+
+            (in millions)
+          
+
+
+
+Preliminary
+April 8, 2022
+
+
+
+
+
+
+Measurement Period
+Adjustments
+
+
+
+
+
+
+Updated Preliminary
+April 8, 2022
+
+
+
+
+
+
+
+              Cash
+            
+
+
+
+
+            $
+          
+
+            2,419
+          
+
+
+
+
+
+            $
+          
+
+            (10
+          
+
+            ) 
+          
+
+
+
+            $
+          
+
+            2,409
+          
+
+
+
+
+
+
+              Accounts receivable
+            
+
+
+
+
+
+
+            4,224
+          
+
+
+
+
+
+
+
+            (62
+          
+
+            ) 
+          
+
+
+
+
+
+            4,162
+          
+
+
+
+
+
+
+              Other current assets
+            
+
+
+
+
+
+
+            4,619
+          
+
+
+
+
+
+
+
+            (148
+          
+
+            ) 
+          
+
+
+
+
+
+            4,471
+          
+
+
+
+
+
+
+              Film and television library
+            
+
+
+
+
+
+
+            28,729
+          
+
+
+
+
+
+
+
+            (343
+          
+
+            ) 
+          
+
+
+
+
+
+            28,386
+          
+
+
+
+
+
+
+              Property and equipment
+            
+
+
+
+
+
+
+            4,260
+          
+
+
+
+
+
+
+
+            13
+          
+
+
+
+
+
+
+
+            4,273
+          
+
+
+
+
+
+
+              Goodwill
+            
+
+
+
+
+
+
+            21,513
+          
+
+
+
+
+
+
+
+            228
+          
+
+
+
+
+
+
+
+            21,741
+          
+
+
+
+
+
+
+              Intangible assets
+            
+
+
+
+
+
+
+            44,889
+          
+
+
+
+
+
+
+
+            100
+          
+
+
+
+
+
+
+
+            44,989
+          
+
+
+
+
+
+
+              Other noncurrent assets
+            
+
+
+
+
+
+
+            5,206
+          
+
+
+
+
+
+
+
+            337
+          
+
+
+
+
+
+
+
+            5,543
+          
+
+
+
+
+
+
+              Current liabilities
+            
+
+
+
+
+
+
+            (10,544
+          
+
+            ) 
+          
+
+
+
+
+
+            (1
+          
+
+            ) 
+          
+
+
+
+
+
+            (10,545
+          
+
+            ) 
+          
+
+
+
+
+              Debt assumed
+            
+
+
+
+
+
+
+            (41,671
+          
+
+            ) 
+          
+
+
+
+
+
+            (9
+          
+
+            ) 
+          
+
+
+
+
+
+            (41,680
+          
+
+            ) 
+          
+
+
+
+
+              Deferred income taxes
+            
+
+
+
+
+
+
+            (13,264
+          
+
+            ) 
+          
+
+
+
+
+
+            532
+          
+
+
+
+
+
+
+
+            (12,732
+          
+
+            ) 
+          
+
+
+
+
+              Other noncurrent liabilities
+            
+
+
+
+
+
+
+            (8,004
+          
+
+            ) 
+          
+
+
+
+
+
+            (637
+          
+
+            ) 
+          
+
+
+
+
+
+            (8,641
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Total consideration paid
+            
+
+
+
+
+            $
+          
+
+            42,376
+          
+
+
+
+
+
+            $
+          
+
+            -  
+          
+
+
+
+
+
+            $
+          
+
+            42,376
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        The table below presents a summary of intangible assets acquired, exclusive of content assets, and the weighted average useful life of these assets:
+      
+
+
+
+
+
+
+
+            (in millions)
+          
+
+
+
+Fair Value
+
+
+
+
+
+
+Weighted Average
+            Useful Life in Years
+
+
+
+
+
+
+
+              Trade names
+            
+
+
+
+
+            $
+          
+
+                21,084
+          
+
+
+
+
+
+
+
+            34
+          
+
+
+
+
+
+
+              Affiliate, advertising and subscriber relationships
+            
+
+
+
+
+
+
+            14,800
+          
+
+
+
+
+
+
+
+            6
+          
+
+
+
+
+
+
+              Franchises
+            
+
+
+
+
+
+
+            7,900
+          
+
+
+
+
+
+
+
+            35
+          
+
+
+
+
+
+
+              Other intangible assets
+            
+
+
+
+
+
+
+            1,205
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Total intangible assets acquired
+            
+
+
+
+
+            $
+          
+
+            44,989
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note 4-Pro Forma Adjustments
+
+
+
+
+            a)
+          
+
+
+              This adjustment eliminates intercompany revenue and expenses between WBD and the WarnerMedia Business during the period from January 1, 2022 through April 7, 2022. This adjustment relates to the WarnerMedia Business's licensing of certain content and programming to WBD and advertising revenue between WBD and the WarnerMedia Business.
+            
+
+
+
+
+
+
+
+
+
+
+            (in millions)
+          
+
+
+
+Year ended
+            December 31, 2022
+
+
+
+
+
+
+
+              Increase / (decrease) to Content revenue
+            
+
+
+
+
+            $
+          
+
+            (10
+          
+
+            ) 
+          
+
+
+
+
+              Increase / (decrease) to Advertising revenue
+            
+
+
+
+
+
+
+            (4
+          
+
+            ) 
+          
+
+
+
+
+              Increase / (decrease) to Costs of revenues, excluding depreciation and amortization
+            
+
+
+
+
+
+
+            (5
+          
+
+            ) 
+          
+
+
+
+
+              Increase / (decrease) to Selling, general and administrative expense
+            
+
+
+
+
+
+
+            (4
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+            b)
+          
+
+
+              The pro forma adjustment to Costs of revenues, excluding depreciation and amortization reflects the incremental content amortization expense resulting from fair value adjustments to film and television library. The carrying value of the WarnerMedia Business's film and television library increased from the historical value of $21.9 billion to the preliminary fair value of $28.4 billion. Based on WBD's accounting policy, fair market value adjustments from acquisitions are included within Film and television content rights and games on WBD's balance sheet, with any related amortization included in Costs of revenues, excluding depreciation and amortization. The following table summarizes the incremental content amortization expense recorded to Costs of revenues, excluding depreciation and amortization:
+            
+
+
+
+
+
+
+
+
+
+
+            (in millions)
+          
+
+
+
+Year ended
+            December 31, 2022
+
+
+
+
+
+
+
+              Film and television library - fair value adjustment
+            
+
+
+
+
+            $
+          
+
+            2,535
+          
+
+
+
+
+
+
+              Less: Historical content amortization expense included in Costs of revenues, excluding depreciation and amortization (1)
+
+
+
+
+
+
+
+            1,980
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total pro forma adjustment to Costs of revenues, excluding depreciation and amortization
+
+
+
+
+
+$
+
+
+555
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (1) Historical content amortization expense of $1,980 million includes $147 million of amortization from the WarnerMedia Business's historic fair market value adjustments to film and television library from prior acquisitions and $1,833 million of amortization from WBD's fair value adjustments to film and television library from the Merger.
+      
+
+        The remaining useful lives of the acquired film and television library was estimated based on the period over which substantially all of the cumulative discounted cash flows are expected to be realized. The pro forma adjustment to recognize additional expense related to the increased fair value of the film and television library has been computed using the estimated useful lives on a straight-line basis, the revenue forecast model, film forecast method, historical viewership model, or sum of the months' digits method.
+      
+
+
+
+            c)
+          
+
+
+              WBD determined certain pro forma adjustments were required to conform the accounting policies of the WarnerMedia Business with WBD for the period January 1, 2022 through April 7, 2022. Pro forma adjustments of $119 million were recorded to increase Costs of revenues, excluding depreciation and amortization and were related to conforming content amortization methodologies.
+            
+
+
+
+
+
+
+            d)
+          
+
+
+              Pro forma adjustments related to transaction costs were $70 million for the year ended December 31, 2022 and were recorded to Selling, general and administrative expense. The WarnerMedia Business incurred $70 million of transaction-related costs consisting of financial advisory, professional, legal and other acquisition-related costs during the period from January 1, 2022 through April 7, 2022. These transaction-related costs were recognized by AT&T and not included in the historical results of the WarnerMedia Business. These costs are not expected to affect the statement of operations beyond 12 months after the Merger Closing Date.
+            
+
+
+
+
+
+
+            e)
+          
+
+
+              The pro forma adjustment to Depreciation and amortization expense reflects the incremental amortization expense from the acquired trade names, affiliate, advertising and subscriber relationships, franchises, and other intangible assets. The following table summarizes the amortization expense recorded to Depreciation and amortization expense:
+            
+
+
+
+
+
+
+
+
+
+
+            (in millions)
+          
+
+
+
+Year ended
+            December 31, 2022
+
+
+
+
+
+
+
+              Trade names
+            
+
+
+
+
+            $
+          
+
+            697
+          
+
+
+
+
+
+
+              Affiliate, advertising and subscriber relationships
+            
+
+
+
+
+
+
+            4,945
+          
+
+
+
+
+
+
+              Franchises
+            
+
+
+
+
+
+
+            226
+          
+
+
+
+
+
+
+              Other intangible assets
+            
+
+
+
+
+
+
+            177
+          
+
+
+
+
+
+
+              Less: Historical amortization expense included in Depreciation and amortization expense (1)
+
+
+
+
+
+
+
+            (5,501
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total pro forma adjustment to Depreciation and amortization expense
+
+
+
+
+
+$
+
+
+544
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (1) Historical amortization expense of $5,501 million includes amortization of $883 million from the WarnerMedia Business's intangible assets acquired from prior acquisitions and amortization of $4,618 million from WBD's intangible assets acquired from the Merger.
+      
+
+        The remaining useful lives of the intangible assets acquired was estimated based on the period over which substantially all of the cumulative discounted cash flows are expected to be realized. The pro forma adjustment to recognize additional expense related to the acquired intangible assets has been computed over the estimated useful lives on a straight-line basis or sum of the months' digits method.
+      
+
+
+
+
+
+            f)
+          
+
+
+              A pro forma adjustment was recorded to reflect the incremental interest expense that would have been incurred had the acquisition and related financing been completed as of January 1, 2022. The incremental interest expense was comprised of interest incurred from the WMH Term Loan Facility (as defined below) and the WMH Notes (as defined below) and fair value adjustments related to existing debt of the WarnerMedia Business.
+            
+
+
+
+
+WMH Term Loan Facility
+
+
+        On June 4, 2021, Spinco entered into a $10.0 billion term loan credit agreement (the "WMH Term Loan Facility"). The WMH Term Loan Facility consists of a $3.0 billion 18-month tranche ("TL Tranche 1") and $7.0 billion 3-year tranche ("TL Tranche 2"). On April 7, 2022, Spinco borrowed $10.0 billion under the WMH Term Loan Facility consisting of the $3.0 billion TL Tranche 1 and $7.0 billion TL Tranche 2. The interest rates for TL Tranche 1 and TL Tranche 2 were based, at WBD's option, on the London interbank offered rate ("LIBOR") applicable to dollars plus an applicable margin.
+      
+
+        During the three months ended June 30, 2022, WBD repaid $3.5 billion of aggregate principal amount outstanding of its term loans prior to the due dates of October 2023 and April 2025. During the three months ended September 30, 2022, WBD repaid $2.5 billion of aggregate principal amount outstanding of its term loan prior to its due date of April 2025.
+      
+
+WMH Notes
+
+
+        On March 15, 2022, Spinco issued senior unsecured notes in an aggregate principal amount of $30.0 billion (the "WMH Notes"), comprised of the following tranches: (1) $1.75 billion aggregate principal amount of its 3.428% Senior Notes due 2024, (2) $500.0 million aggregate principal amount of its 3.528% Senior Notes due 2024, (3) $1.75 billion aggregate principal amount of its 3.638% Senior Notes due 2025, (4) $500.0 million aggregate principal amount of its 3.788% Senior Notes due 2025, (5) $4.0 billion aggregate principal amount of its 3.755% Senior Notes due 2027, (6) $1.5 billion aggregate principal amount of its 4.054% Senior Notes due 2029 (7) $5.0 billion aggregate principal amount of its 4.279% Senior Notes due 2032, (8) $4.5 billion aggregate principal amount of its 5.050% Senior Notes due 2042, (9) $7.0 billion aggregate principal amount of its 5.141% Senior Notes due 2052, (10) $3.0 billion aggregate principal amount of its 5.391% Senior Notes due 2062 and (11) $500.0 million aggregate principal amount of its Floating Rate Senior Notes due 2024. The WMH Notes included $10.0 billion in aggregate principal amount issued to AT&T, comprised of the following tranches: (1) $5.0 billion aggregate principal amount of its 4.279% Senior Notes due 2032, (2) $2.0 billion aggregate principal amount of its 5.141% Senior Notes due 2052 and (3) $3.0 billion aggregate principal amount of its 5.391% Senior Notes due 2062 (collectively, the "Spinco Debt Securities"), which AT&T transferred to two investment banks in exchange for a short-term loan to AT&T held by affiliates of such investment banks as principal for their own account (the "Securities Exchange"). The WMH Notes (including the Spinco Debt Securities) were resold to third-party investors in a private placement exempt from registration in accordance with Rule 144A and Regulation S under the Securities Act of 1933, as amended. Spinco used the net proceeds from the sale of the WMH Notes (other than the Spinco Debt Securities) to fund in part the Spinco Special Cash Payment (as defined in the Separation Agreement) and for other expenses relating to the WarnerMedia Transactions, and AT&T used the Spinco Debt Securities to complete the Securities Exchange. The WMH Notes (including the Spinco Debt Securities) are guaranteed by WBD, Discovery Communications, LLC and Scripps Networks Interactive, Inc.
+      
+
+        Pursuant to the Registration Rights Agreement, WBD agreed to prepare and file with the SEC a registration statement on appropriate form under the Securities Act with respect to a proposed offer to the holders of the WMH Notes to issue and deliver to such holders of WMH Notes, in exchange for their WMH Notes, a like aggregate principal amount of new notes that are identical in all material respects to the WMH Notes, except for provisions relating to registration rights and the transfer restrictions relating to the WMH Notes.
+      
+
+        The following pro forma adjustment has been recorded in the unaudited pro forma condensed combined statement of operations:
+      
+
+
+
+
+
+
+
+            (in millions)
+          
+
+
+
+Year ended
+            December 31, 2022
+
+
+
+
+
+
+
+              Interest expense on the WMH Term Loan Facility
+            
+
+
+
+
+            $
+          
+
+            310
+          
+
+
+
+
+
+
+              Interest expense on the WMH Notes
+            
+
+
+
+
+
+
+            1,366
+          
+
+
+
+
+
+
+              Amortization of fair value adjustments to debt
+            
+
+
+
+
+
+
+            (21
+          
+
+            ) 
+          
+
+
+
+
+              Less: Historical interest expense (1)
+
+
+
+
+
+
+
+            (1,198
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro forma adjustments to Interest expense, net
+
+
+
+
+
+$
+
+
+457
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (1) Historical interest expense of $1,198 million includes interest expense of $95 million incurred by the WarnerMedia Business prior to the Merger Closing Date related to the WMH Notes and interest expense of $1,103 million incurred by WBD related to the WMH Term Loan Facility, WMH Notes, and amortization of fair value adjustments to existing debt of the WarnerMedia Business.
+      
+
+
+
+        The TL Tranche 1 and TL Tranche 2 had an interest rate of 5.84% and 5.97% per annum, respectively, which was based on LIBOR plus an applicable margin. The weighted-average interest rate on the TL Tranche 1, TL Tranche 2 and WMH Notes was 4.76% per annum. For each 0.125% change in the interest rate, interest expense for the WMH Term Loan Facility and WMH Notes with variable interest rates would increase or decrease by approximately $7 million for the year ended December 31, 2022.
+      
+
+
+
+            g)
+          
+
+
+              The estimated tax impacts of the pro forma adjustments have been reflected in Income tax benefit (expense) within the unaudited pro forma condensed combined statement of operations by using a blended foreign, federal and state statutory income tax rate of 25.0%. The assumed tax rate of WBD is based on the statutory rates applicable in 2022.
+            
+
+
+
+
+Note 5-Pro Forma Net Loss Per Share
+
+
+        The pro forma net loss per share of WBD common stock for the year ended December 31, 2022 was calculated based on the weighted average number of shares of WBD common stock that would have been outstanding on a pro forma basis. The pro forma weighted average number of shares outstanding was derived using WBD's historical weighted average number of common shares outstanding for the year ended December 31, 2022 after giving effect to (1) the reclassification and conversion of Discovery's Series A-1 convertible preferred stock and (2) the number of shares of WBD common stock to be issued as part of purchase consideration calculated pursuant to the Merger Agreement. All share and per share amounts were retrospectively adjusted in WBD's historical results to reflect the reclassification and automatic conversion into WBD common stock, except for Discovery's Series A-1 convertible preferred stock, which was not recast because the conversion of Discovery's Series A-1 convertible preferred stock into WBD common stock in connection with the Merger was considered a discrete event and treated prospectively.
+      
+
+        For the purposes of the pro forma net loss per share calculations, the reclassification and conversion of Discovery's Series A-1 convertible preferred stock and the issuance of shares of WBD common stock in connection with the Merger were considered to occur as of January 1, 2022. Per share information for the WarnerMedia Business is not presented because the WarnerMedia Business did not have outstanding capital stock since its historical combined financial statements have been prepared on a "carve-out" basis.
+      
+
+        The pro forma adjustment to basic and diluted weighted average shares outstanding of 488 million shares represents the weighted average shares outstanding related to the WarnerMedia Transactions for the period January 1, 2022 through April 7, 2022. The following table presents the calculation of pro forma basic and diluted net loss per share of WBD common stock:
+      
+
+
+
+
+
+
+
+            (in millions, except per share amounts)
+          
+
+
+
+Year ended
+            December 31,
+2022
+
+
+
+
+
+
+
+              Net loss allocated to Warner Bros. Discovery, Inc. Series A common stockholders - basic and diluted (1)
+
+
+
+
+
+            $
+          
+
+            (7,420
+          
+
+            ) 
+          
+
+
+
+
+              WarnerMedia Business (January 1, 2022 through April 7, 2022)
+            
+
+
+
+
+
+
+            381
+          
+
+
+
+
+
+
+              Transaction Accounting Adjustments
+            
+
+
+
+
+
+
+            (1,313
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Pro forma net loss allocated to Warner Bros. Discovery, Inc. Series A common stockholders - basic and diluted
+            
+
+
+
+
+            $
+          
+
+            (8,352
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+              Weighted average number of shares outstanding of WBD common stock - basic and diluted
+            
+
+
+
+
+
+
+            1,940
+          
+
+
+
+
+
+
+              Pro forma adjustments:
+            
+
+
+
+
+
+
+
+              Reclassification and conversion of Discovery's Series A-1 convertible preferred stock
+            
+
+
+
+
+
+
+            28
+          
+
+
+
+
+
+
+              WBD common stock issued as part of purchase consideration
+            
+
+
+
+
+
+
+            460
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Pro forma weighted average number of shares outstanding of WBD common stock - basic and diluted
+            
+
+
+
+
+
+
+            2,428
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Pro forma net loss per share of WBD common stock - basic and diluted
+            
+
+
+
+
+            $
+          
+
+            (3.44
+          
+
+            ) 
+          
+
+
+
+
+
+            (1)
+          
+
+
+              The Net loss allocated to Warner Bros. Discovery, Inc. Series A common stockholders for basic and diluted net loss per share agrees to the amount included in WBD's Annual Report on Form 10-K, filed with the SEC on February 24, 2023. This reflects the allocation of $49 million of undistributed income to Discovery's Series A-1 convertible preferred stock.
+            
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Warner Bros Discovery Inc. published this content on 06 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 06 March 2023 14:32:33 UTC.
+      
+

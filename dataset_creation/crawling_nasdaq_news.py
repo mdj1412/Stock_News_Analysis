@@ -386,17 +386,14 @@ def get_md(ticker, date, url, title):
     a=soup.select('span[class=clearfix]')
     if len(a) != 1:
         print("ticker : {}, date : {}, url : {}, title : {}".format(ticker, date, url, title))
-        from IPython import embed; embed()
         return
     a=soup.select('span[class=clearfix]')[0].select('div[id=grantexto]')
     if len(a) != 1:
         print("ticker : {}, date : {}, url : {}, title : {}".format(ticker, date, url, title))
-        from IPython import embed; embed()
         return
     a=soup.select('span[class=clearfix]')[0].select('div[id=grantexto]')[0].select('p')
     if len(a) != 1:
         print("ticker : {}, date : {}, url : {}, title : {}".format(ticker, date, url, title))
-        from IPython import embed; embed()
         return
 
     # 시작
@@ -421,7 +418,7 @@ def get_re(ticker, date, url, title):
     a=soup.select('div[id=grantexto]')
     if len(a) != 1:
         print("ticker : {}, date : {}, url : {}, title : {}".format(ticker, date, url, title))
-        from IPython import embed; embed()
+        return
 
     # 시작
     text_list=soup.select('div[id=grantexto] p')
@@ -448,7 +445,7 @@ def get_aq(ticker, date, url, title):
     a=soup.select('div[id=grantexto]')
     if len(a) != 1:
         print("ticker : {}, date : {}, url : {}, title : {}".format(ticker, date, url, title))
-        from IPython import embed; embed()
+        return
 
     # 시작
     text_list=soup.select('div[id=grantexto] p')
@@ -476,7 +473,7 @@ def get_(ticker, date, url, title):
     a=soup.select('div[id=grantexto]')
     if len(a) != 1:
         print("ticker : {}, date : {}, url : {}, title : {}".format(ticker, date, url, title))
-        from IPython import embed; embed()
+        return
     
     # 시작
     text = a[0].text
@@ -500,7 +497,7 @@ def get_an(ticker, date, url, title):
     a=soup.select('div[id=grantexto]')
     if len(a) != 1:
         print("ticker : {}, date : {}, url : {}, title : {}".format(ticker, date, url, title))
-        from IPython import embed; embed()
+        return
 
     # 시작
     text_list=soup.select('div[id=grantexto] p')
@@ -526,7 +523,7 @@ def get_bu(ticker, date, url, title):
     a=soup.select('div[id=grantexto]')
     if len(a) != 1:
         print("ticker : {}, date : {}, url : {}, title : {}".format(ticker, date, url, title))
-        from IPython import embed; embed()
+        return
 
     # 시작
     text_list=soup.select('div[id=grantexto] p')

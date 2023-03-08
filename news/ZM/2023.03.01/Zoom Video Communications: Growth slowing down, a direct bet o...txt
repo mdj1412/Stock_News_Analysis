@@ -1,0 +1,11 @@
+
+The return to reality is more brutal. This is evidenced by a market capitalization that has melted away, and by the troubling annual results published on February 27.
+
+The cash profit, or "free cash flow", decreased from $1.4 to $1.2 billion before stock options. At a share price of $75, Zoom's enterprise value - i.e. its market capitalization adjusted for excess cash - reaches $16.5 billion, and thus corresponds to a multiple of x14 the profits.
+Growth is slowing down and revenues are only growing modestly, from $4.1 to $4.4 billion between 2021 and 2022, or 7.3% compared to last year. This is far from the rate of expansion of previous years: 325% between 2019 and 2020, 55% between 2020 and 2021.
+In practice, Zoom has been beaten by Microsoft Teams, which has more or less the same number of users, but generates $8 billion in revenue for the Seattle titan. We won't go into detail about the number of users claimed by Zoom, since its history of transparency in this area remains questionable.
+It is mainly the quality of the profits that is the problem here. As is so often the case in the US technology sector, the entire cash profit of the last fiscal year was swallowed up by stock options.
+Stock options, by the way, are curious, since CEO Eric Yuan is overloaded with class B shares, with the related options set at an average exercise price of $5.5. One might be surprised at such preferential treatment... Mr. Yuan's fortune is secure; that of the other executives and shareholders is much less so.
+Confronted with a very clear beginning of stagnation of its sales, Zoom launched a venture capital activity on which the group remains remarkably discreet. $365 million were devoted to it these last two years, in addition to the $150 million spent in acquisitions.
+In this respect, it is the entire cash profit after stock options that is directed towards external growth: in standalone mode, Zoom is therefore not yet in a position to generate profits that can be redistributed to its shareholders - this is what we will remember.
+Yet the group continues to trade at x4 its sales, which betrays the market's assumption - that Zoom could represent an ideal acquisition target for a software heavyweight, which would integrate it into its scale and normalize the aberrant management remuneration policy.

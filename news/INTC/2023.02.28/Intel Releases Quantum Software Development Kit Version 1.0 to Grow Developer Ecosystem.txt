@@ -1,0 +1,41 @@
+
+What’s New: After launching its beta version in September 2022, Intel today released version 1.0 of the Intel® Quantum Software Development Kit (SDK). The SDK is a full quantum computer in simulation that can also interface with Intel’s quantum hardware, including Intel’s Horse Ridge II control chip and Intel’s quantum spin qubit chip when it becomes available this year. The kit allows developers to program quantum algorithms in simulation, and it features an intuitive programming interface written in C++ using an industry-standard low-level virtual machine (LLVM) compiler toolchain. As a result, Intel’s SDK offers seamless interfacing with C/C++ and Python applications, making it more versatile and customizable.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230228005657/en/A photo shows Intel’s fully processed 300-millimeter silicon spin qubit wafer. (Credit: Intel Corporation)
+“The Intel Quantum SDK helps programmers get ready for future large-scale commercial quantum computers. It will not only help developers learn how to create quantum algorithms and applications in simulation, but it will also advance the industry by creating a community of developers that will accelerate the development of applications, so they are ready when Intel’s quantum hardware becomes available.”
+
+–Anne Matsuura, director of Quantum Applications & Architecture, Intel Labs
+
+About the Intel Quantum SDK 1.0: Version 1.0 of the SDK includes an intuitive programming interface based on C++, providing a programming language that’s familiar to classical computing developers, enabling collaboration between them and quantum developers. The kit also features a quantum runtime environment optimized for executing hybrid quantum-classical algorithms. Developers have the choice of two target backends for simulating qubits to either represent a higher number of generic qubits or Intel hardware.
+
+The first backend is a high-performance open-source generic qubit simulator, Intel® Quantum Simulator (IQS). IQS has a backend capable of 32 qubits on a single node and more than 40 qubits on multiple nodes. The second is a target backend that simulates Intel quantum dot qubit hardware and enables compact model simulation of Intel silicon spin qubits. Intel’s qubits leverage the company’s expertise in silicon transistor manufacturing to build a large-scale quantum computer.
+
+With the SDK, users can develop small workloads to determine what functionalities are needed from the quantum computer’s system architecture to run algorithms efficiently and accurately on qubits. In addition, Intel is using the SDK internally to co-design quantum hardware and software in tandem, accelerating system development.
+
+The SDK is a customizable and expandable platform providing greater flexibility when developing quantum applications. It also provides for users to compare compiler files, a standard feature in classical computing development, to discern how well an algorithm is optimized in the compiler. It allows users to see the source code and obtain lower levels of abstraction, gaining insight into how a system stores data.
+
+Additional features include:
+
+How Intel is Building a Quantum Ecosystem: Intel is committed to advancing the quantum computing field and is working to build a community of developers. As a starting point for this effort, Intel has provided grants to five universities to develop quantum course curricula to share with additional universities and proliferate its use across academia: the University of Pennsylvania, Technische Hochschule Deggendorf, Keio University, The Ohio State University and Pennsylvania State University.
+
+Deggendorf Institute of Technology in Munich, Germany, is utilizing the SDK to explore a fluid dynamics problem important for aerodynamics and hydrodynamics. In January 2023, Intel hosted an Intel Quantum Computing Challenge at Deggendorf Institute of Technology. Submissions explored quantum use cases using the beta version of the Intel Quantum SDK, including image denoising and realistic image generation, and solving unstructured search problems. Leidos, another beta user, is exploring applications like quantum machine learning, simulation of materials and astrophysics problems like quantum teleportation, black holes and wormholes.
+
+Here’s what beta testers are saying:
+
+University of Pennsylvania: "The Intel Quantum SDK is easy to start, and since everything is on the cloud, all I need is a secure shell client and the simulator will generate very detailed reports so that I can analyze and debug the kernels I write,” said Gushu Li, assistant professor, Computer and Information Science Department.
+
+Deggendorf Institute of Technology: “The Intel Quantum SDK is a game-changer in the quantum development space because it readily allows the developer to operate at a level closer to the hardware for better resource utilization,” said Yaknan John Gambo, graduate student.
+
+Penn State University: “Intel's Quantum SDK offered a unique way to apply my knowledge of C to the quantum domain,” said Jeremie Pope, a student in the Computer Engineering Department. “It's helped me adopt quantum programming as if it were a classical language.”
+
+Leidos Innovation Center: “Leidos has enjoyed the versatility of their hardware-agnostic simulation for software development and comparative analysis,” said Elizabeth Iwasawa, Ph.D., quantum technology lead and research scientist. “Even with the beta version, we explored a broad variety of research topics from materials modeling and quantum machine learning to theoretical research into thermofield double states.”
+
+What’s Next: The Intel Quantum SDK 1.0 is available now on the OneAPI Intel Dev Cloud. In the future, Intel plans to release new versions of the SDK with added features and will integrate the SDK seamlessly with Intel’s quantum hardware. To learn more about Intel’s unique approach to quantum computing, read Intel’s quantum computing backgrounder.
+
+More Context: Intel Labs | Intel Quantum Computing | Intel Labs (Press Kit)
+
+About Intel
+
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, go to newsroom.intel.com and intel.com.
+
+© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230228005657/en/

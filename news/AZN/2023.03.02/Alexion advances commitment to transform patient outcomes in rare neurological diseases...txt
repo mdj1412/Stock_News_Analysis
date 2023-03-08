@@ -1,0 +1,341 @@
+
+Alexion, AstraZeneca Rare Disease, will showcase the potential for its pioneering therapies to redefine the treatment landscape for certain rare neurological diseases at the American Academy of Neurology (AAN) Annual Meeting, April 22-27, 2023. The company will present 19 abstracts, including eight oral presentations, across generalized myasthenia gravis (gMG), neuromyelitis optica spectrum disorder (NMOSD), Wilson disease and dermatomyositis.
+
+Presentations of clinical and real-world evidence will offer new insights about the efficacy and safety of ULTOMIRIS® (ravulizumab-cwvz) and SOLIRIS® (eculizumab) and the crucial role C5 inhibition can play in improving outcomes for patients with the most common forms of gMG and NMOSD. New Phase I data for gefurulimab (ALXN1720), an investigational, self-administered, third generation C5 complement inhibitor, will further support ongoing Phase III clinical development in gMG, representing continued innovation for the rare disease community.
+
+Marc Dunoyer, Chief Executive Officer, Alexion, said: “Our presentations at AAN reinforce the depth and strength of our expanding rare neurology portfolio and demonstrate the potential for our C5 inhibitors to transform care for people living with gMG and NMOSD. We continue to deliver on our commitment to understand patient experiences and innovate to meet the needs of the rare disease communities we serve.”
+
+Delivering on the promise of C5 inhibition in rare neurology
+
+Presentations will expand on results from the CHAMPION-MG Phase III trial, which supported the US approval of ULTOMIRIS, the first and only long-acting C5 complement inhibitor, for adults with anti-acetylcholine receptor (AChR) antibody-positive (Ab+) gMG. This includes an exploratory analysis showing patients who received ULTOMIRIS were more likely to see improvements in overall disease status as compared to placebo.
+
+Additionally, findings from a US-based disease registry will provide real-world evidence for first-in-class C5 inhibitor SOLIRIS, demonstrating treatment response for the majority of gMG patients in a broad representative population. Further, poster presentations will be showcased for gefurulimab (ALXN1720), an investigational C5 inhibitor optimized for subcutaneous administration, including trial design and methodology for the ongoing PREVAIL Phase III trial in adults with AChR Ab+ gMG.
+
+New data on pharmacodynamics and pharmacokinetics and updated analyses from the CHAMPION-NMOSD Phase III trial will reinforce the critical benefits of C5 inhibition in anti-aquaporin-4 (AQP4) Ab+ NMOSD treatment and the potential of ULTOMIRIS to substantially reduce the risk of relapse in a broad range of patients.
+
+Improving awareness of patient experiences
+
+A poster presentation will share insights from interviews with NMOSD patients to help illustrate the debilitating effects of NMOSD on mobility and activities of daily living. These findings will contribute to a more robust and authentic understanding of the lasting impact of this disease, underscoring the importance of timely treatment in NMOSD to prevent relapses that can result in cumulative disability.
+
+Alexion presentations during AAN 2023
+
+Lead author
+
+Abstract title
+
+Presentation details
+
+gMG
+
+Bril, Vera
+
+Ravulizumab in adults with generalized myasthenia gravis: A sub-analysis of the Phase 3 CHAMPION MG study, according to chronic IVIg use at study entry
+
+Poster Presentation
+P1.5-013
+April 23, 2023
+8:00 – 9:00 AM ET
+
+Muppidi, Srikanth
+
+Achievement of improved post-intervention status in patients with generalized myasthenia gravis treated with ravulizumab during the CHAMPION MG study
+
+Oral Presentation
+S5.008
+April 23, 2023
+2:24 PM ET
+
+Habib, Ali
+
+Ravulizumab for the treatment of generalized myasthenia gravis: timing of response
+
+Poster Presentation
+P1.5-004
+April 23, 2023
+8:00 – 9:00 AM ET
+
+Basoff, Daniel
+
+Comorbidities in patients with myasthenia gravis in the USA: a retrospective claims database analysis
+
+Poster Presentation
+P1.5-003
+April 23, 2023
+8:00 – 9:00 AM ET
+
+Rodrigues, Ema
+
+Incidence and prevalence of myasthenia gravis in the United States: a claims-based analysis
+
+Oral Presentation
+S19.007
+April 24, 2023
+4:42 PM ET
+
+Greene, Ericka
+
+Myasthenia gravis activities of daily living (MG-ADL) response to eculizumab treatment in patients from the Generalized Myasthenia Gravis Registry
+
+Poster Presentation
+P1.5-020
+April 23, 2023
+8:00 – 9:00 AM ET
+
+Pulley, Michael
+
+Change in concomitant therapies for generalized myasthenia gravis in patients receiving eculizumab: a retrospective analysis of registry data
+
+Poster Presentation
+P1.5-002
+April 23, 2023
+8:00 – 9:00 AM ET
+
+Brandsema, John
+
+A Phase 3, open-label, multicenter study to evaluate eculizumab in adolescents with refractory generalized myasthenia gravis
+
+Oral Presentation
+S5.009
+April 23, 2023
+2:36 PM ET
+
+Ortiz, Stephan
+
+Safety, tolerability, pharmacokinetics, pharmacodynamics and immunogenicity of subcutaneous and intravenous ALXN1720 in healthy volunteers: a Phase 1, randomized, double-blind, placebo-controlled, single and multiple ascending dose study
+
+Poster Presentation
+P1.5-016
+April 23, 2023
+8:00 – 9:00 AM ET
+
+Howard, James
+
+Study design and methodology of the PREVAIL trial: a Phase 3, randomized, double-blind, placebo-controlled study of the safety and efficacy of subcutaneous ALXN1720 in adults with generalized myasthenia gravis
+
+Poster Presentation
+P1.5-008
+April 23, 2023
+8:00 – 9:00 AM ET
+
+Laforêt, Pascal
+
+Identifying digital biomarkers for the self-monitoring of patients living with generalized myasthenia gravis: a proof of concept*
+
+Poster Presentation
+P7.8-007
+April 25, 2023
+8:00 – 9:00 AM ET 
+
+NMOSD
+
+Ortiz, Stephan
+
+Pharmacokinetics and pharmacodynamics of ravulizumab in adults with anti-aquaporin-4 antibody-positive neuromyelitis optica spectrum disorder during the Phase 3 CHAMPION-NMOSD trial
+
+Oral Presentation
+S5.004
+April 23, 2023
+1:36 PM ET
+
+Pittock, Sean
+
+Efficacy and safety of ravulizumab in adults with anti-aquaporin-4 antibody-positive neuromyelitis optica spectrum disorder: outcomes from the Phase 3 CHAMPION-NMOSD trial
+
+Oral Presentation
+S5.002
+April 23, 2023
+1:12 PM ET
+
+Levy, Michael
+
+Efficacy subgroup analyses from the Phase 3 CHAMPION-NMOSD trial in adults with anti-aquaporin-4 antibody-positive neuromyelitis optica spectrum disorder
+
+Oral Presentation
+S5.003
+April 23, 2023
+1:24 PM ET
+
+Bernitsas, Evanthia
+
+Characterizing the impact of NMOSD on mobility, daily activities, and social activities through patient interviews
+
+Poster Presentation
+P13.5-011
+April 27, 2023
+8:00 – 9:00 AM ET
+
+Levy, Michael
+
+NMOSDCopilot: feasibility of smartphone-based digital biomarkers for the self-assessment of vision, motor and cognitive functions in neuromyelitis optica spectrum disorder*
+
+Oral Presentation
+S50.002
+April 27, 2023
+3:42 PM ET
+
+Wilson disease
+
+Bega, Danny
+
+Efficacy and safety of ALXN1840 versus standard of care in Wilson disease: primary results from an ongoing Phase 3, randomized, controlled, rater-blinded trial
+
+Clinical Trials Plenary Session
+April 25, 2023
+9:15 – 11:30 AM ET
+
+Hedera, Peter
+
+Neurological manifestations of Wilson disease in treatment-naive patients and in patients receiving standard of care
+
+Poster Presentation
+P11.4-005
+April 26, 2023
+11:45 AM – 12:45 PM ET
+
+Dermatomyositis
+
+Kielhorn, Adrian
+
+Treatment utilization in dermatomyositis: an analysis of electronic medical records in the United States
+
+Poster Presentation
+P9.5-032
+April 25, 2023
+5:30 – 6:30 PM ET
+
+*Ad Scientiam research study supported by Alexion
+
+INDICATION(S) & IMPORTANT SAFETY INFORMATION for ULTOMIRIS® (ravulizumab-cwvz)
+
+What is ULTOMIRIS?
+
+ULTOMIRIS is a prescription medicine used to treat:
+
+It is not known if ULTOMIRIS is safe and effective in children younger than 1 month of age.
+
+It is not known if ULTOMIRIS is safe and effective for the treatment of gMG in children.
+
+Subcutaneous administration of ULTOMIRIS has not been evaluated and is not approved for use in children.
+
+IMPORTANT SAFETY INFORMATION
+
+What is the most important information I should know about ULTOMIRIS?
+
+ULTOMIRIS is a medicine that affects your immune system and can lower the ability of your immune system to fight infections.
+
+Your healthcare provider will give you a Patient Safety Card about the risk of meningococcal infection. Carry it with you at all times during treatment and for 8 months after your last ULTOMIRIS dose. It is important to show this card to any healthcare provider or nurse to help them diagnose and treat you quickly.
+
+ULTOMIRIS is only available through a program called the ULTOMIRIS REMS. Before you can receive ULTOMIRIS, your healthcare provider must: enroll in the ULTOMIRIS REMS program; counsel you about the risk of meningococcal infection; give you information and a Patient Safety Card about the symptoms and your risk of meningococcal infection (as discussed above); and make sure that you are vaccinated with a meningococcal vaccine, and if needed, get revaccinated with the meningococcal vaccine. Ask your healthcare provider if you are not sure if you need to be revaccinated.
+
+ULTOMIRIS may also increase the risk of other types of serious infections. Make sure your child receives vaccinations against Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) if treated with ULTOMIRIS. Call your healthcare provider right away if you have any new signs or symptoms of infection.
+
+Who should not receive ULTOMIRIS?
+
+Do not receive ULTOMIRIS if you have a meningococcal infection or have not been vaccinated against meningococcal infection unless your healthcare provider decides that urgent treatment with ULTOMIRIS is needed.
+
+Before you receive ULTOMIRIS, tell your healthcare provider about all of your medical conditions, including if you: have an infection or fever, are pregnant or plan to become pregnant, and are breastfeeding or plan to breastfeed. It is not known if ULTOMIRIS will harm your unborn baby or if it passes into your breast milk. You should not breastfeed during treatment and for 8 months after your final dose of ULTOMIRIS.
+
+Tell your healthcare provider about all the vaccines you receive and medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements which could affect your treatment.
+
+If you have PNH and you stop receiving ULTOMIRIS, your healthcare provider will need to monitor you closely for at least 16 weeks after you stop ULTOMIRIS. Stopping ULTOMIRIS may cause breakdown of your red blood cells due to PNH. Symptoms or problems that can happen due to red blood cell breakdown include: drop in your red blood cell count, tiredness, blood in your urine, stomach-area (abdomen) pain, shortness of breath, blood clots, trouble swallowing, and erectile dysfunction (ED) in males.
+
+If you have aHUS, your healthcare provider will need to monitor you closely for at least 12 months after stopping treatment for signs of worsening aHUS or problems related to a type of abnormal clotting and breakdown of your red blood cells called thrombotic microangiopathy (TMA). Symptoms or problems that can happen with TMA may include: confusion or loss of consciousness, seizures, chest pain (angina), difficulty breathing and blood clots or stroke.
+
+ULTOMIRIS can cause serious side effects including allergic reactions to acrylic adhesive. Allergic reactions to the acrylic adhesive may happen with your subcutaneous ULTOMIRIS treatment. If you have an allergic reaction during the delivery of subcutaneous ULTOMIRIS, remove the on-body injector and get medical help right away. Your healthcare provider may treat you with medicines to help prevent or treat allergic reaction symptoms as needed.
+
+What are the possible side effects of ULTOMIRIS?
+
+ULTOMIRIS can cause serious side effects including infusion-related reactions. Symptoms of an infusion-related reaction with ULTOMIRIS may include lower back pain, tiredness, feeling faint, discomfort in your arms or legs, bad taste, or drowsiness. Stop treatment of ULTOMIRIS and tell your healthcare provider or nurse right away if you develop these symptoms, or any other symptoms during your ULTOMIRIS infusion that may mean you are having a serious infusion reaction, including: chest pain, trouble breathing or shortness of breath, swelling of your face, tongue, or throat, and feel faint or pass out
+
+The most common side effects of ULTOMIRIS in people treated for PNH are upper respiratory tract infection and headache.
+
+The most common side effects of ULTOMIRIS in people treated for aHUS are upper respiratory tract infection, diarrhea, nausea, vomiting, headache, high blood pressure and fever.
+
+The most common side effects of ULTOMIRIS in people with gMG are diarrhea and upper respiratory tract infections.
+
+The most common side effects of subcutaneous administration of ULTOMIRIS in adults treated for PNH and aHUS are local injection site reactions.
+
+Tell your healthcare provider about any side effect that bothers you or that does not go away. These are not all the possible side effects of ULTOMIRIS. For more information, ask your healthcare provider or pharmacist. Call your healthcare provider right away if you miss an ULTOMIRIS infusion or for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.
+
+Read the Instructions for Use that comes with subcutaneous ULTOMIRIS for instructions about the right way to prepare and give your subcutaneous ULTOMIRIS injections through an on-body injector.
+
+Please see the accompanying full Prescribing Information and Medication Guide for ULTOMIRIS, including Boxed WARNING regarding serious and life-threatening meningococcal infections/sepsis. Please see the accompanying Instructions for Use for the ULTOMIRIS On Body Delivery System.
+
+INDICATIONS & IMPORTANT SAFETY INFORMATION FOR SOLIRIS® (eculizumab) [injection for intravenous use 300mg/30mL vial]
+
+What is SOLIRIS?
+
+SOLIRIS is a prescription medicine used to treat:
+
+It is not known if SOLIRIS is safe and effective in children with PNH, gMG, or NMOSD.
+
+IMPORTANT SAFETY INFORMATION
+
+What is the most important information I should know about SOLIRIS?
+
+SOLIRIS is a medicine that affects your immune system and can lower the ability of your immune system to fight infections.
+
+Your doctor will give you a Patient Safety Card about the risk of meningococcal infection. Carry it with you at all times during treatment and for 3 months after your last SOLIRIS dose. It is important to show this card to any doctor or nurse to help them diagnose and treat you quickly.
+
+SOLIRIS is only available through a program called the SOLIRIS REMS. Before you can receive SOLIRIS, your doctor must enroll in the SOLIRIS REMS program; counsel you about the risk of meningococcal infection; give you information and a Patient Safety Card about the symptoms and your risk of meningococcal infection (as discussed above); and make sure that you are vaccinated with the meningococcal vaccine and, if needed, get revaccinated with the meningococcal vaccine. Ask your doctor if you are not sure if you need to be revaccinated.
+
+SOLIRIS may also increase the risk of other types of serious infections. Make sure your child receives vaccinations against Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) if treated with SOLIRIS. Certain people may be at risk of serious infections with gonorrhea. Certain fungal infections (Aspergillus) may occur if you take SOLIRIS and have a weak immune system or a low white blood cell count.
+
+Who should not receive SOLIRIS?
+
+Do not receive SOLIRIS if you have a meningococcal infection or have not been vaccinated against meningitis infection unless your doctor decides that urgent treatment with SOLIRIS is needed.
+
+Before you receive SOLIRIS, tell your doctor about all of your medical conditions, including if you: have an infection or fever, are pregnant or plan to become pregnant, and are breastfeeding or plan to breastfeed. It is not known if SOLIRIS will harm your unborn baby or if it passes into your breast milk.
+
+Tell your doctor about all the vaccines you receive and medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements which could affect your treatment. It is important that you have all recommended vaccinations before you start SOLIRIS, receive 2 weeks of antibiotics if you immediately start SOLIRIS, and stay up-to-date with all recommended vaccinations during treatment with SOLIRIS.
+
+If you have PNH, your doctor will need to monitor you closely for at least 8 weeks after stopping SOLIRIS. Stopping treatment with SOLIRIS may cause breakdown of your red blood cells due to PNH. Symptoms or problems that can happen due to red blood cell breakdown include: drop in the number of your red blood cell count, drop in your platelet count, confusion, kidney problems, blood clots, difficulty breathing, and chest pain.
+
+If you have aHUS, your doctor will need to monitor you closely during and for at least 12 weeks after stopping treatment for signs of worsening aHUS symptoms or problems related to abnormal clotting (thrombotic microangiopathy). Symptoms or problems that can happen with abnormal clotting may include: stroke, confusion, seizure, chest pain (angina), difficulty breathing, kidney problems, swelling in arms or legs, and a drop in your platelet count.
+
+What are the possible side effects of SOLIRIS?
+
+SOLIRIS can cause serious side effects including serious allergic reactions. Tell your doctor or nurse right away if you get any of these symptoms during your SOLIRIS infusion: chest pain; trouble breathing or shortness of breath; swelling of your face, tongue, or throat; and feel faint or pass out. If you have an allergic reaction to SOLIRIS, your doctor may need to infuse SOLIRIS more slowly, or stop SOLIRIS.
+
+The most common side effects in people with PNH treated with SOLIRIS include: headache, pain or swelling of your nose or throat (nasopharyngitis), back pain, and nausea.
+
+The most common side effects in people with aHUS treated with SOLIRIS include: headache, diarrhea, high blood pressure (hypertension), common cold (upper respiratory infection), stomach-area (abdominal) pain, vomiting, pain or swelling of your nose or throat (nasopharyngitis), low red blood cell count (anemia), cough, swelling of legs or feet (peripheral edema), nausea, urinary tract infections, and fever.
+
+The most common side effects in people with gMG treated with SOLIRIS include: muscle and joint (musculoskeletal) pain.
+
+The most common side effects in people with NMOSD treated with SOLIRIS include: common cold (upper respiratory infection); pain or swelling of your nose or throat (nasopharyngitis); diarrhea; back pain; dizziness; flu-like symptoms (influenza), including fever, headache, tiredness, cough, sore throat, and body aches; joint pain (arthralgia); throat irritation (pharyngitis); and bruising (contusion).
+
+Tell your doctor about any side effect that bothers you or that does not go away. These are not all the possible side effects of SOLIRIS. For more information, ask your doctor or pharmacist. Call your doctor for medical advice about side effects. You are encouraged to report negative side effects of prescription drugs to the FDA. Visit MedWatch, or call 1-800-FDA-1088.
+
+Please see the full Prescribing Information and Medication Guide for SOLIRIS, including Boxed WARNING regarding serious and life-threatening meningococcal infections.
+
+Notes
+
+ULTOMIRIS
+
+ULTOMIRIS (ravulizumab-cwvz), the first and only long-acting C5 complement inhibitor, offers immediate, complete and sustained complement inhibition. The medication works by inhibiting the C5 protein in the terminal complement cascade, a part of the body’s immune system. When activated in an uncontrolled manner, the complement cascade over-responds, leading the body to attack its own healthy cells. ULTOMIRIS is administered intravenously every eight weeks in adult patients, following a loading dose.
+
+ULTOMIRIS is approved in the US, EU and Japan for the treatment of certain adults with gMG.
+
+ULTOMIRIS is also approved in the US, EU and Japan for the treatment of certain adults with PNH and for certain children with PNH in the US and EU.
+
+Additionally, ULTOMIRIS is approved in the US, EU and Japan for certain adults and children with aHUS to inhibit complement-mediated thrombotic microangiopathy.
+
+As part of a broad development program, ULTOMIRIS is being assessed for the treatment of additional hematology and neurology indications.
+
+SOLIRIS
+
+SOLIRIS (eculizumab) is a first-in-class C5 complement inhibitor. The medication works by inhibiting the C5 protein in the terminal complement cascade, a part of the body’s immune system. When activated in an uncontrolled manner, the terminal complement cascade over-responds, leading the body to attack its own healthy cells. SOLIRIS is administered intravenously every two weeks, following an introductory dosing period.
+
+SOLIRIS is approved in the US, EU and Japan for the treatment of PNH, aHUS, certain adults with gMG and certain adults with NMOSD.
+
+SOLIRIS is not indicated for the treatment of patients with STEC-HUS.
+
+Alexion
+
+Alexion, AstraZeneca Rare Disease, is the group within AstraZeneca focused on rare diseases, created following the 2021 acquisition of Alexion Pharmaceuticals, Inc. As a leader in rare diseases for more than 30 years, Alexion is focused on serving patients and families affected by rare diseases and devastating conditions through the discovery, development and commercialization of life-changing medicines. Alexion focuses its research efforts on novel molecules and targets in the complement cascade and its development efforts on hematology, nephrology, neurology, metabolic disorders, cardiology and ophthalmology. Headquartered in Boston, Massachusetts, Alexion has offices around the globe and serves patients in more than 50 countries. For more information, please visit www.alexion.com.
+
+AstraZeneca
+
+AstraZeneca is a global, science-led biopharmaceutical company that focuses on the discovery, development and commercialization of prescription medicines in Oncology, Rare Diseases, and BioPharmaceuticals, including Cardiovascular, Renal & Metabolism, and Respiratory & Immunology. Based in Cambridge, UK, AstraZeneca operates in over 100 countries and its innovative medicines are used by millions of patients worldwide. For more information, please visit www.astrazeneca-us.com and follow us on Twitter @AstraZenecaUS.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230227005822/en/

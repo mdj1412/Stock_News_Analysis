@@ -1,0 +1,247 @@
+
+
+      Founder Update 134: A difficult update on our team
+    
+
+
+
+
+      Today marks a very hard day in our 20-year history. We have made the difficult decision to rebalance our team to better position Atlassian for the long term, meaning we will be saying goodbye to around 500 Atlassians, or 5% of our employees. Every Atlassian will receive an email within the next 15 minutes detailing if they are impacted.
+    
+
+
+
+
+      We've written 134 Founder blogs since 2011, but this one comes with the heaviest of hearts knowing we are saying goodbye to great teammates and friends. We came to this decision as an executive team and with our board, but ultimately the final call is on us as co-founders. To those who are leaving us: we are deeply sorry.
+    
+
+
+
+
+      In the spirit of Open Company, No Bullshit here's our honest take on how these decisions came to be.
+    
+
+
+
+
+      Why are we doing this?
+    
+
+
+
+
+      We've tried to be incredibly thoughtful in how we balance the impact this will have on our people, and the responsibility we have to set Atlassian up for success.
+    
+
+
+
+
+      A month back we reorganised our company to better reflect operating in a changing and difficult macroeconomic environment. We made tough calls to prioritise the most critical work for our current and future customers. While it helped us streamline work, we need to go further in rebalancing the skills we require to run faster at our company priorities.
+    
+
+
+
+
+      To be clear, this decision is not a reflection of Atlassian's own financial performance, as we will be reinvesting in roles that better support our priorities. As a company, we have massive growth opportunities in front of us, particularly across cloud migrations, ITSM, and serving our enterprise customers in the cloud. Although hard, this rebalancing will help us put more wood behind these arrows.
+    
+
+
+
+
+      How are we rebalancing?
+    
+
+
+
+
+      We've made hard calls to reduce our investment in specific areas, in order to reinvest in others. This is different to a financially-driven reduction, where you would look to make 'broad-based cuts' - for example, a 10% cut equally distributed across every org within the company. This is not what is happening here.
+    
+
+
+
+
+      While many teams across Atlassian are impacted, some of our most impacted teams include Talent Acquisition, Program Management, and Research & Insights. We want to be clear these decisions are not a reflection of our teammates' work. Every single person has made contributions that have changed our company for the better and will leave a lasting impact on their peers and teams. This is about rebalancing the roles we need across Atlassian first and foremost.
+    
+
+
+
+
+      More on impacts and our decision-making process in our FAQ here.
+    
+
+
+
+
+      How are we doing this?
+    
+
+
+
+
+      As we said in our last blog, our value of Build with Heart and Balance is about making the hard, right decisions with passion, empathy, and care. To assist those leaving us in their employment transition, we will be offering:
+    
+
+
+
+
+      •Global separation package - 15 weeks + 1 week for each year of service. Sign-on bonus provisions will be waived, and any accrued and unused Paid Time Off (PTO) will be paid out.
+    
+
+
+
+
+      •Accelerating vesting - We will accelerate vesting for the next quarterly vesting event (May 2023). Those who have been here for less than a year (usually not eligible for vesting), will receive vesting for the number of quarters they have worked at Atlassian.
+    
+
+
+
+
+      •Providing healthcare - Employer-sponsored plans will provide six months of healthcare benefits for employees and their families, and continued access to our Employee Assistance Program (EAP) and Modern Health through this time.
+    
+
+
+
+
+      •Visa support - We will provide individual consults with Atlassian's mobility team, and meetings with external immigration counsel to review visa status and options.
+    
+
+
+
+
+
+
+
+
+
+
+      •Laptops - Once remotely erased, all employees will be able to keep their laptops.
+    
+
+
+
+
+      •Internal mobility - We will provide the opportunity to apply for open roles internally through our Internal Mobility process. Our team will work with impacted Atlassians over the next four weeks to explore suitable opportunities. This will be the case for everyone regardless of where they live and what the labour laws specify.
+    
+
+
+
+
+      •Outplacement services - We're partnering with a third party to provide coaching, resume-building and guidance, and job-seeking support.
+    
+
+
+
+
+      Allowing teams to say goodbye:
+    
+
+
+
+
+      We know the industry standard is to block access to communication tools immediately. This approach didn't feel right to us. Our default to trust is an incredibly important part of our culture. Most people leaving will have the option to interact with their teams until the end of the day Friday, March 10, 2023 local time. For people who have access to sensitive data, laptops will be locked, however, they will still be able to use Confluence, Slack, Zoom, and Gmail on other enrolled devices.
+    
+
+
+
+
+      We encourage you to take the time for farewells, including writing goodbye blogs and sharing any handovers. Some of those leaving may not want to do any of this - and that's okay too.
+    
+
+
+
+
+      We will also host live Founder webinar sessions today for those leaving us. This is completely optional. We will answer every question we can.
+    
+
+
+
+
+      What can I do if I'm not impacted?
+    
+
+
+
+
+      This is incredibly difficult for every Atlassian, but most difficult for those leaving us. If you aren't impacted, please think about how you would want people to act if it was you. This means:
+    
+
+
+
+
+      1.Respect privacy - Some folks won't want to disclose they are included in this. And even if they tell you, they may not want you to tell others. Please over-rotate on respect and confidentiality here.
+    
+
+      2.Offer your support - While in this transition period, we need everyone to step up and support their team. Please lean in when asked.
+    
+
+      3.Model leadership - We ask that you support your teams in ways you'd want to be supported. This includes making space for those leaving and not asking for team catch-ups this week, while we focus on the individual needs of those leaving. For managers, we have a separate manager FAQ with more guidance.
+    
+
+
+
+
+      What's next for Atlassian?
+    
+
+
+
+
+      To those of you leaving:
+    
+
+
+
+
+      We are incredibly sorry for the impact this will have on you and your family. Thank you deeply for your contribution to Atlassian. We hope you walk into this next phase knowing you've had a positive impact here - and have changed our company for the better. We will do everything we can to help ease this transition.
+    
+
+
+
+
+      To those of you staying:
+    
+
+
+
+
+      This is going to be hard news for every Atlassian to digest. Please take the time you need to process it. As we've said before, the calls we make in challenging times need to reflect a future Atlassian we are all building towards. Atlassian's future remains incredibly bright, with a huge amount of opportunity and possibility ahead of us.
+    
+
+
+
+
+      We will host a Founder Tour next week to answer your questions. We've asked leaders to wait until next week to bring teams together. For now, please let us focus on our teammates who are leaving.
+    
+
+
+
+
+      Stay safe, be kind ♥
+    
+
+
+
+
+      Scott & Mike
+    
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Atlassian Corporation plc published this content on 06 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 06 March 2023 21:38:16 UTC.
+      
+

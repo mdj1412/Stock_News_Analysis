@@ -1,0 +1,29 @@
+
+CrowdStrike (Nasdaq: CRWD), a leader in cloud-delivered protection of endpoints, cloud workloads, identity and data, and Dell Technologies (NYSE: DELL) today announced a new strategic alliance to help organizations prevent, detect and respond to cyber threats with frictionless and cost-effective offerings. The alliance entails targeted offerings for businesses of all sizes.
+
+Through the new strategic alliance, organizations can manage cyber threats and protect their endpoints, cloud workloads, identity and data. The CrowdStrike Falcon platform is available to purchase today with volume licensing to help medium and large enterprises as well as public sector organizations consolidate spend, platforms and contracts while meeting security and compliance needs. CrowdStrike will also be available across a broad set of Dell offerings, including with the purchase of Dell commercial PCs in the coming months.
+
+“Dell’s selection of CrowdStrike for customers of all sizes illustrates cybersecurity’s criticality in today’s digital world,” said Daniel Bernard, chief business officer at CrowdStrike. “The CrowdStrike and Dell collaboration provides significant market access, expediting consolidation from legacy and point products to cybersecurity’s leading modern platform. Together, Dell and CrowdStrike make cyber defense frictionless, automated and cost effective – all while delivering on our mission of stopping breaches.”
+
+“Today's complex threat landscape calls for a collaborative approach that brings together industry-leading technologies and world-class teams to build the strongest defense for our customers,” said Sam Burd, president, Client Solutions Group at Dell. “Our work with CrowdStrike is the latest example of how we’re helping organizations stay ahead of threats. As our strategic collaboration continues, the fundamental principle remains clear: help customers tackle their security challenges with ease and simplicity.”
+
+About CrowdStrike
+
+CrowdStrike (Nasdaq: CRWD), a global cybersecurity leader, has redefined modern security with one of the world’s most advanced cloud-native platforms for protecting critical areas of enterprise risk – endpoints and cloud workloads, identity and data.
+
+Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving adversary tradecraft and enriched telemetry from across the enterprise to deliver hyper-accurate detections, automated protection and remediation, elite threat hunting and prioritized observability of vulnerabilities.
+
+Purpose-built in the cloud with a single lightweight-agent architecture, the Falcon platform delivers rapid and scalable deployment, superior protection and performance, reduced complexity and immediate time-to-value.
+
+CrowdStrike: We stop breaches.
+
+Learn more: https://www.crowdstrike.com/ 
+Follow us: Blog | Twitter | LinkedIn | Facebook | Instagram 
+Start a free trial today: https://www.crowdstrike.com/free-trial-guide/
+
+© 2022 CrowdStrike, Inc. All rights reserved. CrowdStrike, the falcon logo, CrowdStrike Falcon and CrowdStrike Threat Graph are marks owned by CrowdStrike, Inc. and registered with the United States Patent and Trademark Office, and in other countries. CrowdStrike owns other trademarks and service marks, and may use the brands of third parties to identify their products and services.
+
+About Dell Technologies
+
+Dell Technologies (NYSE: DELL) helps organizations and individuals build their digital future and transform how they work, live and play. The company provides customers with the industry’s broadest and most innovative technology and services portfolio for the data era.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230306005300/en/

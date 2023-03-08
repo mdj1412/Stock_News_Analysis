@@ -1,0 +1,39 @@
+
+
+SAN DIEGO, March 6, 2023 /PRNewswire/ -- Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced the details of its participation at the 2023 Optical Networking and Communication (OFC) Conference. OFC is the premier event for optical communications and networking professionals.
+When:OFC 2023 is being held March 5-9, 2023.
+Where:Marvell will be in booth #4326, located in the San Diego Convention Center in San Diego.
+Demonstrations in Marvell Booth:
+Marvell's cloud-optimized electro-optics and networking solutions are driving high-speed connectivity and power efficiency inside the data center, between data centers and in carrier networks. Visit Marvell's booth to see the following demonstrations and product displays:
+Nova™, the industry's first 1.6T PAM4 electro-optics platform for AI/ML and cloud data center networks, is powered by a 200 Gbps/lambda optical DSP, doubling the optical bandwidth of current solutions.Live edge-to-cloud network demonstration featuring Marvell® Teralynx® and Prestera® switch silicon, COLORZ® II ZR/ZR+ pluggable modules, Alaska® Ethernet PHYs, and Porrima™ and Alcor™ PAM4 DSPs.Active Electrical Cables (AECs) powered by the Marvell® Alaska® A 800G PAM4 DSP family.A wide range of pluggable optical modules that include Marvell's COLORZ II ZR/ZR+ modules for data center interconnect; coherent modules from OEMs across the ecosystem powered by Marvell's Canopus™ and Deneb™ DSPs; and OEM optical interconnect modules powered by Marvell's PAM4 DSPs.Marvell Technology at OFC:
+Marvell's Spica™ Gen2 800G PAM4 DSPs are featured in a variety of optical modules at the following booths:
+Accelink: Booth #4314Arista: Booth #5401InnoLight: Booth #4115Linktel: Booth #2531Source Photonics: Booth #3029Marvell will participate in two interoperability demonstrations at OFC with Marvell's 400ZR technology at the Optical Internetworking Forum (OIF) Booth #5101 and the Marvell Alaska C X9340P 5nm 1.6T PHY with MACsec encryption at the Ethernet Alliance Booth #5417.
+Marvell Presentations and Panels:
+Workshop: Is It Really Game Over for the Quest to Approach Fiber Capacity Limits?Date: Sunday, March 5, 1:00 p.m. Location: Room 7ABPresenter: Kishore Kota, Associate Vice President Engineering, Coherent DSP
+Workshop: Where are the Boundaries Between IM-DD and Coherent?Date: Sunday, March 5, 1:00 p.m.Location: Room 8Presenter: Dr. Radha Nagarajan, Senior Vice President and Chief Technology Officer, Optical and Copper Connectivity Group
+Workshop: Slow and Wide Versus Fast and Narrow: How Do We Make our Datacenters Green?Date: Sunday, March 5, 2023, 4:00 p.m.Location: Room 8Presenter: Arash Farhoodfar, Vice President of Engineering, Optical and Copper Connectivity 
+Panel: 1.6Tb/s+ Intra-DC NetworksDate: Monday, March 6, 4:30 p.m.Location: Room 6CPresenter: Lenin Patra, Vice President and Chief Technology Officer, PHY
+Show Floor Program: Optics in Future AI Systems: Interconnects, Switching and ProcessingTuesday, March 7, 10:45 a.m.Location: Theater IIPresenter: Dr. Loi Nguyen, Executive Vice President, Optical and Copper Connectivity Group
+Market Watch Panel: PAM vs. Coherent for Data Center ConnectivityDate: Tuesday, March 7, 12:15 p.m. Location: Theater IPresenter: Xi Wang, Vice President of Product Marketing, Optical DSP
+Market Watch Panel: 800G / 128GBaud Pluggable Coherent - Key Technologies and Applications Date: Tuesday, March 7, 2:00 p.m.Location: Theater I Presenter: Dr. Radha Nagarajan, Senior Vice President and Chief Technology Officer, Optical and Copper Connectivity Group
+Poster: A 200 Gb/s Low Power DSP-Based Optical Receiver and Transmitter With Integrated TIA and Laser DriversDate: Wednesday, March 8, 10:30 a.m. Location: Exhibit HallPresenter: Arik Zafrany, Senior Principal Engineer, Optical PHY
+Show Floor Program: OpenZR+MSA - New Developments and Next StepsDate: Wednesday, March 8, 11:45 a.m.Location: Theater IIPresenter: Samuel Liu, Senior Director, Product Line Management, Coherent DSP
+Show Floor Program: Defining 800ZR and 800LR; An OIF UpdateDate: Wednesday, March 8, 1:00 p.m.Location: Theater IIPresenter: Josef Berger, Associate Vice President Marketing, Optical and Copper Connectivity
+Invited Talk: System Impact of Laser Phase Noise On 400G and Beyond Coherent PluggablesDate: Thursday, March 9, 8:00 a.m. Location: Room 6DPresenter: Hai Xu, Distinguished Engineer, Coherent DSP
+News Highlights: 
+Marvell Launches Industry's First 1.6 Tbps PAM4 Electro-Optics Platform for Cloud AI/ML and Data Center Networks: Marvell announced its Nova 1.6 Tbps PAM4 electro-optics platform, the industry's first of its kind, now sampling to customers.
+Marvell Announces Cloud-Optimized 51.2 Tbps Networking Platform for AI/ML and Data Center Networks: Marvell announced a new platform, which quadruples the bandwidth of widely deployed 12.8 Tbps networking solutions, comprised of the ultra-low latency Marvell Teralynx 10 51.2 Tbps switch chip and the Nova PAM4 1.6 Tbps electro-optics platform.
+Introducing the 51.2T Teralynx 10, the Industry's Lowest Latency Programmable Switch: Learn more about how Marvell's Teralynx 10 51.2 Tbps switch chip is addressing the operator bandwidth explosion while meeting stringent power- and cost-per-bit requirements.
+About Marvell
+To deliver the data infrastructure technology that connects the world, we're building solutions on the most powerful foundation: our partnerships with our customers. Trusted by the world's leading technology companies for over 25 years, we move, store, process and secure the world's data with semiconductor solutions designed for our customers' current needs and future ambitions. Through a process of deep collaboration and transparency, we're ultimately changing the way tomorrow's enterprise, cloud, automotive, and carrier architectures transform—for the better.
+Marvell and the M logo are trademarks of Marvell or its affiliates. Please visit www.marvell.com for a complete list of Marvell trademarks. Other names and brands may be claimed as the property of others.
+This press release contains forward-looking statements within the meaning of the federal securities laws that involve risks and uncertainties. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate or imply future events or achievements. Actual events or results may differ materially from those contemplated in this press release. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and no person assumes any obligation to update or revise any such forward-looking statements, whether as a result of new information, future events or otherwise.
+For further information, contact:Kim Marklepr@marvell.com
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/marvell-to-showcase-cloud-optimized-electro-optics-and-networking-at-ofc-2023-301762873.html
+SOURCE  Marvell
+
+

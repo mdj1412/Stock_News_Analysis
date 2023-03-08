@@ -270,6 +270,8 @@ def ner():
             continue
         if ent.label_ == 'ORDINAL':
             continue
+        if ent.label_ == 'PRODUCT':
+            continue
             
 
         print(ent.text, ent.start_char, ent.end_char, ent.label_)

@@ -1,0 +1,420 @@
+
+anss-20230301
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNITED STATES
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+
+
+FORM 8-K
+
+
+
+
+
+
+CURRENT REPORT
+
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+
+
+
+March 1, 2023
+
+
+Date of Report (Date of earliest event reported)
+
+
+
+
+
+
+ANSYS, Inc.
+
+
+(Exact name of registrant as specified in its charter)
+
+
+
+
+
+
+
+
+
+
+Delaware
+
+
+
+0-20853
+
+
+04-3219960
+
+
+
+
+
+(State or other jurisdiction of incorporation)
+
+
+
+
+(Commission File Number)
+
+
+
+
+(I.R.S. Employer Identification No.)
+
+
+
+
+
+
+2600 ANSYS Drive,
+
+
+
+
+Canonsburg,
+
+
+
+
+PA
+
+
+
+15317
+
+
+
+
+
+(Address of principal executive offices)
+
+
+
+
+(Zip Code)
+
+
+
+
+
+
+
+
+
+
+844-462-6797
+
+
+(Registrant's telephone number, including area code)
+
+
+
+
+
+
+N/A
+
+
+(Former name or former address, if changed since last report)
+
+
+
+
+
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+
+
+
+
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+
+
+
+
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+
+
+
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+
+
+
+
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+
+
+
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+
+
+
+
+Title of each class
+
+
+Trading Symbol(s)
+
+
+Name of each exchange on which registered
+
+
+
+
+Common Stock, $0.01 par value per share
+
+
+ANSS
+
+
+Nasdaq Stock Market LLC
+
+
+
+
+(Nasdaq Global Select Market)
+
+
+
+
+
+
+
+
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+
+
+
+
+
+Emerging growth company ☐
+
+
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+
+☐
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Item 5.05. Amendments to the Registrant's Code of Ethics, or Waiver of a Provision of the Code of Ethics.
+
+
+
+
+
+
+The Board of Directors (the "Board") of ANSYS, Inc. (the "Company") adopted an amended and restated Code of Business Conduct and Ethics (the "Code"), which became effective on March 1, 2023. The Code applies to all team members of the Company, including the principal executive officer, principal financial officer, and principal accounting officer, and to all directors, officers, and employees of the Company's subsidiaries and controlled affiliates.
+
+
+
+
+
+
+A copy of the Code is attached hereto as Exhibit 14.1 and is incorporated herein by reference. In addition, a copy of the Code is posted under the Governance tab of the Investor Relations section of our website at https://investors.ansys.com.
+
+
+
+
+
+
+Item 9.01. Financial Statements and Exhibits
+
+
+
+
+
+
+
+
+
+(d)
+
+
+Exhibits.
+
+
+
+
+
+
+
+
+14.1
+
+
+
+Code of Business Conduct and Ethics.
+
+
+
+
+
+
+
+
+
+104
+
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGNATURE
+
+
+Pursuant to the requirements of Section 13 or 15(d) the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+
+
+
+
+
+
+
+
+ANSYS, Inc.
+
+
+
+
+
+
+
+
+Date:
+
+
+March 6, 2023
+
+
+By:
+
+
+/s/ Janet Lee
+
+
+
+
+Name:
+
+
+Janet Lee
+
+
+
+
+Title:
+
+
+Senior Vice President, General Counsel and Secretary
+
+
+
+
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+ANSYS Inc. published this content on 06 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 06 March 2023 21:38:18 UTC.
+      
+

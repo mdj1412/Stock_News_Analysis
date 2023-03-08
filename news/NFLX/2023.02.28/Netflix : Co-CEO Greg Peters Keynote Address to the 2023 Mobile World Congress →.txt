@@ -1,0 +1,120 @@
+
+
+
+Thank you for that introduction and for inviting me to speak at Mobile World Congress. 
+
+
+It's a tremendous privilege to be with you all here in Barcelona, a city with an extraordinary creative heritage and in a country with a rich history of filmmaking. Last night, I had the opportunity to meet some of our creative partners here in Spain. Together we have made over 100 local productions, and I am excited to see that extraordinary creative heritage is very much alive today. 
+
+
+Netflix is a company that is built on partnership with creators, internet service providers, device manufacturers and more. Many of whom are represented in this room. Without those partnerships, we would have no entertainment for our members, and we would not exist as a business. So it is in that spirit of partnership that I am here today. 
+
+
+Put simply; I believe that there is a clear and direct symbiotic relationship between a thriving creative industry and a thriving internet ecosystem. Why? Because consumers want great films, TV series and games - and they are willing to pay for high-quality internet to enjoy the content they love. 
+
+
+I know that some of you here today are concerned that this consumer demand leads to unsustainable traffic growth. These concerns are not new; I remember having similar conversations with our partners and regulators here in Europe ten years ago. Yet the last decade has shown, and telco leaders have also recently reaffirmed, that growing internet usage is a huge opportunity - reflecting the growing demand for the services we all provide. 
+
+
+Of course, increasing usage requires investment. For our part, Netflix has invested over $60 billion in content alone over the last five years. That's equivalent to roughly 50 percent of our total revenue. It is the part we play in creating a virtuous flywheel: Better, more varied content, leading to more people willing to pay for better broadband services. 
+
+
+But we are in the entertainment business, so rather than tell you, let's have a little fun and take a look at the diversity and quality of the shows and films that our investments make possible. 
+
+
+Like consumers, the creators of the content you've just seen have the choice to work with us, or with one of our many competitors. We attract them to Netflix with more than just competitive terms and flexible deals, though those are very important. More importantly, we support their artistic vision and give them the tools and the means to bring that vision to life at the highest possible quality.
+
+
+It's why we've invested in production infrastructure like our ten state-of-the-art sound stages at our European production hub in Madrid. And it's why we've invested in technology innovation like the first worldwide cloud-based remote editing system. With connected, physical editing studios strategically colocated next to those sound stages. 
+
+
+This enables creators like Alex Pina, of La Casa de Papel, to walk off the set of Berlin- the latest show in the franchise - directly into an edit suite where he can work on shots in high resolution, with low latency, collaborating with editors from around the world, in real time, thanks to the cloud technology we've pioneered specifically for this purpose.
+
+
+It's why we also recently acquired Scanline, an award-winning studio that's been innovating in the visual effects space for years. And now they're hard at work developing new cutting-edge technologies to integrate into our shows and films - like a new innovation called "volumetric capture" that was used in our hit film The Gray Man. This allows creators to capture an actor's performance digitally, in 3D high resolution, giving filmmakers tremendous creative freedom and flexibility to tell their story in ways that they could not have done before.
+
+
+Now let's hear directly from some creators about their partnership with Netflix. 
+
+
+As we deepen our relationships with local creative communities, we're also investing more in the next generation of talent, including through our $100 million creative equity fund. As part of that, we're working with over 80 organisations across 100 projects in 35 countries, including the Cinémathèque in France, BAFTA in the UK and Academia del Cinema in Italy. And this is in addition to the €1.5 billion we will contribute in European cultural levies and investment obligations over the next three years. 
+
+
+Of course, our partnerships and investments also extend beyond our content and talent development to the underlying networks that connect our members to the stories they love. We are commercial partners with more than 160 telcos and ISPs across the globe - many of which bundle Netflix directly into their consumer offerings. Consumers love these joint offerings, which just shows the value we can create through collaboration.
+
+
+And we've spent over $1 billion on Open Connect, our own content delivery network which we offer for free to ISPs. This includes 18,000 servers with Netflix content distributed across 6,000 locations and 175 countries. So when our members press play, instead of the film or TV show being streamed from halfway around the world, it's streamed from around the corner - increasing efficiency for operators while also ensuring a high-quality, no-lag experience for consumers.
+
+
+On top of that, we've developed encoding technology to reduce file sizes and optimise bandwidth use while maintaining high video quality for consumers. Between 2015 and 2020, we've been able to cut our bit rates in half. This is in addition to the significant efficiency gains the telecom industry has been able to achieve within their own networks. 
+
+
+Some partners are concerned about rising traffic costs. We heard these concerns ten years ago too, but let's take a look at what has actually happened.
+
+
+In line with predictions, traffic has consistently increased at around 30 percent a year. Turns out, the internet is very popular. And ISPs have managed this increased consumer usage efficiently while their costs have remained stable. Regulators have highlighted this too, calling out that infrastructure costs are not sensitive to traffic and that growing consumption will be offset by efficiency gains.
+
+
+One of the reasons the internet is so popular is that consumers are free to choose the content they want to watch, when they want to watch it. We are leveraging the power of the internet to break down barriers between storytellers and fans around the world.  
+
+
+Less barriers mean more global sensations like Squid Game. With 1.6 billion hours viewed in its first month, this Korean drama unexpectedly became Netflix's biggest TV show ever. And it's not just a single title. Today, over 60 percent of our members have watched K-content on Netflix - titles like All of Us Are Dead, Extraordinary Attorney Wooand Physical:100. 
+
+
+And it's not just Korea. We've seen global hits come from Europe too. Lupinfrom France, Casa de Papeland Elitefrom Spain, The Crownfrom the UK, Trollfrom Norway and All Quiet on the Western Frontfrom Germany.
+
+
+As more broadcasters shift from linear to streaming, we want a system that encourages more investment in hits like these, whether they're on Netflix, France Television, Globo, Telecinco, the BBC, Disney+ or Viaplay. 
+
+
+Some of our ISP partners have proposed taxing entertainment companies to subsidise their network infrastructure. As Commissioner Breton said yesterday, it shouldn't be a binary choice between "Big Telco" and entertainment companies.
+
+
+Because this tax would have an adverse effect, reducing investment in content - hurting the creative community, hurting the attractiveness of higher-priced broadband packages, and ultimately hurting consumers. ISPs claim that these taxes would only apply to Netflix. But this will inevitably change over time as broadcasters shift from linear to streaming. 
+
+
+As you can see from this chart, in the US and the UK, Netflix accounts for under 10 percent of total TV time. In Brazil, Mexico and Poland that number is less than 4 percent. By comparison, traditional local broadcasters account for over half of all TV time. Sports, for example, accounts for a large amount of TV viewing. 
+
+
+As broadcasters continue the shift away from linear to streaming, they will start to generate significant amounts of internet traffic too - even more than streamers today based on the current scope and scale of their audiences. Broadband customers, who drive this increased usage, already pay for the development of the network through their subscription fees. Requiring entertainment companies - both streamers and broadcasters - to pay more on top would mean ISPs effectively charging twice for the same infrastructure. 
+
+
+As the consumer group BEUC has pointed out there is "no suggestion these levies would be passed onto consumers in the form of lower prices or better infrastructure". And it's worth noting that our operating margins are significantly lower than either British Telecom or Deutsche Telekom. So we could just as easily argue that network operators should compensate entertainment companies for the cost of our content - exactly as happened under the old pay-TV model. 
+
+
+But, we aren't asking for that. I believe the better approach is for entertainment companies and operators to focus on what we each do best - creating a rising tide that will lift all boats. 
+
+
+For Netflix, that means continuing to invest in and improve the quality and variety of the stories we offer. We started our original programming strategy about a decade ago. It's been a huge challenge to build a lifetime of entertainment in just ten years. 
+
+
+And while we've had our share of misses, we've managed to create a broad slate with many great series and films to suit every mood and taste. The best in reality with Selling Sunsetand Too Hot to Handle, hit TV dramas like Wednesday, High Waterfrom Poland, The Chestnut Manfrom Denmark, Alice in Borderlandfrom Japan, award-winning films like Don't Look Upand My Octopus Teacher, and popular movies like The Adam Project, Glass Onion: A Knives Out Mysteryand Sea Beast. 
+
+
+Over the next decade, we'll see increasing competition for people's attention and time. The road ahead will be a steep climb. But if we continue to focus on entertaining consumers, I am confident the results for all of us will be worth it. 
+
+
+And with that in mind, I will leave you with a never before seen clip of our upcoming documentary series about the Tour de France.
+
+
+Thank you. 
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Netflix Inc. published this content on 28 February 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 28 February 2023 17:52:56 UTC.
+      
+

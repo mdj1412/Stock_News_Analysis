@@ -1,0 +1,33 @@
+
+T-Mobile US, Inc. (NASDAQ: TMUS):
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230301005675/en/Speeds differ by location; typical download speeds on T-Mobile’s nationwide 5G network are 75 – 335 Mbps, with peaks over 1Gbps. (Graphic: Business Wire)
+What’s the news: T-Mobile has aggregated four channels of mid-band spectrum on its 5G standalone (5G SA) network with the Samsung Galaxy S23, working with Ericsson, Nokia, Qualcomm Technologies, Inc. and Samsung. The Un-carrier also expanded VoNR to four new cities: Cincinnati, OH; New Orleans, LA; New York, NY; and Seattle, WA.
+
+Why it matters: 5G SA is the future of wireless, delivering a whole new level of performance – faster speeds and lower latency (improved response times). 5G carrier aggregation allows T-Mobile to turbo-charge 5G SA speeds, giving T-Mobile customers a game-changing performance boost while VoNR ensures a seamless 5G SA connection.
+
+Who it’s for: T-Mobile 5G customers nationwide.
+
+The Un-carrier doesn’t stop at best. In a keynote at Mobile World Congress in Barcelona today, President of Technology Neville Ray explained how T-Mobile (NASDAQ: TMUS) is taking its nationwide 5G SA network — the only in the U.S. — to the next level. Ray announced that T-Mobile achieved the world’s first four-carrier aggregation data call on its 5G SA network with a commercial device, reaching speeds above 3.3 Gbps. Ray also unveiled the Un-carrier has deployed VoNR service in four additional cities and plans to cover 100 million people with VoNR in the coming months.
+
+“We are working with industry leaders around the globe to move the 5G ecosystem forward for the benefit of wireless customers everywhere,” said Neville Ray, President of Technology at T-Mobile. “With the most advanced 5G network in the world, T-Mobile is at the forefront of wireless innovation, spearheading new capabilities so we can continue raising the performance bar and enable future transformative applications that require a seamless and robust 5G connection.”
+
+Four-Carrier Aggregation
+
+5G carrier aggregation allows T-Mobile to combine multiple 5G channels (or carriers) to deliver greater speed and performance. In this test, the Un-carrier merged four 5G channels of mid-band spectrum – two channels of 2.5 GHz Ultra Capacity 5G and two channels of 1900 MHz spectrum – creating an effective 225 MHz 5G channel. That’s like taking four separate highways and turning them into a massive superhighway where traffic can zoom faster than before. Customers with the Samsung Galaxy S23 will be among the first to experience four-carrier aggregation later this year with more devices to follow.
+
+VoNR
+
+With VoNR, T-Mobile is moving voice traffic to 5G so customers stay consistently connected to 5G. In the near-term, customers connected to VoNR may notice slightly faster call set-up times, meaning less delay between the time they dial a number and when the phone starts ringing. But VoNR is about more than just a better calling experience. Most importantly, VoNR brings T-Mobile one step closer to truly unleashing its 5G SA network because it enables advanced capabilities like network slicing that rely on a continuous connection to a 5G core. Today VoNR is now live in six cities – Cincinnati, OH; New Orleans, LA; New York, NY; Portland, OR; Salt Lake City, UT; and Seattle, WA – and the Un-carrier will expand this technology to additional cities covering more than 100 million people in the coming months.
+
+T-Mobile is the leader in 5G, delivering the country’s largest, fastest and most reliable 5G network. The Un-carrier’s 5G network covers 325 million people across 1.9 million square miles – more than AT&T and Verizon combined. 265 million people nationwide are covered by T-Mobile’s super-fast Ultra Capacity 5G, and the Un-carrier plans to reach 300 million people with Ultra Capacity this year – nearly everyone in the country.
+
+For more information on T-Mobile’s network, visit: https://www.t-mobile.com/coverage/4g-lte-5g-networks.
+
+Follow T-Mobile’s Official Twitter Newsroom @TMobileNews to stay up-to-date with the latest company news.
+
+See 5G device, coverage, & access details at T-Mobile.com.
+
+About T-Mobile
+
+T-Mobile US, Inc. (NASDAQ: TMUS) is America’s supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile’s customers benefit from its unmatched combination of value and quality, unwavering obsession with offering them the best possible service experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond. Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile, Metro by T-Mobile and Sprint. For more information please visit: https://www.t-mobile.com
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230301005675/en/

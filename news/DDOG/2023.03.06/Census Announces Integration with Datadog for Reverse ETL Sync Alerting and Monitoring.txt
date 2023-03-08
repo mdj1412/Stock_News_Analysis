@@ -1,0 +1,17 @@
+
+Census, the leading Data Activation platform that syncs customer data from data warehouses to key business tools, today announced a new integration and partnership with Datadog (NASDAQ: DDOG), the monitoring and security platform for cloud applications. By adding Datadog monitoring, Census customers can track the health of real-time reverse ETL syncs using custom alerts and dashboards.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230306005141/en/Example of Datadog dashboard monitoring Census data synchronization. (Graphic: Business Wire)
+The Census Data Activation platform uses reverse ETL (extract, transform, load) to sync cloud data warehouses with business applications in real time. Sales, marketing, and success teams depend on high-quality data to execute customer outreach and personalization. Adding Datadog data quality and security monitoring enables users to guarantee the health of their business-critical data pipelines.
+
+The Census Datadog integration includes a recommended dashboard, now available in the Datadog Integration Marketplace. Users can get started with this dashboard to monitor successful and unsuccessful sync runs, as well as records processed to every destination. Users can also set up alerts to notify team members for faster incident response.
+
+While Census already provides custom alerting in its application, plus an entire suite of observability features, the new Datadog integration enables users to set up even more granular monitoring customized to their business needs. Datadog serves as the central hub of data monitoring and alerting across an organization’s data stack.
+
+“Your real-time data powers real-time customer interactions, so you need reliable data pipelines,” said Jeff Sloan, Product Manager at Census. “By using Datadog to monitor Census syncs, users can add another layer of reliability and visibility to data activation flows. Using Datadog in addition to Census observability tools is the best way to head off surprises and prevent data issues before they become problems.”
+
+For more information about Census support for Datadog, read the announcement here.
+
+About Census
+
+Census turns data warehouses into a hub for marketing and business operations, empowering everyone with trustworthy and actionable data from a single source of truth. With its Data Activation platform, powered by reverse ETL (extract, transfer, and load), data teams can validate and publish analytics directly into all their applications in real time. Hundreds of companies like Canva, Figma, Loom, and Notion use Census to sync billions of records to empower their customer success, sales, and marketing teams. Census is backed by Andreessen Horowitz, Insight Partners, Sequoia, and Tiger Global. For more information, visit www.getcensus.com or follow @census on Twitter.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230306005141/en/

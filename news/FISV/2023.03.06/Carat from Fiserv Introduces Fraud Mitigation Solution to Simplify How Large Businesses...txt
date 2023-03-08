@@ -1,0 +1,27 @@
+
+Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, today introduced a new fraud mitigation solution designed to simplify how large enterprises manage omnichannel risk. Accessible through the Carat global commerce platform, the modular solution empowers merchants with controls that can be customized based on a firm’s risk appetite, along with simplified access to transaction scoring, chargeback management and other capabilities.
+
+Fiserv is debuting Fraud Mitigation this week at the Merchant Risk Council (MRC) in Las Vegas, March 6-9 (Booth #631).
+
+While online fraud continues to proliferate, as evidenced by an estimated $41 billion lost to ecommerce fraud in 2022, it may be surprising that only 27% of merchants say reducing fraud losses is guiding their fraud mitigation philosophy. Instead, merchants indicate they are focused on maximizing sales, minimizing user friction, reducing false declines, or balancing sales with fraud losses.
+
+“As omnichannel fraud becomes more sophisticated, businesses are trying to strike a balance between reducing risk and driving revenue – whether that is by maximizing authorizations, limiting false declines, or preserving consumer trust,” said Jason Paguandas, Vice President and GM of Merchant Fraud at Fiserv. “By providing businesses with a highly configurable and scalable solution, merchants can align fraud controls to their business strategy and easily augment their tech stack without integrating to additional vendors.”
+
+The modular solution simplifies how businesses manage risk via:
+
+Data Advantages in Fraud Prevention
+
+The rules-based engine powering Fraud Mitigation is augmented by acquiring, card, network, and issuer data from Fiserv – providing a horizontal viewpoint across payment activity. These highly differentiated data sets are ingested by machine learning tools to improve decisions and provide optimal outcomes, such as improved authorization rates and a reduction in false declines, for ecommerce transactions.
+
+“Card not present transactions have historically been challenging from a fraud mitigation perspective, as very limited data passes through the authorization stream from the merchant to the issuer,” said Julie Conroy, Head of Risk Insights and Advisory at Aite Novarica. “Augmenting decisioning with a wide variety of data sources can significantly strengthen the customer risk profile, especially when a business is able to connect merchant and issuer data.”
+
+Fraud Mitigation is part of Carat, the global commerce platform from Fiserv that orchestrates payments and experiences for the world’s largest businesses. With Carat, leading brands can unify their commerce, optimize transactions, and imagine and realize new ways to engage with customers.
+
+Learn more at carat.fiserv.com.
+
+About Fiserv
+
+Fiserv, Inc. (NASDAQ: FISV) aspires to move money and information in a way that moves the world. As a global leader in payments and financial technology, the company helps clients achieve best-in-class results through a commitment to innovation and excellence in areas including account processing and digital banking solutions; card issuer processing and network services; payments; e-commerce; merchant acquiring and processing; and the Clover® cloud-based point-of-sale and business management platform. Fiserv is a member of the S&P 500® Index and one of Fortune® World’s Most Admired Companies™. Visit fiserv.com and follow on social media for more information and the latest company news.
+
+FISV-G
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230306005301/en/

@@ -1,0 +1,386 @@
+
+
+
+UPDATEMarch 2, 2023
+
+
+
+          Preliminary findings from the Apple Women's Health Study help advance the conversation and science around menstrual cycles
+        
+
+
+        Moving menstrual health forward with iPhone and Apple Watch
+      
+
+
+
+        Ahead of International Women's Day, new preliminary findings from the Apple Women's Health Study underscore the importance of paying attention to menstrual cycles and their connection to overall health.
+      
+
+        Many physicians consider periods a vital sign, but this area of health is notably under-researched. The Apple Women's Health Study is a first-of-its-kind research study conducted with the Harvard T.H. Chan School of Public Health and the National Institute of Environmental Health Sciences (NIEHS) that aims to advance the understanding of menstrual cycles and how they relate to various health conditions such as polycystic ovary syndrome (PCOS), infertility, and menopausal transition. The study is significant in its scope and scale because it invites anyone who has ever menstruated across the US to contribute to this research simply by using their iPhone.
+
+
+
+
+New Preliminary Findings 
+
+
+        Harvard Chan School researchers used survey data from the Apple Women's Health Study to advance the scientific understanding around the relationship between persistently abnormal periods, PCOS, and endometrial hyperplasia and cancer. Looking at a preliminary analysis cohort of over 50,000 study participants, the study team found:
+      
+
+
+
+            12 percent of participants reported a PCOS diagnosis. Participants with PCOS had more than four times the risk of endometrial hyperplasia (precancer of the uterus) and more than 2.5 times the risk of uterine cancer.
+          
+
+
+
+
+            5.7 percent of participants reported their cycles taking five or more years to reach cycle regularity after their first period. Participants in that group had more than twice the risk of endometrial hyperplasia and more than 3.5 times the risk of uterine cancer, compared to those who reported their cycles took less than one year to reach regularity.
+          
+
+
+
+        These updates are a first step for helping people understand risk factors for these diseases, and encouraging people to have conversations with their healthcare providers about cycle irregularity earlier. 
+      
+
+        "More awareness on menstrual cycle physiology and the impact of irregular periods and PCOS on uterine health is needed," said Dr. Shruthi Mahalingaiah, MS, Harvard Chan School's assistant professor of Environmental Reproductive and Women's Health and co-principal investigator of the Apple Women's Health Study. "This analysis highlights the importance of talking to a healthcare provider when menstruators are experiencing persistent changes to their period that span many months. Over time, we hope our research can lead to new strategies to reduce disease risk and improve health across the lifespan."
+      
+
+        The study team will conduct further analyses on this preliminary data for scientific publication.
+      
+
+
+      Cycle Tracking on Apple Watch and in the Health app on iPhone can help users have more informed conversations with their providers.
+    
+
+
+        Previous Interim Updates
+      
+
+        The Apple Women's Health Study team has previously shared a number of other interim research updates that highlight how large-scale, longitudinal research on menstruation can help advance the science around this topic.
+      
+
+
+
+            Research published in the American Journal of Obstetrics and Gynecology focuses on cycle deviations, like irregular or prolonged periods, which can be a sign of underlying conditions including PCOS, fibroids, malignancies, or infections. The study found cycle deviations were found in 16.4 percent of the study population. Black participants had a 33 percent higher prevalence of infrequent periods compared to white, non-Hispanic participants, while Asian participants had a higher prevalence of irregular periods.
+          
+
+
+
+
+
+            Demonstrating just how common menstrual symptoms really are, researchers found the most frequently tracked symptoms were abdominal cramps, bloating, and tiredness, all of which were experienced by more than 60 percent of participants who logged symptoms. More than half of the participants who logged symptoms reported acne and headaches. Some less widely recognized symptoms, like diarrhea and sleep changes, were also tracked by 37 percent of participants logging symptoms.
+          
+
+
+
+
+
+            After analyzing over 125,000 menstrual cycles, researchers found that participants experienced slightly longer menstrual cycles for cycles in which they received a COVID-19 vaccine, but participants' cycles typically returned to prevaccination lengths the cycle after getting a vaccine.
+          
+
+
+
+        The Apple Women's Health Study invites anyone who has ever menstruated across the US to contribute to scientific research by enrolling via the Apple Research app. The study enables participants to share their cycle tracking data, along with other health data from iPhone, and Apple Watch if they have one. Participants can also provide a more well-rounded set of information about their personal and family history and lifestyle through occasional surveys. The Research app helps the study reach individuals across various stages of their life, varying races, and across the US. Participants control the data types shared with the study, with transparency into how the data will be used for the purposes of the study.
+      
+
+
+      Anyone who has ever menstruated across the US can download the Apple Research app to enroll in the Apple Women's Health Study, which helps the study reach individuals across various stages of their life, of varying races, and in multiple locations.
+    
+
+
+Cycle Tracking on iPhone and Apple Watch
+
+
+        Cycle Tracking is available in the Health app on iPhone or the Cycle Tracking app on Apple Watch, allowing users to track their menstrual cycle along with details like symptoms or ovulation test results. Cycle Tracking uses information users have logged for previous periods and cycle length, plus heart rate data from Apple Watch, to offer period and fertile window predictions. Users can turn on notifications to tell them when their next period or fertile window is approaching.
+      
+
+        With iOS 16 and watchOS 9, Cycle Tracking can inform users if their logged cycle history from the previous six months shows a pattern of irregular periods, infrequent periods, prolonged periods, or persistent spotting. It's important to know when these patterns occur, as they may be a sign of an underlying health condition. Users are also able to learn about the Cycle Deviation detected, and export the last 12 months of their cycle history as a PDF to share with their provider.
+      
+
+
+      Cycle Tracking - available in the Health app on iPhone and in the Cycle Tracking app on Apple Watch - allows users to conveniently track their menstrual cycle and receive period and fertile window predictions, with the same strong privacy protections as with all other health data.
+    
+
+      Additionally, the new temperature-sensing capabilities in Apple Watch Series 8 and Apple Watch Ultra allow users to receive retrospective ovulation estimates. New sensors gather overnight wrist temperature data that can be used to estimate the likely day of ovulation after it has occurred and improve period predictions. Knowing when ovulation has occurred can be helpful for family planning, and users can view these estimates in the Health app.
+    
+
+
+
+The Wrist Temperature chart displayed on iPhone and estimated ovulation on Apple Watch Series 8.
+
+
+The Cycle Tracking log on iPhone with estimated ovulation on Apple Watch Series 8.
+
+
+
+
+          New temperature sensors in Apple Watch Series 8 and Apple Watch Ultra gather overnight wrist temperature data that can be used to estimate the likely day of ovulation after it has occurred, which can be helpful for family planning.
+        
+
+          New temperature sensors in Apple Watch Series 8 and Apple Watch Ultra gather overnight wrist temperature data that can be used to estimate the likely day of ovulation after it has occurred, which can be helpful for family planning.
+        
+
+
+
+previous
+
+
+next
+
+
+
+
+      Privacy is fundamental in the design and development across all of Apple's features. When a user's iPhone is locked with a passcode, Touch ID, or Face ID, all of their health and fitness data in the Health app - other than Medical ID - is encrypted. Any Health data backed up to iCloud is encrypted both in transit and on Apple servers. When using iOS and watchOS with the default two-factor authentication and a passcode, Health app data synced to iCloud is encrypted end-to-end, meaning that Apple does not have the key to decrypt the data and therefore cannot read it.
+    
+
+      Share article
+    
+
+
+
+
+
+              Text of this article
+            
+
+
+
+                  March 2, 2023
+                
+
+                  UPDATE
+                
+
+                  Preliminary findings from the Apple Women's Health Study help advance the conversation and science around menstrual cycles
+                
+
+                  Moving menstrual health forward with iPhone and Apple Watch
+                
+
+                  Ahead of International Women's Day, new preliminary findings from the Apple Women's Health Study underscore the importance of paying attention to menstrual cycles and their connection to overall health.
+                
+
+                  Many physicians consider periods a vital sign, but this area of health is notably under-researched. The Apple Women's Health Study is a first-of-its-kind research study conducted with the Harvard T.H. Chan School of Public Health and the National Institute of Environmental Health Sciences (NIEHS) that aims to advance the understanding of menstrual cycles and how they relate to various health conditions such as polycystic ovary syndrome (PCOS), infertility, and menopausal transition. The study is significant in its scope and scale because it invites anyone who has ever menstruated across the US to contribute to this research simply by using their iPhone.
+
+
+New Preliminary Findings 
+
+
+                  Harvard Chan School researchers used survey data from the Apple Women's Health Study to advance the scientific understanding around the relationship between persistently abnormal periods, PCOS, and endometrial hyperplasia and cancer. Looking at a preliminary analysis cohort of over 50,000 study participants, the study team found:
+                
+
+
+                    12 percent of participants reported a PCOS diagnosis. Participants with PCOS had more than four times the risk of endometrial hyperplasia (precancer of the uterus) and more than 2.5 times the risk of uterine cancer.
+                  
+
+
+
+
+                    5.7 percent of participants reported their cycles taking five or more years to reach cycle regularity after their first period. Participants in that group had more than twice the risk of endometrial hyperplasia and more than 3.5 times the risk of uterine cancer, compared to those who reported their cycles took less than one year to reach regularity.
+                  
+
+
+                  These updates are a first step for helping people understand risk factors for these diseases, and encouraging people to have conversations with their healthcare providers about cycle irregularity earlier. 
+                
+
+                  "More awareness on menstrual cycle physiology and the impact of irregular periods and PCOS on uterine health is needed," said Dr. Shruthi Mahalingaiah, MS, Harvard Chan School's assistant professor of Environmental Reproductive and Women's Health and co-principal investigator of the Apple Women's Health Study. "This analysis highlights the importance of talking to a healthcare provider when menstruators are experiencing persistent changes to their period that span many months. Over time, we hope our research can lead to new strategies to reduce disease risk and improve health across the lifespan."
+                
+
+                  The study team will conduct further analyses on this preliminary data for scientific publication.
+                
+
+                  Previous Interim Updates
+                
+
+                  The Apple Women's Health Study team has previously shared a number of other interim research updates that highlight how large-scale, longitudinal research on menstruation can help advance the science around this topic.
+                
+
+
+                    Research published in the American Journal of Obstetrics and Gynecology focuses on cycle deviations, like irregular or prolonged periods, which can be a sign of underlying conditions including PCOS, fibroids, malignancies, or infections. The study found cycle deviations were found in 16.4 percent of the study population. Black participants had a 33 percent higher prevalence of infrequent periods compared to white, non-Hispanic participants, while Asian participants had a higher prevalence of irregular periods.
+                  
+
+
+
+                    Demonstrating just how common menstrual symptoms really are, researchers found the most frequently tracked symptoms were abdominal cramps, bloating, and tiredness, all of which were experienced by more than 60 percent of participants who logged symptoms. More than half of the participants who logged symptoms reported acne and headaches. Some less widely recognized symptoms, like diarrhea and sleep changes, were also tracked by 37 percent of participants logging symptoms.
+                  
+
+
+
+                    After analyzing over 125,000 menstrual cycles, researchers found that participants experienced slightly longer menstrual cycles for cycles in which they received a COVID-19 vaccine, but participants' cycles typically returned to prevaccination lengths the cycle after getting a vaccine.
+                  
+
+
+                  The Apple Women's Health Study invites anyone who has ever menstruated across the US to contribute to scientific research by enrolling via the Apple Research app. The study enables participants to share their cycle tracking data, along with other health data from iPhone, and Apple Watch if they have one. Participants can also provide a more well-rounded set of information about their personal and family history and lifestyle through occasional surveys. The Research app helps the study reach individuals across various stages of their life, varying races, and across the US. Participants control the data types shared with the study, with transparency into how the data will be used for the purposes of the study.
+                
+
+Cycle Tracking on iPhone and Apple Watch
+
+
+                  Cycle Tracking is available in the Health app on iPhone or the Cycle Tracking app on Apple Watch, allowing users to track their menstrual cycle along with details like symptoms or ovulation test results. Cycle Tracking uses information users have logged for previous periods and cycle length, plus heart rate data from Apple Watch, to offer period and fertile window predictions. Users can turn on notifications to tell them when their next period or fertile window is approaching.
+                
+
+                  With iOS 16 and watchOS 9, Cycle Tracking can inform users if their logged cycle history from the previous six months shows a pattern of irregular periods, infrequent periods, prolonged periods, or persistent spotting. It's important to know when these patterns occur, as they may be a sign of an underlying health condition. Users are also able to learn about the Cycle Deviation detected, and export the last 12 months of their cycle history as a PDF to share with their provider.
+                
+
+                  Additionally, the new temperature-sensing capabilities in Apple Watch Series 8 and Apple Watch Ultra allow users to receive retrospective ovulation estimates. New sensors gather overnight wrist temperature data that can be used to estimate the likely day of ovulation after it has occurred and improve period predictions. Knowing when ovulation has occurred can be helpful for family planning, and users can view these estimates in the Health app.
+                
+
+                  Privacy is fundamental in the design and development across all of Apple's features. When a user's iPhone is locked with a passcode, Touch ID, or Face ID, all of their health and fitness data in the Health app - other than Medical ID - is encrypted. Any Health data backed up to iCloud is encrypted both in transit and on Apple servers. When using iOS and watchOS with the default two-factor authentication and a passcode, Health app data synced to iCloud is encrypted end-to-end, meaning that Apple does not have the key to decrypt the data and therefore cannot read it.
+                
+
+                  Press Contacts
+                
+
+                  Clare Varellas
+                
+
+                  Apple
+                
+
+                  cvarellas@apple.com
+                
+
+                  (408) 862-7311
+                
+
+                  Zaina Khachadourian
+                
+
+                  Apple
+                
+
+                  zkhachadourian@apple.com
+                
+
+                  (408) 862-4327
+                
+
+                  Apple Media Helpline
+                
+
+                  media.help@apple.com
+                
+
+                  (408) 974-2042
+                
+
+Copy text
+
+
+
+
+
+
+              Images in this article
+            
+
+Download all images
+
+
+
+
+
+
+
+        Press Contacts
+      
+
+
+
+            Clare Varellas
+          
+
+            Apple
+          
+
+            cvarellas@apple.com
+          
+
+            (408) 862-7311
+          
+
+
+
+            Zaina Khachadourian
+          
+
+            Apple
+          
+
+            zkhachadourian@apple.com
+          
+
+            (408) 862-4327
+          
+
+
+
+            Apple Media Helpline
+          
+
+            media.help@apple.com
+          
+
+            (408) 974-2042
+          
+
+
+
+
+
+        Latest News
+      
+
+
+UPDATE
+
+
+With Apple Watch, researchers explore new frontiers in heart health
+
+
+February 21, 2023
+
+
+
+
+FEATURE
+
+
+McIntosh S.E.E.D. preserves land and legacy with Black landowners in the US South
+
+
+February 15, 2023
+
+
+
+
+PRESS RELEASE
+
+
+Apple reports first quarter results
+
+
+February 2, 2023
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Apple Inc. published this content on 02 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 02 March 2023 14:11:07 UTC.
+      
+

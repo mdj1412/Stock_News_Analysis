@@ -1,0 +1,41 @@
+
+Five project teams led by Exelon (Nasdaq: EXC) engineers and innovators have been selected to receive Electric Power Research Institute’s (EPRI) 2022 Technology Transfer Awards, which recognize leaders and innovators who have applied EPRI research to help transform the future of energy and create a cleaner and brighter future for customers and communities.
+
+This year, Exelon teams won five of 21 awards in the Power Delivery and Utilization sector – a significant achievement. From unmanned night aircraft for storm response to an automated tool for complex distribution planning, the teams’ innovative thinking is helping Exelon lead the energy transformation.
+
+“Congratulations to these outstanding teams for their dedication and leadership in their collaboration with EPRI,” said Sunny Elebua, senior vice president and Chief Strategy and Sustainability Officer of Exelon. “Their hard work and ingenuity reflect Exelon’s culture of innovation and help to prove the value of collaborative research in creating a more sustainable, efficient, affordable and reliable grid for our customers and communities.”
+
+The Exelon award winners, who were honored at a virtual celebration last week, have shown exceptional application of research and technology in solving a problem of size and significance, championing a technology both within their companies and across the industry, driving progress in the electricity sector, and providing meaningful benefits for their companies’ stakeholders and for society, EPRI said.
+
+“It’s great to see Exelon take a leadership role in applying research to integrate emerging resources and leverage new technologies to increase grid reliability and resiliency,” said Daniel Brooks, vice president of Integrated Grid and Energy Systems at EPRI. “The relationship between EPRI and Exelon is a true collaborative effort, and we congratulate everyone involved in these efforts.”
+
+In 2023, the Power Delivery and Utilization sector received more than 84 nominations, 21 of which were recognized with awards.
+
+Exelon’s winners are:
+
+Unmanned Aircraft Systems for Storm Response
+
+Exelon and PECO collaborated with EPRI to enhance the effectiveness of unmanned aircraft systems (UAS) night inspections to assess storm damage. After testing several methods, they found that real-time video taken in both infrared and visible light allowed for faster damage assessment, better work planning and quicker restoration times.
+
+Business Capability Model Development for IT-OT Investment Alignment
+
+Exelon collaborated with EPRI, Ameren, ConEdison, National Grid, New York Power Authority, PNM Resources and Salt River Project to apply and refine the business capability model on their own strategic initiatives, including customer experience, asset management and the utility of the future, to create a publicly available industry resource. EPRI plans to use this model to support their research and enterprise-level initiatives across the industry in the U.S., European Union and Australia.
+
+Modernize Distribution Planning Using Automated Processes and Tools Automated Distribution Assessment & Planning Tools (ADAPT)
+
+Exelon and BGE, Ameren, Arizona Public Service, Consumers Energy, Dominion Energy, FirstEnergy, KEPCO, Knoxville Utility Board, LG&E/KU, Southern Company and the Tennessee Valley Authority partnered with EPRI to develop an industry-leading automated tool that can be used by utilities to evaluate complex distribution planning assessments.
+
+Model-based Analysis of DER Functions and Settings
+
+Exelon, Duke Energy, FirstEnergy, Xcel Energy, Entergy, Orange and Rockland, and Salt River Project collaborated with EPRI to analyze the technical impacts and benefits of the advanced functions made available with Smart Inverters. Using these findings, they developed a set of guidelines that will improve overall DER performance and drive stakeholder satisfaction, operational performance and support compliance of utility clean energy goals.
+
+Recloser Testing and Failure Analysis to Inform Deployment Decisions
+
+Exelon and PECO, Arizona Public Service, Dominion Energy and United Illuminating - Avangrid partnered with EPRI to perform lab tests on reclosing equipment, allowing them to identify the best reclosers to install for grid modernization efforts.
+
+Learn more about the EPRI awards and projects here.
+
+About Exelon
+
+Exelon (Nasdaq: EXC) is a Fortune 200 company and the nation’s largest energy delivery company, serving more than 10 million customers through six fully regulated transmission and distribution utilities — Atlantic City Electric (ACE), Baltimore Gas and Electric (BGE), Commonwealth Edison (ComEd), Delmarva Power & Light (DPL), PECO Energy Company (PECO), and Potomac Electric Power Company (Pepco). More than 18,000 Exelon employees dedicate their time and expertise to powering a cleaner and brighter future for our customers and communities through reliable, affordable and efficient energy delivery, workforce development, equity, economic development and volunteerism. Follow Exelon on Twitter @Exelon.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230228005664/en/
