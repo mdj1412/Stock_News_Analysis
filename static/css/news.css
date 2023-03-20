@@ -112,13 +112,22 @@
 
 /* id : "#" */
 #model {
+    /*
+        [ text-align 태그 ]
+        텍스트의 정렬 방향을 설정
+
+        left: 왼쪽 정렬
+        right: 오른쪽 정렬
+        center: 중앙 정렬
+        justify: 양쪽 정렬 (자동 줄바꿈시 오른쪽 경계선 부분 정리)
+    */
     text-align: center;
 }
 
 /* id : "#" */
 #text-input {
     width: calc(100% / 2); /* 속성의 요소 너비 */
-    height: 78px;
+    height: 78px; /* 속성의 요소의 높이를 지정 */
     word-break: break-all;
 }
 

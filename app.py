@@ -29,48 +29,18 @@ demo_dic = get_list()
 ##### Home #####
 @app.route('/')
 def home_page():
-    example_embed = 'This website analyzes stock market news and provides answers to questions related to news articles.'
-    return render_template('index.html', embed=example_embed)# html을 불러올 때,
+    website_description_box = 'This website analyzes stock market news and provides answers to questions related to news articles.'
+    return render_template('index.html', embed=website_description_box)# html을 불러올 때,
 
 
 
 ##### Data fetch #####
-@app.route('/submit', methods=['GET', 'POST'])
-def submit():
-    input_text = request.args.get('input_text')
-    return jsonify(result={"output":"My output is a summary of: "+input_text})
-
-
-
-
-@app.route('/model', methods=['GET', 'POST'])
-def model():
-    print("\t\t Start model !!!")
-
-    # Javascript 에서 받은 메시지
-    text_input = request.args.get('text_input')
-
-    print(f"Fetch from Javascript /inference, text_input : {text_input}")
-
-    # modules/reference.py 에서 모델 적용
-    output = Tk_instruct(text_input)
-    
-    text_output = {"text_output": output}
-    print(f"Fetch from Javascript /inference, text_output : {text_output}")
-    return jsonify(result=text_output)
-
-
-
 
 # Show Ticker's Table
 @app.route('/stocks', methods=['GET', 'POST'])
 def stocks():
     result = demo_dic.to_dict() # dictionary 형태로 변환
     return jsonify(result=result)
-
-
-
-
 
 
 
@@ -86,12 +56,12 @@ ticker_dic = dict.fromkeys(demo_dic.ticker, []) # ticker1: [{날짜1: [제목1, 
 
 dir = './news'
 if not os.path.exists(dir):
-    raise NotImplementedError("Not exists News Data")# 오류 강제 발생
+    raise NotImplementedError("Not exists News Data") # 오류 강제 발생
 
 # News Data List 가져오기
 for key in os.listdir(dir):
     if key not in ticker_dic.keys():
-        raise NotImplementedError("Not exists Ticker")# 오류 강제 발생
+        raise NotImplementedError("Not exists Ticker") # 오류 강제 발생
 
     dir2 = os.path.join(dir, key)
     ticker_dic[key] = dict.fromkeys(os.listdir(dir2), []) # 날짜1: [제목1, 제목2, ...]
@@ -106,17 +76,6 @@ for key in os.listdir(dir):
         else:
             ticker_dic[key].pop(date)
 
-
-# from IPython import embed; embed()
-
-
-
-# Show Ticker's Title
-@app.route('/<ticker>', methods=['GET', 'POST'])
-def ticker(ticker):
-    example_embed = "%s Chart" % (ticker)
-
-    return render_template('chart.html', embed=example_embed)
 
 
 # Show Ticker's Data
@@ -133,32 +92,28 @@ def chart():
     # 날짜 형식 바꾸기
     chart_data.index = [k.strftime("%Y-%m-%d") for k in chart_data.index]
 
-    result = chart_data.to_dict()
-    return jsonify(result=result)
+    chart_data = chart_data.to_dict()
 
 
-@app.route('/news', methods=['GET', 'POST'])
-def news():
-    print("Start /news ")
-
-    # Javascript 에서 받은 메시지
-    ticker = request.args.get('ticker')
+    ################
 
     news_dir = os.path.join('./news', ticker)
 
     # 해당 Ticker의 날짜별 뉴스 제목을 가져온다.
-    result = {}
+    article_news_dict = {}
     for key in os.listdir(news_dir):
         title_list = os.listdir(os.path.join(news_dir, key))
         if len(title_list) != 0:
-            result[key] = os.listdir(os.path.join(news_dir, key))
+            article_news_dict[key] = os.listdir(os.path.join(news_dir, key))
 
     # 최근 뉴스부터 보이게 (정렬)
-    sorted_result = {}
-    for key, value in sorted(result.items(), reverse=True):
-        sorted_result[key] = value
+    news_articles = {}
+    for key, value in sorted(article_news_dict.items(), reverse=True):
+        news_articles[key] = value
 
-    return jsonify(result=sorted_result)
+
+    return jsonify(chart_data=chart_data, news_articles=news_articles)
+
     
 
 
@@ -218,8 +173,10 @@ def ticker_title():
     example_embed3 = "Title: %s" % (title)
     example_embed4 = url
 
-
-    return render_template('news_analysis.html', embed1=example_embed1, embed2=example_embed2, embed3=example_embed3, embed4=example_embed4)
+    return '''
+    newsInit(example_embed1, example_embed2, example_embed3, example_embed4)
+    '''
+    # return render_template('news.html', embed1=example_embed1, embed2=example_embed2, embed3=example_embed3, embed4=example_embed4)
 
 
 

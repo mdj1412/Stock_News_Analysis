@@ -54,7 +54,7 @@ function newsInit() {
     //////////////////////////////////////////////////////////////////////
     // NER 관련
 
-    ents = sendAjax_async('/ner', {'ticker': ticker, 'date': date, 'title': title}, dataType="json", handle=handleReturn);
+    ents = sendAjax_sync('/ner', {'ticker': ticker, 'date': date, 'title': title}, dataType="json", handle=handle_one_return);
     // ents = {'text': [], 'start_char': [], 'end_char': [], 'label_': [], 'news': []}
     console.log(ents);
 
@@ -81,7 +81,7 @@ function newsInit() {
 
         news_ner.innerHTML = news_ner.innerHTML + news.substring(start_idx, end_idx);
         news_ner.innerHTML = news_ner.innerHTML + '<mark class=' + class_name
-            + ' style="margin: 0 0.25em; line-height: 1;">'
+            + ' style="line-height: 1;">'
             + news.substring(end_idx, last_idx) 
             + '<span class="show-label" style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">'
             + label + '</span></mark>';
@@ -159,6 +159,7 @@ function newsInit() {
 
         // html -> javascript : input 받아와서 output 보내기
         const textInput = document.getElementById('text-input');
+        console.log("element : ", textInput);
         const textParagraph = document.querySelector('.text-output');
 
         console.log("textInput : ", textInput, textInput.value);
@@ -176,79 +177,6 @@ function newsInit() {
             console.error(err);
         }
     });
-
-
-
-
-
-
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-/**
- * 
- * @param {string} url from javascript to flask(python) with route
- * @param {dictionary} data from javascript to flask(python) with data
- * @param {function} handle 큰 의미 없음
- */
-function sendAjax(url, data, handle) {
-    /*
-        jQuery.getJSON(url, [, data], [, success])
-
-        Load JSON-encoded data from the server using a GET HTTP request.
-    */
-
-    $.getJSON(url, data, 
-        function(response) {
-            handle(response.result);
-        });
-}
-
-
-/**
- * 
- * @param {string} url from javascript to flask(python) with route
- * @param {dictionary} data from javascript to flask(python) with data
- * @param {string} dataType The type of data that you're expecting back from the server. (ex. "json")
- * @param {function} handle 큰 의미 없음
- * @returns from flask(python) to javascript with data
- */
-function sendAjax_async(url, data, dataType, handle) {
-    /*
-        jQuery.ajax(url, [, settings])
-
-        jQuery.getJSON => Asynchronous (비동기식)
-        
-        Synchronous => 동기식 : 코드 순서대로 진행
-    */
-
-    var search_var;
-    console.log("Internal : sendAjax async");
-
-    $.ajax(url=url, settings={data: data, dataType: dataType, async: false,
-        success: function(response) {
-            console.log("Success : ", typeof response);
-            search_var = handle(response.result); // handle, 큰 의미 없음
-        }
-    });
-    
-    return search_var
-}
-
-
-
-function handleReturn(output) {
-    return output;
-}
