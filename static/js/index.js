@@ -137,9 +137,6 @@ function chartInit(ticker) {
 
     // Javascript -> Flask (Python) -> Javascript
     let [chart_data, news_articles] = sendAjax_sync_about_chartData_and_newsArticles("/chart", {"ticker": ticker}, "json", handle_two_return);
-    // console.log(chart_data, news_articles);
-    // console.log(chart_data);
-    // console.log(Object.keys(chart_data.Close));
 
 
     // x축과 data 설정
@@ -178,8 +175,8 @@ function chartInit(ticker) {
     // Javascript를 이용해 HTML에 동적으로 태그 추가
 
     // a 태그 onclick 적용
-    execution_function = String('javascript:chartInit(\''.concat(ticker, '\');'));
-    const goTicker = document.querySelector('.goticker');
+    var execution_function = `javascript:chartInit('${ticker}')`;
+    const goTicker = document.querySelector('#chart-container .goticker');
     goTicker.setAttribute('href', execution_function);
 
     //////////////////////////////////////////////////////////////////
@@ -235,15 +232,23 @@ function chartInit(ticker) {
     }
     // console.log(key_list);
 
+
+
+
+
+
+    var link_list_idx = 0;
+
     // List 안의 value를 뽑을 때, (Python) => for item in list:
     Object.keys(sorted_news).forEach(key => {
-        var idx = key_list.indexOf(String(key));
+        var date_idx_in_key_list = key_list.indexOf(String(key));
+        // console.log(key, key_list, date_idx_in_key_list);
 
-        if (idx != -1) { var diff = ((open_list[idx]-close_list[idx-1])/(open_list[idx]) * 100.0).toFixed(2); }
+        if (date_idx_in_key_list != -1) { var diff = ((open_list[date_idx_in_key_list]-close_list[date_idx_in_key_list-1])/(open_list[date_idx_in_key_list]) * 100.0).toFixed(2); }
         else { var diff = '.'; }
 
         if (diff == '.') {
-            var diff_html = '<th class="news diff">' + diff + '</th>';
+            var diff_html = '<th class="news diff">0.0 %</th>';
         }
         else if (diff > 0) {
             var diff_html = '<th class="news diff up">+' + diff + ' %</th>';
@@ -251,12 +256,11 @@ function chartInit(ticker) {
         else {
             var diff_html = '<th class="news diff down">' + diff + ' %</th>';
         }
-        var html = '<tr align="center" bgcolor="white"><th>+</th><th>' + key + '</th>' + diff_html + '<td style="text-align: left;">';
+        var html = `<tr align="center" bgcolor="white"><th>+</th><th>${key}</th>${diff_html}<td style="text-align: left;">`;
 
         for (var i = 0; i < sorted_news[key].length; i++) {
             var title = sorted_news[key][i].substring(0, sorted_news[key][i].length-4);
             var sendTitle = title; // Javascript -> Python 보내기 위한 title
-            console.log("title : ", title);
 
             
             // title에서 & 표시가 있을 수 있음.
@@ -274,26 +278,43 @@ function chartInit(ticker) {
                 // console.log(sendTitle);
                 andSymbolInTitle.push(idx + andSymbolInTitle.length);
             }
-            // console.log("title : ", title);
-            // console.log("sendTitle : ", sendTitle);
-            // console.log("andSymbolInTitle : ", andSymbolInTitle);
 
-            var link = String('"/info?ticker='.concat(ticker, '&date=', key, '&title=', sendTitle, '&andSymbolInTitle=', andSymbolInTitle, '"'));
+
+            var link = String(`/info_and_newsNER?ticker=${ticker}&date=${key}&title=${sendTitle}&andSymbolInTitle=${andSymbolInTitle}`);
             // console.log(link);
-            
-            var execution_function = String(`javascript:newsInit(\'${ticker}\',\'${key}\',\'${sendTitle}\',\'${andSymbolInTitle}\');`);
+            linkList.push(link);
+
+            var execution_function = String(`javascript:getData(linkList[${link_list_idx}]);`);
             // console.log("execution_function : ", execution_function);
-            html = html + '<a href=' + link + '>' + title + '</a><br>';
+            html = html + '<a href="' + execution_function + '">' + title + '</a><br>';
+            link_list_idx = link_list_idx + 1;
         }
         html = html + '</td>';
-
         news_table.innerHTML = news_table.innerHTML + html;
     });
 }
 
 
 
+linkList = [];
+async function getData(link) {
+    try {
+        console.log("link : ", link);
 
+        await $.getJSON(link, function(data)
+        {
+            console.log("ticker : ", data.ticker);
+            console.log("date : ", data.date);
+            console.log("title : ", data.title);
+            console.log("url : ", data.url);
+            console.log("ents : ", data.ents);
+    
+            newsInit(data.ticker, data.date, data.title, data.url, data.ents);
+        });
+    } catch (error) {
+        console.log("Error : ", error);
+    }
+}
 
 
 
@@ -311,23 +332,16 @@ function chartInit(ticker) {
  * 
  * 
  */
-function newsInit(ticker1, date1, title1, andSymbolInTitle1) {
-    console.log("newsInit start");
+function newsInit(ticker, date, title, url, ents) {
+    console.log("newsInit start !!!");
     // HTML 수정
     $("#nasdaq-table-container").hide();
     $("#chart-container").hide();
     $("#news-container").show();
 
-    spaceIndex_inTitle = andSymbolInTitle1.split(',');
-    var list_length = spaceIndex_inTitle.length;
-    for (var i=0; i<list_length; i++) {
-        title1 = title1.substring(0, i) + ' ' + title1.substring(i, title1.length);
-    }
-
-    console.log(ticker1);
-    console.log(date1);
-    console.log(title1);
-    console.log(andSymbolInTitle1);
+    console.log(ticker);
+    console.log(date);
+    console.log(title);
 
 
 
@@ -335,29 +349,34 @@ function newsInit(ticker1, date1, title1, andSymbolInTitle1) {
     
     // Javascript를 이용해 HTML에 동적으로 태그 추가
 
+    document.querySelector('#news-container .goticker .tickerName').textContent = "Ticker : " + ticker;
+    document.querySelector('#news-container .titleDate').textContent = "Date : " + date;
+    document.querySelector('#news-container .titleName').textContent = "Article : " + title;
+    document.querySelector('#news-container .newsURL .input-News-URL').textContent = "URL : " + url;
 
 
     // a 태그 onclick 적용
-    execution_function = String('javascript:chartInit(\''.concat(ticker, '\');'));
-    const goTicker = document.querySelector('.goticker');
+    var execution_function = `javascript:chartInit('${ticker}')`;
+    const goTicker = document.querySelector('#news-container .goticker');
+    console.log(goTicker);
     goTicker.setAttribute('href', execution_function);
 
 
     // a 태그에 URL 적용
-    const addURL = document.querySelector('.NewsURL .input-News-URL');
+    const addURL = document.querySelector('.newsURL .input-News-URL');
     addURL.setAttribute('href', url);
 
 
     // 모델에서 질문 예시 Ticker에 알맞게 작성하기
-    const example_value = document.querySelector('#model .text-form #text-input');
+    const model_input_example = document.querySelector('#model .text-form #text-input');
     example = "Why did " + ticker + "'s stock go down?";
-    example_value.setAttribute('value', example);
+    model_input_example.setAttribute('value', example);
 
 
     //////////////////////////////////////////////////////////////////////
     // NER 관련
 
-    ents = sendAjax_sync('/ner', {'ticker': ticker, 'date': date, 'title': title}, dataType="json", handle=handle_one_return);
+    // ents = sendAjax_sync('/ner', {'ticker': ticker, 'date': date, 'title': title}, dataType="json", handle=handle_one_return);
     // ents = {'text': [], 'start_char': [], 'end_char': [], 'label_': [], 'news': []}
     console.log(ents);
 

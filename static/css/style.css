@@ -10,183 +10,10 @@
 */
 
 
-.sec_cal {
-    width: 360px; /* 속성의 요소 너비 */
-    margin: 0 auto;
-    font-family: "NotoSansR";
-}
-
-/* ".a .b .c" : a클래스 내부의 b클래스 내부의 c클래스 요소에만 스타일 적용 */
-.sec_cal .cal_nav {
-    display: flex;
-    justify-content: center; /* 가로 축을 기준으로 좌우에 대한 정렬 */
-    align-items: center; /* 세로 축을 기준으로 정렬 위아래에 대한 정렬 */
-    font-weight: 700; /* 폰트(font)의 가중치(weight)나 굵기(boldness)를 명시 */
-    font-size: 48px; /* 폰트(font)의 크기를 지정 */
-    line-height: 78px; /* Sets the height of a line box (줄간격) */
-}
-
-.sec_cal .cal_nav .year-month {
-    width: 300px; /* 속성의 요소 너비 */
-    text-align: center;
-    line-height: 1;
-}
-
-.sec_cal .cal_nav .nav {
-    display: flex;
-    border: 1px solid #333333;
-    border-radius: 5px;
-}
-
-.sec_cal .cal_nav .go-prev,
-.sec_cal .cal_nav .go-next {
-    display: block;
-    width: 50px; /* 속성의 요소 너비 */
-    height: 78px;
-    font-size: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.sec_cal .cal_nav .go-prev::before,
-.sec_cal .cal_nav .go-next::before {
-    content: "";
-    display: block;
-    width: 20px; /* 속성의 요소 너비 */
-    height: 20px;
-    border: 3px solid #000;
-    border-width: 3px 3px 0 0;
-    transition: border 0.1s;
-}
-
-.sec_cal .cal_nav .go-prev:hover::before,
-.sec_cal .cal_nav .go-next:hover::before {
-    border-color: #ed2a61;
-}
-
-.sec_cal .cal_nav .go-prev::before {
-    transform: rotate(-135deg);
-}
-
-.sec_cal .cal_nav .go-next::before {
-    transform: rotate(45deg);
-}
-
-.sec_cal .cal_wrap {
-    padding-top: 40px;
-    position: relative;
-    margin: 0 auto;
-}
-
-.sec_cal .cal_wrap .days {
-    display: flex;
-    margin-bottom: 20px; /* 요소 하단의 margin 하단의 영역을 설정 (여유 공간 설정) */
-    padding-bottom: 20px; /* 요소의 바닥에서 패딩 영역의 높이를 설정 */
-    border-bottom: 1px solid #ddd;
-}
-
-.sec_cal .cal_wrap::after {
-    top: 368px;
-}
-
-.sec_cal .cal_wrap .day {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: calc(100% / 7); /* 속성의 요소 너비 */
-    text-align: left;
-    color: #999;
-    font-size: 12px;
-    text-align: center;
-    border-radius: 5px;
-}
-
-
-/* <div class="day current today">1</div> */
-.current.today {
-    /* background: rgb(3, 179, 65); */
-    background: rgb(242 242 242);
-}
-
-.sec_cal .cal_wrap .dates {
-    display: flex;
-    flex-flow: wrap;
-    height: 290px;
-}
-
-/* Pseduo-Classes ( 그 중에서 Structural pseudo-classes ) */
-.sec_cal .cal_wrap .day:nth-child(7n -1) {
-    color: #3c6ffa;
-}
-
-/* Pseduo-Classes ( 그 중에서 Structural pseudo-classes ) */
-.sec_cal .cal_wrap .day:nth-child(7n) {
-    color: #ed2a61;
-}
-
-.sec_cal .cal_wrap .day.disable {
-    color: #ddd;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Model 관련 */
-
-/* id : "#" */
-#model {
-    text-align: center;
-}
-
-/* id : "#" */
-#text-input {
-    width: calc(100% / 2); /* 속성의 요소 너비 */
-    height: 78px;
-    word-break: break-all;
-}
-
-.text-output {
-    width: calc(100% / 2); /* 속성의 요소 너비 */
-    min-height: 1.2rem;
-    margin: 1rem;
-    border: 0.5px solid grey;
-    padding: 0.5rem 1rem;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Stocks 관련 */
 
-
 /* .sec_cal { */
-.stocks_wrap {
+#nasdaq-table-container .stocks_wrap {
     width: 580px; /* 속성의 요소 너비 */
     margin: 0 auto;
     font-family: "NotoSansR";
@@ -194,7 +21,7 @@
 
 
 /* .sec_cal .cal_wrap { */
-.stocks_wrap {
+#nasdaq-table-container .stocks_wrap {
     padding-top: 40px;
     position: relative;
     margin: 0 auto;
@@ -202,7 +29,7 @@
 
 
 /* .sec_cal .cal_wrap .days { */
-.stocks_wrap .stocks_columns {
+#nasdaq-table-container .stocks_wrap .stocks_columns {
     display: flex;
     margin-bottom: 20px; /* 요소 하단의 margin 하단의 영역을 설정 */
     padding-bottom: 20px; /* 요소의 바닥에서 패딩 영역의 높이를 설정 */
@@ -211,8 +38,8 @@
 
 
 /* .sec_cal .cal_wrap .day { */
-.stocks_wrap .stocks_columns .column,
-.stocks_wrap .stocks .stock {
+#nasdaq-table-container .stocks_wrap .stocks_columns .column,
+#nasdaq-table-container .stocks_wrap .stocks .stock {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -227,47 +54,52 @@
 
 
 
-.stocks_wrap .stocks_columns .column {
+#nasdaq-table-container .stocks_wrap .stocks_columns .column {
     font-size: 17px;
     /* width: 70px; */
 }
-.stocks_wrap .stocks .stock {
+#nasdaq-table-container .stocks_wrap .stocks .stock {
     font-size: 13px;
     /* width: 35px; */
 }
 
 
-.name {
+#nasdaq-table-container .name {
     margin-right: 30px;
     margin-left: 30px;
 }
-.sector, .industry{
+#nasdaq-table-container .sector, .industry{
     margin-right: 18px;
     margin-left: 48px;
 }
-.dff, .open, .close {
+#nasdaq-table-container .dff, .open, .close {
     margin-right: 5px;
     margin-left: 5px;
 }
 
-.stocks_wrap .stocks .ticker {
+#nasdaq-table-container .stocks_wrap .stocks .ticker {
     color: #04b70d;
     text-decoration: underline;
 }
-.stocks_wrap .stocks .up {
+#nasdaq-table-container .stocks_wrap .stocks .up {
     color: #ed2a61;
 }
-.stocks_wrap .stocks .down {
+#nasdaq-table-container .stocks_wrap .stocks .down {
     color: #3c6ffa;
 }
 
 
 
 /* .sec_cal .cal_wrap .dates { */
-.stocks_wrap .stocks {
+#nasdaq-table-container .stocks_wrap .stocks {
     display: flex;
     flex-flow: wrap;
     height: 5000px; /* 높이 간격 */
+}
+
+/* h1 태그 부분 */
+#nasdaq-table-container .gohome {
+    text-decoration: none;
 }
 
 
@@ -281,7 +113,416 @@
 
 
 
-/* h1 태그 부분 */
-.gohome {
+
+
+/*
+    위 : nasdaq-table-container 관련 CSS
+    아래 : chart-container 관련 CSS
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* id : "#" */
+#chart-container .myChart-container {
+    /* 속성의 요소 너비를 지정 */
+    width: 60vw;
+
+    /* 속성의 요소의 높이를 지정 */
+    height: 30vh;
+
+    /*
+        [ margin 태그 ]
+        margin-top (상단 여백)
+        margin-right (오른쪽 여백)
+        margin-bottom (아래 여백)
+        margin-left (왼쪽 여백)
+
+        지정값은 px, cm, %로 지정할 수 있다.
+        음수값도 지정 가능(ex. -10px)
+
+        * 4면 한꺼번에 margin 지정하기
+            ex) margin: 5px 7px 3px 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면이 모두 같을 때 margin 지정하기
+            ex) margin: 5px;
+        * 위, 오른쪽&왼쪽, 아래 margin 지정하기
+            ex) margin: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 margin 지정하기
+            ex) margin: 5px 10px;
+        * margin 자동 지정하기
+            ex) margin: auto 0;
+                (위아래 값이 자동, 좌우가 0px)
+            ex) margin-left: auto;
+
+    */
+    margin: 40px auto;
+    padding-bottom: 13%;
+}
+
+#chart-container .table {
+    /* 
+        [ align-items 태그 ]
+        flex-box 요소의 수직 방향 정렬 방식을 설정
+        ex. flex-start, flex-end, center        
+    */
+    align-items: center;
+
+    /* 
+        [ justify-content 태그 ]
+        flex-box 요소의 수평 방향 정렬 방식을 설정
+        ex. flex-start, flex-end, center        
+    */
+    justify-content: center;
+
+
+    /*
+        [ margin 태그 ]
+        margin-top (상단 여백)
+        margin-right (오른쪽 여백)
+        margin-bottom (아래 여백)
+        margin-left (왼쪽 여백)
+
+        지정값은 px, cm, %로 지정할 수 있다.
+        음수값도 지정 가능(ex. -10px)
+
+        * 4면 한꺼번에 margin 지정하기
+            ex) margin: 5px 7px 3px 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면이 모두 같을 때 margin 지정하기
+            ex) margin: 5px;
+        * 위, 오른쪽&왼쪽, 아래 margin 지정하기
+            ex) margin: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 margin 지정하기
+            ex) margin: 5px 10px;
+        * margin 자동 지정하기
+            ex) margin: auto 0;
+                (위아래 값이 자동, 좌우가 0px)
+            ex) margin-left: auto;
+
+    */
+    margin: 20px auto;
+
+
+    /*
+        [ text-align 태그 ]
+        텍스트의 정렬 방향을 설정
+
+        left: 왼쪽 정렬
+        right: 오른쪽 정렬
+        center: 중앙 정렬
+        justify: 양쪽 정렬 (자동 줄바꿈시 오른쪽 경계선 부분 정리)
+    */
+    text-align: center;
+
+
+    padding-top: 50px;
+}
+
+
+#chart-container .table .title-width {
+    width: 10px;
+    text-align: center;
+}
+
+
+#chart-container .table .table-title {
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+/* h1, h2 태그 부분 */
+#chart-container .gohome, .goticker {
+    text-decoration: none;
+}
+
+
+#chart-container .table .news-table .news.diff.up {
+    color: #ed2a61;
+}
+#chart-container .table .news-table .news.diff.down {
+    color: #3c6ffa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+    위 : chart-container 관련 CSS
+    아래 : news-container 관련 CSS
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ner 관련 */
+
+#news-container .ner-box {
+    width: calc(92%); /* 속성의 요소 너비를 지정 */
+    height: 500px; /* 속성의 요소의 높이를 지정 */
+
+
+    /* 
+        [ align-items 태그 ]
+        flex-box 요소의 수직 방향 정렬 방식을 설정
+        ex. flex-start, flex-end, center        
+    */
+    align-items: center;
+
+    /* 
+        [ justify-content 태그 ]
+        flex-box 요소의 수평 방향 정렬 방식을 설정
+        ex. flex-start, flex-end, center        
+    */
+    justify-content: center;
+
+    /*
+        [ text-align 태그 ]
+        텍스트의 정렬 방향을 설정
+
+        left: 왼쪽 정렬
+        right: 오른쪽 정렬
+        center: 중앙 정렬
+        justify: 양쪽 정렬 (자동 줄바꿈시 오른쪽 경계선 부분 정리)
+    */
+    text-align: center;
+
+
+    /*
+        [ margin 태그 ]
+        margin-top (상단 여백)
+        margin-right (오른쪽 여백)
+        margin-bottom (아래 여백)
+        margin-left (왼쪽 여백)
+
+        지정값은 px, cm, %로 지정할 수 있다.
+        음수값도 지정 가능(ex. -10px)
+
+        * 4면 한꺼번에 margin 지정하기
+            ex) margin: 5px 7px 3px 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면이 모두 같을 때 margin 지정하기
+            ex) margin: 5px;
+        * 위, 오른쪽&왼쪽, 아래 margin 지정하기
+            ex) margin: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 margin 지정하기
+            ex) margin: 5px 10px;
+        * margin 자동 지정하기
+            ex) margin: auto 0;
+                (위아래 값이 자동, 좌우가 0px)
+            ex) margin-left: auto;
+
+    */
+    margin: 1rem;
+
+
+    min-height: 1.2rem;
+    border: 0.5px solid grey;
+    padding: 0.5rem 1rem;
+}
+
+
+
+/* NER label_ */
+#news-container .entities .entity_person {
+    background-color: #aa9cfc;
+}
+
+#news-container .entities .entity_org {
+    background-color: #7aecec;
+}
+
+#news-container .entities .entity_fac {
+    background-color: #9cc9cc;
+}
+
+#news-container .entities .entity_gpe {
+    background-color: #feca74;
+}
+
+#news-container .entities .entity_product {
+    background-color: #bfeeb7;
+}
+
+#news-container .entities .none {
+    background-color: transparent;
+}
+
+/* 마우스 올렸을 때, 보이게 하는 것 */
+#news-container .entities .show-label {
+    display: none;
+}
+
+#news-container .entities .entity_person:hover .show-label,
+#news-container .entities .entity_org:hover .show-label,
+#news-container .entities .entity_fac:hover .show-label,
+#news-container .entities .entity_gpe:hover .show-label,
+#news-container .entities .entity_product:hover .show-label {
+    display: block;
+}
+
+
+
+
+
+/* Model 관련 */
+
+/* id : "#" */
+#news-container #model {
+    /*
+        [ text-align 태그 ]
+        텍스트의 정렬 방향을 설정
+
+        left: 왼쪽 정렬
+        right: 오른쪽 정렬
+        center: 중앙 정렬
+        justify: 양쪽 정렬 (자동 줄바꿈시 오른쪽 경계선 부분 정리)
+    */
+    text-align: center;
+}
+
+/* id : "#" */
+#news-container #text-input {
+    width: calc(100% / 2); /* 속성의 요소 너비 */
+    height: 78px; /* 속성의 요소의 높이를 지정 */
+    word-break: break-all;
+}
+
+
+#news-container .text-output {
+    width: calc(100% * (2/3)); /* 속성의 요소 너비 */
+    min-height: 10rem;
+
+
+
+    /*
+        [ margin 태그 ]
+        margin-top (상단 여백)
+        margin-right (오른쪽 여백)
+        margin-bottom (아래 여백)
+        margin-left (왼쪽 여백)
+
+        지정값은 px, cm, %로 지정할 수 있다.
+        음수값도 지정 가능(ex. -10px)
+
+        * 4면 한꺼번에 margin 지정하기
+            ex) margin: 5px 7px 3px 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면이 모두 같을 때 margin 지정하기
+            ex) margin: 5px;
+        * 위, 오른쪽&왼쪽, 아래 margin 지정하기
+            ex) margin: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 margin 지정하기
+            ex) margin: 5px 10px;
+        * margin 자동 지정하기
+            ex) margin: auto 0;
+                (위아래 값이 자동, 좌우가 0px)
+            ex) margin-left: auto;
+
+    */
+    margin: 20px auto;
+
+    /* 
+        [ border 태그 ]
+        해당 태그의 테두리를 설정
+        width - style - color
+        border-width - border-style - border-color
+
+        border-width : 테두리의 두께로, 주로 px 단위를 사용
+        border-style : 테두리의 스타일로 실선, 점선, 이중선 등의 옵션이 존재
+        border-color : 테두리의 색상으로, 값은 color 속성의 포맷을 사용
+    */
+    border: 0.5px solid grey;
+
+    /*
+        [ padding 태그 ]
+        지정값은 px, cm, %로 지정할 수 있다.
+        margin은 음수값이 지정 가능하지만 padding은 음수값 지정이 안된다.
+        
+        padding 태그와 비슷한 태그
+        : padding-top, padding-right, padding-bottom, padding-left
+
+        * 4면 한꺼번에 padding 지정하기
+            ex) padding: 5px, 7px, 3px, 0px;
+                (위, 오른쪽, 아래, 왼쪽)
+        * 4면 모두 같을 때 padding 지정하기
+            ex) padding: 5px;
+        * 위, 오른쪽&왼쪽, 아래 padding 지정하기
+            ex) padding: 5px 10px 0px;
+        * 위&아래, 오른쪽&왼쪽 padding 지정하기
+            ex) padding: 5px, 10px;
+
+    */
+    padding: 0.5rem 1rem;
+}
+
+
+
+/* h1, h2 태그 부분 */
+#news-container .gohome, .goticker {
     text-decoration: none;
 }

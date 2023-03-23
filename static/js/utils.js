@@ -42,11 +42,8 @@ function sendAjax(url, data, handle) {
  */
 function sendAjax_sync(url, data, dataType, handle) {
     /*
-        jQuery.ajax(url, [, settings])
-
+        jQuery.ajax(url, [, settings]) => Synchronous ( 동기식 : 코드 순서대로 진행 )
         jQuery.getJSON => Asynchronous (비동기식)
-        
-        Synchronous => 동기식 : 코드 순서대로 진행
     */
     var search_var;
     $.ajax(url=url, settings={data: data, dataType: dataType, async: false,

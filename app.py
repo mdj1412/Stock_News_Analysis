@@ -129,16 +129,15 @@ def chart():
 
 
 # Show Ticker's Title and News's Title
-@app.route('/info', methods=['GET', 'POST'])
-def ticker_title():
-    print("app.py : /info Start ")
-
+@app.route('/info_and_newsNER', methods=['GET', 'POST'])
+def news_info_ner():
     # Javascript 에서 받은 메시지
     ticker = request.args.get('ticker')
     date = request.args.get('date')
     title = request.args.get('title')
     andSymbolInTitle = request.args.get('andSymbolInTitle')
 
+    print(ticker, date, title, andSymbolInTitle)
 
     # Title 에서 '&'로 표시되어 있는데 따로 구별해야 된다.
     # andSymbolInTitle 에서 가져온 '&' 위치 index를 title과 합쳐준다.
@@ -168,14 +167,61 @@ def ticker_title():
     else:
         url = url[0]
 
-    example_embed1 = ticker
-    example_embed2 = "Date: %s" % (date)
-    example_embed3 = "Title: %s" % (title)
-    example_embed4 = url
 
-    return '''
-    newsInit(example_embed1, example_embed2, example_embed3, example_embed4)
-    '''
+
+    #######################################################
+
+    # 뉴스 데이터 위치 찾기 ( in directory )
+    dir = os.path.join('./news', ticker, date, title+'.txt')
+    f = open(dir, 'r')
+    news_data = f.read()
+
+
+    # NER
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(news_data) # News Data Analysis
+
+
+    # 필요없는 용어들 버리기
+    print("=====================================================================")
+
+    ents = {'text': [], 'start_char': [], 'end_char': [], 'label_': []}
+    for ent in doc.ents:
+        # print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+        # 버리는 용어들
+        if ent.label_ == 'DATE':
+            continue
+        if ent.label_ == 'TIME':
+            continue
+        if ent.label_ == 'CARDINAL':
+            continue
+        if ent.label_ == 'MONEY':
+            continue
+        if ent.label_ == 'PERCENT':
+            continue
+        if ent.label_ == 'ORDINAL':
+            continue
+        if ent.label_ == 'PRODUCT':
+            continue
+            
+
+        print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+        ents['text'].append(ent.text)
+        ents['start_char'].append(ent.start_char)
+        ents['end_char'].append(ent.end_char)
+        ents['label_'].append(ent.label_)
+
+    print("=====================================================================")
+
+    ents['news'] = news_data
+
+    # ents = {'text': [], 'start_char': [], 'end_char': [], 'label_': [], 'news': []}
+
+    print("ents : ", ents)
+
+    return jsonify(ticker=ticker, date=date, title=title, url=url, ents=ents)
     # return render_template('news.html', embed1=example_embed1, embed2=example_embed2, embed3=example_embed3, embed4=example_embed4)
 
 
