@@ -102,10 +102,10 @@ function nasdaq_table_init() {
         stocks.innerHTML = stocks.innerHTML + '<div class="stock industry">' + output.industry[i] + '</div>';
 
         // Add ticker's chart link
-        execution_function = String('"javascript:chartInit(\''.concat(output.ticker[i], '\');"'));
+        execution_function = `javascript:chartInit('${ output.ticker[i] }')`;
         stock = document.querySelectorAll('.stock.ticker')[i];
         stock.innerHTML = '';
-        stock.innerHTML = stock.innerHTML + '<a href='.concat(execution_function, '>') + output.ticker[i] + '</a>';
+        stock.innerHTML = stock.innerHTML + `<a href=${ execution_function }>${ output.ticker[i] }</a>`;
     }
 }
 
@@ -149,9 +149,6 @@ function chartInit(ticker) {
         const x = new Date(parseInt(year), parseInt(month), parseInt(day), 9, 0, 0, 0).getTime();
         data.push({'x': x, 'o': chart_data.Open[key].toFixed(2), 'h': chart_data.High[key].toFixed(2), 'l': chart_data.Low[key].toFixed(2), 'c': chart_data.Close[key].toFixed(2)})
     }
-    // console.log("data : ", data);
-
-
 
 
     // Javascript chart.js candlestick
@@ -165,8 +162,7 @@ function chartInit(ticker) {
             }]
         }
     });
-
-
+    //////////////////////////////////////////////////////////////////
 
 
 
@@ -244,7 +240,9 @@ function chartInit(ticker) {
         var date_idx_in_key_list = key_list.indexOf(String(key));
         // console.log(key, key_list, date_idx_in_key_list);
 
-        if (date_idx_in_key_list != -1) { var diff = ((open_list[date_idx_in_key_list]-close_list[date_idx_in_key_list-1])/(open_list[date_idx_in_key_list]) * 100.0).toFixed(2); }
+        if (date_idx_in_key_list != -1) { 
+            var diff = ((open_list[date_idx_in_key_list]-close_list[date_idx_in_key_list-1])/(open_list[date_idx_in_key_list]) * 100.0).toFixed(2); 
+        }
         else { var diff = '.'; }
 
         if (diff == '.') {
@@ -256,7 +254,7 @@ function chartInit(ticker) {
         else {
             var diff_html = '<th class="news diff down">' + diff + ' %</th>';
         }
-        var html = `<tr align="center" bgcolor="white"><th>+</th><th>${key}</th>${diff_html}<td style="text-align: left;">`;
+        var html = `<tr align="center" bgcolor="white"><th>+</th><th>${ key }</th>${ diff_html }<td style="text-align: left;">`;
 
         for (var i = 0; i < sorted_news[key].length; i++) {
             var title = sorted_news[key][i].substring(0, sorted_news[key][i].length-4);
@@ -280,13 +278,11 @@ function chartInit(ticker) {
             }
 
 
-            var link = String(`/info_and_newsNER?ticker=${ticker}&date=${key}&title=${sendTitle}&andSymbolInTitle=${andSymbolInTitle}`);
-            // console.log(link);
+            var link = String(`/info_and_newsNER?ticker=${ ticker }&date=${ key }&title=${ sendTitle }&andSymbolInTitle=${ andSymbolInTitle }`);
             linkList.push(link);
 
-            var execution_function = String(`javascript:getData(linkList[${link_list_idx}]);`);
-            // console.log("execution_function : ", execution_function);
-            html = html + '<a href="' + execution_function + '">' + title + '</a><br>';
+            var execution_function = String(`javascript:getData(linkList[${ link_list_idx }]);`);
+            html = html + `<a href="${ execution_function }">${ title }</a><br>`;
             link_list_idx = link_list_idx + 1;
         }
         html = html + '</td>';
@@ -356,7 +352,7 @@ function newsInit(ticker, date, title, url, ents) {
 
 
     // a 태그 onclick 적용
-    var execution_function = `javascript:chartInit('${ticker}')`;
+    var execution_function = `javascript:chartInit('${ ticker }')`;
     const goTicker = document.querySelector('#news-container .goticker');
     console.log(goTicker);
     goTicker.setAttribute('href', execution_function);
@@ -448,7 +444,7 @@ function newsInit(ticker, date, title, url, ents) {
         // "await"는 "async" 함수 안에서만 동작한다.
         // "await" 키워드를 만나면 Promise가 처리될 때까지 기다린다.
         // Promise가 처리되길 기다리는 동안엔 엔진이 다른일(다른 스크립트를 실행, 이벤트 처리 등)을 할 수 있기 때문에, CPU 리소스가 낭비되지 않는다.
-        const inferResponse = await fetch(`newsQuestions?ticker=${ticker}&date=${date}&title=${sendTitle}&andSymbolInTitle=${andSymbolInTitle}&questions=${text}`); // Javascript -> Flask(python)
+        const inferResponse = await fetch(`newsQuestions?ticker=${ ticker }&date=${ date }&title=${ sendTitle }&andSymbolInTitle=${ andSymbolInTitle }&questions=${ text }`); // Javascript -> Flask(python)
         
         // console.log("inferResponse : ", inferResponse);
 
