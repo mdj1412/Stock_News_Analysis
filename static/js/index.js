@@ -126,7 +126,7 @@ function nasdaq_table_init() {
  * 
  * 
  */
-function chartInit(ticker) {
+function chartInit(ticker, already=false) {
     // HTML 수정
     $("#nasdaq-table-container").hide();
     $("#chart-container").show();
@@ -138,31 +138,30 @@ function chartInit(ticker) {
     // Javascript -> Flask (Python) -> Javascript
     let [chart_data, news_articles] = sendAjax_sync_about_chartData_and_newsArticles("/chart", {"ticker": ticker}, "json", handle_two_return);
 
-
-    // x축과 data 설정
-    // data: [{'x': date, 'o': open, 'h': high, 'l': low, 'c': close}, { }, { }, ... ]
-    data = [];
-    key_list = Object.keys(chart_data.Close);
-    for (var i=key_list.length-15; i<key_list.length; i++) {
-        key = key_list[i];
-        const [year, month, day] = key.split("-");
-        const x = new Date(parseInt(year), parseInt(month), parseInt(day), 9, 0, 0, 0).getTime();
-        data.push({'x': x, 'o': chart_data.Open[key].toFixed(2), 'h': chart_data.High[key].toFixed(2), 'l': chart_data.Low[key].toFixed(2), 'c': chart_data.Close[key].toFixed(2)})
-    }
-
-
-    // Javascript chart.js candlestick
-    let mychart = document.getElementById('myChart');
-    new Chart(mychart, {
-        type: 'candlestick',
-        data: {
-            datasets: [{
-                label: 'CHRT - '.concat(ticker),
-                data: data
-            }]
+    if (!already) {
+        // x축과 data 설정
+        // data: [{'x': date, 'o': open, 'h': high, 'l': low, 'c': close}, { }, { }, ... ]
+        data = [];
+        key_list = Object.keys(chart_data.Close);
+        for (var i=key_list.length-15; i<key_list.length; i++) {
+            key = key_list[i];
+            const [year, month, day] = key.split("-");
+            const x = new Date(parseInt(year), parseInt(month), parseInt(day), 9, 0, 0, 0).getTime();
+            data.push({'x': x, 'o': chart_data.Open[key].toFixed(2), 'h': chart_data.High[key].toFixed(2), 'l': chart_data.Low[key].toFixed(2), 'c': chart_data.Close[key].toFixed(2)})
         }
-    });
-    //////////////////////////////////////////////////////////////////
+
+        // Javascript chart.js candlestick
+        let mychart = document.getElementById('myChart');
+        new Chart(mychart, {
+            type: 'candlestick',
+            data: {
+                datasets: [{
+                    label: 'CHRT - '.concat(ticker),
+                    data: data
+                }]
+            }
+        });
+    }
 
 
 
@@ -171,7 +170,7 @@ function chartInit(ticker) {
     // Javascript를 이용해 HTML에 동적으로 태그 추가
 
     // a 태그 onclick 적용
-    var execution_function = `javascript:chartInit('${ticker}')`;
+    var execution_function = `javascript:chartInit('${ticker}', true)`;
     const goTicker = document.querySelector('#chart-container .goticker');
     goTicker.setAttribute('href', execution_function);
 
@@ -243,9 +242,9 @@ function chartInit(ticker) {
         if (date_idx_in_key_list != -1) { 
             var diff = ((open_list[date_idx_in_key_list]-close_list[date_idx_in_key_list-1])/(open_list[date_idx_in_key_list]) * 100.0).toFixed(2); 
         }
-        else { var diff = '.'; }
+        else { var diff = 0; }
 
-        if (diff == '.') {
+        if (diff == 0) {
             var diff_html = '<th class="news diff">0.0 %</th>';
         }
         else if (diff > 0) {
@@ -281,7 +280,7 @@ function chartInit(ticker) {
             var link = String(`/info_and_newsNER?ticker=${ ticker }&date=${ key }&title=${ sendTitle }&andSymbolInTitle=${ andSymbolInTitle }`);
             linkList.push(link);
 
-            var execution_function = String(`javascript:getData(linkList[${ link_list_idx }]);`);
+            var execution_function = String(`javascript:getData(linkList[${ link_list_idx }], ${ diff });`);
             html = html + `<a href="${ execution_function }">${ title }</a><br>`;
             link_list_idx = link_list_idx + 1;
         }
@@ -293,19 +292,20 @@ function chartInit(ticker) {
 
 
 linkList = [];
-async function getData(link) {
+async function getData(link, diff) {
     try {
         console.log("link : ", link);
 
         await $.getJSON(link, function(data)
         {
-            console.log("ticker : ", data.ticker);
-            console.log("date : ", data.date);
-            console.log("title : ", data.title);
-            console.log("url : ", data.url);
-            console.log("ents : ", data.ents);
+            // console.log("ticker : ", data.ticker);
+            // console.log("date : ", data.date);
+            // console.log("title : ", data.title);
+            // console.log("url : ", data.url);
+            // console.log("ents : ", data.ents);
+            console.log("diff : ", diff);
     
-            newsInit(data.ticker, data.date, data.title, data.url, data.ents);
+            newsInit(data.ticker, data.date, data.title, data.url, data.ents, diff);
         });
     } catch (error) {
         console.log("Error : ", error);
@@ -328,16 +328,16 @@ async function getData(link) {
  * 
  * 
  */
-function newsInit(ticker, date, title, url, ents) {
-    console.log("newsInit start !!!");
+function newsInit(ticker, date, title, url, ents, diff) {
+
     // HTML 수정
     $("#nasdaq-table-container").hide();
     $("#chart-container").hide();
     $("#news-container").show();
 
-    console.log(ticker);
-    console.log(date);
-    console.log(title);
+    // console.log(ticker);
+    // console.log(date);
+    // console.log(title);
 
 
 
@@ -345,16 +345,15 @@ function newsInit(ticker, date, title, url, ents) {
     
     // Javascript를 이용해 HTML에 동적으로 태그 추가
 
-    document.querySelector('#news-container .goticker .tickerName').textContent = "Ticker : " + ticker;
+    document.querySelector('#news-container .goticker .tickerName').textContent = ticker + " Chart";
     document.querySelector('#news-container .titleDate').textContent = "Date : " + date;
     document.querySelector('#news-container .titleName').textContent = "Article : " + title;
     document.querySelector('#news-container .newsURL .input-News-URL').textContent = "URL : " + url;
 
 
     // a 태그 onclick 적용
-    var execution_function = `javascript:chartInit('${ ticker }')`;
+    var execution_function = `javascript:chartInit('${ ticker }', true)`;
     const goTicker = document.querySelector('#news-container .goticker');
-    console.log(goTicker);
     goTicker.setAttribute('href', execution_function);
 
 
@@ -365,7 +364,10 @@ function newsInit(ticker, date, title, url, ents) {
 
     // 모델에서 질문 예시 Ticker에 알맞게 작성하기
     const model_input_example = document.querySelector('#model .text-form #text-input');
-    example = "Why did " + ticker + "'s stock go down?";
+    if (diff == 0) { example = "What is your outlook for the future direction of this stock?" }
+    else if (diff > 0) { example = "Why did " + ticker + "'s stock go up?"; }
+    else if (diff < 0) { example = "Why did " + ticker + "'s stock go down?"; }
+    else { throw new Error('Error : diff Error '); }
     model_input_example.setAttribute('value', example);
 
 
@@ -379,12 +381,14 @@ function newsInit(ticker, date, title, url, ents) {
     let news = ents['news'];
     let numOfNER = ents['text'].length;
 
+    // console.log("total news : ", news);
+
 
     // 랜더링 html 요소 생성
     news_ner = document.querySelector('.entities');
     news_ner.innerHTML = '';
 
-    for (i=0; i<numOfNER-1; i++) {
+    for (i=0; i<numOfNER; i++) {
         start_idx = (i == 0) ? 0 : ents['end_char'][i-1];
         end_idx = ents['start_char'][i];
         last_idx = ents['end_char'][i];
@@ -397,13 +401,17 @@ function newsInit(ticker, date, title, url, ents) {
         else if (label == 'PRODUCT') { class_name = "entity_product"; }
         else { console.log("[ Error !!! - New NER label_ ] : ", ents['label_'][i], ents['text'][i]); class_name = "none"; }
 
-        news_ner.innerHTML = news_ner.innerHTML + news.substring(start_idx, end_idx);
-        news_ner.innerHTML = news_ner.innerHTML + '<mark class=' + class_name
-            + ' style="line-height: 1;">'
-            + news.substring(end_idx, last_idx) 
-            + '<span class="show-label" style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">'
-            + label + '</span></mark>';
+        add_html = news.substring(start_idx, end_idx);
+        add_html = add_html + '<mark class=' + class_name
+                + ' style="line-height: 1;">'
+                + news.substring(end_idx, last_idx) 
+                + '<span class="show-label" style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">'
+                + label + '</span></mark>';
+
+        // console.log(add_html);
+        news_ner.innerHTML = news_ner.innerHTML + add_html;
     }
+    // console.log("last html : ", news.substring(ents['end_char'][numOfNER-1]));
     news_ner.innerHTML = news_ner.innerHTML + news.substring(ents['end_char'][numOfNER-1]);
     
 
@@ -427,12 +435,12 @@ function newsInit(ticker, date, title, url, ents) {
         idx = sendTitle.indexOf('&', idx);
         if (idx == -1) { break; }
         sendTitle = sendTitle.substring(0, idx) + sendTitle.substring(idx+1, sendTitle.length);
-        console.log(sendTitle);
+        // console.log(sendTitle);
         andSymbolInTitle.push(idx + andSymbolInTitle.length);
     }
 
-    console.log(andSymbolInTitle);
-    console.log("Last String", sendTitle);
+    // console.log(andSymbolInTitle);
+    // console.log("Last String", sendTitle);
 
 
 
