@@ -374,8 +374,6 @@ function newsInit(ticker, date, title, url, ents, diff) {
     //////////////////////////////////////////////////////////////////////
     // NER 관련
 
-    // ents = sendAjax_sync('/ner', {'ticker': ticker, 'date': date, 'title': title}, dataType="json", handle=handle_one_return);
-    // ents = {'text': [], 'start_char': [], 'end_char': [], 'label_': [], 'news': []}
     console.log(ents);
 
     let news = ents['news'];
@@ -488,7 +486,7 @@ function newsInit(ticker, date, title, url, ents, diff) {
             // Promise가 처리되길 기다리는 동안엔 엔진이 다른일(다른 스크립트를 실행, 이벤트 처리 등)을 할 수 있기 때문에, CPU 리소스가 낭비되지 않는다.
             const answer = await translateText(textInput.value); // Flask에 input을 보내주고 output을 받아오는 과정
             
-            console.log("Answer : ", answer);
+            console.log("Result : ", answer);
             textParagraph.textContent = answer;
         } catch (err) {
             console.error(err);
