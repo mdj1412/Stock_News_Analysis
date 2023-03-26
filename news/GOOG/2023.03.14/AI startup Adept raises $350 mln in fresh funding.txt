@@ -1,0 +1,27 @@
+March 14 (Reuters) - Artificial intelligence (AI)
+startup Adept said on Tuesday it had raised $350 million in a
+Series B funding round led by General Catalyst and Spark
+Capital, as it builds enterprise  applications amid the frenzy
+triggered by rival OpenAI's ChatGPT.The funding came less than a year after it raised $65
+million in April 2022, signaling strong investor interest in AI
+startups in an overall slow venture market.Adept didn't disclose its valuation, but sources familiar
+with the matter said the company was a "unicorn", a term that
+describes startups that are valued at more than $1 billion.Adept said it planned to use the new funds to launch its
+initial products, train models and recruit more AI talent.Big tech companies from Alphabet Inc to Baidu Inc
+are speeding up the integration of generative AI into
+their offerings after Microsoft-backed ChatGPT took the
+internet by storm for its ability to generate human-like
+responses.Founded by former Google researchers, Adept focuses on
+training a neural network to perform general tasks for
+enterprise clients. It has been working with companies to use
+their data to help create a natural language interface to access
+existing software such as Adobe Photoshop and Airtable.The startup recently experienced some management reshuffles
+when co-founders Niki Parmar and Ashish Vaswani left the
+company, but that did not hinder the fundraising given strong
+investor interest."The language models they have is really action-oriented, as
+opposed to prompt oriented. There's just so much to be done to
+make your knowledge workers a lot more efficient and effective,"
+said Deep Nishar, managing director at General Catalyst who led
+the firm's investment in Adept.
+(Reporting by Ananya Mariam Rajesh in Bengaluru and Krystal Hu
+in San Francisco; Editing by Devika Syamnath and Jamie Freed)

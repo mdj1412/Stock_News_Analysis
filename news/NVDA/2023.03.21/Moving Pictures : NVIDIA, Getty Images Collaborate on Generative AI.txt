@@ -1,0 +1,77 @@
+
+
+      As a sports commentator for a professional lacrosse team, Grant Farhall knows the value in having the right teammates.
+    
+
+      As the chief product officer for Getty Images, a global visual-content creator and marketplace, he believes the collaboration between his company and NVIDIA is an excellent pairing for taking generative AI to the next level.
+    
+
+      The companies aim to develop two generative AI models using NVIDIA Picasso, part of the new NVIDIA AI Foundations cloud services. Users could employ the models to create a custom image or video in seconds, simply by typing in a concept.
+    
+
+      "With our high quality and often unique imagery and videos, this collaboration will give our customers the ability to create a greater variety of visuals than ever before,  helping creatives and non-creatives alike fuel visual storytelling," Farhall said.
+    
+
+      Getty Images is a unique partner, not only for its stunning images and video, but also its rich metadata, with appropriate rights. Its creative team and research bring a wealth of expertise that can deliver impactful outputs.
+    
+
+      For artists, generative AI adds a new tool that expands their canvas. For content creators, it's an opportunity to create a custom visual tailored to a brand or business they're building.
+    
+
+      "More often than not, it's a visual that cuts through the noise of a busy world to capture your attention, and being able to stand out from the crowd is crucial for businesses of all shapes and sizes," Farhall said.
+    
+
+Building Responsible AI
+
+
+      But, as in lacrosse, you need to play by the rules.
+    
+
+      The models will be trained on Getty Images' fully licensed content, and revenue generated from the models will provide royalties to content creators.
+    
+
+      "Both companies want to develop these tools in a responsible way that returns benefits to creators and doesn't pass risks on to customers, and this collaboration is testament to the fact that's possible," he said.
+    
+
+A Time-Tested Relationship
+
+
+      It's not the first inning for this collaboration.
+    
+
+      "We've been fostering and growing a relationship for some time - NVIDIA brings the tech expertise and talent, and we bring the high quality and unique content and marketplace," said Farhall.
+    
+
+      The technology, values and connections are catalysts for experiences that wow creators and users. It's a feeling Farhall shares, sitting in front of his mic on a Saturday night.
+    
+
+      "There's an adrenaline rush when the live action of a game becomes your singular focus and you're just in the moment," he said.
+    
+
+      And by training a custom model with NVIDIA Picasso, Getty Images and NVIDIA aim to help storytellers everywhere create more moments that perfectly capture their audiences' attention.
+    
+
+      To learn more about what NVIDIA is doing in generative AI and beyond, watch company founder and CEO Jensen Huang's GTC keynote below.
+    
+
+Image at top courtesy Roberto Moiola/Sysaworld/Getty Images.
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Nvidia Corporation published this content on 21 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 21 March 2023 16:10:21 UTC.
+      
+

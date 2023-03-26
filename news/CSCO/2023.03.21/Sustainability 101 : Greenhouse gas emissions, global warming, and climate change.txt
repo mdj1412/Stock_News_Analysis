@@ -1,0 +1,102 @@
+
+
+
+Do you feel a bit lost when people refer to certain environmental sustainability topics and aren't sure where to start when it comes to learning more? Sustainability 101 is a blog series that you can turn to for information about different environmental sustainability terms that may come up at work, during discussions with friends, and even at your annual holiday gathering.
+
+
+         We hear the term "climate change" often these days: what is it, and what do greenhouse gas (GHG) emissions have to do with it?
+      
+
+        According to the United Nations Development Programme (UNDP) Climate Dictionary :
+      
+
+
+Climate "is the average of weather patterns in a specific area over a longer period of time, usually 30 or more years. Human activity in the industrial age, and particularly during the last century, is significantly altering our planet's climate through the release of harmful [GHGs]."
+
+
+GHGs "are gases that trap heat in the atmosphere, causing global warming and climate change. The main [GHGs] released by human activity are carbon dioxide [CO2], methane, and nitrous oxide, as well as fluorinated gases used for cooling and refrigeration. To prevent catastrophic climate change, the world's governments must work together to significantly reduce [GHG] emissions and keep global warming below the dangerous threshold of 1.5°C."
+
+
+Global warming "is an increase in the Earth's average surface temperature that occurs when the concentration of [GHGs] in the atmosphere increases. These gases absorb more solar radiation and trap more heat, thus causing the planet to get hotter. Burning fossil fuels, cutting down forests, and farming livestock are some human activities that release [GHGs] and contribute to global warming."
+
+
+Climate change "refers to the long-term changes in the Earth's climate, beyond the increase in average surface temperature. Climate change causes weather patterns to be less predictable, affecting the balance of ecosystems that support life and biodiversity. It also causes more extreme weather events, such as more intense hurricanes, floods, heat waves, and droughts, and leads to sea level rise and coastal erosion by accelerating the melting of glaciers."
+
+
+
+The history of climate change  
+
+
+        According to the US National Aeronautics and Space Administration (NASA), most of the climate changes we have seen throughout history were "attributed to very small variations in Earth's orbit that change the amount of solar energy our planet receives." The mid-1800s marked a shift in these historical cooling and warming trends at about the same time as the onset of industrialization.
+      
+
+        According to the UN, "The world is now warming faster than at any point in recorded history. Warmer temperatures over time are changing weather patterns and disrupting the usual balance of nature." According to NASA, Earth's "average surface temperature has risen about 2 degrees Fahrenheit (1 degrees Celsius) since the late 19th century, a change driven largely by increased carbon dioxide emissions into the atmosphere and other human activities."
+
+
+How GHG emissions can cause global warming and climate change
+
+
+        CO2 is the prevalent GHG, but there are others, such as methane, nitrous oxide, and fluorinated gases. These GHGs trap heat in Earth's atmosphere. According to the US Energy Information Administration (EIA),"When sunlight strikes the earth's surface, some of it radiates back toward space as infrared radiation (heat)." The EIA goes on to explain that GHGs absorb infrared radiation and trap its heat in the atmosphere, creating a GHG effect that results in global warming and climate change.
+      
+
+        The UN is a great resource on this issue, and, according to its Climate Action website, burning fossil fuels, like coal, natural gas, and oil, for generating power, manufacturing goods, and fueling transportation accounts for over 75 percent of global GHG emissions and nearly 90 percent of all CO2 emissions. Some other activities that create emissions include: deforestation or wildfires (because trees absorb carbon from the atmosphere and release it when they are destroyed) and food production (producing food causes emissions of CO2, methane, and other GHGs in various ways).
+      
+
+        As society continues to release GHGs into the atmosphere, the Earth's temperature can continue to rise. Estimates show that if we don't take deliberate actions to reduce GHGs, global temperature is on track to increase by 2.5 °C to 4.5 °C by 2100 (4.5 °F to 8 °F).
+      
+
+        According to the Intergovernmental Panel on Climate Change (IPCC), climate science says we must limit warming to no more than 1.5 °C above pre-industrial levels to avoid the worst impacts of climate change. And, according to the Science Based Targets initiative (SBTi), "In order to limit warming to 1.5°C and avoid the worst effects of climate breakdown, global emissions must be halved by 2030."
+
+
+The impact on life
+
+
+        According to the UN's Climate Action website, there are several effects on life due to climate change; and 13 million people lose their lives every year due to environmental factors. Rising temperatures from climate change leads to ice and snow melting faster, oceans rising and warming, and more extreme weather like heat waves, flooding, fires, hurricanes, and tornadoes. Climate change increases the risk of food shortages from less productive fisheries, crops, and livestock. There are also increased health risks through air pollution and disease. Climate change also increases the factors that put and keep people in poverty, with an estimated 23.1 million people displaced on average each year by weather-related events over the past decade (2010-2019).
+      
+
+        These rapid changes are detrimental to human life, and negatively impact biological diversity - or biodiversity (the variety of life on Earth, in all its forms, from genes and bacteria to entire ecosystems such as forests or coral reefs).
+      
+
+        According to the UN, "exacerbated by climate change, the world is losing species at a rate 1,000 times greater than at any other time in recorded human history," with one million species at risk of extinction within the next few decades. Moreover, according to the UN, biodiversity "forms the web of life that we depend on for so many things - food, water, medicine, a stable climate, economic growth, among others" and "is interconnected, intertwined, and indivisible with human life on Earth. Our societies and our economies depend on healthy and functioning ecosystems. There is no sustainable development without biodiversity. There can be no stable climate without biodiversity."
+
+
+Working together to reduce GHG emissions
+
+
+         Individuals, companies, and governments are looking at how they can reduce GHG emissions.
+      
+
+        Certain actions are necessary, like reducing use of fossil fuels, and shifting to low-carbon and renewable energy sources, like wind and solar. And, people are making individual steps, like using light-emitting diode (LED) lightbulbs and switching to electric vehicles (EVs).
+      
+
+        At Cisco, our company's purpose is to Power an Inclusive Future for All. Climate change presents a long-term strategic imperative, and we are doing our part by decarbonizing our value chain through energy-efficiency initiatives, investments in renewable energy, engagement with our supply chain partners, and improvements to the efficiency of our products. This includes our goal to reach net zero GHG emissions across our value chain by 2040, and near-term targets, which have been validated by the SBTi under its Net-Zero Standard.
+      
+
+        Information regarding Cisco's initiatives, goals and/or commitments, our latest impact, as well as policies and additional disclosures for specialized audiences, can be found in our 2022 Cisco Purpose Report and supplemental information in our Environmental, Social, and Governance (ESG) Reporting Hub.
+      
+
+         Willing to learn and engage more on environmental sustainability? In the next blog in our series, we will share more about net zero and what it means.
+      
+
+        Share:
+      
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Cisco Systems Inc. published this content on 21 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 21 March 2023 13:10:00 UTC.
+      
+

@@ -1,0 +1,77 @@
+
+Positive high-level results from the ADAURA Phase III trial showed AstraZeneca’s TAGRISSO® (osimertinib) demonstrated a statistically significant and clinically meaningful improvement in overall survival (OS), a key secondary endpoint, compared to placebo in the adjuvant treatment of patients with early-stage (IB, II and IIIA) epidermal growth factor receptor-mutated (EGFRm) non-small cell lung cancer (NSCLC) after complete tumor resection with curative intent.
+
+In May 2020, AstraZeneca announced TAGRISSO demonstrated a statistically significant and clinically meaningful improvement in disease-free survival (DFS) in this setting. In September 2022, updated results demonstrated a median DFS of nearly five and a half years.
+
+Per the ADAURA trial protocol, patients on placebo that recurred with metastatic disease had the opportunity to receive open-label TAGRISSO.
+
+Roy S. Herbst, MD, PhD, Deputy Director and Chief of Medical Oncology at Yale Cancer Center and Smilow Cancer Hospital, New Haven, Connecticut, and principal investigator in the ADAURA Phase III trial, said: “These new survival data for osimertinib reinforce the unprecedented ADAURA disease-free survival results and confirm its potential to extend patients’ lives in early-stage disease. The ADAURA results provide powerful evidence that osimertinib offers the best possible care for patients with early-stage EGFR-mutated non-small cell lung cancer who historically faced high rates of recurrence and previously had no targeted options after surgery.”
+
+Susan Galbraith, Executive Vice President, Oncology R&D, AstraZeneca, said: “The ADAURA trial brought the first targeted medicine to patients with early-stage EGFR-mutated non-small cell lung cancer. Today, these exciting overall survival results validate adjuvant TAGRISSO as the standard of care in this setting and reinforce the importance of early diagnosis and testing for EGFR mutation in lung cancer.”
+
+The safety and tolerability of TAGRISSO in the ADAURA trial were consistent with its established profile and no new safety concerns were reported.
+
+These new ADAURA OS results in the early-stage resectable setting add to the extensive body of evidence for TAGRISSO in EGFRm NSCLC which has now shown a statistically significant and clinically meaningful OS benefit in both the early adjuvant and late-stage metastatic settings. The data will be presented at a forthcoming medical meeting.
+
+Each year there are an estimated 2.2 million people diagnosed with lung cancer globally with 80-85% of patients diagnosed with NSCLC, the most common form of lung cancer.1-3 Approximately 25-30% of all patients with NSCLC are diagnosed early enough to have surgery with curative intent.4‑5 Further, 73% of patients with Stage IB and 56-65% of patients with Stage II disease will survive for five years.6 This decreases to 41% for patients with Stage IIIA and 24% for patients with Stage IIIB disease, reflecting a high unmet medical need.6
+
+AstraZeneca has several ongoing registrational trials focused on testing TAGRISSO in earlier stages of lung cancer, including in the neoadjuvant resectable setting (NeoADAURA), in the Stage IA2-IA3 adjuvant resectable setting (ADAURA2), and in the Stage III locally advanced unresectable setting (LAURA).
+
+TAGRISSO is approved to treat early-stage lung cancer in more than 90 countries, including in the US, EU, China and Japan, and additional global regulatory reviews are ongoing. TAGRISSO is also approved for the 1st-line treatment of patients with locally advanced or metastatic EGFRm NSCLC and for the treatment of locally advanced or metastatic EGFR T790M mutation-positive NSCLC in the US, EU, China, Japan and many other countries.
+
+AstraZeneca has a comprehensive portfolio of approved and potential new medicines in development for patients with lung cancer. In addition to these results, the Company has also announced today positive results from the AEGEAN Phase III trial of durvalumab in combination with neoadjuvant chemotherapy before surgery and as adjuvant monotherapy after surgery in Stage IIA-IIIB resectable NSCLC.
+
+IMPORTANT SAFETY INFORMATION
+
+INDICATIONS
+
+Please see complete Prescribing Information, including Patient Information for TAGRISSO.
+
+You may report side effects related to AstraZeneca products by clicking here.
+
+Notes
+
+Lung cancer
+
+Lung cancer is the leading cause of cancer death among both men and women, accounting for about one-fifth of all cancer deaths.1 Lung cancer is broadly split into NSCLC and small cell lung cancer.2 The majority of all NSCLC patients are diagnosed with advanced disease while approximately 25-30% present with resectable disease at diagnosis.4‑5 Early-stage lung cancer diagnoses are often only made when the cancer is found on imaging for an unrelated condition.7‑8
+
+For patients with resectable tumors, the majority eventually develop recurrence despite complete tumor resection and adjuvant chemotherapy.9
+
+ADAURA
+
+ADAURA was a randomized, double-blind, placebo-controlled, global Phase III trial in the adjuvant treatment of 682 patients with Stage IB, II, IIIA EGFRm NSCLC following complete tumor resection and, at physicians’ and patients’ discretion, adjuvant chemotherapy. Patients were treated with TAGRISSO 80mg once-daily oral tablets or placebo for three years or until disease recurrence.
+
+The trial was enrolled in more than 200 centers across more than 20 countries, including the US, Europe, South America, Asia and the Middle East. The primary endpoint was DFS in Stage II and IIIA patients and key secondary endpoints included DFS in Stage IB, II and IIIA patients, and OS in both the primary and overall populations.
+
+Though the primary data readout was originally anticipated in 2022, data from the trial were reported early following a recommendation from an Independent Data Monitoring Committee (IDMC) based on its determination of overwhelming efficacy.
+
+TAGRISSO®
+
+TAGRISSO® (osimertinib) is a third-generation, irreversible EGFR-TKI with proven clinical activity in NSCLC, including against central nervous system metastases. TAGRISSO (40mg and 80mg once-daily oral tablets) has been used to treat nearly 700,000 patients across its indications worldwide and AstraZeneca continues to explore TAGRISSO as a treatment for patients across multiple stages of EGFRm NSCLC.
+
+In addition to investigating TAGRISSO in early-stage disease, AstraZeneca is also studying the medicine in combination with chemotherapy in locally advanced and metastatic EGFRm NSCLC (FLAURA2). The Company is also researching ways to address tumor mechanisms of resistance through the SAVANNAH and ORCHARD Phase II trials, and the SAFFRON Phase III trial, which test TAGRISSO given concomitantly with savolitinib, an oral, potent and highly selective MET TKI, as well as other potential new medicines.
+
+AstraZeneca in lung cancer
+
+AstraZeneca is working to bring patients with lung cancer closer to cure through the detection and treatment of early-stage disease, while also pushing the boundaries of science to improve outcomes in the resistant and advanced settings. By defining new therapeutic targets and investigating innovative approaches, the Company aims to match medicines to the patients who can benefit most.
+
+The Company's comprehensive portfolio includes leading lung cancer medicines and the next wave of innovations, including tremelimumab and gefitinib; durvalumab and tremelimumab; fam-trastuzumab deruxtecan-nxki and datopotamab deruxtecan in collaboration with Daiichi Sankyo; savolitinib in collaboration with HUTCHMED; as well as a pipeline of potential new medicines and combinations across diverse mechanisms of action.
+
+AstraZeneca is a founding member of the Lung Ambition Alliance, a global coalition working to accelerate innovation and deliver meaningful improvements for people with lung cancer, including and beyond treatment.
+
+AstraZeneca in oncology
+
+AstraZeneca is leading a revolution in oncology with the ambition to provide cures for cancer in every form, following the science to understand cancer and all its complexities to discover, develop and deliver life-changing medicines to patients.
+
+The Company's focus is on some of the most challenging cancers. It is through persistent innovation that AstraZeneca has built one of the most diverse portfolios and pipelines in the industry, with the potential to catalyze changes in the practice of medicine and transform the patient experience.
+
+AstraZeneca has the vision to redefine cancer care and, one day, eliminate cancer as a cause of death.
+
+AstraZeneca
+
+AstraZeneca is a global, science-led biopharmaceutical company that focuses on the discovery, development, and commercialisation of prescription medicines in Oncology, Rare Diseases, and BioPharmaceuticals, including Cardiovascular, Renal & Metabolism, and Respiratory & Immunology. Based in Cambridge, UK, AstraZeneca operates in over 100 countries and its innovative medicines are used by millions of patients worldwide.
+
+Please visit astrazeneca-us.com and follow the Company on Twitter @AstraZenecaUS.
+
+References
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230308005914/en/

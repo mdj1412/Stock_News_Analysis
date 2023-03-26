@@ -1,0 +1,80 @@
+
+
+CHANDLER, Ariz., March 14, 2023 - Embedded security continues to be a high priority, and architects need vetted, easy-to-use and cost-optimized security solutions that are compliant with industry best practices. To provide architects with comprehensive embedded security solutions, Microchip Technology (Nasdaq: MCHP) today announces it has expanded its secure authentication device portfolio with six new products in its CryptoAuthentication™ and CryptoAutomotive™ IC families that meet Common Criteria Joint Interpretation Library (JIL) High rated secure key storage and support certified algorithms that comply with the Federal Information Processing Standard (FIPS).
+    
+
+      This portfolio of secure authentication devices lowers the barrier to entry and enables developers of products for new segments and applications to implement trusted authentication to prevent counterfeiting, improve quality control and safeguard the user experience. As counterfeits become prevalent across many industries, the need to implement embedded trust in many designs is critical.
+
+
+      The devices are supported by the Trust Platform Design Suite, a dedicated software tool used to onboard these ICs with Microchip's secure key provisioning service. The scalable service enables cryptographic assets to be provisioned for projects of virtually any size, ranging from tens of devices to large-scale deployments across a variety of industries such as consumer and medical disposables, automotive and industrial accessory ecosystems, wireless charging and data centers.
+    
+
+      "Designers of cost-sensitive applications that may have had limited or no secure authentication, can now add this critical function using these new additions to our security portfolio," said Nuri Dagdeviren, corporate vice president of Microchip's secure computing business unit. "Microchip remains committed to developing leading-edge, cost-optimized security products that are versatile for a wide range of end applications."
+    
+
+      Microchip added five new products to its existing portfolio of CryptoAuthentication ICs. Those ICs are hardware-based secure storage that is intended to keep secret keys hidden from unauthorized attackers:
+    
+
+
+ECC204: ECC-P256 signature and Hash-based Message Authentication Code (HMAC)
+      
+
+ECC206: Two-pin parasitic power, ECC-P256 signature and HMAC
+      
+
+SHA104: Client SHA256 MAC
+      
+
+SHA105: Host SHA256 CheckMAC
+      
+
+SHA106: Two-pin parasitic power and client SHA256 MAC
+      
+
+
+      The sixth new device is designed for the automotive market. The TA010 with ECC signature and HMAC is an AEC-Q100 Grade 1-qualified CryptoAutomotive IC that enables OEMs to implement secure authentication into their design without requiring costly modifications and to meet security requirements for future generations of their vehicles.
+    
+
+      Microchip's security products are compatible with any microprocessor (MPU) or microcontroller (MCU) and can be used as companion devices to Microchip's AVR® MCUs and Arm® core-based MPUs and MCUs. These secure authentication ICs provide customers with a versatile solution that adheres to evolving industry standards and practices.
+    
+
+Development Tools
+
+
+      The new secure authentication ICs are supported by Microchip'sTrust Platform Design Suite,MPLAB® X Integrated Development Environment (IDE), product-specific evaluation boards andCryptoAuthLib library support.
+    
+
+Availability
+
+
+      All products in the new security portfolio are currently sampling or in production. For more information, visit the CryptoAuthentication IC or CryptoAutomotive IC web pages. To purchase these devices, contact a Microchip sales representative, authorized worldwide distributor or Microchip's Purchasing and Client Services website, www.microchipDIRECT.com.
+    
+
+Resources
+
+
+      High-res images available through Flickr (feel free to publish):
+    
+
+
+        Application image: www.flickr.com/photos/microchiptechnology/52652737184/sizes/l
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Microchip Technology Incorporated published this content on 14 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 14 March 2023 11:25:08 UTC.
+      
+

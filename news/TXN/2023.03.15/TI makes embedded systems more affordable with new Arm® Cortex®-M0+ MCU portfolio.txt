@@ -1,0 +1,41 @@
+
+
+DALLAS, March 15, 2023 /PRNewswire/ -- Texas Instruments (TI) (Nasdaq: TXN) is expanding its broad analog and embedded processing semiconductor portfolio by introducing a scalable Arm® Cortex®-M0+ microcontroller (MCU) portfolio that features a wide range of computing, pinout, memory and integrated analog options.
+
+
+
+
+
+
+
+With an initial launch of dozens of MCUs supported by intuitive software and design tools, the MSPM0 MCU portfolio allows designers to spend more time innovating and less time evaluating and coding – cutting design time from months to days. Learn more about streamlining electronic designs with low-cost, easy-to-program Arm Cortex-M0+ MCUs at www.ti.com/mspm0-pr.
+"TI is building the industry's most comprehensive portfolio of Arm Cortex-M0+ based MCUs – expanding an already extensive semiconductor offering with options for general-purpose designs," said Vinay Agarwal, vice president, MSP Microcontrollers, Texas Instruments. "Our new MCUs provide the flexibility our customers need to enhance the sensing and control capabilities of their systems while cutting cost, complexity and design time."
+Find the right processing and integrated analog features for any general-purpose design
+Designers can select from a wide range of computing options from 32 MHz to 80 MHz with math acceleration and multiple configurations of integrated analog signal-chain components, including the industry's first zero-drift operational amplifier on an MCU and precision 12-bit, 4-MSPS analog-to-digital converters. This flexibility helps designers meet their current design's requirements and plan for future designs – all within the same MCU portfolio.
+With more than 100 planned MCUs this year, TI is building the MSPM0 portfolio into the industry's most comprehensive offering of Arm Cortex-M0+ MCUs.
+Reduce design time from months to days and get started within minutes
+MSPM0 MCUs can help save months of design time with software, design support resources and coding tools – including graphical tools that streamline device configuration – all created to help designers code once and then scale across future MSPM0-based designs.
+Designers can enhance system performance and memory utilization with the MSPM0 software development kit (SDK). This SDK provides a cohesive experience that includes a wide variety of drivers, libraries, over 200 easy-to-use code examples and subsystem reference designs.
+Making the future of embedded possible with scalable processing portfolios
+This new MCU portfolio builds on TI's commitment of providing designers with cost-effective and easy-to-use embedded processors to meet any design challenge. TI embedded processors help designers connect and control systems in an intelligent, reliable and secure way while also reducing cost and complexity.
+In addition to a vast software, tool and training ecosystem, all analog and embedded processing parts are supported by TI's internal manufacturing investments to help meet customer demand for decades to come.
+See MSPM0 MCUs in action at embedded world 2023
+At embedded world in Nuremberg, Germany, March 14-16, visitors to TI's booth can see how MSPM0 MCUs can increase system efficiency and processing and sensing capabilities in a variety of applications such as chamberless smoke detectors, blood pressure monitors, pulse oximeters and motor-control systems. TI will demonstrate MSPM0 MCUs in Hall 3A, Booth 215. See ti.com/embeddedworld for more information.
+Package, availability and pricing
+MSPM0L and MSPM0G MCUs are available for purchase on TI.com, with pricing starting at US$0.39 in 1,000-unit quantities. These MCUs are available in multiple package sizes with 16- to 32-pin package options and flash memory options ranging from 8 kB to 128 kB. Multiple payment and shipping options are available on TI.com. Designers can start prototyping today by requesting LaunchPad™ development kits for the MSPM0L1306 and the MSPM0G3507.
+About Texas Instruments
+Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world by making electronics more affordable through semiconductors is alive today, as each generation of innovation builds upon the last to make our technology smaller, more efficient, more reliable and more affordable – making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. It's what we do and have been doing for decades. Learn more at TI.com.
+Trademarks
+All registered trademarks and other trademarks belong to their respective owners.
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ti-makes-embedded-systems-more-affordable-with-new-arm-cortex-m0-mcu-portfolio-301772198.html
+SOURCE  Texas Instruments
+
+

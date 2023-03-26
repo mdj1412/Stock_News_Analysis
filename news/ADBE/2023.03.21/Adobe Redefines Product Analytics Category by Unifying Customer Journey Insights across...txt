@@ -1,0 +1,21 @@
+
+Today, at Adobe Summit – the world’s largest Digital Experience Conference – Adobe (Nasdaq:ADBE) unveiled new Adobe Product Analytics in Adobe Experience Cloud. The new application reimagines the product analytics category by unifying customer journey insights across marketing and product. For the first time teams focused on customer experiences can benefit from a truly unified view of the customer and collaborate seamlessly across an organization – driving profitable growth as a result.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230321005561/en/
+The need for product teams to work more closely with their marketing counterparts has grown significantly in recent years, as product-led growth depends on rapid feedback analysis and feature iteration following an initial product launch. Working together, product and marketing teams can create more effective customer engagement strategies, messaging, and enablement content, ultimately improving customers’ opinions of brands.
+
+“Across every sector, brands require a more comprehensive view of the customer journey, which is driving the convergence of the analytics space across product, marketing and customer experience,” said Amit Ahuja, senior vice president, Adobe Experience Cloud platform and products at Adobe. “As Adobe continues to expand Adobe Experience Cloud, we are introducing Product Analytics to deliver insights across online and offline touchpoints, enabling product teams and marketers to coordinate more closely.”
+
+Adobe’s new offering for product teams includes self-service capabilities that reduce ad hoc requests to data analysts and data scientists, saving teams countless hours. Users will be able to unlock insights on patterns and changes in customer engagement over time, growth in the user base, and noteworthy trends across audiences. Adobe Product Analytics will surface product experience friction points, enabling timely changes, as well as improving future product roadmaps. Brands can quickly optimize products and measure the impact of feature releases to uncover how they affect engagement in other channels.
+
+Built on Adobe Experience Platform, Adobe Product Analytics brings together cross-channel insights and empowers teams to uncover engagement opportunities or where customers hit roadblocks. With Adobe Journey Optimizer, teams can take immediate action on insights from other touchpoints such as paid media to identify what drove users to new products and ultimately drive more targeted personalization. Through Intelligent Captions in Customer Journey Analytics, powered by Adobe Sensei GenAI, brands can answer questions with greater speed, and instantly offer descriptions on key takeaways for visualizations from cohort tables to fallout charts.
+
+"We are excited about the new capabilities offered in Product Analytics, and the potential it will have to enable our product teams to uncover deep subscriber insights while collaborating across teams,” said Lindsey Weaver, vice president of global product analytics at Warner Bros. Discovery. “With this unified view of the customer journey, Adobe is empowering us to better understand our subscribers and improve customer experiences across all our streaming products."
+
+“As an Adobe Customer Journey Analytics user, we are thrilled to bring product teams and analysts together, enhancing our data-driven approach to developing and optimizing touchpoints,” said Andreas Stuht, head of e-commerce analytics at OTTO (GmbH & Co KG). “As we grow our leadership in e-commerce, we can generate valuable insights through Customer Journey Analytics and are confident the new product analytics capabilities will help us work in a more integrated fashion.”
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005561/en/

@@ -1,0 +1,351 @@
+
+
+
+
+          Morgan Stanley
+        
+
+          TMT Conference
+        
+
+          A Leading Provider of Smart, Connected and Secure Embedded Solutions
+        
+
+
+
+          Ganesh Moorthy
+        
+
+          President & CEO
+        
+
+          March 7, 2023
+        
+
+
+
+
+        SAFE HARBOR
+      
+
+        Forward Looking Statement Safe Harbor:
+      
+
+        During the course of this presentation, we will make projections or other forward-looking statements regarding the future financial performance of the company (including our guidance) or future events, including our strategy, growth drivers, industry outlook, industry trends, our financial model, supply constraints, managing a soft landing, performance in industry cycles, strong cash generation, capital return strategy including debt paydown, dividend growth, and buybacks and our winning formula. These statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties that could cause our actual results to differ materially, including, but not limited to: any continued uncertainty, fluctuations or weakness in the U.S. and world economies (including China) due to rising interest rates, high inflation or the impact of the COVID-19 pandemic (including lock-downs in China), actions taken or which may be taken by the Biden administration or the U.S. Congress, monetary policy, political, geopolitical, trade or other issues in the U.S. or internationally (including the Ukraine-Russia military conflict), changes in demand or market acceptance of our products and the products of our customers and our ability to meet any continued increases in market demand; the impact that the CHIPS Act will have on increasing manufacturing capacity in our industry by providing incentives for us, our competitors and foundries to build new wafer manufacturing facilities; the amount and timing of any incentives we may receive under the CHIPS Act, the impact of current and future changes in U.S. corporate tax laws (including the Inflation Reduction Act of 2022 and the Tax Cuts and Jobs Act of 2017), foreign currency effects on our business; the mix of inventory we hold and our ability to satisfy short-term orders from our inventory; changes in utilization of our manufacturing capacity and our ability to effectively manage and expand our production levels to meet any continued increases in market demand; the impact of inflation on our business; competitive developments including pricing pressures; the level of orders that are received and can be shipped in a quarter; our ability to realize the expected benefits of our preferred supply program and our long-term supply assurance program; changes or fluctuations in customer order patterns and seasonality; our ability to obtain a sufficient supply of wafers from third party wafer foundries to meet our increasing needs and the cost of such wafers, our ability to obtain additional capacity from our suppliers to increase production to meet any continued increases in market demand; our ability to successfully integrate the operations and employees, retain key employees and customers and otherwise realize the expected synergies and benefits of our acquisitions; the impact of any future significant acquisitions or strategic transactions we may make; the costs and outcome of any current or future litigation or other matters involving our Microsemi acquisition, the Microsemi business, intellectual property, customers, or other issues; the costs and outcome of any current or future tax audit or investigation regarding our business or the business of Microsemi, our actual average stock price in the March quarter and the impact such price will have on our share count; fluctuations in our stock price and trading volume which could impact the number of shares we acquire under our share repurchase program and the timing of such repurchases; disruptions in our business or the businesses of our customers or suppliers due to natural disasters (including any floods in Thailand), terrorist activity, armed conflict, war, worldwide oil prices and supply, public health concerns (including the COVID-19 pandemic) or disruptions in the transportation system; and general economic, industry or political conditions in the United States or internationally.
+      
+
+        For a detailed discussion of these and other risk factors, please refer to Microchip's filings on Forms 10-K and 10-Q. You can obtain copies of Forms 10-K and 10-Q and other relevant documents for free at Microchip's website (www.microchip.com) or the SEC's website (www.sec.gov) or from commercial document retrieval services. You are cautioned not to place undue reliance on our forward-looking statements, which speak only as of the date such statements are made. Microchip does not undertake any obligation to publicly update any forward-looking statements to reflect events, circumstances or new information after the date of this presentation or to reflect the occurrence of unanticipated events.
+      
+
+Use of Non-GAAPFinancial Measures: In this presentation, we have included certain non-GAAP financial information, including for example, adjusted EBITDA, non-GAAP gross profit margin and operating profit margin and free cash flow. Our non-GAAP results exclude the effect, where applicable, of share-based compensation, COVID-19 shelter in place restrictions on manufacturing activities, manufacturing excursion, expenses related to our acquisition activities (including intangible asset amortization, severance, and other restructuring costs, and legal and other general and administrative expenses associated with acquisitions including legal fees and expenses for litigation and investigations related to our Microsemi acquisition), professional services associated with certain legal matters, IT security remediation costs, non-cash interest expense on our convertible debentures, losses on the settlement of debt, and gains and losses related to equity investments. For the third quarters of fiscal 2023 and fiscal 2022, our non-GAAP income tax expense is presented based on projected cash taxes for the fiscal year, excluding transition tax payments under the Tax Cuts and Jobs Act. Our determination of our non-GAAP measures might not be the same as similarly titled measures used by other companies, and it should not be construed as a substitute for amounts determined in accordance with GAAP. There are limitations associated with using non-GAAP measures, including that they exclude financial information that some may consider important in evaluating our performance. Management compensates for this by presenting information on both a GAAP and non-GAAP basis for investors and providing reconciliations of the GAAP and non-GAAP results. Non-GAAP measures should not be considered in isolation or as an alternative to net income, cash from operations or other measures of profitability, liquidity or performance under GAAP. Certain supplemental information and reconciliations are available on our website at www.microchip.com/investorsunder the heading "Supplemental Financial Information".
+      
+
+
+
+
+          Corporate Overview
+        
+
+          Leading Total Systems Solutions Provider:
+        
+
+
+
+
+
+High-performancestandard and specialized Microcontroller, Digital Signal Controller and$6.8Microprocessor solutions
+
+
+
+
+Mixed-Signal,Analog, Interface and SecurityBillion solutions
+            
+
+Wireless and Wired Connectivity solutions
+
+
+
+
+
+
+FPGA solutions
+
+
+Clock and Timing solutions
+
+
+Non-volatileEEPROM and Flash Memory solutions
+            
+
+Flash IP solutions
+
+
+
+
+
+
+ FY23 net sales expected to be ~$8.4 Billion
+
+
+ Elite long-termnon-GAAP profitability & returns  Diversified and resilient business model
+        
+
+ Durable end markets
+        
+
+ Solid track-record of shareholder value creation
+        
+
+3 *Net sales for FY23 represents actual results for the first three quarters + midpoint of Q4FY23 guidance
+        
+
+
+
+
+
+          Fiscal 4th Quarter 2023 Guidance (non-GAAP)*
+
+
+
+
+
+
+
+
+
+
+                  Q3 FY23
+                
+
+
+
+                  Q4 FY23 Guide
+                
+
+
+
+
+
+
+
+                  Actual
+                
+
+
+
+                  @ mid-point
+                
+
+
+
+
+
+                  Revenue ($ Million)
+                
+
+
+
+                  $2,169.2
+                
+
+
+
+                  $2,223.5
+                
+
+
+
+
+
+                  4.6% QoQ
+                
+
+
+
+                  2.5% QoQ
+                
+
+
+
+
+
+
+
+                  23.4% YoY
+                
+
+
+
+                  20.6% YoY
+                
+
+
+
+
+
+                  Gross Margins
+                
+
+
+
+                  68.1%
+                
+
+
+
+                  68.2%
+                
+
+
+
+
+
+                  Operating Expenses
+                
+
+
+
+                  20.6%
+                
+
+
+
+                  20.7%
+                
+
+
+
+
+
+                  Operating Margins
+                
+
+
+
+                  47.5%
+                
+
+
+
+                  47.5%
+                
+
+
+
+
+
+                  Earnings per share
+                
+
+
+
+                  $1.56
+                
+
+
+
+                  $1.62**
+
+
+
+
+
+
+                  30% YoY
+                
+
+
+
+                  20% YoY
+                
+
+
+
+
+
+
+
+
+
+
+            Long Term
+          
+
+            Model
+          
+
+            FY22 - 26 CAGR of 10% to 15%
+          
+
+            67.5% to 68.5%
+          
+
+            22.5% to 23.5%
+          
+
+            44% to 46%
+          
+
+
+
+
+
+
+
+                4
+              
+
+
+
+                *Represents guidance provided on February 02, 2023
+              
+
+
+
+
+
+                **Includes increase in cash tax rate in FY23
+              
+
+
+
+
+
+
+
+                Additional guidance metrics can be found in the Q3 FY2023 earning release. Click here
+
+
+
+
+
+
+
+
+        Fiscal 1st Quarter 2024 Expectation
+      
+
+        We now expect that our June 2023 quarter sequential revenue growth will be similar in magnitude to our March 2023 quarter guidance
+      
+
+        5
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Microchip Technology Incorporated published this content on 07 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 07 March 2023 16:54:00 UTC.
+      
+

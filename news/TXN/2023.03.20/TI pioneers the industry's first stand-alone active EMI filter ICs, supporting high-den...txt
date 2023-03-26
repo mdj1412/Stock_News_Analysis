@@ -1,0 +1,40 @@
+
+
+DALLAS, March 20, 2023 /PRNewswire/ -- Texas Instruments (TI) (Nasdaq: TXN) today debuted the industry's first stand-alone active electromagnetic interference (EMI) filter integrated circuits (ICs), enabling engineers to implement smaller, lighter EMI filters, to enhance system functionality at reduced system cost while simultaneously meeting EMI regulatory standards.
+
+
+
+
+
+
+
+As electrical systems become increasingly dense and interconnected, mitigating EMI is a critical system design consideration for engineers. With innovative developments from Kilby Labs, TI's research and development labs for new concepts and breakthrough ideas, the new portfolio of stand-alone active EMI filter ICs can sense and cancel common-mode EMI by as much as 30 dB at frequencies between 100 kHz and 3 MHz in single- and three-phase AC power systems. This capability enables designers to reduce the size of chokes by 50%, compared to purely passive filter solutions, and meet stringent EMI requirements. For more information on TI's new power-supply filter ICs portfolio, see TI.com/AEF.
+"To meet customer needs for higher performance and lower-cost systems, TI continues to advance in power innovations to cost-effectively address EMI design challenges," said Carsten Oppitz, general manager for switching regulators at TI. "We believe that this new portfolio of stand-alone active EMI filter ICs will further help engineers solve their design challenges and maximize performance and power density in automotive, enterprise, aerospace and industrial applications."
+Significantly reduce system size, weight and cost and improve reliability
+One of the main challenges when designing high-density switching regulators is how to implement a compact and efficient design of the EMI input filter. Through capacitive amplification, these new active EMI filter ICs enable engineers to shrink the inductance value of common-mode chokes by as much as 80%, helping to cost-effectively achieve improved mechanical reliability and increased power density.
+The new family of active EMI filter ICs consists of the TPSF12C1 and TPSF12C3 for single- and three-phase commercial applications and TPSF12C1-Q1 and TPSF12C3-Q1 for automotive applications. These devices can efficiently reduce the heat generated in a power-supply EMI filter, which also extends filter capacitor lifetimes and increases system reliability.
+The new active EMI filter ICs incorporate sensing, filtering, gain and injection stages. Offered in a SOT-23 14-pin package, the IC integrates compensation and protection circuitry to further reduce the implementation complexity and minimize the number of external components.
+Mitigate common-mode emissions to meet stringent EMI standards
+Comité International Spécial des Perturbations Radioélectriques (CISPR) standards are the global benchmark for limiting EMI in electrical and electronic devices. The TPSF12C1, TPSF12C3, TPSF12C1-Q1, and TPSF12C3-Q1 help detect, process and reduce EMI in a broad range of AC/DC power supplies, on-board chargers, servers, UPS and other similar systems where common-mode noise dominates. Therefore, engineers will be able to address EMI design challenges and meet CISPR 11, CISPR 32 and CISPR 25 EMI requirements.
+TI's active EMI filter ICs meet IEC 61000-4-5 surge immunity requirements, thus minimizing the need for external protection components, such as transient voltage suppression (TVS) diodes. With supporting tools, such as PSpice® for TI simulation models and quick-start calculators, designers can easily select and implement the optimal components for their system. To learn more about designing with this new family of active EMI filter ICs, read the technical article, "How a stand-alone active EMI filter IC shrinks common-mode filter size."
+See low-EMI and high power-density designs at APEC 2023
+TI will showcase the newest additions to its power-management portfolio with stand-alone low-EMI active filter designs featuring the TPSF12C1-Q1 at the 2023 Applied Power Electronics Conference (APEC) March 19-23. In addition, TI will showcase system-level gallium nitride (GaN) and silicon carbide (SiC) solutions for increasing power density and efficiency. Visit TI at Booth No. 916, or see TI.com/APEC for more information.
+Throughout APEC, TI power experts will lead 38 industry and technical sessions to address power management design challenges. The full schedule of TI experts' industry and technical sessions is available now at TI.com/APEC.
+TI remains committed to pushing power further with continuous breakthrough achievements such as low-EMI power innovations that enable engineers to shrink filter size and cost, while significantly maximizing performance, reliability and power density of designs.
+Package, availability and pricing
+Preproduction quantities of the automotive-grade TPSF12C1-Q1 and TPSF12C3-Q1 are available now, only on TI.com, in a 4.2-mm-by-2-mm SOT-23 14-pin package. The commercial-grade TPSF12C1 and TPSF12C3 will be available on TI.com in preproduction quantities by end of March 2023. Pricing starts at US$0.78 in 1,000-unit quantities. The TPSF12C1QEVM and TPSF12C3QEVM evaluation modules are available on TI.com for US$75. Multiple payment and shipping options are available on TI.com. TI expects all devices to be available in volume production in the second quarter of 2023, and plans to release additional stand-alone active EMI filter ICs later in 2023.
+About Texas Instruments
+Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world by making electronics more affordable through semiconductors is alive today, as each generation of innovation builds upon the last to make our technology smaller, more efficient, more reliable and more affordable – making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. It's what we do and have been doing for decades. Learn more at TI.com.
+Trademarks
+All registered trademarks and other trademarks belong to their respective owners.
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ti-pioneers-the-industrys-first-stand-alone-active-emi-filter-ics-supporting-high-density-power-supply-designs-301775684.html
+SOURCE  Texas Instruments
+
+

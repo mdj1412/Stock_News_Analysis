@@ -1,0 +1,114 @@
+
+
+      The Academy Award nominations are in - and for the 15th year in a row, NVIDIA technologies worked behind the scenes of every film nominated for Best Visual Effects.
+    
+
+      The five VFX contenders for the 95th annual Academy Awards, taking place on Sunday, March 12, include:
+    
+
+
+All Quiet on the Western Front
+
+
+Avatar: The Way of Water
+
+
+The Batman
+
+
+Black Panther: Wakanda Forever
+
+
+Top Gun: Maverick
+
+
+
+      For over a decade, filmmakers and VFX studios around the world have used NVIDIA technologies to power the most advanced, visually rich movies ever made. Today, creators and artists are transforming VFX using advanced capabilities in graphics, like real-time ray tracing, simulation, AI and virtual production - all powered by NVIDIA RTX technologies.
+    
+
+Diving Into Natural Wonders With Cutting-Edge Graphics
+
+
+      Award-winning studio Wētā FX created the stunning visuals for director James Cameron's much-anticipated sequel, Avatar: The Way of Water. The film is one of Wētā's largest VFX projects to date. The team created 3,240 shots - which is 98% of the total shots in the film, more than two-thirds of which featured water.
+    
+
+      In computer graphics (CG), making water look natural and realistic - from how it moves off a character's skin to how it drips from clothing - is one of the biggest challenges for visual effects artists. But for this film, Wētā developed and implemented a new water toolset that advanced their capabilities across simulation, rendering and more.
+    
+
+      The team started with pre-production and performance capture using a real-time, GPU-based ocean spectrum deformer, which served as a consistent, physically based starting point for water on set. From there, Wētā created a new suite of water solvers - many of them within Loki, the studio's in-house multiphysics simulation framework. Loki allows coupling of multiple solvers in any configuration. For example, hair, cloth, air and water can all be simulated together.
+    
+
+      Other key innovations from Wētā centered on both dry and wet performance capture, new deep learning models to process stereo camera images and generate depth maps for compositing, and neural networks to assist with facial animation and muscle systems.
+    
+
+Creating Captivating Car Chases Through Gritty Gotham
+
+
+      Wētā FX was also behind the cinematic visuals for The Batman. The team, led by VFX supervisor Anders Langlands, worked on the gripping highway chase between Batman and the infamous villain, the Penguin. As they race through the city of Gotham under heavy rainfall, the Penguin sets off a sequence of car crashes and explosions.
+    
+
+      To create a feeling of danger and exhilaration, the team put the car chase scene together through heavily enhanced live action and completely CG shots. Rendering the proper lighting; simulating realistic raindrops colliding with multiple surfaces, hydroplaning and wheel spray; and illuminating rain through headlights and streetlights all added to the complexity of these shots. Wētā also worked on background environments for scenes in the Batcave and Gotham's City Hall.
+    
+
+Taking CGI to the Sky
+
+
+      The practical effects and cinematography behind Top Gun: Maverick was an instant highlight of this heart-pounding Hollywood blockbuster film. But to add more layers of realism to those outstanding aerial shots, VFX Supervisor Ryan Tudhope and the team at Method Studios partnered with the camera department, aerial coordinators and the United States Navy to film extensive air-to-air and ground-to-air footage of real jets. They captured over 800 hours of aerial stunts, mounts and plates to provide their team with a practical foundation for the visual effects work.
+    
+
+      The Top Gun: Maverick team implemented various VFX techniques, creating a surprising 2,400 VFX shots for the movie. The visual effects included creating and adding CG planes in scenes, as well as adding missiles, smoke and explosions in various action sequences. The invisible nature of the visual effects in Top Gun: Maverick make it a top contender for the Academy Award for Best Visual Effects.
+    
+
+A New Swimlane for Underwater Worlds
+
+
+      In Black Panther: Wakanda Forever, Wētā FX further demonstrated its leadership in creating photorealistic underwater sequences. Chris White, visual effects supervisor for the film, was tasked with creating the Mesoamerican-inspired Talokan underwater kingdom.
+    
+
+      To get a realistic look for the characters in this undersea world, Wētā used a combination of live-action sequences shot in water tanks and dry-for-wet shots that helped capture realistic underwater motion for the characters, clothes and hair.
+    
+
+      Wētā also reflected how various skin tones would react to light with the added complexity of a murky underwater environment. The bar for realistic water simulation has once again been raised by Wētā FX in Blank Panther: Wakanda Forever.
+    
+
+All Action on the VFX Front
+
+
+      Movie magic is made when visual effects are so seamless that the audience remains completely immersed in the story, not realizing that what they're seeing is an effect. This is how VFX supervisor Markus Frank and production company Cine Chromatix earned their Best Visual Effects nomination for All Quiet on the Western Front.
+    
+
+      To authentically tell the story of two young soldiers during World War I, Cine Chromatix and the film's visual effects teams focused on the fine details needed to craft VFX that are hidden in plain sight.
+    
+
+      The result is stunning. Even after watching Cine Chromatix's VFX breakdown reel for the film, viewers may find themselves scrubbing back and forth to decipher fact from fiction.
+    
+
+See How Oscar-Nominated VFX Are Created at GTC
+
+
+      NVIDIA congratulates all of this year's nominees for the Academy Award for Best Visual Effects.
+    
+
+      Learn more about visual effects, AI, virtual production and animation at NVIDIA GTC, a global technology conference taking place online March 20-23. Register for free and hear from industry luminaries creating stunning visuals in film and TV. Check out all the media and entertainment sessions at GTC.
+    
+
+Featured image courtesy of 20th Century Studios.
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Nvidia Corporation published this content on 07 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 07 March 2023 23:26:03 UTC.
+      
+

@@ -1,0 +1,31 @@
+
+Today, at Adobe Summit – the world’s largest Digital Experience Conference – Adobe announced Adobe Express for Enterprise, a universal creative tool enabling anyone in the enterprise, at any creative skill level, to easily create, share and collaboratively review high-quality and colorful on-brand content, like multimedia assets, social posts and much more.
+
+The new Adobe Express offering is purpose-built for enterprises, enabling even the most decentralized organizations to streamline and accelerate content development. Integrated with Adobe Experience Manager (AEM) Assets, Adobe Express for Enterprise will streamline end-to-end content development workflows, enabling brands to meet ever-increasing demands for customer engagement across channels. Adobe Firefly, Adobe’s new family of creative generative AI models, first focused on generating images and text effects that are safe for commercial use, will bring even more precision, power, speed and ease directly into Adobe Express workflows.
+
+Developing and publishing content at scale has become a significant challenge for businesses, pushing creative teams to their limits. Businesses that expand content creation beyond their limited pool of professional designers unlock immense opportunities to accelerate development. Adobe Express for Enterprise democratizes creativity beyond design teams by offering enterprises three benefits: An intuitive creative application anyone can use, the ability to create branded templates for reuse and an unparalleled collection of high-quality curated assets, templates and collaborative workflows. Together, these capabilities empower marketers, sales teams and in-house content creators to easily and quickly create on-brand content, ranging from social posts and videos to design elements and documents.
+
+“Over the past year, Adobe Express has successfully demonstrated the unique ability to unlock creativity across users of any creative skill level, everyone from those just starting out to experienced creative professionals,” said Govind Balakrishnan, senior vice president, Adobe Express Product at Adobe. “Now Adobe Express for Enterprise will connect teams of all types – from creatives to communicators – as a creative hub, with the highest quality collection of assets and templates, integrated libraries and new brand control features, enabling anyone to create and share on-brand content at scale.”
+
+“The demand for creating on-brand content that is delivered quickly and at scale, presents a very real challenge to businesses everywhere,” said Bridget Esposito, vice president and group creative director at Prudential Financial. “Adobe Express for Enterprise modernizes the creative workflow, saving creatives time by enabling teams to self-serve on repeatable projects, and improving speed to market while maintaining a consistent brand experience.”
+
+Building on Successful Foundations
+
+Supporting enterprises’ rapidly growing content supply chain needs, Adobe Express for Enterprise connects with enterprise solutions to facilitate and streamline end-to-end content workflows, leading with the integration of Adobe Express and Adobe Experience Manager (AEM) Assets that will enable unified content planning, creation, collaborative review, distribution and analysis. This integration will unleash creativity across every organization, providing AEM Assets users – from marketers to business professional – the tools they need to create and distribute compelling customer experiences across digital channels at scale.
+
+In addition to integrating AI-powered capabilities developed for Adobe Creative Cloud applications including Photoshop, Premiere Pro and Acrobat, Adobe Express for Enterprise includes access to stock images, videos, fonts, design assets and templates, bringing the best of Adobe to customers of every skill level. Adobe Express for Enterprise also incorporates new collaboration capabilities debuted in Creative Cloud and Document Cloud, enabling seamless creation, sharing and feedback loops across content development workflows. With Firefly, producing limitless variations of content and making changes – all on brand – will be quick, simple and generate content designed to be safe for commercial use.
+
+Ready for the Future
+
+Adobe Express frequently rolls out new features and will soon offer creators expanded video editing powers with a new mixed-media editor, Adobe Firefly generative AI capabilities to produce unique fonts, images and backgrounds, and new opportunities to collaborate with creators across other Adobe Creative Cloud apps.
+
+Availability
+
+Adobe Express for Enterprise is now available to Adobe Creative Cloud enterprise subscribers.
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005565/en/

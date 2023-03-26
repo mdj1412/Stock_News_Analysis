@@ -1,0 +1,321 @@
+
+Seagen Inc. (Nasdaq: SGEN) today announced the presentation of 17 abstracts featuring new clinical and preclinical data at the upcoming American Association for Cancer Research (AACR) Annual Meeting taking place in Orlando from April 14-19, 2023. The broad range of data being presented at this year’s meeting includes research from Seagen’s approved medicines, as well as data from early-stage clinical, preclinical, and discovery research programs.
+
+“Seagen’s robust presence at AACR this year, highlighting progress across our diverse pipeline, underscores our commitment to improving and extending the lives of people living with cancer,” said Roger Dansey, M.D., President of Research and Development and Chief Medical Officer at Seagen. “As a pioneer in antibody-drug conjugates, we strive to optimize and expand the potential of our core technology, while also progressing innovative, targeted cancer approaches.”
+
+Highlights include an interim analysis from the innovaTV 207 Phase 2 study of tisotumab vedotin (TV) given every 2 weeks in patients with recurrent or metastatic squamous cell carcinoma of the head and neck who have progressed after prior platinum combination, immunotherapy, and targeted therapy, if eligible. TV, which is being developed in partnership with Genmab, is a tissue factor (TF)-directed antibody-drug conjugate (ADC). The innovaTV 207 study is currently ongoing and evaluating alternative dosing regimens of TV across multiple advanced solid tumors.
+
+Other notable clinical data include initial results from a Phase 1 dose-escalation study of SEA-TGT monotherapy in patients with advanced malignancies. SEA-TGT is a novel investigational nonfucosylated human IgG1 antibody directed against TIGIT, an inhibitory immune checkpoint receptor that has emerged as a clinically relevant immuno-oncology target. SEA-TGT continues to be evaluated both as monotherapy and in combination with an anti-PD1 agent.
+
+Seagen will also present new preclinical findings on the antitumor activity of disitamab vedotin, an ADC that targets cancers expressing HER2, as a monotherapy and in combination with tucatinib in breast and gastric cancer models, and on SGN-B6A, a wholly-owned, first-in-class vedotin ADC that targets integrin beta-6, which is highly expressed in a range of solid tumors.
+
+Seagen and Sanofi will also unveil the first preclinical data from a novel topoisomerase I inhibitor ADC targeting CEACAM5, showing potent antitumor activity in patient-derived colorectal cancer models. These are the first data disclosed from the companies’ 2022 collaboration to develop and commercialize multiple novel ADCs.
+
+Additional preclinical data disclosures are planned, highlighting vedotin programs and novel ADC and tumor targeting technologies, including payloads with immune stimulatory properties.
+
+Details of Seagen Presentations at AACR Annual Meeting 2023
+
+Abstract Title
+
+Abstract #
+
+Presentation Time
+
+Lead Author
+
+ADCETRIS® (brentuximab vedotin)
+
+CD30 is a marker of activated effector regulatory T cells in solid tumors providing clinical rationale for the combination of brentuximab vedotin and PD-1 inhibitors
+
+3253
+
+Poster Presentation
+
+ 
+
+Clinical Research Excluding Trials / Combination Immunotherapies 1
+
+Mon., April 17
+
+1:30 - 5:00 p.m. ET
+
+B. Grogan
+
+Exposure-response and age subgroup analyses to support body-weight (BW) dosing of brentuximab vedotin (BV) in newly diagnosed high-risk classical Hodgkin lymphoma (cHL) in children and young adults (aged 2-21 years [y]): A randomized Children’s Oncology Group phase 3 trial (AHOD1331)
+
+6737
+
+Poster Presentation
+
+ 
+
+Clinical Research Excluding Trials / Preclinical Therapies and Clinical Observations in Pediatric Oncology
+
+Wed., April 19
+
+9:00 a.m. - 12:30 p.m. ET
+
+Z. Zhang
+
+PADCEV® (enfortumab vedotin)
+
+Enfortumab vedotin, a Nectin-4-directed antibody-drug conjugate, demonstrates compelling antitumor activity in non-muscle invasive bladder cancer models and accurately predicts minimal systemic exposure when administered by intravesical instillation in patients
+
+LB246
+
+Poster Presentation
+
+ 
+
+Late-Breaking Research: Experimental and Molecular Therapeutics 2
+
+Tues., April 18
+
+1:30 - 5:00 p.m. ET
+
+D. Olson
+
+TIDVAK® (tisotumab vedotin)
+
+Tisotumab vedotin (TV) in squamous cell carcinoma of head and neck (SCCHN): interim analysis from innovaTV 207
+
+CT164
+
+Poster Presentation
+
+ 
+
+Phase II Clinical Trials 1
+
+Mon., April 17
+
+1:30 - 5:00 p.m. ET
+
+B. Cirauqui
+
+TUKYSA® (tucatinib)
+
+Phase 3 study of tucatinib or placebo in combination with trastuzumab and pertuzumab as maintenance therapy for HER2+ metastatic breast cancer (HER2CLIMB-05, trial-in-progress)
+
+CT065
+
+Poster Presentation
+
+ 
+
+Phase II and Phase III Clinical Trials in Progress
+
+Mon., April 17
+
+9:00 a.m. - 12:30 p.m. ET
+
+E. Hamilton
+
+Tucatinib does not alter oxaliplatin PK or associated renal function: An OCT2/MATE transport inhibition study
+
+5060
+
+Poster Presentation
+
+ 
+
+Experimental and Molecular Therapeutics - Theranostics and Radionuclides / Pharmacologic Approaches
+
+Tues., April 18
+
+1:30 - 5:00 p.m. ET
+
+A. Topletz-Erickson
+
+Disitamab Vedotin
+
+Disitamab vedotin, an investigational HER2-directed antibody-drug conjugate, shows potent antitumor activity as a monotherapy and in combination with tucatinib in preclinical cancer models
+
+560
+
+Poster Presentation
+
+ 
+
+Experimental and Molecular Therapeutics / Oncogenes and Tumor Suppressor Genes as Targets for Therapy 1
+
+Sun., April 16
+
+1:30 - 5:00 p.m. ET
+
+K. Willis
+
+Early-Stage Programs
+
+SGN-BB228, a CD228-directed costimulatory antibody anticalin bispecific provides potent and conditional 4-1BB costimulation to T cells in vivo and in an in vitro model of T-cell exhaustion
+
+ 
+
+5676
+
+Poster Presentation
+
+ 
+
+Clinical Research Excluding Trials / Therapeutic Antibodies, Including Engineered Antibodies
+
+Tues., April 18
+
+1:30 - 5:00 p.m. ET
+
+B. Updegraff
+
+SGN-B6A induces immunogenic cell death as an additional mechanism of action
+
+1522
+
+Poster Presentation
+
+ 
+
+Experimental and Molecular Therapeutics / Antibody-Drug Conjugates
+
+Mon., April 17
+
+9:00 a.m. - 12:30 p.m. ET
+
+V. Trang
+
+Generation of an antibody-drug conjugate-optimized TLR7/8 agonist payload
+
+1542
+
+Poster Presentation
+
+ 
+
+Experimental and Molecular Therapeutics / Antibody-Drug Conjugates
+
+Mon., April 17
+
+9:00 a.m. - 12:30 p.m. ET
+
+K.P. Wang
+
+Phase 1 dose-escalation study of SEA-TGT monotherapy in patients with advanced malignancies
+
+CT265
+
+Poster Presentation
+
+ 
+
+Phase I Clinical Trials 2
+
+Tues., April 18
+
+1:30 - 5:00 p.m. ET
+
+E. Garralda Cabanas
+
+Using a clinical utility index (CUI) to determine the optimal biological dose of a nonfucosylated anti-TIGIT antibody: A proposed alternative to maximum tolerated dose (MTD)
+
+5668
+
+Poster Presentation
+
+ 
+
+Clinical Research Excluding Trials / Therapeutic Antibodies, Including Engineered Antibodies
+
+Tues., April 18
+
+1:30 - 5:00 p.m. ET
+
+G. Patilea-Vrana
+
+A preclinical model of acquired anti-PD-1 resistance is responsive to SEA-TGT, an effector-function enhanced anti-TIGIT monoclonal antibody
+
+6361
+
+Poster Presentation
+
+ 
+
+Immunology / Immune Checkpoints
+
+Wed., April 19
+
+9:00 a.m. - 12:30 p.m. ET
+
+D. Gruber
+
+A novel topoisomerase I inhibitor antibody-drug conjugate targeting CEACAM5 has potent antitumor activity in colorectal cancer models
+
+4890
+
+Poster Presentation
+
+ 
+
+Experimental and Molecular Therapeutics / Anticancer Approaches: Antibody-Drug Conjugates, Epigenetics, and Tumor Environment
+
+Tues., April 18
+
+1:30 - 5:00 p.m. ET
+
+Y. Baudat
+
+Discovery Research
+
+Oxidized anthracycline payloads induce antitumor immunogenic cell death and show linker-dependent tolerability when delivered as ADCs
+
+2013
+
+Poster Presentation
+
+ 
+
+Chemistry / Drug Delivery
+
+Mon., April 17
+
+9:00 a.m. - 12:30 p.m. ET
+
+J. Hamilton
+
+Reversible chemical modification of antibodies: A complementary approach to tuning FcγR binding that maintains antitumor activity while mitigating peripheral immune activation
+
+2656
+
+Poster Presentation
+
+ 
+
+Experimental and Molecular Therapeutics / Antibody Technologies
+
+Mon., April 17
+
+9:00 a.m. - 12:30 p.m. ET
+
+P. Moquist
+
+MMAE drives immunomodulatory changes in a preclinical xenograft model that are distinct from other clinical-stage ADC payloads
+
+4892
+
+Poster Presentation
+
+ 
+
+Experimental and Molecular Therapeutics / Anticancer Approaches: Antibody-Drug Conjugates, Epigenetics, and Tumor Environment
+
+Tues., April 18
+
+1:30 - 5:00 p.m. ET
+
+M. Ulrich
+
+About Seagen
+
+Seagen Inc. is a global biotechnology company that discovers, develops and commercializes transformative cancer medicines to make a meaningful difference in people’s lives. Seagen is headquartered in the Seattle, Washington area, and has locations in California, Canada, Switzerland and the European Union. For more information on our marketed products and robust pipeline, visit www.seagen.com and follow @SeagenGlobal on Twitter.
+
+Forward-Looking Statements
+
+Certain statements made in this press release are forward-looking, such as those, among others, relating to the therapeutic potential of Seagen’s products and product candidates, including their potential efficacy, safety and therapeutic uses, as well as the company’s pipeline, technologies, collaborations and planned or ongoing clinical trials. Actual results or developments may differ materially from those projected or implied in these forward-looking statements. Factors that may cause such a difference include without limitation the difficulty and uncertainty of pharmaceutical product development, including the risks that the company may experience delays in its clinical trials or otherwise experience failures or setbacks in its clinical development programs due to lack of efficacy, adverse events or other factors, and that adverse regulatory actions may occur. More information about the risks and uncertainties faced by Seagen is contained under the caption “Risk Factors” included in the company’s Annual Report on Form 10-K for the year ended December 31, 2022, filed with the Securities and Exchange Commission. Seagen disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230314005811/en/

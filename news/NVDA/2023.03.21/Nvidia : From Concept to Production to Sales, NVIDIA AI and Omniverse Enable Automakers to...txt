@@ -1,0 +1,128 @@
+
+
+      The automotive industry is undergoing a digital revolution, driven by breakthroughs in accelerated computing, AI and the industrial metaverse.
+    
+
+      Automakers are digitalizing every phase of the product lifecycle - including concept and styling, design and engineering, software and electronics, smart factories, autonomous driving and retail - using the NVIDIA Omniverse platform and AI.
+    
+
+      Based on the Universal Scene Description (USD) framework, Omniverse transforms complex 3D workflows, allowing teams to connect and customize 3D pipelines and simulate large-scale, physically accurate virtual worlds. By taking the automotive product workflow into the virtual world, automakers can bypass traditional bottlenecks to save critical time and reduce cost.
+    
+
+Bringing Ideas to Life
+
+
+      Designing new vehicle models - and refreshing current ones - is a collaborative process that requires review and alignment of even the tiniest details.
+    
+
+      By refining concepts in Omniverse, designers can visualize every facet of a car's interior and exterior in the full context of the broader vehicle. Global teams can iterate quickly with real-time, physically based, photorealistic rendering. For example, they can collaborate to design the cockpit's critical components, such as digital instrument clusters and infotainment systems, which must strike a balance of communicating information while minimizing distraction.
+    
+
+      Omniverse enables designers to flexibly lay out the cabin and cockpit onscreen user experience along with the vehicle's physical interior to ensure a harmonious look and feel.
+    
+
+      With this next-generation design process, automakers can catch flaws early and make real-time improvements, reducing the number of physical prototypes to test and validate.
+    
+
+Virtual Validation
+
+
+      Once the design is complete, developers can use Omniverse to kick the tires on their new concepts.
+    
+
+      Perfecting the interior is necessary for customer experience as well as safety.
+    
+
+      Developers can take these in-cabin designs for a spin in the virtual world, collaborating and sharing designs for efficient refinement and validation.
+    
+
+      Digitalization is also transforming the way automakers approach vehicle engineering. Teams can test different materials and components in a virtual environment to further reduce physical prototyping. For example, engineers can use computational fluid dynamics to refine aerodynamics and perform virtual crash simulations for safer vehicle designs.
+    
+
+Continuous Improvement
+
+
+      The coming generation of vehicles are highly advanced computers on wheels, packed with complex, centralized electronic systems and software for enhanced safety, intelligence and security.
+    
+
+      Typically, vehicle functions are controlled by dozens of electronic control units distributed throughout a vehicle. By centralizing computing into core domains, automakers can replace many components and simplify what has been an incredibly complex supply chain.
+    
+
+      With a digital representation of this entire architecture, automakers can simulate and test the vehicle software, and then provide over-the-air updates for continuous improvement throughout the car's lifespan - from remote diagnostics to autonomous-driving capabilities to subscriptions for entertainment and other services.
+    
+
+Digital-First Production
+
+
+      Vehicle production is a colossal undertaking that requires thousands of parts and workers moving in sync. Any supply chain or production issues can lead to costly delays.
+    
+
+      With Omniverse, automakers can develop and operate complex, AI-enabled virtual environments for factory and warehouse design. These physically based, precision-timed digital twins are the key to unlocking operational efficiencies with predictive analysis and process automation.
+    
+
+      Factory planners can access the digital twin of the factory to review and improve the plant as needed. Every change can be quickly evaluated and validated in the virtual world, then implemented in the real world to ensure maximum efficiency and optimal ergonomics for factory workers.
+    
+
+      Additionally, automakers can synchronize plant locations anywhere in the world for scalable design and iteration.
+    
+
+Autonomous Vehicle Proving Grounds
+
+
+      On top of enhancing traditional product development and manufacturing, Omniverse offers a complete toolchain for developing and validating automated and autonomous-driving systems.
+    
+
+NVIDIA DRIVE Sim is a physically based simulation platform, built on NVIDIA Omniverse, designed for fast and efficient autonomous-vehicle testing and validation at scale. It is time-accurate and supports the complete development toolchain, so developers can run simulation at the component level or for the entire system.
+    
+
+      With DRIVE Sim, developers can repeatedly simulate routine driving scenarios, as well as rare and hazardous conditions that are too risky to test in the real world. Additionally, real-world driving recordings can be turned into reactive simulation scenarios using the platform's Neural Reconstruction Engine.
+    
+
+      Automakers can also fine-tune their advanced driver-assistance and autonomous-vehicle systems for New Car Assessment Program (NCAP) regulations, which evaluate the safety performance of new cars based on several crash tests and safety features.
+    
+
+      The DRIVE Sim NCAP tool provides high-fidelity NCAP test protocols in simulation, so automakers can efficiently perform dedicated development and validation at scale.
+    
+
+      The ability to drive in physically based virtual environments can significantly accelerate the autonomous-vehicle development process, overcoming data collection and scenario diversity hurdles that occur in real-world testing.
+    
+
+      Omniverse's generative AI reconstructs previously driven routes into 3D so past experiences can be reenacted or modified.
+    
+
+Try Before You Buy
+
+
+      The end customer benefits from digitalization, too.
+    
+
+      Immersive technologies in Omniverse - including 3D visualization, augmented reality (AR) and virtual reality (VR) streamed using NVIDIA CloudXR - deliver consumers a more engaging experience, allowing them to explore features before making a purchase.
+    
+
+      Prospective buyers can customize their vehicle in a car configurator - choosing colors, interior materials, trim levels and more - without being limited by the physical inventory of a dealership. They can then check out the car from every angle using 3D visualization. And with AR and VR, they can view and virtually test drive a car from anywhere.
+    
+
+      The benefits of digitalization extend beyond the automotive industry. With Omniverse, any enterprise can reimagine their workflows to increase efficiency, productivity and speed, revolutionizing the way they do business. Omniverse is the digital-to-physical operating system to realize industrial digitalization.
+    
+
+Learn more about the latest in AI and the metaverse by watching NVIDIA founder and CEO Jensen Huang's GTC keynote address:
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Nvidia Corporation published this content on 21 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 21 March 2023 16:50:10 UTC.
+      
+

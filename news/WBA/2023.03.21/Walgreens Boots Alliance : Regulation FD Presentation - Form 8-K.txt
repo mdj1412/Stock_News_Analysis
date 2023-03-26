@@ -1,0 +1,668 @@
+
+
+
+Exhibit - Unaudited supplemental financial information of Summit Health-CityMD
+
+
+        The below WP CityMD Topco LLC ("Summit Health-CityMD") unaudited supplemental financial information should be read in conjunction with the unaudited pro forma condensed combined financial information of Walgreens Boots Alliance, Inc. (the "Company") as filed as an amendment to the Current Report on Form 8-K (originally filed on January 5, 2023) on March 21, 2023 (the "Amended 8-K").
+      
+
+        As presented in the Amended 8-K, the Company's unaudited pro forma condensed combined statement of earnings for the year ended August 31, 2022 gives effect to the previously announced acquisition (the "Summit Health-CityMD Acquisition") of Summit Health-CityMD as if it had been consummated on September 1, 2021 and combines the Company's audited historical consolidated results for the twelve months ended August 31, 2022 with Summit Health-CityMD's unaudited historical consolidated results for the twelve months ended September 30, 2022. Similarly, the Company's unaudited pro forma condensed combined statement of earnings for the three months ended November 30, 2022 gives effect to the Summit Health-CityMD Acquisition as if it had been consummated on September 1, 2021 and combines the Company's unaudited historical consolidated results for the three months ended November 30, 2022 with Summit Health-CityMD's unaudited historical consolidated results for the three months ended September 30, 2022.
+      
+
+        The table below summarizes certain GAAP measures for the unaudited supplemental financial information of Summit Health-CityMD, as included within the Company's unaudited pro forma condensed combined financial information, and supplemental non-GAAP measures of adjusted operating income (loss) and adjusted EBITDA.
+      
+
+
+
+
+
+
+
+(Unaudited, in millions)
+
+
+
+
+Twelve months ended
+            September 30, 2022
+
+
+
+
+
+
+Three months ended
+            September 30, 2022
+
+
+
+
+
+
+
+              Net loss (GAAP)
+            
+
+
+
+
+            $
+          
+
+            (184
+          
+
+            ) 
+          
+
+
+
+            $
+          
+
+            (47
+          
+
+            ) 
+          
+
+
+
+
+              Operating loss (GAAP)
+            
+
+
+
+
+            $
+          
+
+            (163
+          
+
+            ) 
+          
+
+
+
+            $
+          
+
+            (58
+          
+
+            ) 
+          
+
+
+
+
+              Adjusted operating income (loss) (Non-GAAP measure)
+            
+
+
+
+
+            $
+          
+
+            61
+          
+
+
+
+
+
+            $
+          
+
+            (16
+          
+
+            ) 
+          
+
+
+
+
+              Adjusted EBITDA (Non-GAAP measure)
+            
+
+
+
+
+            $
+          
+
+            178
+          
+
+
+
+
+
+            $
+          
+
+            17
+          
+
+
+
+
+
+
+              Projected pre-taxrun-rate synergies not included in GAAP and non-GAAP measures
+            
+
+
+
+
+            $
+          
+
+            150
+          
+
+
+
+
+
+            $
+          
+
+            38
+          
+
+
+
+
+
+        While the unaudited supplemental financial information of Summit Health-CityMD does not reflect any cost savings or operating synergies that the combined company may realize or incur as a result of the Summit Health-CityMD Acquisition, management has included estimates of certain projected pre-taxrun-rate cost savings and operating synergies expected to be realized in the table above for further transparency of the acquisition impacts. Synergies include future expected cost savings resulting from procurement, workforce optimization, process improvements, and automation as well as future expected operating synergies resulting from Summit Health-CityMD's transition to risk-based contracting. Material limitations of these run-rate synergies include not fully realizing the anticipated benefits, taking longer to realize these benefits, or other adverse effects that the Company does not currently foresee. Cost savings and operating synergies targets are subject to significant estimates and judgement and actual synergies achieved by the Company in the future may vary.
+      
+
+        The following information provides reconciliations of the supplemental non-GAAP financial measures, as defined under the SEC rules, presented herein to the most directly comparable financial measures calculated and presented in accordance with GAAP. The Company has provided the non-GAAP financial measures of Summit Health-CityMD herein, which are not calculated or presented in accordance with GAAP, as supplemental information and in addition to the financial measures that are calculated and presented in accordance with GAAP. See notes to the "Summit Health-CityMD net loss to adjusted operating income (loss) and adjusted EBITDA" reconciliation table for definitions of non-GAAP financial measures and related adjustments presented below.
+      
+
+
+
+        These supplemental non-GAAP financial measures are presented because management has evaluated Summit Health-CityMD's financial results both including and excluding the adjusted items and believes that the supplemental non-GAAP financial measures presented provide additional perspective and insights when analyzing the core operating performance of Summit Health-CityMD from period to period and trends in Summit Health-CityMD's historical operating results. These supplemental non-GAAP financial measures should not be considered superior to, as a substitute for or as an alternative to, and should be considered in conjunction with, the GAAP financial measures presented herein.
+      
+
+Summit Health-CityMD net loss to adjusted operating income (loss) and adjusted EBITDA
+
+
+
+
+
+
+
+
+(Unaudited, in millions)
+
+
+
+
+Twelve months ended
+            September 30, 2022
+
+
+
+
+
+
+Three months ended
+            September 30, 2022
+
+
+
+
+
+
+
+Net loss (GAAP)
+
+
+
+
+
+$
+
+
+(184
+
+
+) 
+
+
+
+
+$
+
+
+(47
+
+
+) 
+
+
+
+
+
+              Post-tax earnings from other equity method investments
+            
+
+
+
+
+
+
+            (2
+          
+
+            ) 
+          
+
+
+
+
+
+-  
+
+
+
+
+
+
+
+              Income tax benefit
+            
+
+
+
+
+
+
+            (58
+          
+
+            ) 
+          
+
+
+
+
+
+            (38
+          
+
+            ) 
+          
+
+
+
+
+              Interest expense, net
+            
+
+
+
+
+
+
+            79
+          
+
+
+
+
+
+
+
+            28
+          
+
+
+
+
+
+
+              Other loss (income), net
+            
+
+
+
+
+
+
+            2
+          
+
+
+
+
+
+
+
+            (1
+          
+
+            ) 
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operating loss (GAAP)
+
+
+
+
+
+
+
+(163
+
+
+) 
+
+
+
+
+
+
+(58
+
+
+) 
+
+
+
+
+
+              Acquisition-related amortization 1
+
+
+
+
+
+
+
+            138
+          
+
+
+
+
+
+
+
+            30
+          
+
+
+
+
+
+
+              Acquisition-related costs 2
+
+
+
+
+
+
+
+            86
+          
+
+
+
+
+
+
+
+            12
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adjusted operating income (loss) (Non-GAAP measure)
+
+
+
+
+
+
+
+61
+
+
+
+
+
+
+
+
+(16
+
+
+) 
+
+
+
+
+
+              Depreciation expense
+            
+
+
+
+
+
+
+            70
+          
+
+
+
+
+
+
+
+            20
+          
+
+
+
+
+
+
+              Stock-based compensation expense 3
+
+
+
+
+
+
+
+            47
+          
+
+
+
+
+
+
+
+            14
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adjusted EBITDA (Non-GAAP measure)
+
+
+
+
+
+$
+
+
+178
+
+
+
+
+
+
+$
+
+
+17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+          
+
+
+              Acquisition-related amortization includes amortization of acquisition-related intangible assets, inventory valuation adjustments and stock-based compensation fair valuation adjustments. Amortization of acquisition-related intangible assets includes amortization of intangible assets such as customer relationships, trade names, trademarks, developed technology and contract intangibles. Intangible asset amortization excluded from the related non-GAAP measure represents the entire amount recorded within Summit Health-CityMD's GAAP financial statements. The revenue generated by the associated intangible assets has not been excluded from the related non-GAAP measures. Amortization expense, unlike the related revenue, is not affected by operations of any particular period unless an intangible asset becomes impaired, or the estimated useful life of an intangible asset is revised. These charges are primarily recorded within selling, general and administrative expenses. The stock-based compensation fair valuation adjustment reflects the difference between the fair value based remeasurement of awards under purchase accounting and the grant date fair valuation. Post-acquisition compensation expense recognized in excess of the original grant date fair value of acquiree awards are excluded from the related non-GAAP measures as these arise from acquisition-related accounting requirements or agreements, and are not reflective of normal operating activities.
+            
+
+
+
+
+
+
+
+
+            2
+          
+
+
+              Acquisition-related costs are transaction and integration costs associated with certain merger, acquisition and divestitures related activities. These costs include charges incurred related to certain mergers, acquisition and divestitures related activities recorded in operating income, for example, costs related to integration efforts for merger, acquisition and divestitures activities. Examples of such costs include deal costs, severance and stock compensation. These charges are primarily recorded within selling, general and administrative expenses. These costs are significantly impacted by the timing and complexity of the underlying merger, acquisition and divestitures related activities and do not reflect Summit Health-CityMD's current operating performance.
+            
+
+
+
+
+
+
+
+
+            3
+          
+
+
+              Includes GAAP stock-based compensation expense excluding expenses related to acquisition-related amortization and acquisition-related costs.
+            
+
+
+
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Walgreens Boots Alliance Inc. published this content on 21 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 21 March 2023 21:10:04 UTC.
+      
+

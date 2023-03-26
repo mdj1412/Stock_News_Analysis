@@ -1,0 +1,41 @@
+
+Today, Adobe (Nasdaq:ADBE) kicked off Adobe Summit 2023 – the world’s largest Digital Experience Conference – by unveiling a wide range of product innovations across Adobe Experience Cloud, the world’s leading customer experience management solution, and Adobe Creative Cloud, the world’s leading platform for creating compelling content, together empowering brands to drive experience-led growth.
+
+As content becomes the critical foundation of next-generation digital experiences, new Adobe innovations are connecting Experience Cloud and Creative Cloud to optimize content creation, delivery and measurement. At Adobe Summit, Adobe debuted new Adobe Sensei GenAI services, including Adobe Firefly – a new family of creative generative AI models, first focused on image generation and text effects – as well as new generative AI innovations across Adobe Experience Cloud to power end-to-end marketing workflows. The company also announced new Adobe Product Analytics and a reimagined content management solution enabling marketers to self-serve website and mobile app edits.
+
+To accelerate and democratize creative development at enterprise scale, Adobe unveiled Adobe Express for Enterprise, empowering anyone within an organization to rapidly create and iterate content, regardless of their creative skill level. Adobe also announced the world’s first comprehensive Content Supply Chain solution, made possible through Creative Cloud and Experience Cloud innovations that connect popular tools for planning, creating, reviewing and distributing creative collateral so teams can come together to meet growing content demands in less time.
+
+“As the digital economy continues to expand, profitable growth will come from connecting the complete customer experience - from acquisition to engagement and retention,” said Anil Chakravarthy, president, Digital Experience Business at Adobe. “Our latest Adobe Experience Cloud innovations uniquely connect customer experience creation and management, empowering brands to efficiently scale, unify and personalize digital experiences across surfaces, and achieve sustained, experience-led growth.”
+
+Industry Momentum
+
+Adobe Experience Cloud is the industry’s leading platform for delivering, measuring and personalizing customer experiences, now relied upon by over 12,000 customers – including 87% of Fortune 100 companies and 74% of Fortune 500 companies – with support from 4,000 global ecosystem members and 450 Adobe Experience Platform partner integrations. Adobe Experience Cloud has continued to gain traction across multiple verticals by introducing solutions to alleviate industry-specific pain points.
+
+In the healthcare space, CVS Health, Elevance Health and UnitedHealth Group are the latest companies that have adopted Adobe Experience Cloud for Healthcare, enabling secure delivery of engaging consumer experiences, and empowering patients to actively participate in their healthcare decisions.
+
+Adobe is also increasingly addressing business-to-business (B2B) use cases, empowering highly personalized marketing for B2B industry leaders such as Amazon Web Services, Cisco, IBM, Microsoft, Qualcomm and Splunk.
+
+Within the financial services industry, businesses are increasingly adopting Adobe Experience Cloud to support highly personalized experiences. Adobe’s Real-Time Customer Data Platform (Real-Time CDP) helps businesses including Bank of America, Fidelity Investments, Morgan Stanley, U.S. Bank and Wells Fargo ensure their customers can manage their financial goals by receiving information and offers that are relevant, timely and consistent.
+
+AI and Generative AI Innovations
+
+New Adobe Sensei GenAI services in Adobe Experience Cloud will redefine how businesses deliver customer experiences. The services will be integrated natively in Adobe Experience Cloud as a co-pilot for marketers, improving productivity and efficiency while providing full creative control and trusted governance capabilities. Sensei GenAI will leverage multiple large language models (LLMs) including Microsoft Azure OpenAI and FLAN-T5 within Adobe Experience Platform, depending on unique business needs.
+
+Adobe also unveiled Adobe Firefly—a new family of creative generative AI models, first focused on image generation and text effects—which will be integrated into Adobe Experience Cloud for businesses to generate content designed to be safe for commercial use. Adobe’s first Firefly model is trained primarily on hundreds of millions of professional-grade Adobe Stock images, openly licensed content and public domain content where copyright has expired. Firefly-generated output will have real business value in commercial settings, as it doesn’t generate content based on other people’s or brands’ IP.
+
+Sensei GenAI services and Firefly will act as co-pilots for creative and marketing departments, enabling them to generate new content-driven experiences at the speed of their imaginations with more precision, power and ease – directly within Adobe Creative Cloud, Adobe Experience Cloud and Adobe Document Cloud applications and workflows.
+
+Additional Product Innovations Announced at Summit
+
+Adobe Summit is returning to Las Vegas for the first time since 2019 in a hybrid in-person and online format powered by Adobe Experience Cloud. Luminary speakers and industry leaders presenting at Summit include screenwriter and director Aaron Sorkin, comedian and actress Tig Notaro, NFL players Peyton Manning and Damar Hamlin, Eli Lilly CEO Dave Ricks, Prudential Financial CMO Susan Somersille Johnson, T-Mobile EVP and CDO Marcus East and AMD Chair and CEO Dr. Lisa Su. Attendees will also enjoy live performances by musicians Macklemore and Rev. Run.
+
+Adobe is spotlighting a number of leading Experience Cloud customers, including Chipotle, General Motors, PGA TOUR, Prada, Prudential Financial, Qualcomm, T-Mobile and Warner Bros. Discovery. Adobe also announced new and expanded partnerships with Accenture, Amazon Ads, IBM, LinkedIn and TikTok, empowering global brands to personalize digital experiences, enhance marketing workflows and manage user consent.
+
+To watch the Adobe Summit keynotes online, as well as explore more than 200 sessions and hands-on labs across 11 tracks, network with peers or speak live with an Adobe expert, visit the Summit web experience.
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005549/en/

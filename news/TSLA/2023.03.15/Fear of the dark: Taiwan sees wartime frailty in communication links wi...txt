@@ -1,0 +1,83 @@
+TAIPEI, March 15 (Reuters) - Taiwan is scrambling to
+secure its communications with the outside world against an
+attack by China, but even in peacetime cannot quickly repair
+critical undersea internet cables and lacks suitable satellite
+backups, experts and officials say.China, which has never renounced the use of force to bring
+Taiwan under its control, has ramped up military and political
+efforts to force the democratically governed island to accept
+its sovereignty.The Ukraine war has lent new urgency to Taiwan's efforts to
+bolster its security, especially against Chinese cyber attacks
+or attempts to sever any of 14 cables that connect it to the
+global internet."Strategic communications, internally and externally, is
+what keeps us up at night, particularly in the aftermath of
+Ukraine," said Tzeng Yisuo, an analyst at Taiwan's top military
+think tank, the Institute for National Defence and Security
+Research.Taiwan has zeroed in on low-Earth orbit satellites as a
+solution, and has launched a two-year trial programme to boost
+internet services by leaning on international satellite
+providers.Taiwan's total satellite bandwidth is about 0.02% of what
+its undersea cables provide, according to Kenny Huang, chief
+executive at Taiwan Network Information Center, the island's
+internet domain manager.Huang said Taiwan has struggled to attract interest from
+international satellite companies because of strict regulations
+on ownership, which limit foreign shares to a maximum of 49%,
+and a lack of financial sweeteners."There's little incentive for them (foreign companies)," he
+said. "Regulations must be changed."Defence experts say that although Taiwan can draw lessons
+from Ukraine's use of Starlink, a satellite network developed by
+Elon Musk's U.S.-based space exploration company SpaceX, they
+worry about relying on a commercial actor with business
+interests in China."Elon Musk, we are not certain if he cares more about
+China's market," Tzeng said, referring to Tesla's sales in
+China. "We won't put all our eggs in one basket."Taiwan does not own any Starlink terminals. SpaceX did not
+respond to a request for comment.Taiwan is also strengthening the resilience of wartime
+communication channels for top commanders, including the
+president, according to one senior government official and
+another person familiar with government efforts."We are taking notes from Zelenskiy," a senior Taiwan
+security official said, referring to Ukrainian President
+Volodymyr Zelenskiy's strong presence on social media.Taiwan's Ministry of Digital Affairs said in a statement
+that it would prioritise Taiwan's offshore islands for the
+satellite trial programme and would further increase the
+bandwidth for microwave communications with outlying islands by
+year-end. The ministry did not comment on sea cables or
+repairing them.SECURING UNDERSEA CABLESTaiwan's vulnerability was thrown into focus last month when
+the two undersea cables connecting the Taiwan-controlled Matsu
+islands, which sit close to the Chinese coast, were cut,
+disconnecting the 14,000 people who live there from the
+internet.Authorities said that their initial findings show a Chinese
+fishing vessel and a Chinese freighter caused the disruption,
+but that there was no evidence Beijing deliberately tampered
+with the cables. China's Taiwan Affairs Office did not
+immediately respond to a request for comment.Chunghwa Telecom switched on a backup microwave system that
+transmits signals from the top of a mountain in Taipei to Matsu,
+but that only restored about 5% of the bandwidth that the cables
+had provided.This month, the government upgraded the system and internet
+speed significantly improved. But because there are few cable
+repair ships in the region, residents must wait until late April
+for internet access to be fully restored.A senior Taiwan official familiar with security matters said
+that sea cable vulnerability has long been a national security
+concern, and that it was "ridiculous" so little progress had
+been made to address the issue. The person declined to be named
+because of the sensitivity of the matter."We can't even fix sea cables on our own," the official
+said.Lii Wen, who leads the Matsu branch of the ruling Democratic
+Progressive Party, described the February outage as a "warning"
+to Taiwan."Today, it's Matsu's sea cables that broke," he said. "What
+if one day all 14 of Taiwan's undersea cables connecting us to
+the outside world break? Will we be adequately prepared?"China will probably take aim at Taiwan's sea cables or the
+cable landing stations before an all-out attack, experts say, a
+move that would cause panic, paralyse commercial activity, and
+help Beijing gain control over the international narrative.China's Taiwan Affairs Office did not respond to a request
+for comment.Taiwan's military has long prepared back-up plans, including
+a fibre-optic network for communications within Taiwan,
+satellites, high-frequency radio, and microwave systems.The impact on civilians would be severe regardless, and
+authorities are reinforcing Taiwan's four entry points for
+international sea cables and running more frequent war
+simulations involving them, Huang said."In a state of emergency, people will want to get
+information," said Chieh Chung, a military researcher at the
+National Policy Foundation, a Taipei-based think tank. "If they
+can't get information, people's panic will spread."Cutting off communications and causing chaos would not be
+the only military effects of severing the cables, Huang said.
+Taiwan might find it difficult to calibrate a response to such a
+move that an aggressor couldn't use to justify an all-out
+attack."So the first step (for China) - with about 99 percent
+likelihood - is to cut our sea cables," Huang said.
+(Reporting by Yimou Lee and Sarah Wu. Editing by Gerry Doyle)

@@ -1,0 +1,21 @@
+
+Today, at Adobe Summit – the world’s largest Digital Experience Conference – Adobe (Nasdaq:ADBE) announced new innovations in Adobe Real-Time Customer Data Platform (Real-Time CDP), which now delivers over 600 billion predictive insights annually based on real-time customer profiles. Designed to drive experience-led growth, Adobe’s latest innovations enable superior prospecting and conversion, enhanced B2B account-based marketing and richer personalization using online shopping behaviors.
+
+Powered by Adobe Experience Platform, Adobe Real-Time CDP insights enable teams to directly engage customers at key moments in their journeys. Adobe Real-Time CDP helps businesses make better use of their data, delivering a unified view of customer experiences and critical insights that power one-to-one personalization at scale. Adobe Experience Platform’s robust ecosystem of over 450 partner integrations and Adobe Real-Time CDP’s connectors enable data collection, enrichment and distribution of data across multiple sources at incredible speed and scale.
+
+“Adobe Experience Cloud applications, from Adobe Real-Time CDP to Adobe Journey Optimizer and Customer Journey Analytics, work together to help brands drive the next phase of their digital transformation, which will be anchored in wide-scale personalization,” said Anjul Bhambhri, senior vice president, Adobe Experience Cloud platform engineering at Adobe. “In a hyper-competitive economic climate, where consumers now re-evaluate the products and services they buy each day, a brand’s key long-term growth driver is the ability to show people you accurately understand their current needs.”
+
+Adobe Real-Time CDP has become the customer experience engine of choice for leading brands across numerous industries, most recently selected by Chipotle, The Dow Chemical Company, Novo Nordisk, Petco, Qualcomm, Thermo Fisher Scientific, Truist Financial and U.S. Bank. Additionally, Meta has selected Adobe to improve Facebook Ad Targeting and Analysis, because Real-Time CDP allows Meta to use first-party data in a privacy-compliant way to strengthen customer personalization. These brands join leaders and longtime users of Adobe Real-Time CDP including Coles, Dick’s Sporting Goods, FC Bayern, Major League Baseball, Panera Bread, Real Madrid, ServiceNow, Signet Jewelers, Suncorp, T. Rowe Price and TSB Bank.
+
+Brands are using Adobe Real-Time CDP to generate customer profiles that update in real time as interactions happen across online and offline channels. Aggregated across multiple brands, Adobe Real-Time CDP is processing over 30 trillion audiences every day, activating personalized campaigns across channels to drive growth.
+
+New Innovations in Adobe Real-Time CDP
+
+To help brands unlock additional value, Adobe Real-Time CDP is introducing new innovations that accelerate personalization at scale and drive experience-led growth:
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005557/en/

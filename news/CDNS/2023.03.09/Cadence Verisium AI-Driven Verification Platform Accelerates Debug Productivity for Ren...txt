@@ -1,0 +1,19 @@
+
+Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that Renesas has deployed the new Cadence® Verisium™ Artificial Intelligence (AI)-Driven Verification Platform to enable efficient root cause analysis of bugs. Using the new Verisium platform, Renesas has significantly improved its debug productivity, shortening the time to market for its R-Car designs for automotive applications.
+
+The Verisium platform and apps, including Versium AutoTriage, Verisium SemanticDiff, Verisium WaveMiner, Verisium PinDown, Verisium Debug and Verisium Manager, are integrated with the Cadence Joint Enterprise Data and AI (JedAI) Platform to enable AI-driven root cause analysis of bugs. The solution provides a new level of productivity by offering users a holistic debug solution from IP to SoC and from single-run to multi-run, enabling fast and comprehensive interactive and post-process debug flows with waveform, schematic, driver tracing and SmartLog technologies.
+
+“Quality and efficiency are paramount to ensure our R-Car designs are completed on schedule,” said Noriaki Sakamoto, president of Renesas Design Vietnam Co., Ltd. “Cadence’s Verisium Debug allows our engineers to debug from IP- to SoC-level designs. The new waveform format is well-designed for modern verification needs and helps to improve simulation probing performance by 2X. By using the Verisium AI-Driven apps, we could improve the entire debug productivity by up to 6X and our design teams have shortened our overall verification cycle.”
+
+“AI has the potential to reshape the landscape of EDA as we know it,” said Paul Cunningham, senior vice president and general manager of the System & Verification Group of Cadence. “By bringing together all the inputs and outputs of our verification full flow under the Cadence JedAI Platform, we are able to create a new class of Verisium AI-driven apps that dramatically improves the verification productivity and efficiency for our customers.”
+
+The Verisium AI-Driven Verification Platform is part of the Cadence verification full flow, which includes Palladium® Z2 emulation, Protium™ X2 prototyping, Xcelium™ simulation, the Jasper™ Formal Verification Platform and the Helium™ Virtual and Hybrid Studio. The Cadence verification full flow delivers the highest verification throughput of bugs per dollar invested per day. The Verisium platform and apps support the company’s Intelligent System Design™ strategy, enabling SoC design excellence. For more information, please visit www.cadence.com/go/RenesasVerisium.
+
+About Cadence
+
+Cadence is a pivotal leader in electronic systems design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality. Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to complete systems for the most dynamic market applications, including hyperscale computing, 5G communications, automotive, mobile, aerospace, consumer, industrial and healthcare. For eight years in a row, Fortune magazine has named Cadence one of the 100 Best Companies to Work For. Learn more at cadence.com.
+
+© 2023 Cadence Design Systems, Inc. All rights reserved worldwide. Cadence, the Cadence logo and the other Cadence marks found at www.cadence.com/go/trademarks are trademarks or registered trademarks of Cadence Design Systems, Inc. All other trademarks are the property of their respective owners.
+
+Category: Featured
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230309005114/en/

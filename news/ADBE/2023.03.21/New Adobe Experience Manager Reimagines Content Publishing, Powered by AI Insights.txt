@@ -1,0 +1,31 @@
+
+Today, at Adobe Summit 2023 – the world’s largest Digital Experience Conference – Adobe (Nasdaq:ADBE) announced new innovations in Adobe Experience Manager (AEM), the industry-leading content and digital asset management system, spanning experience creation, publishing and analytics. The major new release will deliver next-generation features that bring speed and ease to content development and publishing, higher-quality web experiences and AI-powered data insights that help brands easily optimize new content for target audiences.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230321005550/en/
+“The digital economy is now every sector’s growth engine, so websites and mobile apps have become fundamental to experience-led growth,” said Amit Ahuja, senior vice president, Digital Experience Business at Adobe. “Keeping digital content fresh and relevant is key to capitalizing on growth opportunities, and our latest innovations in AEM empower more people to manage content, using AI-driven insights to guide their creativity.”
+
+“The PGA TOUR audience continues to grow and diversify globally, spanning longtime golf fans to casual spectators who like to see a regular stream of content on their favorite players and tournaments,” said Eric Hanson, vice president of product development at PGA TOUR. “The new capabilities in Adobe Experience Manager have been a game changer for the digital experiences we provide, giving us incredible speed to deliver timely and engaging content for channels such as the PGA TOUR website, mobile app and digital marketing campaigns.”
+
+Generative AI Innovations in Adobe Experience Manager
+
+In AEM Assets – the number one digital asset management system used by businesses to manage their libraries of images, videos and other content – brands will be able to use Adobe Firefly, a new family of creative generative AI models, first focused on image generation and text effects, to greatly accelerate content development and drive efficiency gains.
+
+Adobe Express with Firefly will be integrated directly into AEM Assets, enabling teams to instantly change image components such as colors, objects, and scenery, while automatically generating variations for channels such as web, mobile and email. Firefly will help accelerate brands’ content supply chains, powering wide-scale personalization efforts. With the new AEM businesses will also have powerful Adobe Sensei powered AI insights on attributes – from colors to objects and copy – that resonate most with consumers, a necessary connection to ensure generative AI-powered content is driving business results.
+
+Empowering Teams to Drive Content Velocity
+
+Adobe’s reimagined AEM empowers users of all skill levels to automatically update content for any online channel, including websites and mobile apps, directly from templated documents created with popular tools such as Microsoft Word or Google Docs. Even without CMS expertise, team members can create, edit and publish – all from the same document – with security controls ensuring that only authorized users can make changes. These capabilities also extend to AEM Forms, which digitizes paper-based processes and expands consumer access in sectors such as government and financial services.
+
+Democratizing the ability to update digital experiences delivers true content velocity, enabling teams to push and edit content without the constraints of a centralized publishing schedule. Sectors such as retail will particularly appreciate this versatility during key moments such as holiday shopping seasons, where frequent digital channel updates can boost engagement and conversion, and delays directly impact the bottom line. Across industries, the new AEM will enable customers to enjoy superior web experiences with more timely and accurate content.
+
+AI-powered Insights to Drive Creative Decisions
+
+AEM also introduced industry-first capabilities powered by Adobe Sensei, Adobe’s AI and machine learning framework, using real-time insights to inform the content creation process, linking content analytics with creativity. Organizations face ever-growing demands for creative content, but often focus solely on topline metrics such as views and clicks, while lacking the more nuanced data necessary to understand which content truly resonates with their audiences.
+
+Adobe Sensei enables users to analyze content at an attribute level and measure how aspects such as colors, objects, composition and writing style impact performance with different audiences. These real-time insights inform how content is optimized over time, providing a feedback loop as brands develop their content supply chains. By connecting this data with Adobe Experience Platform, brands can enrich audience profiles and support personalization campaigns. For example, a brand could see that East Coast Gen Z women, aged 18-24, respond best to orange tones and more casual writing – insights that can influence the creation process and boost performance.
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005550/en/

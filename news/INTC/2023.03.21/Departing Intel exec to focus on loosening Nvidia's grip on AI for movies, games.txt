@@ -1,0 +1,35 @@
+March 21 (Reuters) - Raja Koduri, the chief architect at
+Intel Corp, is leaving to start a company that aims to
+loosen longtime rival Nvidia Corp's grip on the digital
+movie and video game markets.Koduri, whose departure was announced by Intel Chief
+Executive Pat Gelsinger in a tweet on Tuesday, told Reuters his
+as-yet-unnamed company will aim to make a new wave of so-called
+generative artificial intelligence tools that work on chips from
+Intel, Advanced Micro Devices, Apple Inc or
+even future chips based on open-source RISC-V technology.New software tools can generate fresh imagery from just a
+text prompt and hold great promise for fields like visual
+effects and video games, Koduri said. But they typically are
+designed to work only on Nvidia chips.Koduri said his first efforts will be aimed at creating a
+service that lets movie and game artists easily use those AI
+tools whether they are using a PC, Mac, iPad or other device
+without having to dive deep into software code.Those artists "are not technical. They just get baffled by
+all this stuff," Koduri said.Koduri, a veteran of Advanced Micro Devices and
+Apple Inc, joined Intel five years ago. He was part of
+a wave of outsiders hired by Intel, which had been known in the
+chip industry for promoting executives from within, to rethink
+the company's approach as it lost market share to rivals.But Koduri, who has worked on nearly two dozen generations
+of computer graphics chips, has also had a long interest in
+movies. More than a decade ago, he helped fund a special effects
+firm in India called Makuta Effects that will be rolled into the
+new venture, and one of his cousins recently won an Oscar for
+work on the Telugu blockbuster "RRR."Though he declined to give a dollar figure, Koduri said he
+has raised a round of seed funding for his new venture and that
+it will have a major presence in India as well as Singapore and
+the United States.He said the company would work on software to support chips
+made with open-source technology such as RISC-V."Any RISC-V based or open architecture based hardware that's
+available, we will be the first user to give them feedback and
+encourage them," he said. "Because to truly democratize AI
+computing for everybody, we have got to get the cost down
+dramatically."
+(Reporting by Stephen Nellis in San Francisco;
+Editing by Leslie Adler and Alison Williams)

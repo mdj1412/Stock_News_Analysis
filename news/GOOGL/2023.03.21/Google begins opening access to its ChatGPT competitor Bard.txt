@@ -1,0 +1,42 @@
+March 21 (Reuters) - Alphabet Inc's Google on
+Tuesday began the public release of its chatbot Bard, seeking
+users and feedback to gain ground on Microsoft Corp in
+a fast-moving race on artificial intelligence technology.Starting in the U.S. and UK, consumers can join a waiting
+list for English-language access to Bard, a program previously
+open to approved testers only. Google describes Bard as an
+experiment allowing collaboration with generative AI, technology
+that relies on past data to create rather than identify content.The release last year of ChatGPT, a chatbot from the
+Microsoft-backed startup OpenAI, has caused a sprint in the
+technology sector to put AI into more users' hands. The hope is
+to reshape how people work and win business in the process.Just last week, Google and Microsoft made a flurry of
+announcements on AI, two days apart. The companies are putting
+draft-writing technology into their word processors and other
+collaboration software, as well as marketing related tools for
+web developers to build their own AI-based applications.Asked whether competitive dynamics were behind Bard's
+rollout, Jack Krawczyk, a senior product director, said Google
+was focused on users. Internal and external testers have turned
+to Bard for "boosting their productivity, accelerating their
+ideas, really fueling their curiosity," he said.In a demonstration of the site, bard.google.com, to Reuters,
+Krawczyk showed how the program produces blocks of text in an
+instant, different from how ChatGPT types out answers word by
+word.Bard also included a feature showing three different
+versions or "drafts" of any given answer among which users could
+toggle, and it displayed a button stating "Google it," should a
+user desire web results for a query.Unlike ChatGPT, Bard is not proficient in generating
+computer code, Google said on its website. Google also said it
+has limited Bard's memory of past exchanges in a chat and that
+at present it was not using Bard for advertising, core to
+Google's business model.Accuracy remains a concern. "Bard will not always get it
+right," a Google pop-up notice warned during the demo. Last
+month, a promotional video showed the program answering a
+question incorrectly, helping shave $100 billion off Alphabet's
+market value.Google highlighted a couple mistakes during the
+demonstration to Reuters, for instance saying Bard wrongly
+claimed ferns required bright, indirect light in response to one
+query.Bard also produced nine paragraphs of text when asked for
+four in another. After that answer, Krawczyk clicked a
+thumbs-down button for feedback."We know the limitations of the technology, and so we want
+to be very deliberate at the pace at which we roll this out," he
+said.
+(Reporting By Jeffrey Dastin in Palo Alto, California; Editing
+by Lincoln Feast and Tomasz Janowski)

@@ -1,0 +1,86 @@
+
+
+
+        Movement Mortgage Aims to Better Serve Homebuyers with Intuitive User Interface from Fiserv
+      
+
+        March 23, 2023
+      
+
+        Integration with SaaS provider Polly facilitates speed and accuracy across loan pricing and lock processes
+      
+
+BROOKFIELD, Wis., March 23, 2023 - Movement Mortgage ("Movement"), a national top 10 retail mortgage lender, has expanded its 14-year relationship with Fiserv, Inc.(NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, to enable a smooth and stress-free process for homebuyers, allowing them to secure a mortgage more quickly and easily in an evolving market.
+      
+
+        Movement leverages the API-enabled Mortgage Director from Fiserv to access Product and Pricing Engine (PPE) technology from Polly, a leading provider of innovative SaaS technology for the mortgage capital markets space. Polly's PPE effortlessly configures rules, dynamically manages margin strategies, and quickly distributes unique pricing across all channels with a fully customizable user experience to help the Movement team stay ahead of the competition and win more business.
+      
+
+        "Fiserv is a holistic, supportive partner that has helped us grow into a $30 billion institution originating 14,000 loans per month in less than 14 years," said John Third, Chief Innovation Officer at Movement Mortgage. "The most valuable dimension of our relationship is that it's a collaborative effort and the support we get from Fiserv is critical in helping us improve our processes and create efficiencies."
+      
+
+        "The API-centric system Fiserv offers seamlessly integrates with Polly's PPE, offering a more intuitive user interface that allows us to support diverse types of business," said Caroline Payne, Senior Vice President, Capital Markets at Movement Mortgage. "When a loan officer must change a lock, Polly's system knows what to do next and does not require a complete restart. Polly's architecture is significantly better than other products we have used, and makes the PPE easier to manage and administer, while returning faster results to our loan officers."
+      
+
+        Access to the PPE is available through Digital Mortgage Center from Fiserv, which has more than 165 integrations to help streamline the mortgage process and increase efficiency through fee aggregation, automated underwriting, data validation and appraisal that all build upon the existing capabilities of Mortgage Director, the core of the Fiserv lending ecosystem.
+      
+
+        "Lenders who want to succeed in this market must have the power to adjust their tech stacks to meet their exact needs. Our technology allows customization and configuration to make that possible," said Christiaan Lidstrom, General Manager, Mortgage Lending at Fiserv. "Polly's capabilities when used with Mortgage Director gives Movement Mortgage a new way to help win more business. It is another example of how our tools allow lenders to gain control over their lending value proposition."
+      
+
+        "Polly is deeply committed to constant and consistent innovation that both simplifies and elevates the lender experience," explained Adam Carmel, Founder and CEO of Polly. "We are happy to establish this relationship with Fiserv, as they share our passion to serve mutual clients and, together, deliver high-impact solutions to industry participants. We are also very excited to partner with Movement Mortgage. Our team received extraordinary feedback throughout the implementation and onboarding process, and we remain dedicated to exceeding Movement's expectations with a best-in-class user experience and near-infinite flexibility, scalability, and configurability."
+      
+
+        In a world that is moving more quickly than ever before, Fiserv helps clients deliver solutions in step with the way people live and work today - financial services at the speed of life. Learn more at fiserv.com.
+
+
+        About Fiserv
+      
+
+        Fiserv, Inc. (NASDAQ: FISV) aspires to move money and information in a way that moves the world. As a global leader in payments and financial technology, the company helps clients achieve best-in-class results through a commitment to innovation and excellence in areas including account processing and digital banking solutions; card issuer processing and network services; payments; e-commerce; merchant acquiring and processing; and the Clover® cloud-basedpoint-of-sale and business management platform. Fiserv is a member of the S&P 500® Index and one
+      
+
+        of Fortune® World's Most Admired Companies™. Visit fiserv.comand follow on social mediafor more information and the latest company news.
+      
+
+        About Movement Mortgage, LLC ("Movement")
+      
+
+        Movement exists to love and value people by leading a Movement of Change in its industry, corporate cultures and communities. A national top 10 retail mortgage lender, Movement funded more than $20 billion in residential mortgages in 2022. Movement is best known for its innovative mortgage process and referable experience, which begins with upfront underwriting and a seven-day loan processing goal. The company employs over 4,500 people, has more than 550 branches in the U.S. and is licensed in 50 states. After funding its balance sheet and investing in future growth, Movement's profits are used to support the Movement Foundation. To date, the Movement Foundation has received more than $370 million of Movement's profits to invest in schools, communities and global outreach. For more information, visit www.movement.com.
+
+
+        About Polly
+      
+
+Pollyis transforming the mortgage industry with its modern, data-driven capital markets ecosystem. Banks, credit unions, and mortgage lenders trust
+      
+
+
+
+Polly's revolutionary Product and Pricing Engine (PPE), Loan Trading Exchange, and actionable data and analyticsto automate and optimize the entire capital markets value chain, helping their secondary teams operate faster, smarter, and more profitably. Polly was founded in 2019 by a seasoned team of technology and mortgage experts and is headquartered in San Francisco, California. To learn more, follow Polly on LinkedInor visit www.polly.io.
+
+
+        FISV-G
+      
+
+        # # #
+      
+
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Fiserv Inc. published this content on 23 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 23 March 2023 13:32:09 UTC.
+      
+

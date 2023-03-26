@@ -1,0 +1,17 @@
+In hands-on testing, PT found that moving to the Dell PowerEdge MX platform cut server migration times and reduced administrator steps compared to a new Cisco UCS X-Series platform.Durham, NC March 22, 2023 --(PR.com)-- When updating data center hardware with the latest technologies, organizations should consider the ease of the migration in addition to performance capabilities. Principled Technologies (PT) set up a cluster of legacy Cisco UCS servers and compared the ease of migrating the cluster onto a new Cisco UCS X-Series Modular System and a new Dell PowerEdge MX platform.
+
+According to the report, “The modular Dell PowerEdge MX server platform offers an attractive migration target that can simplify the server migration process and save significant administrator time and effort compared to moving to a new Cisco UCS X-Series Modular System. By requiring 246 fewer administrator steps from initial configuration through server migration for a three-node cluster, choosing the Dell PowerEdge MX platform could help reduce human error and potential troubleshooting time as you move your new hardware into production.”
+
+To learn more about how migrating to a new Dell PowerEdge MX platform can save administrator time and effort, read the full report at https://facts.pt/f7dDnHy and see the infographic at https://facts.pt/X2ZwXp8.
+
+About Principled Technologies, Inc.
+Principled Technologies, Inc. is the leading provider of technology marketing and learning & development services.
+
+Principled Technologies, Inc. is located in Durham, North Carolina, USA. For more information, please visit www.principledtechnologies.com.Contact Information:
+Principled Technologies, Inc.
+Sharon Horton
+828-455-0312
+Contact via Email
+https://www.principledtechnologies.comRead the full story here: https://www.pr.com/press-release/869181
+Press Release Distributed by PR.comCopyright © 2023 PR.com and its licensors
+, source US Press Releases

@@ -1,0 +1,75 @@
+WASHINGTON, March 23 (Reuters) - Boeing's first mission
+carrying astronauts to space aboard its Starliner capsule has
+been delayed until at least the summer, a NASA official said on
+Thursday, as people familiar with the matter said last-minute
+tests and technical debates nixed a plan for an April launch.Previously planned for late April, the Starliner mission is
+now slated to launch after a private astronaut mission scheduled
+for May "as teams assess readiness and complete verification
+work" for the spacecraft, NASA's space operations chief Kathy
+Lueders said on Twitter. She did not provide further details
+about reasons for the delay.Starliner's debut crewed mission, which will carry commander
+Butch Wilmore and pilot Suni Williams, to the International
+Space Station will be a crucial moment for Boeing's space unit.
+It represents the spacecraft's final testflight before joining
+rival SpaceX's Crew Dragon capsule as the second NASA-approved
+ride to orbit.Steve Stich, head of NASA's Commercial Crew Program, said in
+an interview with Reuters before the delay was announced that
+the certification process for the spacecraft had taken "a little
+longer than we expected" and was "a whole lotta work."A successful 10-day test mission with Starliner docked to
+the space station, an orbital research lab some 250 miles high
+in Earth's orbit, would mark a crucial milestone. Boeing has
+struggled to compete with Elon Musk's SpaceX in the nascent
+market for private astronaut flights.Finding a new launch date after April is complicated by
+heavy traffic at the space station over the next few months and
+a tight schedule for Starliner's launch provider, the
+Boeing-Lockheed joint venture United Launch Alliance,
+Boeing and NASA officials have said.The delay comes as Boeing and NASA performed extra testing
+on several areas of the spacecraft.Boeing software engineers are running tests with Starliner's
+manual flight system used as a backup in case the spacecraft's
+automated flight software fails, Stich said.A Boeing spokesman said the focus for that testing is for
+"added redundancy in cases of emergency."Deliberations about mission-critical lithium ion batteries
+and the low chance they overheat while the spacecraft is docked
+to the station also took more time than expected, Stich said.In a recent pre-flight technical meeting with Boeing and
+NASA officials, the space station's chief safety officer and
+representatives from NASA's astronaut office disagreed with
+Boeing's plans to proceed with the mission citing concerns over
+the batteries, according to a person who attended the meetings.But those NASA officials eventually agreed with Boeing and
+others at the federal space agency that the chances of a battery
+mishap that would endanger the crew were low, said the person
+who requested anonymity to discuss preflight deliberations.Boeing also is weighing battery redesigns and a plan to add
+shielding in case one overheats, Stich said. SpaceX, which has
+already flown seven crewed missions for NASA since 2020,
+redesigned its spacecraft's batteries at one point, he said."Of course, they have the luxury of having a lot of battery
+expertise at Tesla," Stich said, referring to the
+electric carmaker Musk leads.Boeing in a statement said on Wednesday it has had no issues
+with Starliner's batteries during tests."Boeing has conducted more than a dozen Starliner
+battery thermal runaway tests, stressing the battery cells
+beyond their intended limit. No issue has surfaced," the company
+said.Stich acknowledged there had been "a little disagreement"
+during the meetings over how a potential failure of one of the
+battery's cells could spread to other cells. He said there have
+been no test failures, but added sometimes a cell got "a little
+out of balance" during past tests.The Starliner battery concerns and expected upgrades, which
+had not been previously reported, would add to a growing to-do
+list of tests and redesigns Boeing has faced before it embarks
+on the long-awaited operational phase of its NASA contract: six
+astronaut missions over the next few years.NASA has overseen Starliner's development under a $4.5
+billion contract awarded in 2014. Some 80 software failures cut
+short an initial, uncrewed Starliner test flight in 2019. The
+capsule made a successful repeat of that mission in 2022.Boeing also plans to redesign a system that separates
+Starliner's main crew module from its service module, a trunk
+section containing thrusters that is ditched before the
+spacecraft returns to Earth, Stich said.Federal procurement data shows NASA has agreed to pay Boeing
+at least $24.8 million for the upgrade of that system.Boeing last year also opted to redesign valves on
+Starliner's propulsion system to prevent them from sticking shut
+prior to launch, which caused a lengthy delay in 2021.NASA and Boeing's aim to have the valves redesigned for
+future missions initiated a dispute with Boeing's propulsion
+system supplier. Aerojet Rocketdyne blamed Boeing for
+the problems, refusing to pay for the redesign, Reuters reported
+last year.Boeing has now cut Aerojet from the redesign process and is
+working directly with Aerojet's valve supplier, New Jersey-based
+company Marotta, said a person involved in the process who asked
+not to be identified.Aerojet and Marotta declined to comment. Boeing said "we are
+working with Marotta on a valve redesign."
+(Reporting by Joey Roulette, editing by Ben Klayman and Diane
+Craft)

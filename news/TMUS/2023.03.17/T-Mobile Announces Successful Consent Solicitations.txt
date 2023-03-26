@@ -1,0 +1,191 @@
+
+T-Mobile US, Inc. (NASDAQ: TMUS) (“T-Mobile”) announced today the expiration, on March 17, 2023, and results of the consent solicitations by its wholly-owned subsidiaries Sprint LLC (“Sprint”) (the “Sprint Consent Solicitation”) and Sprint Capital Corporation (“SCC”) (the “SCC Consent Solicitation,” and together with the Sprint Consent Solicitation, the “Consent Solicitations”). Sprint received the consents necessary to effect certain amendments to the senior notes indenture, dated as of September 11, 2013 (as supplemented and amended, the “Sprint Indenture”), governing Sprint’s 7.875% Notes due 2023 (the “2023 Notes”), 7.125% Notes due 2024 (the “2024 Notes”), 7.625% Notes due 2025 (the “2025 Notes”) and 7.625% Notes due 2026 (the “2026 Notes,” and together with the 2023 Notes, the 2024 Notes and the 2025 Notes, the “Sprint Notes”). SCC received the consents necessary to effect certain amendments to the indenture, dated as of October 1, 1998 (as supplemented and amended, the “SCC Indenture”), governing SCC’s 6.875% Notes due 2028 (the “2028 Notes”) and 8.750% Notes due 2032 (the “2032 Notes,” and together with the 2028 Notes, the “SCC Notes,” and together with the Sprint Notes, the “Notes”).
+
+The Consent Solicitations were conducted in connection with the Membership Interest Purchase Agreement, dated as of September 6, 2022 (as it may be amended, supplemented or modified from time to time, the “Purchase Agreement”), made by and among Sprint, Sprint Communications LLC (“Sprint Communications”) and Cogent Infrastructure, Inc. (“Cogent”), pursuant to which Cogent agreed to acquire certain assets and liabilities primarily relating to the U.S. long-haul fiber network (including the non-U.S. extensions thereof) of Sprint Communications and its subsidiaries (such assets and liabilities collectively, the “Wireline Business”) on the terms and subject to the conditions set forth in the Purchase Agreement. The Purchase Agreement provides that, upon the terms and conditions set forth therein, Sprint Communications will undertake a divisive merger and Cogent will purchase from Sprint all of the issued and outstanding membership interests of a newly formed Delaware limited liability company resulting from such divisive merger that holds the Wireline Business (the transactions contemplated by the Purchase Agreement, the “Wireline Transaction”).
+
+Sprint Consent Solicitation
+
+Upon the terms and subject to the conditions described in Sprint’s Consent Solicitation Statement, dated March 13, 2023 (the “Sprint Solicitation Statement”), Sprint solicited consents from registered holders of the Sprint Notes to expressly provide that the restriction on mergers, consolidations and transfers of all or substantially all property and assets of Sprint Communications shall not apply to the Wireline Transaction or certain divisive mergers in connection with or in contemplation of a disposition or other separation of the Wireline Business (such amendments, the “Sprint Amendments”).
+
+In conjunction with receiving the requisite consents, on March 17, 2023, Sprint and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Sprint Trustee”), executed and delivered the ninth supplemental indenture (the “Ninth Supplemental Indenture”) to the Sprint Indenture (such time, the “Sprint Effective Time”), pursuant to which, with respect to each series of Sprint Notes, the Sprint Amendments will become operative upon the payment of the Consent Payments (as defined in the Sprint Solicitation Statement) in accordance with the terms and conditions set forth in the Sprint Solicitation Statement. Except for the Sprint Amendments, all of the existing terms of the Sprint Notes and the Sprint Indenture will remain unchanged.
+
+Sprint will pay to D.F. King & Co., Inc. (the “Tabulation and Payment Agent”) a cash payment of $1.00 per $1,000 in principal amount of Sprint Notes set forth in the table below for the benefit of the holders of each series of Sprint Notes whose consents were validly delivered (and not revoked) at or prior to the expiration of the Sprint Consent Solicitation, upon the terms and subject to the conditions described in the Sprint Solicitation Statement. Payment will be made promptly after the date hereof and is expected to be made on March 20, 2023.
+
+Series of Sprint Notes
+
+ 
+
+CUSIP Number
+
+ 
+
+Outstanding
+Aggregate
+Principal Amount
+
+ 
+
+Consent
+Payment
+
+ 
+
+%
+Principal
+Amount
+Consent
+Received
+
+7.875% Notes due 2023
+
+85207U AF2
+
+ 
+
+$4,250,000,000
+
+ 
+
+$1.00 per $1,000
+principal amount of notes
+
+ 
+
+91.30%
+
+7.125% Notes due 2024
+
+85207U AH8
+
+ 
+
+$2,500,000,000
+
+ 
+
+$1.00 per $1,000
+principal amount of notes
+
+ 
+
+93.32%
+
+7.625% Notes due 2025
+
+85207U AJ4
+
+ 
+
+$1,500,000,000
+
+ 
+
+$1.00 per $1,000
+principal amount of notes
+
+ 
+
+95.92%
+
+7.625% Notes due 2026
+
+85207U AK1
+
+ 
+
+$1,500,000,000
+
+ 
+
+$1.00 per $1,000
+principal amount of notes
+
+ 
+
+93.96%
+
+SCC Consent Solicitation
+
+Upon the terms and subject to the conditions described in SCC’s Consent Solicitation Statement, dated March 13, 2023 (the “SCC Solicitation Statement”), SCC solicited consents from registered holders of the SCC Notes to expressly provide that the restriction on mergers and consolidations of Sprint Communications shall not apply to the Wireline Transaction or certain divisive mergers in connection with or in contemplation of a disposition or other separation of the Wireline Business (such amendments, the “SCC Amendments”).
+
+In conjunction with receiving the requisite consents, on March 17, 2023, SCC, Sprint Communications and The Bank of New York Mellon Trust Company, N.A., as trustee (the “SCC Trustee”), executed and delivered the sixth supplemental indenture (the “Sixth Supplemental Indenture”) to the SCC Indenture (such time, the “SCC Effective Time”), pursuant to which, with respect to each series of SCC Notes, the SCC Amendments will become operative upon the payment of the Consent Payments (as defined in the SCC Solicitation Statement) in accordance with the terms and conditions set forth in the SCC Solicitation Statement. Except for the SCC Amendments, all of the existing terms of the SCC Notes and the SCC Indenture will remain unchanged.
+
+SCC will pay to the Tabulation and Payment Agent a cash payment of $1.00 per $1,000 in principal amount of SCC Notes set forth in the table below for the benefit of the holders of each series of SCC Notes whose consents were validly delivered (and not revoked) at or prior to the expiration of the SCC Consent Solicitation, upon the terms and subject to the conditions described in the SCC Solicitation Statement. Payment will be made promptly after the date hereof and is expected to be made on March 20, 2023.
+
+Series of SCC Notes
+
+ 
+
+CUSIP Number
+
+ 
+
+Outstanding
+Aggregate
+Principal Amount
+
+ 
+
+Consent
+Payment
+
+ 
+
+%
+Principal
+Amount
+Consent
+Received
+
+6.875% Notes due 2028
+
+852060 AD4
+
+ 
+
+$2,475,000,000
+
+ 
+
+$1.00 per $1,000
+principal amount of notes
+
+ 
+
+88.83%
+
+8.750% Notes due 2032
+
+852060 AT9
+852060 AQ5
+U84681 AD4
+
+ 
+
+$2,000,000,000
+
+ 
+
+$1.00 per $1,000
+principal amount of notes
+
+ 
+
+94.03%
+
+Additional Information
+
+This announcement is for information purposes only and is neither an offer to sell nor a solicitation of an offer to buy any series of Notes or any other securities. This announcement is also not a solicitation of consents with respect to the Proposed Amendments or any securities. The solicitation of consents by Sprint was made only pursuant to the Sprint Solicitation Statement, and the solicitation of consents by SCC was made only pursuant to the SCC Solicitation Statement.
+
+About T-Mobile
+
+T-Mobile US, Inc. (NASDAQ: TMUS) is America’s supercharged Un-carrier, delivering an advanced 4G LTE and transformative nationwide 5G network that will offer reliable connectivity for all. T-Mobile’s customers benefit from its unmatched combination of value and quality, unwavering obsession with offering them the best possible service experience and undisputable drive for disruption that creates competition and innovation in wireless and beyond. Based in Bellevue, Wash., T-Mobile provides services through its subsidiaries and operates its flagship brands, T-Mobile and Metro by T-Mobile.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This press release contains forward-looking statements that are based on T-Mobile management’s current expectations. Such statements include, without limitation, statements about the payment of the Consent Payments and statements about the transactions contemplated by the Purchase Agreement. Such forward-looking statements are subject to certain risks, uncertainties and assumptions, including, without limitation, prevailing market conditions, actions of third parties and other factors. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those expected. More information about potential risk factors that could affect T-Mobile and its results is included in T-Mobile’s filings with the SEC, which are available at http://www.sec.gov. T-Mobile assumes no obligation to update or revise the information contained in this press release (whether as a result of new information, future events or otherwise), except as required by applicable law.
+
+No Offer or Solicitation
+
+This press release shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any offer, solicitation or sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230317005424/en/

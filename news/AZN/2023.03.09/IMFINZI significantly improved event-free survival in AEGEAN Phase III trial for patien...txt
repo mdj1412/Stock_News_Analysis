@@ -1,0 +1,141 @@
+
+Positive high-level results from a planned interim analysis of the AEGEAN Phase III, placebo-controlled trial showed that treatment with AstraZeneca’s IMFINZI® (durvalumab) in combination with neoadjuvant chemotherapy before surgery and as adjuvant monotherapy after surgery demonstrated a statistically significant and clinically meaningful improvement in event-free survival (EFS) versus neoadjuvant chemotherapy alone followed by surgery for patients with resectable early-stage (IIA-IIIB) non-small cell lung cancer (NSCLC).
+
+Results from the final pathologic complete response (pCR) and major pathologic response (mPR) analyses were consistent with previously announced positive results. The trial will continue as planned to assess key secondary endpoints including disease-free survival (DFS) and overall survival (OS).
+
+Each year there are an estimated 2.2 million people diagnosed with lung cancer globally with 80-85% of patients diagnosed with NSCLC, the most common form of lung cancer.1-3 Approximately 25-30% of all patients with NSCLC are diagnosed early enough to have surgery with curative intent.4-5 However, only around 56-65% of patients with Stage II disease will survive for five years.6 This decreases to 41% for patients with Stage IIIA and 24% for patients with Stage IIIB disease, reflecting a high unmet medical need.6
+
+John V. Heymach, MD, PhD. Professor and Chair Thoracic/Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, said: “Treating patients early with durvalumab both before and after surgery delivers a significant and clinically meaningful benefit in resectable non-small cell lung cancer, where new options are urgently needed to offer patients the best chance of long-term survival. The AEGEAN results provide compelling evidence that this novel durvalumab regimen can drive improved outcomes in this curative-intent setting.”
+
+Susan Galbraith, Executive Vice President, Oncology R&D, AstraZeneca, said: “Patients with resectable non-small cell lung cancer face unacceptably high rates of recurrence, despite treatment with chemotherapy and surgery. We have shown that adding IMFINZI both before and after surgery significantly increased the time patients live without recurrence or progression events. We will continue to follow patients for overall survival.”
+
+IMFINZI was well tolerated and no new safety concerns were observed in the neoadjuvant and adjuvant settings. Further, adding IMFINZI to neoadjuvant chemotherapy was consistent with the known profile for this combination and did not increase complications or adverse events, or compromise patients' ability to undergo surgery versus chemotherapy alone.
+
+These data will be presented at a forthcoming medical meeting and shared with global health authorities.
+
+AstraZeneca has a comprehensive portfolio of approved and potential new medicines in development for patients with lung cancer. In addition to these results, the Company is also announcing today that osimertinib met a secondary endpoint of OS in the ADAURA Phase III trial in early-stage (IB, II and IIIA) epidermal growth factor receptor-mutated (EGFRm) NSCLC after complete tumor resection with curative intent.
+
+IMPORTANT SAFETY INFORMATION
+
+There are no contraindications for IMFINZI® (durvalumab).
+
+Immune-Mediated Adverse Reactions
+
+Important immune-mediated adverse reactions listed under Warnings and Precautions may not include all possible severe and fatal immune-mediated reactions. Immune-mediated adverse reactions, which may be severe or fatal, can occur in any organ system or tissue. Immune-mediated adverse reactions can occur at any time after starting treatment or after discontinuation. Monitor patients closely for symptoms and signs that may be clinical manifestations of underlying immune-mediated adverse reactions. Evaluate liver enzymes, creatinine, and thyroid function at baseline and periodically during treatment. In cases of suspected immune-mediated adverse reactions, initiate appropriate workup to exclude alternative etiologies, including infection. Institute medical management promptly, including specialty consultation as appropriate. Withhold or permanently discontinue IMFINZI depending on severity. See USPI Dosing and Administration for specific details. In general, if IMFINZI requires interruption or discontinuation, administer systemic corticosteroid therapy (1 mg to 2 mg/kg/day prednisone or equivalent) until improvement to Grade 1 or less. Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month. Consider administration of other systemic immunosuppressants in patients whose immune-mediated adverse reactions are not controlled with corticosteroid therapy.
+
+Immune-Mediated Pneumonitis
+
+IMFINZI can cause immune-mediated pneumonitis. The incidence of pneumonitis is higher in patients who have received prior thoracic radiation. In patients who did not receive recent prior radiation, the incidence of immune-mediated pneumonitis was 2.4% (34/1414), including fatal (<0.1%), and Grade 3-4 (0.4%) adverse reactions. In patients who received recent prior radiation, the incidence of pneumonitis (including radiation pneumonitis) in patients with unresectable Stage III NSCLC following definitive chemoradiation within 42 days prior to initiation of IMFINZI in PACIFIC was 18.3% (87/475) in patients receiving IMFINZI and 12.8% (30/234) in patients receiving placebo. Of the patients who received IMFINZI (475), 1.1% were fatal and 2.7% were Grade 3 adverse reactions. The frequency and severity of immune-mediated pneumonitis in patients who did not receive definitive chemoradiation prior to IMFINZI were similar in patients who received IMFINZI as a single agent or with ES-SCLC or BTC when in combination with chemotherapy.
+
+Immune-Mediated Colitis
+
+IMFINZI can cause immune-mediated colitis that is frequently associated with diarrhea. Cytomegalovirus (CMV) infection/reactivation has been reported in patients with corticosteroid-refractory immune-mediated colitis. In cases of corticosteroid-refractory colitis, consider repeating infectious workup to exclude alternative etiologies. Immune-mediated colitis occurred in 2% (37/1889) of patients receiving IMFINZI, including Grade 4 (<0.1%) and Grade 3 (0.4%) adverse reactions.
+
+Immune-Mediated Hepatitis
+
+IMFINZI can cause immune-mediated hepatitis. Immune-mediated hepatitis occurred in 2.8% (52/1889) of patients receiving IMFINZI, including fatal (0.2%), Grade 4 (0.3%) and Grade 3 (1.4%) adverse reactions.
+
+Immune-Mediated Endocrinopathies
+
+Immune-Mediated Nephritis with Renal Dysfunction
+
+IMFINZI can cause immune-mediated nephritis. Immune-mediated nephritis occurred in 0.5% (10/1889) of patients receiving IMFINZI, including Grade 3 (<0.1%) adverse reactions.
+
+Immune-Mediated Dermatology Reactions
+
+IMFINZI can cause immune-mediated rash or dermatitis. Exfoliative dermatitis, including Stevens-Johnson Syndrome (SJS), drug rash with eosinophilia and systemic symptoms (DRESS), and toxic epidermal necrolysis (TEN), have occurred with PD-1/L-1 blocking antibodies. Topical emollients and/or topical corticosteroids may be adequate to treat mild to moderate non-exfoliative rashes. Immune-mediated rash or dermatitis occurred in 1.8% (34/1889) of patients receiving IMFINZI, including Grade 3 (0.4%) adverse reactions.
+
+Other Immune-Mediated Adverse Reactions
+
+The following clinically significant, immune-mediated adverse reactions occurred at an incidence of less than 1% each in patients who received IMFINZI or were reported with the use of other PD-1/PD-L1 blocking antibodies.
+
+Infusion-Related Reactions
+
+IMFINZI can cause severe or life-threatening infusion-related reactions. Monitor for signs and symptoms of infusion-related reactions. Interrupt, slow the rate of, or permanently discontinue IMFINZI based on the severity. See USPI Dosing and Administration for specific details. For Grade 1 or 2 infusion-related reactions, consider using pre-medications with subsequent doses. Infusion-related reactions occurred in 2.2% (42/1889) of patients receiving IMFINZI, including Grade 3 (0.3%) adverse reactions.
+
+Complications of Allogeneic HSCT after IMFINZI
+
+Fatal and other serious complications can occur in patients who receive allogeneic hematopoietic stem cell transplantation (HSCT) before or after being treated with a PD-1/L-1 blocking antibody. Transplant-related complications include hyperacute graft-versus-host-disease (GVHD), acute GVHD, chronic GVHD, hepatic veno-occlusive disease (VOD) after reduced intensity conditioning, and steroid-requiring febrile syndrome (without an identified infectious cause). These complications may occur despite intervening therapy between PD-1/L-1 blockade and allogeneic HSCT. Follow patients closely for evidence of transplant-related complications and intervene promptly. Consider the benefit versus risks of treatment with a PD-1/L-1 blocking antibody prior to or after an allogeneic HSCT.
+
+Embryo-Fetal Toxicity
+
+Based on its mechanism of action and data from animal studies, IMFINZI can cause fetal harm when administered to a pregnant woman. Advise pregnant women of the potential risk to a fetus. In females of reproductive potential, verify pregnancy status prior to initiating IMFINZI and advise them to use effective contraception during treatment with IMFINZI and for 3 months after the last dose of IMFINZI.
+
+Lactation
+
+There is no information regarding the presence of IMFINZI in human milk; however, because of the potential for adverse reactions in breastfed infants from IMFINZI, advise women not to breastfeed during treatment and for 3 months after the last dose.
+
+Adverse Reactions
+
+The safety and effectiveness of IMFINZI have not been established in pediatric patients.
+
+Indication:
+
+IMFINZI is indicated for the treatment of adult patients with unresectable Stage III non-small cell lung cancer (NSCLC) whose disease has not progressed following concurrent platinum-based chemotherapy and radiation therapy.
+
+Please refer to the full Prescribing Information and Medication Guide for important dosage modification and management information specific to adverse reactions.
+
+Notes
+
+Lung cancer
+
+Lung cancer is the leading cause of cancer death among both men and women, accounting for about one-fifth of all cancer deaths.1 Lung cancer is broadly split into NSCLC and small cell lung cancer (SCLC).2 The majority of NSCLC patients are diagnosed with advanced disease while approximately 25-30% present with resectable disease at diagnosis.4-5 Early-stage lung cancer diagnoses are often only made when the cancer is found on imaging for an unrelated condition.7-8
+
+For patients with resectable tumors, the majority eventually develop recurrence despite complete tumor resection and adjuvant chemotherapy.9
+
+AEGEAN
+
+AEGEAN is a randomized, double-blind, multi-center, placebo-controlled global Phase III trial evaluating IMFINZI as perioperative treatment for patients with resectable Stage IIA-IIIB (Eighth Edition AJCC Cancer Staging Manual) NSCLC, irrespective of PD-L1 expression. Perioperative therapy includes treatment before and after surgery, also known as neoadjuvant/adjuvant therapy. In the trial, 802 patients were randomized to receive a 1500mg fixed dose of IMFINZI plus chemotherapy or placebo plus chemotherapy every three weeks for four cycles prior to surgery, followed by IMFINZI or placebo every four weeks (for up to 12 cycles) after surgery. Patients with known EGFR or ALK genomic tumor aberrations were excluded from the primary efficacy analyses.
+
+In the AEGEAN trial, the primary endpoints were pCR, defined as no viable tumor in the resection specimen (including lymph nodes) following neoadjuvant therapy, and EFS, defined as the time from randomization to an event like tumor recurrence, progression precluding definitive surgery, or death. Key secondary endpoints were mPR, defined as residual viable tumor of less than or equal to 10% in the resected primary tumor following neoadjuvant therapy, DFS, OS, safety and quality of life. The final pathologic response analyses were performed after all patients had the opportunity for surgery and pathology assessment per the trial protocol. The trial enrolled participants in 264 centers in more than 25 countries including in the US, Canada, Europe, South America and Asia.
+
+IMFINZI®
+
+IMFINZI® (durvalumab) is a human monoclonal antibody that binds to the PD-L1 protein and blocks the interaction of PD-L1 with the PD-1 and CD80 proteins, countering the tumor's immune-evading tactics and releasing the inhibition of immune responses.
+
+IMFINZI is the only approved immunotherapy and the global standard of care in the curative-intent setting of unresectable, Stage III NSCLC in patients whose disease has not progressed after chemoradiation therapy based on the PACIFIC Phase III trial.
+
+IMFINZI is also approved in the US, EU, Japan, China and many other countries around the world for the treatment of extensive-stage SCLC based on the CASPIAN Phase III trial. In an exploratory analysis in 2021, updated results from the CASPIAN trial showed IMFINZI plus chemotherapy tripled patient survival at three years versus chemotherapy alone. Additionally, IMFINZI is approved in combination with a short course of tremelimumab and chemotherapy for the treatment of metastatic NSCLC in the US, EU and Japan based on the POSEIDON Phase III trial.
+
+In addition to its indications in lung cancer, IMFINZI is also approved in combination with chemotherapy in locally advanced or metastatic biliary tract cancer in the US, EU, Japan and several other countries; in combination with tremelimumab in unresectable hepatocellular carcinoma in the US, EU and Japan; and in previously treated patients with advanced bladder cancer in several countries.
+
+Since the first approval in May 2017, more than 150,000 patients have been treated with IMFINZI.
+
+AstraZeneca has several ongoing registrational trials focused on testing IMFINZI in earlier stages of lung cancer, including in resectable NSCLC (ADJUVANT BR.31) and unresectable NSCLC (PACIFIC-2, 4, 5, 8 and 9), and in limited-stage SCLC (ADRIATIC).
+
+As part of a broad development program, IMFINZI is being tested as a single treatment and in combinations with other anti-cancer treatments for patients with SCLC, NSCLC, bladder cancer, several gastrointestinal (GI) cancers, ovarian cancer, endometrial cancer and other solid tumors.
+
+AstraZeneca in lung cancer
+
+AstraZeneca is working to bring patients with lung cancer closer to cure through the detection and treatment of early-stage disease, while also pushing the boundaries of science to improve outcomes in the resistant and advanced settings. By defining new therapeutic targets and investigating innovative approaches, the Company aims to match medicines to the patients who can benefit most.
+
+The Company's comprehensive portfolio includes leading lung cancer medicines and the next wave of innovations, including tremelimumab and gefitinib; IMFINZI and tremelimumab; fam-trastuzumab deruxtecan-nxki and datopotamab deruxtecan in collaboration with Daiichi Sankyo; savolitinib in collaboration with HUTCHMED; as well as a pipeline of potential new medicines and combinations across diverse mechanisms of action.
+
+AstraZeneca is a founding member of the Lung Ambition Alliance, a global coalition working to accelerate innovation and deliver meaningful improvements for people with lung cancer, including and beyond treatment.
+
+AstraZeneca in immuno-oncology (IO)
+
+AstraZeneca is a pioneer in introducing the concept of immunotherapy into dedicated clinical areas of high unmet medical need. The Company has a comprehensive and diverse IO portfolio and pipeline anchored in immunotherapies designed to overcome evasion of the anti-tumor immune response and stimulate the body’s immune system to attack tumors.
+
+AstraZeneca aims to reimagine cancer care and help transform outcomes for patients with IMFINZI as a single treatment and in combination with tremelimumab as well as other novel immunotherapies and modalities. The Company is also exploring next-generation immunotherapies like bispecific antibodies and therapeutics that harness different aspects of immunity to target cancer.
+
+AstraZeneca is boldly pursuing an innovative clinical strategy to bring IO-based therapies that deliver long-term survival to new settings across a wide range of cancer types. With an extensive clinical program, the Company also champions the use of IO treatment in earlier disease stages, where there is the greatest potential for cure.
+
+AstraZeneca in oncology
+
+AstraZeneca is leading a revolution in oncology with the ambition to provide cures for cancer in every form, following the science to understand cancer and all its complexities to discover, develop and deliver life-changing medicines to patients.
+
+The Company's focus is on some of the most challenging cancers. It is through persistent innovation that AstraZeneca has built one of the most diverse portfolios and pipelines in the industry, with the potential to catalyze changes in the practice of medicine and transform the patient experience.
+
+AstraZeneca has the vision to redefine cancer care and, one day, eliminate cancer as a cause of death.
+
+About AstraZeneca
+
+AstraZeneca is a global, science-led biopharmaceutical company that focuses on the discovery, development, and commercialisation of prescription medicines in Oncology, Rare Diseases, and BioPharmaceuticals, including Cardiovascular, Renal & Metabolism, and Respiratory & Immunology. Based in Cambridge, UK, AstraZeneca operates in over 100 countries and its innovative medicines are used by millions of patients worldwide.
+
+Please visit astrazeneca-us.com and follow the Company on Twitter @AstraZenecaUS.
+
+References
+
+ 
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230308005913/en/

@@ -1,0 +1,20 @@
+
+
+SANTA CLARA, Calif., March 14, 2023 /PRNewswire/ -- Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced the details of its participation in a webinar hosted by BofA Securities to discuss current and emerging data center connectivity technologies and the impact they will have on the cloud.
+Webinar Title: The Evolution of Cloud Data Center Connectivity
+When: Wednesday, March 22 at 8 a.m. Pacific time/11 a.m. Eastern time
+Topic: Technologies for connecting systems inside and between data centers are evolving as cloud service providers seek new ways to scale bandwidth efficiently, economically, and rapidly. This webinar will discuss current and emerging technologies and the impact they will have on the cloud.
+Presenters:Loi Nguyen - Executive Vice President, Optical and Copper Connectivity Group, MarvellAchyut Shah - Senior Vice President, PHY Business Unit, MarvellAlan Weckel - Co-founder, 650 GroupHost: Vivek Arya, Head of US Semiconductor and Semicap Equipment Research at BofA Securities
+To Register: https://bofa.veracast.com/webcasts/bofa/ceocfo2023/idifmd5t.cfmA video replay will be available at the above link following the live webinar.
+About MarvellTo deliver the data infrastructure technology that connects the world, we're building solutions on the most powerful foundation: our partnerships with our customers. Trusted by the world's leading technology companies for over 25 years, we move, store, process and secure the world's data with semiconductor solutions designed for our customers' current needs and future ambitions. Through a process of deep collaboration and transparency, we're ultimately changing the way tomorrow's enterprise, cloud, automotive, and carrier architectures transform—for the better.
+Marvell and the M logo are trademarks of Marvell or its affiliates. Please visit www.marvell.com for a complete list of Marvell trademarks. Other names and brands may be claimed as the property of others.
+This press release contains forward-looking statements within the meaning of the federal securities laws that involve risks and uncertainties. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate or imply future events or achievements. Actual events or results may differ materially from those contemplated in this press release. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and no person assumes any obligation to update or revise any such forward-looking statements, whether as a result of new information, future events or otherwise.
+For further information, contact:Kim Marklepr@marvell.com
+
+ 
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/media-alert-marvell-to-present-evolution-of-cloud-data-center-connectivity-at-webinar-hosted-by-bofa-securities-301770988.html
+SOURCE  Marvell
+
+

@@ -1,0 +1,33 @@
+
+
+Cognizant to integrate service cloud voice into one single omni-channel platform for enhanced and more personalized agent and customer experience 
+TEANECK, N.J., March 14, 2023 /PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced that it has been selected by Volkswagen Group Ireland (VWG Ireland), the multinational automotive manufacturer headquartered in Wolfsburg, Germany, to transform VWG Ireland's digital customer service landscape. Cognizant will re-engineer VWG Ireland's existing siloed contact center platform into an omni-channel customer experience (CX) platform, based on Salesforce service cloud voice and Amazon Connect.
+
+
+
+
+
+
+
+VWG Ireland needed to unify its legacy contact center functionalities and streamline its customer service to reduce maintenance costs and improve efficiency, while gaining a holistic customer 360-degree view. Due to its siloed customer engagement processes and channels, VWG Ireland was also faced with a lack of customer insight and time-consuming manual customer data aggregation. As part of the agreement, Cognizant will implement a fully digital, cloud-based omni-channel CX platform to modernize customer engagements, as well as provide an easy-to-use, web-based, and unified user interface for the agents combining customer data, context, journeys and interaction channels.
+Cognizant will also provide VWG Ireland with advanced insights into customer journeys and conversations. This is intended to improve reporting, advance business decisions, and drive next best actions to provide a personalized experience to customers and recommend next steps, services or products. In addition, Cognizant will work together with VWG Ireland for continuous improvement, feature enhancements and process innovation of the CX platform. The introduction of the CX platform allows for improved efficiencies for both end users and their supervisors, freeing up time for the provision of an optimized level of service to VWG Ireland's customers.
+"The automotive industry has been transformed from the bottom up over the past decade, not least with the accelerated uptake of electric vehicles. In addition, customer expectations on service levels and how to engage with various organisations has also shifted, accelerated by the necessity of remote access, service provision and support during the pandemic," said Tom Murphy, CIO, VWG Ireland. "In particular, the car industry has seen a shift in how customers wish to communicate with us. To be able to interact with our customers in a more meaningful and direct manner, we needed a trusted IT partner to help us in our mission to improve our systems and engage with our customer base more efficiently."
+"Cognizant's mission is to transform OEMs, suppliers, dealers and automotive finance companies into modern enterprises. This program is a first-of-its-kind for Cognizant and Volkswagen, combining powerful CX capabilities of CRM, digital and voice in the cloud. Therefore, we are honoured to have been selected by Volkswagen Group Ireland to support it on its customer journey transformation in meeting the expectations of its customers," said Rohit Gupta, Managing Director, UK&I, Cognizant. "With our vast experience of more than 15 years in managing and transforming customer contact centres for large global clients, combined with our proven methodologies, processes and expertise in agile lead delivery, we believe we are best placed to help Volkswagen Group Ireland enhance its customers' experience with the auto maker."
+About Volkswagen Group IrelandVolkswagen Group Ireland (VWG Ireland), wholly owned by Volkswagen AG, is Ireland's biggest automotive company with six leading brands - Volkswagen, Audi, ŠKODA, CUPRA, Seat and Volkswagen Commercial Vehicles. As a National Sales Company, we work in partnership with nearly 130 franchise retailers across the Republic of Ireland. Volkswagen Group Ireland is the leading seller of battery electric vehicles in Ireland with a combined BEV market share of 34%.
+About CognizantCognizant (Nasdaq: CTSH) engineers modern businesses. We help our clients modernize technology, reimagine processes and transform experiences so they can stay ahead in our fast-changing world. Together, we're improving everyday life. See how at www.cognizant.com or @cognizant.
+U.S.
+Europe / APAC
+India
+Jodi Sorensen
+Christina Schneider
+Rashmi Vasisht 
+jodi.sorensen@cognizant.com
+christina.schneider@cognizant.com
+rashmi.vasisht@cognizant.com
+ 
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/cognizant-engaged-by-volkswagen-group-ireland-to-transform-its-digital-customer-experience-301770213.html
+SOURCE  Cognizant Technology Solutions
+
+

@@ -1,0 +1,27 @@
+
+Today, Adobe (Nasdaq:ADBE) introduced Firefly, a new family of creative generative AI models, first focused on the generation of images and text effects. Firefly will bring even more precision, power, speed and ease directly into Creative Cloud, Document Cloud, Experience Cloud and Adobe Express workflows where content is created and modified. Firefly will be part of a series of new Adobe Sensei generative AI services across Adobe’s clouds.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230321005451/en/
+Adobe has over a decade-long history of AI innovation, delivering hundreds of intelligent capabilities through Adobe Sensei into applications that hundreds of millions of people rely upon. Features like Neural Filters in Photoshop, Content Aware Fill in After Effects, Attribution AI in Adobe Experience Platform and Liquid Mode in Acrobat empower Adobe customers to create, edit, measure, optimize and review billions of pieces of content with power, precision, speed and ease. These innovations are developed and deployed in alignment with Adobe’s AI ethics principles of accountability, responsibility and transparency.
+
+“Generative AI is the next evolution of AI-driven creativity and productivity, transforming the conversation between creator and computer into something more natural, intuitive and powerful,” said David Wadhwani, president, Digital Media Business, Adobe. “With Firefly, Adobe will bring generative AI-powered ‘creative ingredients’ directly into customers’ workflows, increasing productivity and creative expression for all creators from high-end creative professionals to the long tail of the creator economy.”
+
+Adobe Firefly: Giving Creators New Superpowers
+
+Adobe is designing Firefly to give all creators superpowers to work at the speed of their imaginations. With Firefly, everyone who creates content – regardless of their experience or skill – will be able to use their own words to generate content the way they dream it up, from images, audio, vectors, videos and 3D to creative ingredients, like brushes, color gradients and video transformations, with greater speed and ease than ever before. With Firefly, producing limitless variations of content and making changes, again and again — all on brand — will be quick and simple. Adobe will also integrate Firefly directly into its industry leading tools and services, so users can effortlessly leverage the power of generative AI within their existing workflows.
+
+Adobe also launched a beta for Firefly today that showcases how creators of all experience and skill levels can generate high quality images and amazing text effects. Adobe believes that the full power of technology cannot be realized without great imagination to fuel it. Through the beta process, the company will engage with the creative community and customers as it evolves this transformational technology and begins integrating it into its applications. The first applications that will benefit from Firefly integration will be Adobe Express, Adobe Experience Manager, Adobe Photoshop and Adobe Illustrator.
+
+High-Quality Images Designed to Be Safe for Commercial Use
+
+Firefly will be made up of multiple models, tailored to serve customers with a wide array of skillsets and technical backgrounds, working across a variety of different use cases. Adobe’s first model, trained on Adobe Stock images, openly licensed content and public domain content where copyright has expired, will focus on images and text effects and is designed to generate content safe for commercial use. Adobe Stock’s hundreds of millions of professional-grade, licensed images are among the highest quality in the market and help ensure Firefly won’t generate content based on other people’s or brands’ IP. Future Firefly models will leverage a variety of assets, technology and training data from Adobe and others. As other models are implemented, Adobe will continue to prioritize countering potential harmful bias.
+
+A Customer-Centric Approach
+
+Adobe is designing generative AI to support creators in benefitting from their skills and creativity:
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005451/en/

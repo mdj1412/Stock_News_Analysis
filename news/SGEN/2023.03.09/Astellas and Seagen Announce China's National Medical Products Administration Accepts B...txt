@@ -1,0 +1,123 @@
+
+Astellas Pharma Inc. (TSE:4503, President and CEO: Kenji Yasukawa, Ph.D., “Astellas”) and Seagen Inc. (Nasdaq: SGEN) today announced that the Center for Drug Evaluation (CDE) of the China National Medical Products Administration (NMPA) has accepted the Biologics License Application (BLA) for enfortumab vedotin for the treatment of patients with locally advanced or metastatic urothelial cancer (la/mUC) who received prior treatment with a PD-1/L1 inhibitor and platinum-based chemotherapy.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230308005887/en/
+“In China, there were nearly 86,000 new cases of bladder cancer in 2020, and we are working with the NMPA to seek approval for enfortumab vedotin for patients with advanced stage disease,” said Ahsan Arozullah, M.D., M.P.H., Senior Vice President and Head of Development Therapeutic Areas, Astellas. “Enfortumab vedotin has become a second- and third-line treatment option for many patients around the world with previously treated locally advanced or metastatic urothelial cancer, and an approval in China may bring this therapy to those patients.”
+
+The BLA submission for enfortumab vedotin is based on data from the EV-203 study (NCT04995419), a single-arm, open-label, multicenter Phase 2 study of enfortumab vedotin in Chinese patients with la/mUC who previously received a PD-1/L1 inhibitor and platinum-based chemotherapy. Results showed that EV-203 met its primary endpoint, showing statistical significance in objective response rate (ORR) by independent review committee (IRC) for patients treated with enfortumab vedotin alone compared to historical controls. Efficacy and pharmacokinetic data from the study are in line with global data, and EV-203 is a bridging study to EV-301, a Phase 3 randomized study that has supported global registrations of enfortumab vedotin, and EV-201 Cohort 1.
+
+Please see Important Safety Information, including BOXED WARNING, at the end of this press release for further safety information regarding enfortumab vedotin including serious skin reactions.
+
+Enfortumab vedotin alone and in combination with other therapies is the subject of a robust clinical development program aimed at addressing unmet medical needs across the continuum of urothelial cancer and in other solid tumors.
+
+About Bladder and Urothelial Cancer
+
+Globally, approximately 573,000 new cases of bladder cancer and 212,000 deaths are reported annually.1 Urothelial cancer accounts for 90% of all bladder cancers and can also be found in the renal pelvis, ureter and urethra.2 Approximately 12% of cases are locally advanced or metastatic urothelial cancer at diagnosis.3
+
+In China, the incidence rate of bladder cancer in 2020 ranked 12th among all cancers, with an estimated 85,649 new cases that year. The five-year prevalence of bladder cancer in China is estimated to be 16.26/100,000 cases, or 235,393 cases.4
+
+About the EV-203 Trial
+
+The EV-203 trial (NCT04995419) is a Phase 2, multicenter, single-arm bridging study in China designed to evaluate the efficacy, safety and pharmacokinetic performance of enfortumab vedotin as treatment for patients in China. A total of 40 patients were enrolled in the study.
+
+About the EV-301 Trial
+
+The EV-301 trial (NCT03474107) is a global, multicenter, open-label, randomized Phase 3 trial designed to evaluate enfortumab vedotin versus physician's choice of chemotherapy (docetaxel, paclitaxel or vinflunine) in 608 patients with locally advanced or metastatic urothelial cancer who were previously treated with a PD-1/L1 inhibitor and platinum-based chemotherapies. The primary endpoint is overall survival, and secondary endpoints include progression-free survival, overall response rate, duration of response and disease control rate, as well as assessment of safety/tolerability and quality-of-life parameters.
+
+About the EV-201 Trial
+
+The EV-201 trial (NCT03219333) is a single-arm, multi-cohort, multicenter, pivotal phase 2 clinical trial of enfortumab vedotin for patients with locally advanced or metastatic urothelial cancer who have been previously treated with a PD-1 or PD-L1 inhibitor, including those who have also been treated with a platinum-containing chemotherapy (Cohort 1) and those who have not received a platinum-containing chemotherapy in this setting and who are ineligible for cisplatin (Cohort 2). The trial enrolled 125 patients in Cohort 1 and 89 patients in Cohort 2 at multiple centers internationally. The primary endpoint is confirmed objective response rate per blinded independent central review. Secondary endpoints include assessments of duration of response, disease control rate, progression-free survival, overall survival, safety and tolerability.
+
+Results of EV-301 and EV-201 Cohort 2 clinical trials supported the full and supplemental approval of PADCEV® (enfortumab vedotin-ejfv) by the U.S. Food and Drug Administration in July 2021. Additionally, results from EV-301 and EV-201 Cohort 1 serve as core data to support the Marketing Authorization Applications for enfortumab vedotin in the global market, including the European Union, Japan and Singapore.
+
+About PADCEV
+
+PADCEV (enfortumab vedotin-ejfv) is a first-in-class antibody-drug conjugate (ADC) that is directed against Nectin-4, a protein located on the surface of cells and highly expressed in bladder cancer.5 Nonclinical data suggest the anticancer activity of PADCEV is due to its binding to Nectin-4-expressing cells followed by the internalization and release of the anti-tumor agent monomethyl auristatin E (MMAE) into the cell, which result in the cell not reproducing (cell cycle arrest) and in programmed cell death (apoptosis).6
+
+PADCEV (enfortumab vedotin-ejfv) U.S. Indication & Important Safety Information
+
+BOXED WARNING: SERIOUS SKIN REACTIONS
+
+Indication
+
+PADCEV® is indicated for the treatment of adult patients with locally advanced or metastatic urothelial cancer (mUC) who:
+
+Important Safety Information
+
+Warnings and Precautions
+
+Skin reactions Severe cutaneous adverse reactions, including fatal cases of SJS or TEN, occurred in patients treated with PADCEV. SJS and TEN occurred predominantly during the first cycle of treatment but may occur later. Skin reactions occurred in 55% of the 680 patients treated with PADCEV in clinical trials. Twenty-three percent (23%) of patients had maculo-papular rash and 33% had pruritus. Grade 3-4 skin reactions occurred in 13% of patients, including maculo-papular rash, rash erythematous, rash or drug eruption, symmetrical drug-related intertriginous and flexural exanthema (SDRIFE), dermatitis bullous, dermatitis exfoliative, and palmar-plantar erythrodysesthesia. In clinical trials, the median time to onset of severe skin reactions was 0.6 months (range: 0.1 to 6.4 months). Among patients experiencing a skin reaction leading to dose interruption who then restarted PADCEV (n=59), 24% of patients restarting at the same dose and 16% of patients restarting at a reduced dose experienced recurrent severe skin reactions. Skin reactions led to discontinuation of PADCEV in 2.6% of patients. Monitor patients closely throughout treatment for skin reactions. Consider topical corticosteroids and antihistamines, as clinically indicated. For persistent or recurrent Grade 2 skin reactions, consider withholding PADCEV until Grade ≤1. Withhold PADCEV and refer for specialized care for suspected SJS, TEN or for Grade 3 skin reactions. Permanently discontinue PADCEV in patients with confirmed SJS or TEN, or for Grade 4 or recurrent Grade 3 skin reactions.
+
+Hyperglycemia and diabetic ketoacidosis (DKA), including fatal events, occurred in patients with and without pre-existing diabetes mellitus, treated with PADCEV. Patients with baseline hemoglobin A1C ≥8% were excluded from clinical trials. In clinical trials, 14% of the 680 patients treated with PADCEV developed hyperglycemia; 7% of patients developed Grade 3-4 hyperglycemia. The incidence of Grade 3-4 hyperglycemia increased consistently in patients with higher body mass index and in patients with higher baseline A1C. Five percent (5%) of patients required initiation of insulin therapy for treatment of hyperglycemia. The median time to onset of hyperglycemia was 0.6 months (range: 0.1 to 20.3 months). Hyperglycemia led to discontinuation of PADCEV in 0.6% of patients. Closely monitor blood glucose levels in patients with, or at risk for, diabetes mellitus or hyperglycemia. If blood glucose is elevated (>250 mg/dL), withhold PADCEV.
+
+Pneumonitis Severe, life-threatening or fatal pneumonitis occurred in patients treated with PADCEV. In clinical trials, 3.1% of the 680 patients treated with PADCEV had pneumonitis of any grade and 0.7% had Grade 3-4. In clinical trials, the median time to onset of pneumonitis was 2.9 months (range: 0.6 to 6 months). Monitor patients for signs and symptoms indicative of pneumonitis, such as hypoxia, cough, dyspnea or interstitial infiltrates on radiologic exams. Evaluate and exclude infectious, neoplastic and other causes for such signs and symptoms through appropriate investigations. Withhold PADCEV for patients who develop persistent or recurrent Grade 2 pneumonitis and consider dose reduction. Permanently discontinue PADCEV in all patients with Grade 3 or 4 pneumonitis.
+
+Peripheral neuropathy (PN) occurred in 52% of the 680 patients treated with PADCEV in clinical trials, including 39% with sensory neuropathy, 7% with muscular weakness and 6% with motor neuropathy; 4% experienced Grade 3-4 reactions. PN occurred in patients treated with PADCEV with or without pre-existing PN. The median time to onset of Grade ≥2 PN was 4.6 months (range: 0.1 to 15.8 months). Neuropathy led to treatment discontinuation in 5% of patients. Monitor patients for symptoms of new or worsening peripheral neuropathy and consider dose interruption or dose reduction of PADCEV when PN occurs. Permanently discontinue PADCEV in patients who develop Grade ≥3 PN.
+
+Ocular disorders were reported in 40% of the 384 patients treated with PADCEV in clinical trials in which ophthalmologic exams were scheduled. The majority of these events involved the cornea and included events associated with dry eye such as keratitis, blurred vision, increased lacrimation, conjunctivitis, limbal stem cell deficiency, and keratopathy. Dry eye symptoms occurred in 34% of patients, and blurred vision occurred in 13% of patients, during treatment with PADCEV. The median time to onset to symptomatic ocular disorder was 1.6 months (range: 0 to 19.1 months). Monitor patients for ocular disorders. Consider artificial tears for prophylaxis of dry eyes and ophthalmologic evaluation if ocular symptoms occur or do not resolve. Consider treatment with ophthalmic topical steroids, if indicated after an ophthalmic exam. Consider dose interruption or dose reduction of PADCEV for symptomatic ocular disorders.
+
+Infusion site extravasation Skin and soft tissue reactions secondary to extravasation have been observed after administration of PADCEV. Of the 680 patients, 1.6% of patients experienced skin and soft tissue reactions, including 0.3% who experienced Grade 3-4 reactions. Reactions may be delayed. Erythema, swelling, increased temperature, and pain worsened until 2-7 days after extravasation and resolved within 1-4 weeks of peak. Two patients (0.3%) developed extravasation reactions with secondary cellulitis, bullae, or exfoliation. Ensure adequate venous access prior to starting PADCEV and monitor for possible extravasation during administration. If extravasation occurs, stop the infusion and monitor for adverse reactions.
+
+Embryo-fetal toxicity PADCEV can cause fetal harm when administered to a pregnant woman. Advise patients of the potential risk to the fetus. Advise female patients of reproductive potential to use effective contraception during PADCEV treatment and for 2 months after the last dose. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with PADCEV and for 4 months after the last dose.
+
+Adverse Reactions
+
+Most Common Adverse Reactions, Including Laboratory Abnormalities (≥20%)
+
+Rash, aspartate aminotransferase (AST) increased, glucose increased, creatinine increased, fatigue, PN, lymphocytes decreased, alopecia, decreased appetite, hemoglobin decreased, diarrhea, sodium decreased, nausea, pruritus, phosphate decreased, dysgeusia, alanine aminotransferase (ALT) increased, anemia, albumin decreased, neutrophils decreased, urate increased, lipase increased, platelets decreased, weight decreased and dry skin.
+
+EV-301 Study: 296 patients previously treated with a PD-1/L1 inhibitor and platinum-based chemotherapy.
+
+Serious adverse reactions occurred in 47% of patients treated with PADCEV; the most common (≥2%) were urinary tract infection, acute kidney injury (7% each) and pneumonia (5%). Fatal adverse reactions occurred in 3% of patients, including multiorgan dysfunction (1.0%), hepatic dysfunction, septic shock, hyperglycemia, pneumonitis and pelvic abscess (0.3% each). Adverse reactions leading to discontinuation occurred in 17% of patients; the most common (≥2%) were PN (5%) and rash (4%). Adverse reactions leading to dose interruption occurred in 61% of patients; the most common (≥4%) were PN (23%), rash (11%) and fatigue (9%). Adverse reactions leading to dose reduction occurred in 34% of patients; the most common (≥2%) were PN (10%), rash (8%), decreased appetite and fatigue (3% each). Clinically relevant adverse reactions (<15%) include vomiting (14%), AST increased (12%), hyperglycemia (10%), ALT increased (9%), pneumonitis (3%) and infusion site extravasation (0.7%).
+
+EV-201, Cohort 2 Study: 89 patients previously treated with a PD-1/L1 inhibitor and not eligible for platinum-based chemotherapy.
+
+Serious adverse reactions occurred in 39% of patients treated with PADCEV; the most common (≥3%) were pneumonia, sepsis and diarrhea (5% each). Fatal adverse reactions occurred in 8% of patients, including acute kidney injury (2.2%), metabolic acidosis, sepsis, multiorgan dysfunction, pneumonia and pneumonitis (1.1% each). Adverse reactions leading to discontinuation occurred in 20% of patients; the most common (≥2%) was PN (7%). Adverse reactions leading to dose interruption occurred in 60% of patients; the most common (≥3%) were PN (19%), rash (9%), fatigue (8%), diarrhea (5%), AST increased and hyperglycemia (3% each). Adverse reactions leading to dose reduction occurred in 49% of patients; the most common (≥3%) were PN (19%), rash (11%) and fatigue (7%). Clinically relevant adverse reactions (<15%) include vomiting (13%), AST increased (12%), lipase increased (11%), ALT increased (10%), pneumonitis (4%) and infusion site extravasation (1%).
+
+Drug Interactions
+
+Effects of other drugs on PADCEV (Dual P-gp and Strong CYP3A4 Inhibitors) Concomitant use with dual P-gp and strong CYP3A4 inhibitors may increase unconjugated monomethyl auristatin E exposure, which may increase the incidence or severity of PADCEV toxicities. Closely monitor patients for signs of toxicity when PADCEV is given concomitantly with dual P-gp and strong CYP3A4 inhibitors.
+
+Specific Populations
+
+Lactation Advise lactating women not to breastfeed during treatment with PADCEV and for at least 3 weeks after the last dose.
+
+Hepatic impairment Avoid the use of PADCEV in patients with moderate or severe hepatic impairment.
+
+For more information, please see the full Prescribing Information including BOXED WARNING for PADCEV here.
+
+About Astellas
+
+Astellas Pharma Inc. is a pharmaceutical company conducting business in more than 70 countries around the world. We are promoting the Focus Area Approach that is designed to identify opportunities for the continuous creation of new drugs to address diseases with high unmet medical needs by focusing on Biology and Modality. Furthermore, we are also looking beyond our foundational Rx focus to create Rx+® healthcare solutions that combine our expertise and knowledge with cutting-edge technology in different fields of external partners. Through these efforts, Astellas stands on the forefront of healthcare change to turn innovative science into VALUE for patients. For more information, please visit our website at https://www.astellas.com/en.
+
+About Seagen
+
+Seagen Inc. is a global biotechnology company that discovers, develops and commercializes transformative cancer medicines to make a meaningful difference in people’s lives. Seagen is headquartered in the Seattle, Washington area, and has locations in California, Canada, Switzerland and the European Union. For more information on the company’s marketed products and robust pipeline, visit www.seagen.com and follow @SeagenGlobal on Twitter.
+
+About the Astellas and Seagen Collaboration
+
+Astellas and Seagen are co-developing enfortumab vedotin under a 50:50 worldwide development and commercialization collaboration. In the United States, Astellas and Seagen co-promote enfortumab vedotin under the brand name PADCEV® (enfortumab vedotin-ejfv). In the Americas outside the US, Seagen holds responsibility for commercialization activities and regulatory filings. Outside of the Americas, Astellas holds responsibility for commercialization activities and regulatory filings.
+
+Astellas Cautionary Notes
+
+In this press release, statements made with respect to current plans, estimates, strategies and beliefs and other statements that are not historical facts are forward-looking statements about the future performance of Astellas. These statements are based on management’s current assumptions and beliefs in light of the information currently available to it and involve known and unknown risks and uncertainties. A number of factors could cause actual results to differ materially from those discussed in the forward-looking statements. Such factors include, but are not limited to: (i) changes in general economic conditions and in laws and regulations, relating to pharmaceutical markets, (ii) currency exchange rate fluctuations, (iii) delays in new product launches, (iv) the inability of Astellas to market existing and new products effectively, (v) the inability of Astellas to continue to effectively research and develop products accepted by customers in highly competitive markets, and (vi) infringements of Astellas’ intellectual property rights by third parties.
+
+Information about pharmaceutical products (including products currently in development), which is included in this press release, is not intended to constitute an advertisement or medical advice.
+
+Seagen Forward-Looking Statements
+
+Certain statements made in this press release are forward-looking, such as those, among others, relating to the potential for NMPA approval in the referenced indication; the timing of any potential approval; the therapeutic potential of enfortumab vedotin alone or in combination; its possible efficacy, safety and therapeutic uses; clinical development programs; and planned and ongoing clinical trials. Actual results or developments may differ materially from those projected or implied in these forward-looking statements. Factors that may cause such a difference include, without limitation, the possibility that the referenced application may not be approved in a timely manner or at all or with the requested label; the risk of adverse events and the potential for newly-emerging safety signals; the risk of adverse regulatory actions; and the risk of delays, setbacks or failures in clinical development and regulatory activities, the submission of regulatory applications and the regulatory review process for a variety of reasons, including without limitation the inherent difficulty and uncertainty of pharmaceutical product development, possible required modifications to clinical trials, the inability to provide information and institute safety mitigation measures as may be required by regulatory authorities from time to time, failure to properly conduct or manage clinical trials, and failure of clinical results to support continued development or regulatory approvals. More information about the risks and uncertainties faced by Seagen is contained under the caption “Risk Factors” included in the company’s Annual Report on Form 10-K for the year ended December 31, 2022 filed with the Securities and Exchange Commission. Seagen disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+
+###
+
+1 International Agency for Research on Cancer. Cancer Tomorrow: Bladder. http://gco.iarc.fr/tomorrow. Accessed March 6, 2023.
+
+2 American Society of Clinical Oncology. Bladder Cancer: Introduction (12-21). https://www.cancer.net/cancer-types/bladder-cancer/introduction. Accessed March 6, 2023.
+
+3 National Cancer Institute Surveillance, Epidemiology, and End Results Program. Cancer stat facts: bladder cancer. 2022. https://seer.cancer.gov/statfacts/html/urinb.html. Accessed March 6, 2023.
+
+4 International Agency for Research on Cancer. Cancer Today. https://gco.iarc.fr/today. Accessed March 6, 2023.
+
+5 Challita-Eid P, Satpayev D, Yang P, et al. Enfortumab Vedotin Antibody-Drug Conjugate Targeting Nectin-4 Is a Highly Potent Therapeutic Agent in Multiple Preclinical Cancer Models. Cancer Res 2016;76(10):3003-13.
+
+6 PADCEV [package insert]. Northbrook, IL: Astellas Pharma US, Inc.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230308005887/en/

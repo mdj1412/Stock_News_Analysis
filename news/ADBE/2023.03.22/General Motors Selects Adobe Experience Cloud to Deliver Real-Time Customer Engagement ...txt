@@ -1,0 +1,23 @@
+
+Today, at Adobe Summit – the world’s largest Digital Experience Conference – Adobe (Nasdaq:ADBE) announced that General Motors (GM) has selected Adobe Experience Cloud to deliver one-to-one personalized interactions at scale for millions of its customers.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230322005315/en/
+As GM moves closer towards its goal of growing capacity to one million electric vehicles (EVs) annually by 2025, the ability to personalize each customer interaction will be critical to educating consumers on EV benefits, then guiding them through buying and post-purchase journeys. GM will use applications running on top of Experience Platform (AEP) including Adobe Real-Time Customer Data Platform, Adobe Journey Optimizer and Customer Journey Analytics as integrated tools to unify customer insights and orchestrate experiences across online and offline touchpoints–in real time.
+
+“We are at the beginning of an EV movement that will fundamentally change how we move around, delivering a zero-emissions future with a driving experience that is transformed with compelling digital services,” said Ajay Kapoor, global director of performance driven marketing, at General Motors. “As we move from normalizing EVs and educating consumers, through to showcasing next generation personalization capabilities, Adobe Experience Cloud will provide a center of gravity that allows us to connect with customers in a relevant and highly customized fashion.”
+
+“A unified view of our customers will take our marketing efforts to the next level, providing us the precision we need to orchestrate customer experiences across major online and offline channels,” said Kapoor. “Our work with Adobe Experience Cloud will also set us up for targeted personalization in and around our vehicles, where EV buyers can look forward to helpful content that guides them immediately after they’ve purchased a vehicle, such as with alerts and directions when their EVs need to be charged.”
+
+“General Motors has years of experience with Adobe Creative Cloud applications, creating beautiful content that showcases new products, and leveraging tools such as Adobe Substance 3D to simultaneously reimagine the vehicle design process and enhance marketing efforts,” said Stephen Frieder, chief revenue officer, enterprise at Adobe. “Now, our expanded relationship around Adobe Experience Cloud will beautifully combine art and science, supporting experience-led growth in its EV initiatives by leveraging deep insights to engage customers with the most relevant, impactful content.”
+
+With AEP, GM can unify customer data from across its organization under a common data model, while implementing strict governance and security controls. A single source of truth about GM owners can then be activated through an integrated set of applications, showcasing the true power of AEP:
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+About Adobe Experience Cloud
+
+In the experience economy, every business must be a digital business and Adobe Experience Cloud is the global leader for powering digital businesses. With solutions for customer journey management, data insights and audiences, content personalization, commerce and marketing workflows, Adobe Experience Cloud is driving Customer Experience Management (CXM) across both B2B and B2C for companies of every size. Adobe Experience Platform – the foundation of Adobe Experience Cloud – is the industry’s first purpose-built CXM platform, powering applications that enable personalized customer experiences in real-time at scale.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230322005315/en/

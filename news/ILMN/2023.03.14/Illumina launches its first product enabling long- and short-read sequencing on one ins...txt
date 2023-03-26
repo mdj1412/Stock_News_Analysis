@@ -1,0 +1,35 @@
+
+
+Early customer data reinforces accuracy and flexibility of novel long-read technology, unlocking access to challenging, low DNA input samples
+SAN DIEGO, March 14, 2023 /PRNewswire/ -- Illumina Inc. (NASDAQ: ILMN), a global leader in DNA sequencing and array-based technologies, today announced that its first product based on its novel Illumina Complete Long Read technology is now available to order. The high-performance, long-read, human whole-genome sequencing (WGS) assay – Illumina Complete Long Read Prep, Human – is compatible with Illumina NovaSeq X Plus, NovaSeq X, and NovaSeq 6000 Sequencing Systems. For the first time ever, it offers users access to both long- and short-read data on the same Illumina instrument. Illumina Complete Long Reads enables a simpler workflow with drastically reduced DNA input requirements compared to other long-read offerings.
+
+
+
+
+
+
+
+"Illumina Complete Long Reads is more convenient than other long-read technologies. We can prepare long-read libraries with low DNA input and without many of the required materials and equipment needed for other technologies," said HyungIl Lee, head of NGS Department at Macrogen.
+Seeing more of the most challenging genic regions
+A small fraction of genic regions benefit from longer read lengths to enable improved resolution and mapping. By enabling access into these hard-to-map areas, Illumina's long-read data provides an additional tool in the advancement of genetic disease testing. This allows the scientific community to advance research by assaying the full breadth of genomic variation at scale to better facilitate discovery in areas of genetic disease research and pharmacogenomics.
+Illumina Complete Long Read Prep combines Illumina sequencing by synthesis (SBS) chemistry with DRAGEN secondary analysis to deliver WGS with outstanding accuracy. The price of the Illumina Complete Long Read Prep, Human sequencing assay is inclusive of short- and long-read library prep, sequencing, and cloud analysis. The promotional price for customers is $1,350 USD per whole genome when using NovaSeq X Plus and a 25B flow cell, which will be commercially available later this year.
+"Many long-read solutions have been stunted by high DNA input requirements, complex workflows with low throughput, and highly variable results on dedicated long-read instruments," said Alex Aravanis, chief technology officer and head of research and product development at Illumina. "Illumina Complete Long Reads overcomes those pain points and associated costs to make long-read sequencing accessible and streamlined for genomic labs."
+Early customer data reinforces accuracy and flexibility 
+At the Illumina Genomics Forum in September 2022, Aravanis presented preliminary Illumina Complete Long Read performance data against the benchmarking data sets from the PrecisionFDA Truth Challenge v2. Illumina Complete Long Reads with DRAGEN analysis generated an F1 score—a compound statistic of precision and recall—of 99.87%.
+Last month at the Advances in Genome Biology and Technology (AGBT) conference, early-access customers shared data reinforcing Illumina Complete Long Reads' high accuracy and flexible DNA input, as well as the capabilities that help to reduce cost and operational complexity.
+Michael Quail, PhD, principal scientific manager, Sequencing R&D at Wellcome Sanger Institute, said, "The library prep was straightforward, with flexible input requirements. We are impressed with the accuracy of the data, along with the read lengths and phase blocks that can be generated on Illumina sequencers."
+Illumina plans to use this technology as a platform for long-read application development. In the second half of 2023, Illumina will launch an enrichment assay, an even more affordable, higher throughput, targeted solution focused on regions known to benefit from additional insight with longer reads. Illumina will explore additional applications beyond WGS and nonhuman samples in the future.
+To learn more, visit illumina.com/products/by-brand/complete-long-reads-portfolio.html.
+About Illumina
+Illumina is improving human health by unlocking the power of the genome. Our focus on innovation has established us as a global leader in DNA sequencing and array-based technologies, serving customers in the research, clinical, and applied markets. Our products are used for applications in the life sciences, oncology, reproductive health, agriculture, and other emerging segments. To learn more, visit illumina.com and connect with us on Twitter, Facebook, LinkedIn, Instagram, TikTok, and YouTube.
+Use of Forward-Looking Statements
+This release contains forward-looking statements that involve risks and uncertainties, including the expectation for lower costs related to the storing and managing of genomic data costs. Among the important factors that could cause actual results to differ materially from those in any forward-looking statements are: (i) challenges inherent in developing and launching new products and services; (ii) our ability to deploy new products, services, and applications, and to expand the markets for our technology platforms; and (iii) the acceptance by customers of our newly launched products, which may or may not meet our and their expectations once deployed, together with other factors detailed in our filings with the Securities and Exchange Commission, including our most recent filings on Forms 10-K and 10-Q, or in information disclosed in public conference calls, the date and time of which are released beforehand. We undertake no obligation, and do not intend, to update these forward-looking statements, to review or confirm analysts' expectations, or to provide interim reports or updates on the progress of the current quarter.
+Investors:Salli Schwartz858-291-6421IR@illumina.com
+Media:David McAlpine 347-327-1336PR@illumina.com
+ 
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/illumina-launches-its-first-product-enabling-long--and-short-read-sequencing-on-one-instrument-301771516.html
+SOURCE  Illumina, Inc.
+
+

@@ -1,0 +1,24 @@
+
+What’s New: Today, Intel announced that the LF AI & Data Foundation Technical Advisory Council accepted Open Federated Learning (OpenFL) as an incubation project to further drive collaboration, standardization and interoperability. OpenFL is an open source framework for a type of distributed AI referred to as federated learning (FL) that incorporates privacy-preserving features called confidential computing. It was developed and hosted by Intel to help data scientists address the challenge of maintaining data privacy while bringing together insights from many disparate, confidential or regulated data sets.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230309005307/en/Intel’s federated learning hardware and software address data privacy concerns, providing increased confidentiality and integrity for code and data using confidential computing. (Credit: Intel Corporation)
+“We are thrilled to welcome OpenFL to the LF AI & Data Foundation. This project's innovative approach to enabling organizations to collaboratively train machine learning models across multiple devices or data centers without the need to share raw data aligns perfectly with our mission to accelerate the growth and adoption of open source AI and data technologies. We look forward to collaborating with the talented individuals behind this project and helping to drive its success.”
+–Dr. Ibrahim Haddad, executive director, LF AI & Data Foundation
+
+Why It Matters: Data scientists can use this distributed machine learning (ML) approach to enable organizations to collaborate on mutually beneficial analyses without exposing sensitive data or ML algorithms to other parties. Industries like healthcare, financial services, retail and manufacturing use FL to gain valuable insights from data in a way that securely connects multiple systems and data sets and removes the barriers preventing the aggregation of data for analysis.
+
+Intel was joined by Penn Medicine, VMware and Flower Labs in presenting OpenFL to the LF AI & Data Foundation. Representatives from these companies will join the foundation to form a technical steering committee for OpenFL that will foster a vendor-neutral ecosystem for this project and make contributions that directionally guide its development. As an incubation-stage project with the LF AI & Data Foundation, the base for how the project will operate is being set.
+
+What OpenFL Is: OpenFL is a framework for federated learning that is designed to be flexible, extensible and secure. It allows organizations to participate in collaborative multiparty machine learning without moving their confidential or regulated data off-premises. Instead, the algorithm processes the data where it resides, and then de-identified results are consolidated centrally. No single party’s data is exposed to the other participants.
+
+The framework combines hardware and software to further enable privacy-preserving AI using Intel® Software Guard Extensions (Intel® SGX), a hardware-based trusted execution environment (TEE) for the data center, and The Gramine Project, a set of tools and infrastructure components for running unmodified applications on confidential computing platforms based on Intel SGX.
+
+Intel SGX open source integration with OpenFL is supported today, and additional security capabilities are planned for future releases. Integrations with other TEE hardware can also be added to the project by contributors.
+
+More Context: OpenFL on GitHub | Federated Learning: Protecting Data at the Source (Intel and Penn Medicine Blog) | Intel and Penn Medicine Announce Results of Largest Medical Federated Learning Study (News) | VMware Research Group’s EDEN Becomes Part of OpenFL (Blog) | LF AI & Data Foundation Projects
+
+About Intel
+
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, go to newsroom.intel.com and intel.com.
+
+© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230309005307/en/

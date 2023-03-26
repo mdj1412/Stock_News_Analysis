@@ -1,0 +1,113 @@
+
+Kite, a Gilead Company (Nasdaq: GILD), today announced the primary overall survival (OS) analysis results of the Phase 3 ZUMA-7 study. The results showed a statistically significant improvement for Yescarta in OS versus historical treatment, which was the standard of care (SOC) in a curative setting for nearly 30 years, for initial treatment of adult patients with relapsed/refractory large B-cell lymphoma (R/R LBCL) within 12 months of completion of first-line therapy. Historical SOC is a multi-step process involving platinum-based salvage combination chemoimmunotherapy regimen followed by high-dose therapy (HDT) and stem cell transplant (ASCT) in those who respond to salvage chemotherapy. These findings will be presented in full later this year at an upcoming scientific meeting.
+
+OS was designated as a clinically important prespecified key secondary endpoint, defined as the length of time from randomization to death from any cause. ZUMA-7 was conducted under a Special Protocol Assessment (SPA) with the U.S. Food and Drug Administration (FDA) whereby the trial design, clinical endpoints and statistical analysis were agreed upon in advance with the Agency. This pre-specified analysis was also agreed by other health authorities.
+
+ZUMA-7 is considered a landmark trial as the first and largest Phase 3 study of any CAR T-cell therapy, with the longest follow-up, which has demonstrated event-free survival (EFS), the primary endpoint, that is superior to historical SOC treatment. Data from the ZUMA-7 pivotal trial led to the U.S. approval for initial treatment of R/R LBCL in April 2022 and European Union approval in October 2022, followed by approvals in a number of other countries such as: Great Britain, Israel, Japan, and Switzerland.
+
+About ZUMA-7 Study
+
+ZUMA-7 is a randomized, open-label, global, multicenter, Phase 3 study evaluating the safety and efficacy of Yescarta versus SOC for initial treatment of adult patients with R/R LBCL within 12 months of first-line therapy. In the study, 359 patients in 77 centers around the world were randomized (1:1) to receive a single infusion of Yescarta or historical SOC second-line treatment. The primary endpoint is EFS as determined by blinded central review and defined as the time from randomization to the earliest date of disease progression per Lugano Classification, commencement of new lymphoma therapy, or death from any cause. Key secondary endpoints include objective response rate (ORR) and OS. Additional secondary endpoints include patient reported outcomes (PROs) and safety. Per hierarchical testing of primary and key secondary endpoints and group sequential testing of OS, an interim analysis of OS occurred at the time of the primary EFS analysis. The prespecified primary OS analysis was to be conducted after 210 deaths or no later than five years after the first patient was randomized.
+
+Yescarta demonstrated a 2.5-fold increase in patients who were alive at two years and did not experience cancer progression or require the need for additional cancer treatment (40.5% vs. 16.3%) and a four-fold greater median EFS (8.3 mo. vs. 2.0 mo.) compared to SOC (hazard ratio 0.398; 95% CI: 0.308-0.514, P<0.0001). In addition to being the largest and longest study of its kind, ZUMA-7 study participants on the Yescarta arm did not receive additional bridging chemotherapy that could have potentially confounded results.
+
+Nearly three times as many patients randomized to Yescarta ultimately received the definitive CAR T-cell therapy treatment (94%) versus those randomized to SOC (35%) who received on-protocol HDT+ASCT. More patients responded to Yescarta (ORR: 83% vs. 50%, odds ratio: 5.31 [95% CI: 3.1-8.9; P<0.0001) and achieved a complete response (CR) with Yescarta (CR rate: 65% vs. 32%) than with SOC. At the time of the primary EFS analysis, more than half of patients in the SOC arm subsequently received Yescarta off study.
+
+In the study, Yescarta had a safety profile that was consistent with previous studies. Among the 168 Yescarta-treated patients evaluable for safety, Grade ≥3 cytokine release syndrome (CRS) and neurologic events were observed in 7% and 25% of patients, respectively. In the SOC arm, 83% of patients had high grade events, mostly cytopenias (low blood counts).
+
+The Yescarta U.S. Prescribing Information has a BOXED WARNING for the risks of CRS and neurologic toxicities, and Yescarta is approved with a Risk Evaluation and Mitigation Strategy (REMS) due to these risks; see below for Important Safety Information.
+
+About LBCL
+
+Globally, LBCL is the most common type of non-Hodgkin lymphoma (NHL). In the United States, more than 18,000 people are diagnosed with LBCL each year. About 30-40% of patients with LBCL will need second-line treatment, as their cancer will either relapse (return) or become refractory (not respond) to initial treatment.
+
+About Yescarta
+
+Please see full Prescribing Information, including BOXED WARNING and Medication Guide.
+
+YESCARTA is a CD19-directed genetically modified autologous T cell immunotherapy indicated for the treatment of:
+
+U.S. IMPORTANT SAFETY INFORMATION
+
+BOXED WARNING: CYTOKINE RELEASE SYNDROME AND NEUROLOGIC TOXICITIES
+
+CYTOKINE RELEASE SYNDROME (CRS)
+
+CRS, including fatal or life-threatening reactions, occurred. CRS occurred in 90% (379/422) of patients with non-Hodgkin lymphoma (NHL), including ≥ Grade 3 in 9%. CRS occurred in 93% (256/276) of patients with large B-cell lymphoma (LBCL), including ≥ Grade 3 in 9%. Among patients with LBCL who died after receiving YESCARTA, 4 had ongoing CRS events at the time of death. For patients with LBCL in ZUMA-1, the median time to onset of CRS was 2 days following infusion (range: 1-12 days) and the median duration was 7 days (range: 2-58 days). For patients with LBCL in ZUMA-7, the median time to onset of CRS was 3 days following infusion (range: 1-10 days) and the median duration was 7 days (range: 2-43 days). CRS occurred in 84% (123/146) of patients with indolent non-Hodgkin lymphoma (iNHL) in ZUMA-5, including ≥ Grade 3 in 8%. Among patients with iNHL who died after receiving YESCARTA, 1 patient had an ongoing CRS event at the time of death. The median time to onset of CRS was 4 days (range: 1-20 days) and median duration was 6 days (range: 1-27 days) for patients with iNHL.
+
+Key manifestations of CRS (≥ 10%) in all patients combined included fever (85%), hypotension (40%), tachycardia (32%), chills (22%), hypoxia (20%), headache (15%), and fatigue (12%). Serious events that may be associated with CRS include cardiac arrhythmias (including atrial fibrillation and ventricular tachycardia), renal insufficiency, cardiac failure, respiratory failure, cardiac arrest, capillary leak syndrome, multi-organ failure, and hemophagocytic lymphohistiocytosis/macrophage activation syndrome.
+
+The impact of tocilizumab and/or corticosteroids on the incidence and severity of CRS was assessed in 2 subsequent cohorts of LBCL patients in ZUMA-1. Among patients who received tocilizumab and/or corticosteroids for ongoing Grade 1 events, CRS occurred in 93% (38/41), including 2% (1/41) with Grade 3 CRS; no patients experienced a Grade 4 or 5 event. The median time to onset of CRS was 2 days (range: 1-8 days) and the median duration of CRS was 7 days (range: 2-16 days). Prophylactic treatment with corticosteroids was administered to a cohort of 39 patients for 3 days beginning on the day of infusion of YESCARTA. Thirty-one of the 39 patients (79%) developed CRS and were managed with tocilizumab and/or therapeutic doses of corticosteroids with no patients developing ≥ Grade 3 CRS. The median time to onset of CRS was 5 days (range: 1-15 days) and the median duration of CRS was 4 days (range: 1-10 days). Although there is no known mechanistic explanation, consider the risk and benefits of prophylactic corticosteroids in the context of pre-existing comorbidities for the individual patient and the potential for the risk of Grade 4 and prolonged neurologic toxicities.
+
+Ensure that 2 doses of tocilizumab are available prior to YESCARTA infusion. Monitor patients for signs and symptoms of CRS at least daily for 7 days at the certified healthcare facility, and for 4 weeks thereafter. Counsel patients to seek immediate medical attention should signs or symptoms of CRS occur at any time. At the first sign of CRS, institute treatment with supportive care, tocilizumab, or tocilizumab and corticosteroids as indicated.
+
+NEUROLOGIC TOXICITIES
+
+Neurologic toxicities (including immune effector cell-associated neurotoxicity syndrome) that were fatal or life-threatening occurred. Neurologic toxicities occurred in 78% (330/422) of all patients with NHL receiving YESCARTA, including ≥ Grade 3 in 25%. Neurologic toxicities occurred in 87% (94/108) of patients with LBCL in ZUMA-1, including ≥ Grade 3 in 31% and in 74% (124/168) of patients in ZUMA-7 including ≥ Grade 3 in 25%. The median time to onset was 4 days (range: 1-43 days) and the median duration was 17 days for patients with LBCL in ZUMA-1. The median time to onset for neurologic toxicity was 5 days (range: 1- 133 days) and median duration was 15 days in patients with LBCL in ZUMA-7. Neurologic toxicities occurred in 77% (112/146) of patients with iNHL, including ≥ Grade 3 in 21%. The median time to onset was 6 days (range: 1-79 days) and the median duration was 16 days. Ninety-eight percent of all neurologic toxicities in patients with LBCL and 99% of all neurologic toxicities in patients with iNHL occurred within the first 8 weeks of YESCARTA infusion. Neurologic toxicities occurred within the first 7 days of infusion for 87% of affected patients with LBCL and 74% of affected patients with iNHL.
+
+The most common neurologic toxicities (≥ 10%) in all patients combined included encephalopathy (50%), headache (43%), tremor (29%), dizziness (21%), aphasia (17%), delirium (15%), and insomnia (10%). Prolonged encephalopathy lasting up to 173 days was noted. Serious events, including aphasia, leukoencephalopathy, dysarthria, lethargy, and seizures occurred. Fatal and serious cases of cerebral edema and encephalopathy, including late-onset encephalopathy, have occurred.
+
+The impact of tocilizumab and/or corticosteroids on the incidence and severity of neurologic toxicities was assessed in 2 subsequent cohorts of LBCL patients in ZUMA-1. Among patients who received corticosteroids at the onset of Grade 1 toxicities, neurologic toxicities occurred in 78% (32/41) and 20% (8/41) had Grade 3 neurologic toxicities; no patients experienced a Grade 4 or 5 event. The median time to onset of neurologic toxicities was 6 days (range: 1-93 days) with a median duration of 8 days (range: 1-144 days). Prophylactic treatment with corticosteroids was administered to a cohort of 39 patients for 3 days beginning on the day of infusion of YESCARTA. Of those patients, 85% (33/39) developed neurologic toxicities, 8% (3/39) developed Grade 3, and 5% (2/39) developed Grade 4 neurologic toxicities. The median time to onset of neurologic toxicities was 6 days (range: 1-274 days) with a median duration of 12 days (range: 1-107 days). Prophylactic corticosteroids for management of CRS and neurologic toxicities may result in higher grade of neurologic toxicities or prolongation of neurologic toxicities, delay the onset and decrease the duration of CRS.
+
+Monitor patients for signs and symptoms of neurologic toxicities at least daily for 7 days at the certified healthcare facility, and for 4 weeks thereafter, and treat promptly.
+
+REMS
+
+Because of the risk of CRS and neurologic toxicities, YESCARTA is available only through a restricted program called the YESCARTA and TECARTUS REMS Program which requires that: Healthcare facilities that dispense and administer YESCARTA must be enrolled and comply with the REMS requirements and must have on-site, immediate access to a minimum of 2 doses of tocilizumab for each patient for infusion within 2 hours after YESCARTA infusion, if needed for treatment of CRS. Certified healthcare facilities must ensure that healthcare providers who prescribe, dispense, or administer YESCARTA are trained about the management of CRS and neurologic toxicities. Further information is available at www.YescartaTecartusREMS.com or 1-844-454-KITE (5483).
+
+HYPERSENSITIVITY REACTIONS
+
+Allergic reactions, including serious hypersensitivity reactions or anaphylaxis, may occur with the infusion of YESCARTA.
+
+SERIOUS INFECTIONS
+
+Severe or life-threatening infections occurred. Infections (all grades) occurred in 45% of patients with NHL. ≥ Grade 3 infections occurred in 17% of patients, including ≥ Grade 3 infections with an unspecified pathogen in 12%, bacterial infections in 5%, viral infections in 3%, and fungal infections in 1%. YESCARTA should not be administered to patients with clinically significant active systemic infections. Monitor patients for signs and symptoms of infection before and after infusion and treat appropriately. Administer prophylactic antimicrobials according to local guidelines.
+
+Febrile neutropenia was observed in 36% of all patients with NHL and may be concurrent with CRS. In the event of febrile neutropenia, evaluate for infection and manage with broad-spectrum antibiotics, fluids, and other supportive care as medically indicated.
+
+In immunosuppressed patients, including those who have received YESCARTA, life-threatening and fatal opportunistic infections including disseminated fungal infections (e.g., candida sepsis and aspergillus infections) and viral reactivation (e.g., human herpes virus-6 [HHV-6] encephalitis and JC virus progressive multifocal leukoencephalopathy [PML]) have been reported. The possibility of HHV-6 encephalitis and PML should be considered in immunosuppressed patients with neurologic events and appropriate diagnostic evaluations should be performed.
+
+Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure, and death, can occur in patients treated with drugs directed against B cells, including YESCARTA. Perform screening for HBV, HCV, and HIV in accordance with clinical guidelines before collection of cells for manufacturing.
+
+PROLONGED CYTOPENIAS
+
+Patients may exhibit cytopenias for several weeks following lymphodepleting chemotherapy and YESCARTA infusion. ≥ Grade 3 cytopenias not resolved by Day 30 following YESCARTA infusion occurred in 39% of all patients with NHL and included neutropenia (33%), thrombocytopenia (13%), and anemia (8%). Monitor blood counts after infusion.
+
+HYPOGAMMAGLOBULINEMIA
+
+B-cell aplasia and hypogammaglobulinemia can occur. Hypogammaglobulinemia was reported as an adverse reaction in 14% of all patients with NHL. Monitor immunoglobulin levels after treatment and manage using infection precautions, antibiotic prophylaxis, and immunoglobulin replacement. The safety of immunization with live viral vaccines during or following YESCARTA treatment has not been studied. Vaccination with live virus vaccines is not recommended for at least 6 weeks prior to the start of lymphodepleting chemotherapy, during YESCARTA treatment, and until immune recovery following treatment.
+
+SECONDARY MALIGNANCIES
+
+Secondary malignancies may develop. Monitor life-long for secondary malignancies. In the event that one occurs, contact Kite at 1-844-454-KITE (5483) to obtain instructions on patient samples to collect for testing.
+
+EFFECTS ON ABILITY TO DRIVE AND USE MACHINES
+
+Due to the potential for neurologic events, including altered mental status or seizures, patients are at risk for altered or decreased consciousness or coordination in the 8 weeks following YESCARTA infusion. Advise patients to refrain from driving and engaging in hazardous occupations or activities, such as operating heavy or potentially dangerous machinery, during this initial period.
+
+ADVERSE REACTIONS
+
+The most common non-laboratory adverse reactions (incidence ≥ 20%) in patients with LBCL in ZUMA-7 included fever, CRS, fatigue, hypotension, encephalopathy, tachycardia, diarrhea, headache, musculoskeletal pain, nausea, febrile neutropenia, chills, cough, infection with unspecified pathogen, dizziness, tremor, decreased appetite, edema, hypoxia, abdominal pain, aphasia, constipation, and vomiting.
+
+The most common adverse reactions (incidence ≥ 20%) in patients with LBCL in ZUMA-1 included CRS, fever, hypotension, encephalopathy, tachycardia, fatigue, headache, decreased appetite, chills, diarrhea, febrile neutropenia, infections with pathogen unspecified, nausea, hypoxia, tremor, cough, vomiting, dizziness, constipation, and cardiac arrhythmias.
+
+The most common non-laboratory adverse reactions (incidence ≥ 20%) in patients with iNHL in ZUMA-5 included fever, CRS, hypotension, encephalopathy, fatigue, headache, infections with pathogen unspecified, tachycardia, febrile neutropenia, musculoskeletal pain, nausea, tremor, chills, diarrhea, constipation, decreased appetite, cough, vomiting, hypoxia, arrhythmia, and dizziness.
+
+About Kite
+
+Kite, a Gilead Company, is a global biopharmaceutical company based in Santa Monica, California, focused on cell therapy to treat and potentially cure cancer. As the global cell therapy leader, Kite has treated more patients with CAR T-cell therapy than any other company. Kite has the largest in-house cell therapy manufacturing network in the world, spanning process development, vector manufacturing, clinical trial supply and commercial product manufacturing. For more information on Kite, please visit www.kitepharma.com. Follow Kite on social media on Twitter (@KitePharma) and LinkedIn.
+
+About Gilead Sciences
+
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California. Gilead Sciences acquired Kite in 2017.
+
+Forward-Looking Statements
+
+This press release includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that are subject to risks, uncertainties and other factors, including Gilead and Kite’s ability to initiate, progress or complete clinical trials within currently anticipated timelines or at all, and the possibility of unfavorable results from ongoing or additional clinical trials, including those involving Yescarta; Gilead and Kite’s ability to receive regulatory approvals in a timely manner or at all, including additional regulatory approvals of Yescarta, and the risk that any such approvals may be subject to significant limitations on use; the risk that physicians may not see the benefits of prescribing Yescarta as an initial treatment for R/R LBCL and for other indications; and any assumptions underlying any of the foregoing. These and other risks, uncertainties and other factors are described in detail in Gilead’s Annual Report on Form 10-K for the year ended December 31, 2022, as filed with the U.S. Securities and Exchange Commission. These risks, uncertainties and other factors could cause actual results to differ materially from those referred to in the forward-looking statements. All statements other than statements of historical fact are statements that could be deemed forward-looking statements. Investors are cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties and is cautioned not to place undue reliance on these forward-looking statements. All forward-looking statements are based on information currently available to Kite and Gilead, and Kite and Gilead assume no obligation and disclaim any intent to update any such forward-looking statements.
+
+U.S. Prescribing Information for Yescarta including BOXED WARNING, is available at www.kitepharma.com and www.gilead.com.
+
+Kite, the Kite logo, Yescarta, and GILEAD are trademarks of Gilead Sciences, Inc. or its related companies.
+
+For more information on Kite, please visit the company’s website at www.kitepharma.com. Follow Kite on social media on Twitter (@KitePharma) and LinkedIn.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230320005701/en/

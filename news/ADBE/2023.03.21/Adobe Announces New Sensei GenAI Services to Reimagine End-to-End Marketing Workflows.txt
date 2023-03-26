@@ -1,0 +1,31 @@
+
+Today, at Adobe Summit – the world’s largest Digital Experience Conference – Adobe (Nasdaq:ADBE) announced generative AI innovations across Adobe Experience Cloud that will redefine how businesses deliver customer experiences.
+
+For more than a decade, Adobe has delivered hundreds of intelligent capabilities through Adobe Sensei within its enterprise applications to enable customers to work and collaborate in new ways. Bringing generative AI capabilities into Adobe’s clouds is the next evolution of Adobe’s AI-driven innovation, providing businesses with unprecedented speed and productivity. In Adobe Experience Cloud, customers will be able to move seamlessly between Sensei GenAI services and existing features, right within their workflows.
+
+“Adobe has a long history of unlocking AI as a co-pilot for marketers, and we have a vision for generative AI that covers the full lifecycle of customer experience management, with the enterprise-grade security and data governance that our customers expect,” said Amit Ahuja, senior vice president, Digital Experience Business at Adobe. “Business growth is driven by customer experiences, and generative AI is a transformative, foundational technology that will impact every aspect of how brands connect with their customers.”
+
+With Sensei GenAI, marketers and other customer experience teams will have a co-pilot to help increase their productivity without having to increase their workload. Powerful new features will first be natively integrated in applications including Adobe Experience Manager, Adobe Journey Optimizer, Adobe Real-Time Customer Data Platform, Customer Journey Analytics and Marketo Engage, supporting use cases from planning and asset creation to personalization and customer journey management. Teams will have full creative control in ensuring content and experiences are on-brand, and insights from Adobe will help them understand what resonates with customers.
+
+Adobe Firefly Powers Image Generation in Adobe Experience Cloud
+
+Adobe will bring Firefly, a new family of creative generative AI models, directly into Adobe Experience Cloud. Adobe’s first model, trained on Adobe Stock images, openly licensed content and public domain content where copyright has expired, will focus on images and text effects and is designed to generate content safe for commercial use. With Firefly, producing limitless variations of content and making changes, again and again — all on brand — will be quick and simple. In the future, marketers will be able to also train Firefly on the brand’s own collateral, generating content that reflects the brand’s style and design language.
+
+In Adobe Experience Manager (AEM) Assets—the number one digital asset management system used by businesses to manage their library of images, videos and other content—brands can use Firefly to greatly accelerate content development and drive massive efficiency gains. Adobe Express with Adobe Firefly will be integrated directly into AEM Assets and enable teams to instantly change image components such as colors, objects and scenery, while automatically generating variations for channels such as web, mobile and email. Firefly will help accelerate brands’ content supply chains, powering wide-scale personalization efforts.
+
+A retailer for instance, can take images from a photoshoot and create infinite variations (different colors, textures) for use in e-commerce. In media and entertainment, teams will be able to use Firefly to automatically generate hundreds of content variations needed to market new films and TV series. And with new innovations in Adobe Experience Manager, brands will have powerful insights on attributes (colors, objects, copy) that resonate most with consumers, a necessary feedback loop to ensure generative AI-powered content is driving business results.
+
+Generative AI Capabilities Powered by LLMs in Adobe Experience Platform
+
+Sensei GenAI will enable brands to instantly generate and modify text-based experiences across any customer touchpoint and leverage different large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs of each business, stemming from brand guidelines, product vocabulary and customer insights.
+
+These innovations are anchored in Adobe Experience Platform (AEP), which brings customer data and content together across an organization under one common language model. This rich data set allows brands to train generative AI models on proprietary and comprehensive customer insights, fine tuning the output for brand-specific use cases.
+
+Sensei GenAI services will transform how brands interface with Adobe applications, and how they connect with their customers:
+
+About Adobe
+
+Adobe is changing the world through digital experiences. For more information, visit www.adobe.com.
+
+© 2023 Adobe. All rights reserved. Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.
+View source version on businesswire.com: https://www.businesswire.com/news/home/20230321005511/en/

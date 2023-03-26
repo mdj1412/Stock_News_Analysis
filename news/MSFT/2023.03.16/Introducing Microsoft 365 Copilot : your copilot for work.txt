@@ -1,0 +1,27 @@
+
+
+Harnessing the power of AI, Microsoft 365 Copilot turns your words into the most powerful productivity tool on the planet
+REDMOND, Wash., March 16, 2023 /PRNewswire/ -- On Thursday, Microsoft Corp. announced it is bringing the power of next-generation AI to its workplace productivity tools with Microsoft 365 Copilot. Currently in testing with select commercial customers, Copilot combines the power of large language models (LLMs) with business data and the Microsoft 365 apps, to unleash creativity, unlock productivity and uplevel skills.
+
+
+
+
+
+
+
+Customers will experience Microsoft 365 Copilot in two ways
+Microsoft 365 Copilot isn't just a better way of doing the same things. It's an entirely new way of working. Copilot will work alongside Microsoft 365 customers in two ways:
+First, it is embedded in the Microsoft 365 apps people use every day — Word, Excel, PowerPoint, Outlook, Teams and more.Today, the company also announced an entirely new experience: Business Chat. Business Chat works across the LLM, the Microsoft 365 apps, and a customer's calendar, emails, chats, documents, meetings and contacts to do things that people weren't able to do before. With natural language prompts like "tell my team how we updated the product strategy," Business Chat will generate a status update based on the morning's meetings, emails and chat threads.With Copilot, the customer is always in control. Customers decide what to keep, modify or discard. With these new tools, people can be more creative in Word, more analytical in Excel, more expressive in PowerPoint, more productive in Outlook and more collaborative in Teams.
+"Copilot combines the power of large language models with your data and apps to turn your words into the most powerful productivity tool on the planet," said Jared Spataro, corporate vice president, Modern Work and Business Applications, Microsoft. "By grounding in your business content and context, Copilot delivers results that are relevant and actionable. It's enterprise-ready, built on Microsoft's comprehensive approach to security, compliance, privacy and responsible AI. Copilot marks a new era of computing that will fundamentally transform the way we work."
+A whole new way to work
+Microsoft 365 Copilot is seamlessly integrated in the apps people use every day, helping them stay in the flow of work and freeing them to focus more on the task at hand and less on the busy work.
+Copilot in Word writes, edits, summarizes and creates right alongside people as they work.Copilot in PowerPoint enables the creation process by turning ideas into a designed presentation through natural language commands.Copilot in Excel helps unlock insights, identify trends or create professional-looking data visualizations in a fraction of the time.Copilot in Outlook can help synthesize and manage the inbox to allow more time to be spent on actually communicating.Copilot in Teams makes meetings more productive with real-time summaries and action items directly in the context of the conversation.Copilot in Power Platform will help developers of all skill levels accelerate and streamline development with low-code tools with the introduction of two new capabilities within Power Apps and Power Virtual Agents.Business Chat brings together data from across documents, presentations, email, calendar, notes and contacts to help summarize chats, write emails, find key dates or even write a plan based on other project files.Microsoft has built Microsoft 365 Copilot with its existing commitments to data security and privacy in the enterprise, grounded in AI principles and Responsible AI Standard and decades of research. Copilot's large language models are not trained on customer content or on individual prompts. Microsoft 365 Copilot will deliver enterprise-ready AI at scale.
+Earlier this month Microsoft announced Dynamics 365 Copilot as the world's first AI Copilot in both CRM and ERP to bring the next-generation AI to every line of business. And now, Copilot is coming to all Microsoft productivity apps — Word, Excel, PowerPoint, Outlook, Teams, Microsoft Viva, Power Platform and more. Specifics on pricing and licensing will be shared soon. Microsoft 365 Copilot is already being tested with a small group of customers to get the critical feedback required to improve these models as they scale.
+Microsoft (Nasdaq "MSFT" @microsoft) enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.
+ 
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/introducing-microsoft-365-copilot-your-copilot-for-work-301773785.html
+SOURCE  Microsoft Corp.
+
+

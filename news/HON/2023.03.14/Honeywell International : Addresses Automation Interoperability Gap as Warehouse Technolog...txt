@@ -1,0 +1,71 @@
+
+
+CHARLOTTE, N.C., MARCH 14, 2023 - Honeywell (Nasdaq: HON) announced today its expanded capabilities to help companies achieve automation interoperability in the distribution center (DC). The company will demonstrate many of its automation solutions and robotics at ProMat 2023 in Chicago, March 20-23 (booth #S618).
+    
+
+      Under the immense pressures of an ongoing labor shortage and heightened eCommerce demand over the past few years, companies have rushed to implement automation and robotics in their warehouse operations. The result of that is often disparate systems and machines that don't work together and "communicate" effectively. Honeywell's software and operational solutions improve technology compatibility that enables the seamless exchange of data and information for better-informed decision making, maximum efficiency and improved automation return on investment (ROI). Achieving automation system integration today is a building block for the foundation for scalable, technology-forward dark warehouses of the future.
+    
+
+      "Forward-thinking companies are investing in robotics and automation in the distribution center to accommodate growing order volumes, fill critical skilled labor gaps, take over repetitive and dangerous tasks and help alleviate profitability and inflationary pressures," said Keith Fisher, president of Honeywell Intelligrated. "In order to fully reap the benefits of these investments and power a true smart warehouse model, each piece of the automation puzzle must work seamlessly together with little human intervention required. These automated solutions need a central system that acts as the "brain" to connect disparate systems and warehouse execution and performance management software, and Honeywell is ready to help companies close the interoperability gap."
+
+
+      The global market for warehouse automation technology is anticipated to reach $21.7 billion this year. Interoperability represents the ability to connect and seamlessly integrate these technologies and Honeywell has expanded its capabilities to meet the growing needs for long-term compatibility of these investments:
+    
+
+
+The Honeywell Universal Robotics Controller (HURC) acts as a digital backbone in DCs to tightly integrate robotics with software and unify control. The central system allows robots to learn from each other, enabling faster implementation, meaningful performance improvements and significant scale of automation.
+      
+
+Honeywell's Momentum Warehouse Execution System utilizes machine-learning algorithms and data-driven optimization techniques to orchestrate disparate automation systems and empower DCs with dynamic decision-making intelligence.
+      
+
+Honeywell Forge Connected Warehouse offers an end-to-end view of business operations, helping with data analysis and reporting and enabling businesses to identify trends, optimize inventory levels and measure asset health and reduce waste.
+      
+
+
+      In addition to helping warehouse operators address the automation interoperability gap, Honeywell is also helping them alleviate labor challenges with automation solutions.
+
+
+      A report by McKinsey & Company found that globally, the labor force will face a shortage of 85 million workers by 2030 due to aging populations, changing demographics, and skills gaps. At ProMat, Honeywell will demonstrate several technologies that are being deployed in warehouse and distribution center environments to help operators increase efficiency and productivity with reduced labor. The automation technologies on display include:
+    
+
+
+Smart Flexible Depalletizer: Capable of processing single- and mixed-SKU pallets in any pattern or sequence - without human supervision - the solution allows customers to consistently remove up to 600 packages an hour from a pallet and place on conveyor belt or other equipment for further handling - representing a 30% increase in efficiency from a manual operation.
+      
+
+Automated Storage and Retrieval System(AS/RS): Leverages artificial intelligence and machine learning to help warehouses receive, process and fill orders faster and more accurately (up to 99.9% accuracy) while reducing storage footprint. The solution helps efficiently manage more than 20,000 SKUs using high-speed shuttles, reducing labor and increasing space.
+      
+
+
+      Honeywell offers one of the broadest portfolios of advanced automation technologies, productivity and software in the industry, including the latest warehouse robotics to hybrid solutions that combine the strength of multiple technologies. To see many of Honeywell's solutions in action, visit booth #S618 at ProMat and learn more at sps.honeywell.com/us/en/events/productivity/us-en/2023/promat-2023.
+
+
+About Honeywell Safety and Productivity Solutions
+
+
+      Honeywell Safety and Productivity Solutions (SPS) provides products, software and connected solutions that improve productivity, workplace safety and asset performance for our customers across the globe. We deliver on this promise through industry-leading mobile devices, software, cloud technology and automation solutions, the broadest range of personal protective equipment and gas detection technology, and custom-engineered sensors, switches and controls. For more information, please visit: sps.honeywell.com.
+    
+
+About Honeywell
+
+
+      Honeywell (www.honeywell.com) delivers industry-specific solutions that include aerospace products and services; control technologies for buildings and industry; and performance materials globally. Our technologies help aircraft, buildings, manufacturing plants, supply chains, and workers become more connected to make our world smarter, safer, and more sustainable. For more news and information on Honeywell, please visit www.honeywell.com/newsroom.
+    
+Attachments
+
+
+            Original Link
+          
+
+            Original Document
+          
+
+            Permalink
+          
+
+
+
+Disclaimer
+Honeywell International Inc. published this content on 14 March 2023 and is solely responsible for the information contained therein. Distributed by Public, unedited and unaltered, on 14 March 2023 13:25:21 UTC.
+      
+

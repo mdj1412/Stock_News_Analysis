@@ -1,0 +1,39 @@
+
+
+DALLAS, March 15, 2023 /PRNewswire/ -- To build on innovations that advance intelligence at the edge, Texas Instruments (TI) (Nasdaq: TXN) today introduced a new family of six Arm® Cortex®-based vision processors that allow designers to add more vision and artificial intelligence (AI) processing at a lower cost, and with better energy efficiency, in applications such as video doorbells, machine vision and autonomous mobile robots.
+
+
+
+
+
+
+
+This new family, which includes the AM62A, AM68A and AM69A processors, is supported by open-source evaluation and model development tools, and common software that is programmable through industry-standard application programming interfaces (APIs), frameworks and models. This platform of vision processors, software and tools helps designers easily develop and scale edge AI designs across multiple systems while accelerating time to market. For more information, see www.ti.com/edgeai-pr.
+"In order to achieve real-time responsiveness in the electronics that keep our world moving, decision-making needs to happen locally and with better power efficiency," said Sameer Wasson, vice president, Processors, Texas Instruments. "This new processor family of affordable, highly integrated SoCs will enable the future of embedded AI by allowing for more cameras and vision processing in edge applications."
+Scalable AI camera performance at the edge with vision processors
+TI's new vision processors bring intelligence from the cloud to the real world by eliminating cost and design complexity barriers when implementing vision processing and deep learning capabilities in low-power edge AI applications.
+These processors feature a system-on-a-chip (SoC) architecture that includes extensive integration. Integrated components include Arm Cortex-A53 or Cortex-A72 central processing units, a third-generation TI image signal processor, internal memory, interfaces, and hardware accelerators that deliver from 1 to 32 teraoperations per second (TOPS) of AI processing for deep learning algorithms.
+Vision processors in this family include the:
+AM62A3, AM62A3-Q1, AM62A7 and AM62A7-Q1, which support one to two cameras at less than 2 W in applications such as video doorbells and smart retail systems. This family includes the AM62A3, the industry's lowest-cost 1-TOPS vision processor (US$12 in 1,000-unit quantities).AM68A, which enables one to eight cameras in applications like machine vision, with up to 8 TOPS of AI processing for advanced video analytics.AM69A, which achieves 32 TOPS of AI processing for one to 12 cameras in high-performance applications such as edge AI boxes, autonomous mobile robots and traffic monitoring systems.Streamlined AI evaluation and development with open-source, free tool
+Beginning in Q2 2023, designers can accelerate time to market for their edge AI applications with a public beta of TI's free open-source tool, Edge AI Studio. This feature-rich, web-based tool allows users to develop and test AI models quickly and easily using user-created models and TI's optimized models, which can also be retrained with custom data. Learn more about edge AI studio at dev.ti.com/edgeaistudio.
+These new processors, software and tools for edge AI applications build on TI's commitment to making the future of embedded possible with scalable processing portfolios.
+See AM6xA processors in action at embedded world 2023
+At embedded world in Nuremberg, Germany, March 14-16, visitors to TI's booth can see how AM6xA processors allow designers to implement scalable and affordable AI and vision processing in smart retail, industrial robotics and advanced driver assistance system applications. TI will demonstrate this processor family in Hall 3A, Booth 215. See ti.com/embeddedworld for more information.
+Package, availability and pricing
+AM68A processors are available now through TI and authorized distributors in production quantities. Pre-production samples of the AM62A and the AM69A are available through TI. Pricing for AM6xA processors starts at US$12 for 1,000-unit quantities. Starter kits are available on TI.com for the AM62A (US$249), AM68A (US$249) and AM69A (US$299).
+About Texas Instruments
+Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world by making electronics more affordable through semiconductors is alive today, as each generation of innovation builds upon the last to make our technology smaller, more efficient, more reliable and more affordable – making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. It's what we do and have been doing for decades. Learn more at TI.com.
+Trademarks
+All registered trademarks and other trademarks belong to their respective owners.
+ 
+
+
+
+
+
+
+
+ View original content to download multimedia:https://www.prnewswire.com/news-releases/ti-unlocks-scalable-edge-ai-performance-in-smart-camera-applications-with-new-vision-processor-family-301771611.html
+SOURCE  Texas Instruments
+
+

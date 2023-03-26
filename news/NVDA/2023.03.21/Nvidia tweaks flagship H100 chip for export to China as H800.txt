@@ -1,0 +1,35 @@
+(Adds quote of Nvidia CEO)SAN FRANCISCO, March 21 (Reuters) - Nvidia Corp
+, the U.S. semiconductor designer that dominates the
+market for artificial intelligence (AI) chips, said it has
+modified its flagship product into a version that is legal to
+export to China.U.S. regulators last year put into place rules that stopped
+Nvidia from selling its two most advanced chips, the A100 and
+newer H100, to Chinese customers citing national security
+concerns. Such chips are crucial to developing generative AI
+technologies like OpenAI's ChatGPT and similar products.Reuters in November reported that Nvidia had designed a chip
+called the A800 that reduced some capabilities of the A100 to
+make the A800 legal for export to China.On Tuesday, the company said it has similarly developed a
+China-export version of its H100 chip. The new chip, called the
+H800, is being used by the cloud computing units of Chinese
+technology firms such as Alibaba Group Holding Ltd,
+Baidu Inc and Tencent Holdings Ltd, a
+company spokesperson said."For the young startups, many of them who are building large
+language models now, and many of them jumping onto the
+generative AI revolution, they can look forward to Alibaba,
+Tencent and Baidu to have excellent cloud capabilities with
+Nvidia's AI," Nvidia Chief Executive Jensen Huang told reporters
+on Wednesday morning Asia time.U.S. regulators last fall imposed rules to slow China's
+development in key technology sectors such as semiconductors and
+artificial intelligence, aiming to hobble the country's efforts
+to modernize its military.The rules around AI chips imposed a test that bans those
+with both powerful computing capabilities and high chip-to-chip
+data transfer rates. Transfer speed is important when training
+artificial intelligence models on huge amounts of data because
+slower transfer rates mean more training time.A chip industry source in China told Reuters the H800 mainly
+reduced the chip-to-chip data transfer rate to about half the
+rate of the flagship H100.The Nvidia spokesperson declined to say how the
+China-focused H800 differs from the H100, except that "our 800
+series products are fully compliant with export control
+regulations."
+(Reporting by Stephen Nellis and Jane Lanhee Lee; Editing by
+Richard Chang and Christopher Cushing)

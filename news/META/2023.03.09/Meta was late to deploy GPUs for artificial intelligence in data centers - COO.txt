@@ -1,0 +1,10 @@
+March 9 (Reuters) - Meta executives on Thursday
+acknowledged that the company was catching up from behind on
+infrastructure capacity for artificial intelligence, saying they
+had been "little bit late" to the trend of deploying graphics
+processing units, or GPUs."We were a little bit late to the trends, so we're playing a
+little bit of catch-up" after years of optimizing for CPUs, said
+Chief Operating Officer Javier Olivan, speaking at a Morgan
+Stanley conference.
+(Reporting by Eva Mathews in Bengaluru and Katie Paul in New
+York; Editing by Maju Samuel)
