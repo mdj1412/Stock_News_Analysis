@@ -114,7 +114,6 @@ def chart():
 
     return jsonify(chart_data=chart_data, news_articles=news_articles)
 
-    
 
 
 
